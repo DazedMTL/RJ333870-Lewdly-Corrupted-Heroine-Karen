@@ -114,8 +114,8 @@
             }
         ],
         "gold": 5,
-        "name": "チビゴブリン",
-        "note": "<desc1:特殊能力なし>\n<rank:1>\n<type:gob>\n<characterName:$o0096012812525865918>\n<characterIndex:0>\n<eroRate:30>\n<seieki:5>\n<chinpo:goblin_0>\n<ninshin:S>\n<seiekiLifetime:5>\n<nakaType:monster>\n<goblin>",
+        "name": "Chibi Goblin",
+        "note": "<desc1:\"No special abilities\">\n<rank:1>\n<type:gob>\n<characterName:$o0096012812525865918>\n<characterIndex:0>\n<eroRate:30>\n<seieki:5>\n<chinpo:goblin_0>\n<ninshin:S>\n<seiekiLifetime:5>\n<nakaType:monster>\n<goblin>",
         "params": [
             9,
             3,
@@ -253,8 +253,8 @@
             }
         ],
         "gold": 5,
-        "name": "うすのろゴブリン",
-        "note": "<desc1:鈍足>\n<鈍足>\n<rank:1>\n<type:gob>\n<characterName:ETNR_EX076>\n<characterIndex:1>\n<seieki:10>\n<chinpo:goblin_2>\n<ninshin:A>\n<seiekiLifetime:4>\n<nakaType:monster>\n<taneoya:ゴブリン>\n<goblin>",
+        "name": "Thin Goblin",
+        "note": "<desc1:\"Slowpoke\">\n<\"Slowpoke\">\n<rank:1>\n<type:gob>\n<characterName:ETNR_EX076>\n<characterIndex:1>\n<seieki:10>\n<chinpo:goblin_2>\n<ninshin:A>\n<seiekiLifetime:4>\n<nakaType:monster>\n<taneoya:ゴブリン>\n<goblin>",
         "params": [
             16,
             3,
@@ -399,8 +399,8 @@
             }
         ],
         "gold": 5,
-        "name": "ゴブリン",
-        "note": "<desc1:特殊能力なし>\n<rank:1>\n<type:gob>\n<characterName:ETNR_EX076>\n<characterIndex:3>\n<seieki:12>\n<eroRate:20>\n<chinpo:goblin_1>\n<ninshin:A>\n<seiekiLifetime:5>\n<nakaType:monster>\n<taneoya:ゴブリン>\n<goblin>",
+        "name": "Goblin",
+        "note": "<desc1:\"No special abilities\">\n<rank:1>\n<type:gob>\n<characterName:ETNR_EX076>\n<characterIndex:3>\n<seieki:12>\n<eroRate:20>\n<chinpo:goblin_1>\n<ninshin:A>\n<seiekiLifetime:5>\n<nakaType:monster>\n<taneoya:ゴブリン>\n<goblin>",
         "params": [
             17,
             1,
@@ -545,8 +545,8 @@
             }
         ],
         "gold": 5,
-        "name": "エリートゴブリン",
-        "note": "<desc1:特殊能力なし>\n<rank:1>\n<type:gob>\n<characterName:ETNR_EX076>\n<characterIndex:2>\n<seieki:10>\n<eroRate:15>\n<elite>\n<chinpo:goblin_1>\n<ninshin:C>\n<seiekiLifetime:5>\n<nakaType:monster>\n<taneoya:ゴブリン>\n<goblin>",
+        "name": "Elite Goblin",
+        "note": "<desc1:\"No special abilities\">\n<rank:1>\n<type:gob>\n<characterName:ETNR_EX076>\n<characterIndex:2>\n<seieki:10>\n<eroRate:15>\n<elite>\n<chinpo:goblin_1>\n<ninshin:C>\n<seiekiLifetime:5>\n<nakaType:monster>\n<taneoya:ゴブリン>\n<goblin>",
         "params": [
             35,
             1,
@@ -672,8 +672,8 @@
             }
         ],
         "gold": 5,
-        "name": "レッドキャップ",
-        "note": "<desc1:特殊能力なし>\n<rank:1>\n<type:gob>\n<characterName:$o0096012812525865920>\n<characterIndex:0>\n<eroRate:10>\n<seieki:10>\n<chinpo:goblin_0>\n<ninshin:S>\n<seiekiLifetime:5>\n<goblin>\n<nakaType:monster>",
+        "name": "Red Cap",
+        "note": "<desc1:\"No special abilities\">\n<rank:1>\n<type:gob>\n<characterName:$o0096012812525865920>\n<characterIndex:0>\n<eroRate:10>\n<seieki:10>\n<chinpo:goblin_0>\n<ninshin:S>\n<seiekiLifetime:5>\n<goblin>\n<nakaType:monster>",
         "params": [
             10,
             3,
@@ -741,8 +741,8 @@
             }
         ],
         "gold": 8,
-        "name": "コウモリ",
-        "note": "<２倍速>\n<攻撃は１回>\n<desc1:２倍速で行動する>\n<desc2:（攻撃は１回）>\n\n<rank:1>\n<type:bat>\n<characterName:Monster2>\n<characterIndex:0>\n<nakaType:monster>",
+        "name": "Bat",
+        "note": "<２倍速>\n<\"Attack once.\">\n<desc1:２\"Acting at double speed\">\n<desc2:（\"Attack once.\"）>\n\n<rank:1>\n<type:bat>\n<characterName:Monster2>\n<characterIndex:0>\n<nakaType:monster>",
         "params": [
             8,
             1,
@@ -989,7 +989,7 @@
             }
         ],
         "gold": 0,
-        "name": "何者か",
+        "name": "Someone",
         "note": "",
         "params": [
             100,
@@ -1114,8 +1114,8 @@
             }
         ],
         "gold": 5,
-        "name": "アローゴブリン",
-        "note": "<desc1:３マス以上離れると>\n<desc2:弓による攻撃を行う>\n<rank:1>\n<type:gob>\n<characterName:$o0096012812525865921>\n<characterIndex:0>\n<seieki:12>\n<chinpo:goblin_0>\n<ninshin:B>\n<eroRate:20>\n<nakaType:monster>\n<goblin>",
+        "name": "Arrow Goblin",
+        "note": "<desc1:３\"If we get too far apart\">\n<desc2:\"Performing an attack with a bow.\">\n<rank:1>\n<type:gob>\n<characterName:$o0096012812525865921>\n<characterIndex:0>\n<seieki:12>\n<chinpo:goblin_0>\n<ninshin:B>\n<eroRate:20>\n<nakaType:monster>\n<goblin>",
         "params": [
             11,
             3,
@@ -1241,8 +1241,8 @@
             }
         ],
         "gold": 5,
-        "name": "ゴブリンたち(エロ経験用)",
-        "note": "<desc1:特殊能力なし>\n<rank:1>\n<type:gob>\n<characterName:$o0096012812525865918>\n<characterIndex:0>\n<eroRate:30>\n<seieki:11>\n<chinpo:goblin_0>\n<ninshin:S>\n<seiekiLifetime:5>\n<keiken>\n<nakaType:monster>\n<taneoya:ゴブリン>\n<goblin>",
+        "name": "Goblins (for erotic experience)",
+        "note": "<desc1:\"No special abilities\">\n<rank:1>\n<type:gob>\n<characterName:$o0096012812525865918>\n<characterIndex:0>\n<eroRate:30>\n<seieki:11>\n<chinpo:goblin_0>\n<ninshin:S>\n<seiekiLifetime:5>\n<keiken>\n<nakaType:monster>\n<taneoya:ゴブリン>\n<goblin>",
         "params": [
             8,
             3,
@@ -1368,8 +1368,8 @@
             }
         ],
         "gold": 5,
-        "name": "山賊たち(エロ経験用)",
-        "note": "<desc1:特殊能力なし>\n<rank:1>\n<type:ban>\n<characterName:mob06>\n<characterIndex:3>\n<eroRate:30>\n<seieki:4>\n<chinpo:human_0>\n<ninshin:A>\n<seiekiLifetime:5>\n<keiken>\n<nakaType:enemy>\n<taneoya:山賊>\n<sanzoku>",
+        "name": "Bandits (For Erotic Experience)",
+        "note": "<desc1:\"No special abilities\">\n<rank:1>\n<type:ban>\n<characterName:mob06>\n<characterIndex:3>\n<eroRate:30>\n<seieki:4>\n<chinpo:human_0>\n<ninshin:A>\n<seiekiLifetime:5>\n<keiken>\n<nakaType:enemy>\n<taneoya:山賊>\n<sanzoku>",
         "params": [
             8,
             3,
@@ -1495,8 +1495,8 @@
             }
         ],
         "gold": 5,
-        "name": "奴隷商人(エロ経験用)",
-        "note": "<desc1:特殊能力なし>\n<rank:1>\n<type:gob>\n<characterName:$o0096012812525865918>\n<characterIndex:0>\n<eroRate:30>\n<seieki:3>\n<chinpo:goblin_0>\n<ninshin:S>\n<seiekiLifetime:5>\n<keiken>\n<nakaType:people>\n<taneoya:奴隷商人>",
+        "name": "Slave Trader (For Erotic Experiences)",
+        "note": "<desc1:\"No special abilities\">\n<rank:1>\n<type:gob>\n<characterName:$o0096012812525865918>\n<characterIndex:0>\n<eroRate:30>\n<seieki:3>\n<chinpo:goblin_0>\n<ninshin:S>\n<seiekiLifetime:5>\n<keiken>\n<nakaType:people>\n<taneoya:奴隷商人>",
         "params": [
             8,
             3,
@@ -1622,8 +1622,8 @@
             }
         ],
         "gold": 5,
-        "name": "村人たち(エロ経験用)",
-        "note": "<desc1:特殊能力なし>\n<rank:1>\n<type:ban>\n<characterName:mob02>\n<characterIndex:2>\n<eroRate:30>\n<seieki:4>\n<chinpo:human_0>\n<ninshin:A>\n<seiekiLifetime:5>\n<keiken>\n<nakaType:people>\n<taneoya:村人>",
+        "name": "Villagers (for erotic experience)",
+        "note": "<desc1:\"No special abilities\">\n<rank:1>\n<type:ban>\n<characterName:mob02>\n<characterIndex:2>\n<eroRate:30>\n<seieki:4>\n<chinpo:human_0>\n<ninshin:A>\n<seiekiLifetime:5>\n<keiken>\n<nakaType:people>\n<taneoya:村人>",
         "params": [
             8,
             3,
@@ -1691,8 +1691,8 @@
             }
         ],
         "gold": 8,
-        "name": "土ヘビ",
-        "note": "<desc1:特殊能力なし>\n<rank:1>\n<type:snake>\n<characterName:snake>\n<characterIndex:1>",
+        "name": "Earth Snake",
+        "note": "<desc1:\"No special abilities\">\n<rank:1>\n<type:snake>\n<characterName:snake>\n<characterIndex:1>",
         "params": [
             9,
             1,
@@ -2070,8 +2070,8 @@
             }
         ],
         "gold": 8,
-        "name": "スケルトン",
-        "note": "<desc1:２マス先に攻撃ができる>\n\n<type:skelton>\n<rank:1>\n<characterName:$SkeltonChild>\n<characterIndex:0>",
+        "name": "Skeleton",
+        "note": "<desc1:２\"Able to attack from a distance.\">\n\n<type:skelton>\n<rank:1>\n<characterName:$SkeltonChild>\n<characterIndex:0>",
         "params": [
             36,
             2,
@@ -2216,8 +2216,8 @@
             }
         ],
         "gold": 8,
-        "name": "グール",
-        "note": "<desc1:特殊能力なし>\n\n<type:skelton>\n<rank:1>\n<characterName:undead>\n<characterIndex:4>",
+        "name": "Ghoul",
+        "note": "<desc1:\"No special abilities\">\n\n<type:skelton>\n<rank:1>\n<characterName:undead>\n<characterIndex:4>",
         "params": [
             42,
             1,
@@ -2355,8 +2355,8 @@
             }
         ],
         "gold": 14,
-        "name": "デビル",
-        "note": "\n<desc1:防御無視の攻撃をする>\n\n<rank:2>\n<type:bat>\n<characterName:Monster2>\n<characterIndex:4>\n<nakaType:monster>",
+        "name": "Devil",
+        "note": "\n<desc1:\"Performing an attack that ignores defense.\">\n\n<rank:2>\n<type:bat>\n<characterName:Monster2>\n<characterIndex:4>\n<nakaType:monster>",
         "params": [
             59,
             1,
@@ -2424,8 +2424,8 @@
             }
         ],
         "gold": 8,
-        "name": "スケルトンウォリア",
-        "note": "<desc1:２マス先に攻撃ができる>\n\n<type:skelton>\n<rank:1>\n<characterName:undead>\n<characterIndex:0>",
+        "name": "Skeleton Warrior",
+        "note": "<desc1:２\"Able to attack from a distance.\">\n\n<type:skelton>\n<rank:1>\n<characterName:undead>\n<characterIndex:0>",
         "params": [
             39,
             1,
@@ -2603,8 +2603,8 @@
             }
         ],
         "gold": 5,
-        "name": "エリミネイター",
-        "note": "<desc1:鈍足>\n<desc1:状態異常無効>\n<鈍足>\n<rank:1>\n<type:gob>\n<characterName:mv_mob-muscle01>\n<characterIndex:0>\n<seieki:10>\n<chinpo:goblin_2>\n<ninshin:A>\n<seiekiLifetime:4>\n<nakaType:monster>\n<taneoya:ゴブリン>\n<goblin>",
+        "name": "Eliminator",
+        "note": "<desc1:\"Slowpoke\">\n<desc1:状態異常無効>\n<\"Slowpoke\">\n<rank:1>\n<type:gob>\n<characterName:mv_mob-muscle01>\n<characterIndex:0>\n<seieki:10>\n<chinpo:goblin_2>\n<ninshin:A>\n<seiekiLifetime:4>\n<nakaType:monster>\n<taneoya:ゴブリン>\n<goblin>",
         "params": [
             142,
             3,
@@ -2672,8 +2672,8 @@
             }
         ],
         "gold": 8,
-        "name": "マタンゴ",
-        "note": "<desc1:MPが貯まると３ターン睡眠する粉を吐く>\n\n<type:kinoko>\n<rank:2>\n<characterName:HHpl5Dh>\n<characterIndex:5>",
+        "name": "Matango",
+        "note": "<desc1:MP\"When accumulated, it spits out powder that causes a 3-turn\nsleep.\">\n\n<type:kinoko>\n<rank:2>\n<characterName:HHpl5Dh>\n<characterIndex:5>",
         "params": [
             32,
             1,
@@ -2927,8 +2927,8 @@
             }
         ],
         "gold": 8,
-        "name": "眠りダケ",
-        "note": "<desc1:MPが貯まると３ターン睡眠する粉を吐く>\n\n<type:kinoko>\n<rank:1>\n<characterName:$kinoko>\n<characterIndex:0>",
+        "name": "Sleep Only",
+        "note": "<desc1:MP\"When accumulated, it spits out powder that causes a 3-turn\nsleep.\">\n\n<type:kinoko>\n<rank:1>\n<characterName:$kinoko>\n<characterIndex:0>",
         "params": [
             15,
             1,
@@ -2989,8 +2989,8 @@
             }
         ],
         "gold": 8,
-        "name": "ドラゴニュート",
-        "note": "<desc1:人間の形をしたドラゴン>\n\n<type:skelton>\n<rank:1>\n<characterName:$o0126016811619818310>\n<characterIndex:0>",
+        "name": "Dragonewt",
+        "note": "<desc1:\"Dragon in the form of a human\">\n\n<type:skelton>\n<rank:1>\n<characterName:$o0126016811619818310>\n<characterIndex:0>",
         "params": [
             63,
             1,
@@ -3058,8 +3058,8 @@
             }
         ],
         "gold": 8,
-        "name": "火吹きヘビ",
-        "note": "<desc1:炎を吐くことができるヘビ>\n\n<type:skelton>\n<rank:1>\n<characterName:Snake>\n<characterIndex:2>",
+        "name": "Fire-breathing Snake",
+        "note": "<desc1:\"A snake that can breathe fire.\">\n\n<type:skelton>\n<rank:1>\n<characterName:Snake>\n<characterIndex:2>",
         "params": [
             54,
             1,
@@ -3127,8 +3127,8 @@
             }
         ],
         "gold": 8,
-        "name": "ゲイザー",
-        "note": "<desc1:混乱電波を出す悪魔>\n\n<type:skelton>\n<rank:1>\n<characterName:Monster_MZE_TV>\n<characterIndex:4>",
+        "name": "Gazer",
+        "note": "<desc1:\"A demon that emits chaotic electromagnetic waves\">\n\n<type:skelton>\n<rank:1>\n<characterName:Monster_MZE_TV>\n<characterIndex:4>",
         "params": [
             60,
             3,
@@ -3561,8 +3561,8 @@
             }
         ],
         "gold": 8,
-        "name": "スライム",
-        "note": "<desc1:特殊能力なし>\n<rank:1>\n<type:slime>\n<characterName:Monster2>\n<characterIndex:1>",
+        "name": "Slime",
+        "note": "<desc1:\"No special abilities\">\n<rank:1>\n<type:slime>\n<characterName:Monster2>\n<characterIndex:1>",
         "params": [
             12,
             1,
@@ -3769,8 +3769,8 @@
             }
         ],
         "gold": 5,
-        "name": "オーガ",
-        "note": "<desc1:特殊能力なし>\n<rank:1>\n<type:ogre>\n<characterName:mv_mon>\n<characterIndex:0>\n<seieki:25>\n<eroRate:35>\n<chinpo:goblin_1>\n<ninshin:A>\n<seiekiLifetime:5>\n<nakaType:monster>\n<taneoya:オーガ>",
+        "name": "Ogre",
+        "note": "<desc1:\"No special abilities\">\n<rank:1>\n<type:ogre>\n<characterName:mv_mon>\n<characterIndex:0>\n<seieki:25>\n<eroRate:35>\n<chinpo:goblin_1>\n<ninshin:A>\n<seiekiLifetime:5>\n<nakaType:monster>\n<taneoya:オーガ>",
         "params": [
             140,
             3,
@@ -4268,8 +4268,8 @@
             }
         ],
         "gold": 5,
-        "name": "エロ山賊",
-        "note": "<desc1:エロ攻撃をする>\n<rank:1>\n<type:ban>\n<characterName:mob01>\n<characterIndex:3>\n<eroRate:80>\n<seieki:16>\n<chinpo:human_0>\n<ninshin:B>\n<seiekiLifetime:4>\n<nakaType:enemy>\n<sanzoku>",
+        "name": "Erotic Bandit",
+        "note": "<desc1:\"Performing an erotic attack.\">\n<rank:1>\n<type:ban>\n<characterName:mob01>\n<characterIndex:3>\n<eroRate:80>\n<seieki:16>\n<chinpo:human_0>\n<ninshin:B>\n<seiekiLifetime:4>\n<nakaType:enemy>\n<sanzoku>",
         "params": [
             25,
             3,
@@ -4395,8 +4395,8 @@
             }
         ],
         "gold": 5,
-        "name": "したっぱ山賊",
-        "note": "<desc1:特殊能力なし>\n<rank:1>\n<type:ban>\n<characterName:mob06>\n<characterIndex:3>\n<eroRate:25>\n<seieki:16>\n<chinpo:human_0>\n<ninshin:B>\n<seiekiLifetime:4>\n<nakaType:enemy>\n<sanzoku>",
+        "name": "Subordinate Bandit",
+        "note": "<desc1:\"No special abilities\">\n<rank:1>\n<type:ban>\n<characterName:mob06>\n<characterIndex:3>\n<eroRate:25>\n<seieki:16>\n<chinpo:human_0>\n<ninshin:B>\n<seiekiLifetime:4>\n<nakaType:enemy>\n<sanzoku>",
         "params": [
             27,
             3,
@@ -4522,8 +4522,8 @@
             }
         ],
         "gold": 5,
-        "name": "見習い山賊",
-        "note": "<desc1:特殊能力なし>\n<rank:1>\n<type:ban>\n<characterName:mob04>\n<characterIndex:0>\n<eroRate:20>\n<seieki:18>\n<chinpo:human_0>\n<ninshin:B>\n<seiekiLifetime:4>\n<nakaType:enemy>\n<sanzoku>",
+        "name": "Apprentice Bandit",
+        "note": "<desc1:\"No special abilities\">\n<rank:1>\n<type:ban>\n<characterName:mob04>\n<characterIndex:0>\n<eroRate:20>\n<seieki:18>\n<chinpo:human_0>\n<ninshin:B>\n<seiekiLifetime:4>\n<nakaType:enemy>\n<sanzoku>",
         "params": [
             33,
             3,
@@ -4649,8 +4649,8 @@
             }
         ],
         "gold": 5,
-        "name": "山賊",
-        "note": "<desc1:特殊能力なし>\n<rank:1>\n<type:ban>\n<characterName:mob05>\n<characterIndex:1>\n<eroRate:10>\n<seieki:19>\n<chinpo:human_0>\n<ninshin:B>\n<seiekiLifetime:4>\n<nakaType:enemy>\n<sanzoku>",
+        "name": "Bandit",
+        "note": "<desc1:\"No special abilities\">\n<rank:1>\n<type:ban>\n<characterName:mob05>\n<characterIndex:1>\n<eroRate:10>\n<seieki:19>\n<chinpo:human_0>\n<ninshin:B>\n<seiekiLifetime:4>\n<nakaType:enemy>\n<sanzoku>",
         "params": [
             38,
             3,
@@ -4776,8 +4776,8 @@
             }
         ],
         "gold": 5,
-        "name": "ベテラン山賊",
-        "note": "<desc1:特殊能力なし>\n<rank:1>\n<type:ban>\n<characterName:mob05>\n<characterIndex:2>\n<eroRate:15>\n<seieki:19>\n<chinpo:human_0>\n<ninshin:B>\n<seiekiLifetime:4>\n<nakaType:enemy>\n<sanzoku>",
+        "name": "Veteran Bandit",
+        "note": "<desc1:\"No special abilities\">\n<rank:1>\n<type:ban>\n<characterName:mob05>\n<characterIndex:2>\n<eroRate:15>\n<seieki:19>\n<chinpo:human_0>\n<ninshin:B>\n<seiekiLifetime:4>\n<nakaType:enemy>\n<sanzoku>",
         "params": [
             42,
             3,
@@ -4901,8 +4901,8 @@
             }
         ],
         "gold": 5,
-        "name": "アーチャー",
-        "note": "<desc1:３マス以上離れると>\n<desc2:弓による攻撃を行うことがある>\n<rank:1>\n<eroRate:10>\n<type:gob>\n<characterName:mob02>\n<characterIndex:3>\n<seieki:12>\n<chinpo:human_0>\n<ninshin:B>\n<nakaType:enemy>\n<sanzoku>",
+        "name": "Archer",
+        "note": "<desc1:３\"If we get too far apart\">\n<desc2:\"There are times when they perform attacks with a bow.\">\n<rank:1>\n<eroRate:10>\n<type:gob>\n<characterName:mob02>\n<characterIndex:3>\n<seieki:12>\n<chinpo:human_0>\n<ninshin:B>\n<nakaType:enemy>\n<sanzoku>",
         "params": [
             26,
             3,
@@ -4998,8 +4998,8 @@
             }
         ],
         "gold": 8,
-        "name": "番犬",
-        "note": "<２倍速>\n<攻撃は１回>\n<desc1:２倍速で行動する>\n<desc2:（攻撃は１回）>\n<chinpo:beast_0>\n<eroRate:10>\n<rank:1>\n<type:bat>\n<characterName:Nature>\n<characterIndex:0>\n<ninshin:E>",
+        "name": "Guard dog",
+        "note": "<２倍速>\n<\"Attack once.\">\n<desc1:２\"Acting at double speed\">\n<desc2:（\"Attack once.\"）>\n<chinpo:beast_0>\n<eroRate:10>\n<rank:1>\n<type:bat>\n<characterName:Nature>\n<characterIndex:0>\n<ninshin:E>",
         "params": [
             24,
             1,
@@ -5125,8 +5125,8 @@
             }
         ],
         "gold": 5,
-        "name": "エリート山賊",
-        "note": "<desc1:エリートな山賊>\n<rank:1>\n<type:ban>\n<characterName:mv_mob-muscle01>\n<characterIndex:0>\n<eroRate:10>\n<seieki:16>\n<chinpo:human_0>\n<ninshin:B>\n<seiekiLifetime:4>\n<nakaType:enemy>\n<elite>\n<sanzoku>",
+        "name": "Elite Bandit",
+        "note": "<desc1:\"Elite Bandit\">\n<rank:1>\n<type:ban>\n<characterName:mv_mob-muscle01>\n<characterIndex:0>\n<eroRate:10>\n<seieki:16>\n<chinpo:human_0>\n<ninshin:B>\n<seiekiLifetime:4>\n<nakaType:enemy>\n<elite>\n<sanzoku>",
         "params": [
             64,
             3,
@@ -5436,7 +5436,7 @@
             }
         ],
         "gold": 8,
-        "name": "ブタ風の魔物",
+        "name": "Pig-like monster",
         "note": "\n<seieki:82>\n\n<rank:1>\n<type:bat>\n<characterName:extra pigs>\n<characterIndex:3>\n\n<seieki:25>\n<eroRate:80>\n\n<ninshin:A>\n<seiekiLifetime:5>\n<nakaType:monster>\n<taneoya:豚風の魔物>\n",
         "params": [
             80,
@@ -5781,8 +5781,8 @@
             }
         ],
         "gold": 8,
-        "name": "魔犬",
-        "note": "<２倍速>\n<攻撃は１回>\n<desc1:２倍速で行動する>\n<desc2:（攻撃は１回）>\n<chinpo:beast_0>\n<eroRate:10>\n<rank:1>\n<type:bat>\n<characterName:Nature>\n<characterIndex:0>\n<ninshin:E>",
+        "name": "Demon Dog",
+        "note": "<２倍速>\n<\"Attack once.\">\n<desc1:２\"Acting at double speed\">\n<desc2:（\"Attack once.\"）>\n<chinpo:beast_0>\n<eroRate:10>\n<rank:1>\n<type:bat>\n<characterName:Nature>\n<characterIndex:0>\n<ninshin:E>",
         "params": [
             60,
             1,
@@ -5855,8 +5855,8 @@
             }
         ],
         "gold": 8,
-        "name": "スケルトンチャンピオン",
-        "note": "<desc1:２マス先に攻撃ができる>\n<desc2:炎属性は２倍ダメージ>\n<type:skelton>\n<rank:1>\n<characterName:undead>\n<characterIndex:0>",
+        "name": "Skeleton Champion",
+        "note": "<desc1:２\"Able to attack from a distance.\">\n<desc2:\"Fire attribute deals double damage.\">\n<type:skelton>\n<rank:1>\n<characterName:undead>\n<characterIndex:0>",
         "params": [
             98,
             1,
@@ -5973,8 +5973,8 @@
             }
         ],
         "gold": 5,
-        "name": "レッドキャップ",
-        "note": "<desc1:炎属性は２倍ダメージ>\n<rank:1>\n<type:gob>\n<characterName:$o0096012812525865920>\n<characterIndex:0>\n<eroRate:10>\n<seieki:10>\n<chinpo:goblin_0>\n<ninshin:S>\n<seiekiLifetime:5>\n<goblin>\n<nakaType:monster>",
+        "name": "Red Cap",
+        "note": "<desc1:\"Fire attribute deals double damage.\">\n<rank:1>\n<type:gob>\n<characterName:$o0096012812525865920>\n<characterIndex:0>\n<eroRate:10>\n<seieki:10>\n<chinpo:goblin_0>\n<ninshin:S>\n<seiekiLifetime:5>\n<goblin>\n<nakaType:monster>",
         "params": [
             58,
             3,
@@ -6124,8 +6124,8 @@
             }
         ],
         "gold": 8,
-        "name": "グール",
-        "note": "<desc1:炎属性は２倍ダメージ>\n\n<type:skelton>\n<rank:1>\n<characterName:undead>\n<characterIndex:4>",
+        "name": "Ghoul",
+        "note": "<desc1:\"Fire attribute deals double damage.\">\n\n<type:skelton>\n<rank:1>\n<characterName:undead>\n<characterIndex:4>",
         "params": [
             42,
             1,
@@ -6193,8 +6193,8 @@
             }
         ],
         "gold": 8,
-        "name": "火炎ヘビ",
-        "note": "<desc1:炎を吐くことができるヘビ>\n\n<type:skelton>\n<rank:1>\n<characterName:Snake>\n<characterIndex:3>",
+        "name": "Flame Snake",
+        "note": "<desc1:\"A snake that can breathe fire.\">\n\n<type:skelton>\n<rank:1>\n<characterName:Snake>\n<characterIndex:3>",
         "params": [
             74,
             1,
@@ -6262,8 +6262,8 @@
             }
         ],
         "gold": 8,
-        "name": "マタンゴ",
-        "note": "<desc1:周囲にダメージを>\n<desc2:ばらまくキノコ>\n\n<type:skelton>\n<rank:1>\n<characterName:HHpl5Dh>\n<characterIndex:2>",
+        "name": "Matango",
+        "note": "<desc1:\"Inflict damage to the surroundings.\">\n<desc2:\"Scattered Mushrooms\">\n\n<type:skelton>\n<rank:1>\n<characterName:HHpl5Dh>\n<characterIndex:2>",
         "params": [
             87,
             1,
@@ -7484,8 +7484,8 @@
             }
         ],
         "gold": 0,
-        "name": "火炎樽",
-        "note": "<desc1:ダメージを与えると>\n<desc2:１マス以内に10ダメージ>\n<rank:1>\n<type:taru>\n<characterName:Object1>\n<characterIndex:0>\n<object>\n<deathSkill:15>",
+        "name": "Fire Barrel",
+        "note": "<desc1:\"When dealing damage,\">\n<desc2:１\"Within a radius of 10, take 10 damage.\">\n<rank:1>\n<type:taru>\n<characterName:Object1>\n<characterIndex:0>\n<object>\n<deathSkill:15>",
         "params": [
             1,
             0,
@@ -7528,8 +7528,8 @@
             }
         ],
         "gold": 0,
-        "name": "ツボ",
-        "note": "<desc1:破壊可能なオブジェクト>\n<rank:1>\n<type:taru>\n<characterName:Object1>\n<characterIndex:1>\n<object>\n",
+        "name": "Tsubo",
+        "note": "<desc1:\"Destructible objects\">\n<rank:1>\n<type:taru>\n<characterName:Object1>\n<characterIndex:1>\n<object>\n",
         "params": [
             1,
             0,
@@ -7572,8 +7572,8 @@
             }
         ],
         "gold": 0,
-        "name": "爆炎樽",
-        "note": "<desc1:ダメージを与えると>\n<desc2:１マス以内に30ダメージ>\n<rank:1>\n<type:taru>\n<characterName:Object1>\n<characterIndex:0>\n<object>\n<deathSkill:10>",
+        "name": "Explosive Barrel",
+        "note": "<desc1:\"When dealing damage,\">\n<desc2:１\"Within a radius of 30, deal damage.\">\n<rank:1>\n<type:taru>\n<characterName:Object1>\n<characterIndex:0>\n<object>\n<deathSkill:10>",
         "params": [
             1,
             0,
@@ -8115,8 +8115,8 @@
             }
         ],
         "gold": 5,
-        "name": "キングスライム",
-        "note": "<desc1:巨大育ったスライム>\n<rank:3>\n<characterName:$bigSlime>\n<characterIndex:0>\n<boss>\n",
+        "name": "King Slime",
+        "note": "<desc1:\"Giant Grown Slime\">\n<rank:3>\n<characterName:$bigSlime>\n<characterIndex:0>\n<boss>\n",
         "params": [
             74,
             0,
@@ -8210,8 +8210,8 @@
             }
         ],
         "gold": 5,
-        "name": "ゴブリンキング",
-        "note": "<desc1:ゴブリンのボス>\n<rank:3>\n<characterName:$org>\n<characterIndex:0>\n<boss>\n<nakaType:monster>\n<chinpo:goblin_0>\n<charaOffset:40>\n<seieki:48>\n<goblin>",
+        "name": "Goblin King",
+        "note": "<desc1:\"Goblin Boss\">\n<rank:3>\n<characterName:$org>\n<characterIndex:0>\n<boss>\n<nakaType:monster>\n<chinpo:goblin_0>\n<charaOffset:40>\n<seieki:48>\n<goblin>",
         "params": [
             56,
             0,
@@ -8279,8 +8279,8 @@
             }
         ],
         "gold": 5,
-        "name": "ゴブリンチャンピオン",
-        "note": "<desc1:ゴブリンのボス>\n<rank:3>\n<characterName:$org>\n<characterIndex:0>\n<boss>",
+        "name": "Goblin Champion",
+        "note": "<desc1:\"Goblin Boss\">\n<rank:3>\n<characterName:$org>\n<characterIndex:0>\n<boss>",
         "params": [
             74,
             0,
@@ -8348,8 +8348,8 @@
             }
         ],
         "gold": 5,
-        "name": "ワーウルフ",
-        "note": "<desc1:ゴブリンのボス>\n<rank:3>\n<characterName:$wolf>\n<characterIndex:0>\n<boss>\n<倍速>",
+        "name": "Werewolf",
+        "note": "<desc1:\"Goblin Boss\">\n<rank:3>\n<characterName:$wolf>\n<characterIndex:0>\n<boss>\n<倍速>",
         "params": [
             74,
             0,
@@ -8452,8 +8452,8 @@
             }
         ],
         "gold": 5,
-        "name": "キングプラント",
-        "note": "<desc1:巨大に育った草>\n<rank:3>\n<characterName:$Plants>\n<characterIndex:0>\n<boss>\n<nakaType:monster>",
+        "name": "King Plant",
+        "note": "<desc1:\"Grass that has grown enormous\">\n<rank:3>\n<characterName:$Plants>\n<characterIndex:0>\n<boss>\n<nakaType:monster>",
         "params": [
             124,
             0,
@@ -8588,8 +8588,8 @@
             }
         ],
         "gold": 5,
-        "name": "バルザック",
-        "note": "<desc1:山賊の中隊長>\n<rank:3>\n<characterName:Actor11>\n<characterIndex:0>\n<boss>\n\n",
+        "name": "Balzac",
+        "note": "<desc1:\"Bandit Squad Leader\">\n<rank:3>\n<characterName:Actor11>\n<characterIndex:0>\n<boss>\n\n",
         "params": [
             94,
             0,
@@ -8657,8 +8657,8 @@
             }
         ],
         "gold": 0,
-        "name": "魔法使いウード",
-        "note": "<desc1:死霊を操ることができる魔法使い>\n<rank:3>\n<characterName:mahou>\n<characterIndex:0>\n<boss>\n",
+        "name": "Wizard Udo",
+        "note": "<desc1:\"A magician who can control the undead.\">\n<rank:3>\n<characterName:mahou>\n<characterIndex:0>\n<boss>\n",
         "params": [
             103,
             21,
@@ -8733,8 +8733,8 @@
             }
         ],
         "gold": 0,
-        "name": "ドラゴン",
-        "note": "<desc1:伝説にもなっている生物>\n<rank:3>\n<characterName:$BigMonster2>\n<characterIndex:0>\n<boss>\n",
+        "name": "Dragon",
+        "note": "<desc1:\"Legendary creatures\">\n<rank:3>\n<characterName:$BigMonster2>\n<characterIndex:0>\n<boss>\n",
         "params": [
             200,
             21,
@@ -8864,8 +8864,8 @@
             }
         ],
         "gold": 0,
-        "name": "魔王",
-        "note": "<desc1:この世界を闇に染めし者>\n<rank:3>\n<characterName:$BigMonster1>\n<characterIndex:0>\n<boss>\n",
+        "name": "Demon King",
+        "note": "<desc1:\"The one who dyed this world in darkness\">\n<rank:3>\n<characterName:$BigMonster1>\n<characterIndex:0>\n<boss>\n",
         "params": [
             255,
             21,
@@ -8933,8 +8933,8 @@
             }
         ],
         "gold": 0,
-        "name": "魔王",
-        "note": "<desc1:この世界を闇に染めし者>\n<rank:3>\n<characterName:$BigMonster1>\n<characterIndex:0>\n<boss>\n<倍速>\n",
+        "name": "Demon King",
+        "note": "<desc1:\"The one who dyed this world in darkness\">\n<rank:3>\n<characterName:$BigMonster1>\n<characterIndex:0>\n<boss>\n<倍速>\n",
         "params": [
             255,
             21,
@@ -9071,8 +9071,8 @@
             }
         ],
         "gold": 0,
-        "name": "ベルゼブブ",
-        "note": "<desc1:邪悪な魔物>\n<rank:3>\n<characterName:$BigMonster3>\n<characterIndex:0>\n<boss>\n",
+        "name": "Beelzebub",
+        "note": "<desc1:\"Evil monsters\">\n<rank:3>\n<characterName:$BigMonster3>\n<characterIndex:0>\n<boss>\n",
         "params": [
             200,
             21,
@@ -20603,7 +20603,7 @@
             }
         ],
         "gold": 0,
-        "name": "■街の人",
+        "name": "■ Townspeople",
         "note": "",
         "params": [
             100,
@@ -20665,7 +20665,7 @@
             }
         ],
         "gold": 0,
-        "name": "その他",
+        "name": "Other",
         "note": "<characterName:other>\n<characterIndex:1>",
         "params": [
             100,
@@ -20792,7 +20792,7 @@
             }
         ],
         "gold": 5,
-        "name": "娼館の客(種親用)",
+        "name": "Brothel Customer (for Breeding)",
         "note": "<seieki:20>\n<characterName:mob05>\n<characterIndex:4>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>\n<taneoya:娼館の客>\n<keiken>\n<nakaType:people>",
         "params": [
             8,
@@ -20854,7 +20854,7 @@
             }
         ],
         "gold": 0,
-        "name": "アンドレイ",
+        "name": "Andrei",
         "note": "<seiekiLifetime:2>\n<nakaType:people>\n<seieki:17>\n<characterName:mob07>\n<characterIndex:1>\n<ninshin:B>\n\n<chinpo:human_1>\n<taneoya:アンドレイ>",
         "params": [
             100,
@@ -20916,7 +20916,7 @@
             }
         ],
         "gold": 0,
-        "name": "メイヴィス",
+        "name": "Mavis",
         "note": "<nakaType:people>\n<characterName:actor07>\n<characterIndex:0>",
         "params": [
             100,
@@ -20978,7 +20978,7 @@
             }
         ],
         "gold": 0,
-        "name": "マーク",
+        "name": "Mark",
         "note": "<seieki:25>\n<chinpo:human_1>\n<ninshin:B>\n<characterName:mob-ma-03>\n<characterIndex:3>\n<seiekiLifetime:3>\n<charaOffset:30>\n<nakaType:people>\n<taneoya:マーク>",
         "params": [
             100,
@@ -21105,7 +21105,7 @@
             }
         ],
         "gold": 5,
-        "name": "娼館の客",
+        "name": "Brothel customer",
         "note": "\n<characterName:mob05>\n<characterIndex:4>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n\n<keiken>\n<nakaType:people>",
         "params": [
             8,
@@ -21232,7 +21232,7 @@
             }
         ],
         "gold": 5,
-        "name": "浮浪者",
+        "name": "Vagabond",
         "note": "\n<characterName:mob01>\n<characterIndex:4>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>",
         "params": [
             8,
@@ -21359,7 +21359,7 @@
             }
         ],
         "gold": 5,
-        "name": "神父",
+        "name": "Priest",
         "note": "\n<characterName:actor12>\n<characterIndex:0>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>",
         "params": [
             8,
@@ -21486,7 +21486,7 @@
             }
         ],
         "gold": 5,
-        "name": "テオ",
+        "name": "Teo",
         "note": "<seieki:12>\n<characterName:actor02>\n<characterIndex:0>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>",
         "params": [
             8,
@@ -21613,7 +21613,7 @@
             }
         ],
         "gold": 5,
-        "name": "便所の客(種親用)",
+        "name": "Toilet Customer (for breeding)",
         "note": "\n<characterName:mob05>\n<characterIndex:4>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>\n<taneoya:便所の客>\n<keiken>\n<nakaType:people>",
         "params": [
             8,
@@ -21740,7 +21740,7 @@
             }
         ],
         "gold": 5,
-        "name": "ブタA",
+        "name": "Pig A",
         "note": "\n<characterName:mob07>\n<characterIndex:7>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>",
         "params": [
             8,
@@ -21867,7 +21867,7 @@
             }
         ],
         "gold": 5,
-        "name": "ブタB",
+        "name": "Buta B",
         "note": "\n<characterName:mob-ma-06>\n<characterIndex:4>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>",
         "params": [
             8,
@@ -21994,7 +21994,7 @@
             }
         ],
         "gold": 5,
-        "name": "ブタC",
+        "name": "Buta C",
         "note": "\n<characterName:mob07>\n<characterIndex:4>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>",
         "params": [
             8,
@@ -22121,7 +22121,7 @@
             }
         ],
         "gold": 5,
-        "name": "ブタD",
+        "name": "Buta D",
         "note": "\n<characterName:mob05>\n<characterIndex:4>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>",
         "params": [
             8,
@@ -22248,7 +22248,7 @@
             }
         ],
         "gold": 5,
-        "name": "ブタE",
+        "name": "Pig E",
         "note": "\n<characterName:mob06>\n<characterIndex:5>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>",
         "params": [
             8,
@@ -22375,7 +22375,7 @@
             }
         ],
         "gold": 5,
-        "name": "ブタF",
+        "name": "Buta F",
         "note": "\n<characterName:mob01>\n<characterIndex:4>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>",
         "params": [
             8,
@@ -22564,7 +22564,7 @@
             }
         ],
         "gold": 5,
-        "name": "奴隷市場の職員A",
+        "name": "Staff A of the Slave Market",
         "note": "\n<characterName:mob04>\n<characterIndex:4>\n<ninshin:B>\n<seieki:3>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>",
         "params": [
             8,
@@ -22691,7 +22691,7 @@
             }
         ],
         "gold": 5,
-        "name": "奴隷市場の職員B",
+        "name": "Slave Market Staff B",
         "note": "\n<characterName:mob04>\n<characterIndex:4>\n<ninshin:B>\n<seieki:2>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>",
         "params": [
             8,
@@ -22818,7 +22818,7 @@
             }
         ],
         "gold": 5,
-        "name": "奴隷市場の職員C",
+        "name": "Staff C of the Slave Market",
         "note": "\n<characterName:mob04>\n<characterIndex:4>\n<ninshin:B>\n<seieki:3>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>",
         "params": [
             8,
@@ -23069,7 +23069,7 @@
             }
         ],
         "gold": 5,
-        "name": "売春宿の客",
+        "name": "Customer of a brothel",
         "note": "\n<characterName:mob05>\n<characterIndex:3>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n\n<keiken>\n<nakaType:people>",
         "params": [
             8,
@@ -23196,7 +23196,7 @@
             }
         ],
         "gold": 5,
-        "name": "売春宿の客",
+        "name": "Customer of a brothel",
         "note": "\n<characterName:mob-ma-06>\n<characterIndex:3>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>",
         "params": [
             8,
@@ -23323,7 +23323,7 @@
             }
         ],
         "gold": 5,
-        "name": "売春宿の客",
+        "name": "Customer of a brothel",
         "note": "\n<characterName:mob07>\n<characterIndex:3>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>",
         "params": [
             8,
@@ -23450,7 +23450,7 @@
             }
         ],
         "gold": 5,
-        "name": "売春宿の客",
+        "name": "Customer of a brothel",
         "note": "\n<characterName:mob05>\n<characterIndex:3>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>",
         "params": [
             8,
@@ -23577,7 +23577,7 @@
             }
         ],
         "gold": 5,
-        "name": "売春宿の客",
+        "name": "Customer of a brothel",
         "note": "\n<characterName:mob06>\n<characterIndex:4>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>",
         "params": [
             8,
@@ -23704,7 +23704,7 @@
             }
         ],
         "gold": 5,
-        "name": "売春宿の客",
+        "name": "Customer of a brothel",
         "note": "\n<characterName:mob01>\n<characterIndex:3>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>",
         "params": [
             8,
@@ -23893,7 +23893,7 @@
             }
         ],
         "gold": 5,
-        "name": "荒くれ者",
+        "name": "Ruffian",
         "note": "\n<characterName:mob07>\n<characterIndex:7>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>",
         "params": [
             8,
@@ -24020,7 +24020,7 @@
             }
         ],
         "gold": 5,
-        "name": "ロリコン小金持ち",
+        "name": "Lolicon Rich Guy",
         "note": "\n<characterName:mob07>\n<characterIndex:7>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>",
         "params": [
             8,
@@ -24144,7 +24144,7 @@
             }
         ],
         "gold": 0,
-        "name": "アナル先生",
+        "name": "Anal Sensei",
         "note": "<characterName:other>\n<characterIndex:1>\n<chinpo:human_1>\n<nakaType:people>",
         "params": [
             100,
@@ -24206,7 +24206,7 @@
             }
         ],
         "gold": 0,
-        "name": "カレン",
+        "name": "Karen",
         "note": "<characterName:other>\n<characterIndex:1>\n<chinpo:human_1>\n<nakaType:people>",
         "params": [
             100,

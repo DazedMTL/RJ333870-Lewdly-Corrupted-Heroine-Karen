@@ -3,7 +3,7 @@
     {
         "id": 1,
         "atypeId": 1,
-        "description": "未識別の魔法具",
+        "description": "Unidentified magical tool",
         "etypeId": 4,
         "traits": [
             {
@@ -13,7 +13,7 @@
             }
         ],
         "iconIndex": 449,
-        "name": "？魔法具",
+        "name": "? Magic Tool",
         "note": "",
         "params": [
             0,
@@ -30,7 +30,7 @@
     {
         "id": 2,
         "atypeId": 1,
-        "description": "防御が１上昇する指輪",
+        "description": "Ring that increases defense by 1.",
         "etypeId": 2,
         "traits": [
             {
@@ -40,7 +40,7 @@
             }
         ],
         "iconIndex": 465,
-        "name": "青銅の指輪",
+        "name": "Bronze Ring",
         "note": "",
         "params": [
             0,
@@ -57,7 +57,7 @@
     {
         "id": 3,
         "atypeId": 1,
-        "description": "攻撃力が２上がる指輪",
+        "description": "Ring that increases attack power by 2.",
         "etypeId": 2,
         "traits": [
             {
@@ -67,7 +67,7 @@
             }
         ],
         "iconIndex": 465,
-        "name": "力の指輪",
+        "name": "Ring of Power",
         "note": "",
         "params": [
             0,
@@ -84,7 +84,7 @@
     {
         "id": 4,
         "atypeId": 1,
-        "description": "アーマーを修理する時、\n追加で３ポイント回復する",
+        "description": "When repairing armor, it recovers an additional 3 points.",
         "etypeId": 4,
         "traits": [
             {
@@ -94,7 +94,7 @@
             }
         ],
         "iconIndex": 454,
-        "name": "神秘のティアラ",
+        "name": "Mysterious Tiara",
         "note": "",
         "params": [
             0,
@@ -111,7 +111,7 @@
     {
         "id": 5,
         "atypeId": 1,
-        "description": "防御が２上昇する指輪",
+        "description": "A ring that increases defense by 2.",
         "etypeId": 2,
         "traits": [
             {
@@ -121,7 +121,7 @@
             }
         ],
         "iconIndex": 465,
-        "name": "鉄の指輪",
+        "name": "Iron Ring",
         "note": "",
         "params": [
             0,
@@ -138,7 +138,7 @@
     {
         "id": 6,
         "atypeId": 1,
-        "description": "【一般装備】鋼板で補強したなめし皮製の服。",
+        "description": "【General Equipment】A tanned leather outfit reinforced with steel plates.",
         "etypeId": 4,
         "traits": [
             {
@@ -148,7 +148,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "ブリガンダイン",
+        "name": "Brigandine",
         "note": "",
         "params": [
             0,
@@ -175,7 +175,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "呪いのバイブ",
+        "name": "Cursed Vibrator",
         "note": "<ero:119>\n<curse>\n<state:41>",
         "params": [
             0,
@@ -192,7 +192,7 @@
     {
         "id": 8,
         "atypeId": 1,
-        "description": "勝手に装着される下着。\nキツキツのため、お尻にとても食い込む。",
+        "description": "Underwear that is automatically put on. It's tight, so it digs into the buttocks.",
         "etypeId": 2,
         "traits": [
             {
@@ -202,7 +202,7 @@
             }
         ],
         "iconIndex": 2156,
-        "name": "呪いの下着",
+        "name": "Cursed underwear",
         "note": "<curse_acce:286>\n<curse>\n",
         "params": [
             0,
@@ -246,7 +246,7 @@
     {
         "id": 10,
         "atypeId": 1,
-        "description": "防御が１上昇する腕輪",
+        "description": "A bracelet that increases defense by 1.",
         "etypeId": 2,
         "traits": [
             {
@@ -256,7 +256,7 @@
             }
         ],
         "iconIndex": 465,
-        "name": "魔法の腕輪",
+        "name": "Magic Bracelet",
         "note": "",
         "params": [
             0,
@@ -273,7 +273,7 @@
     {
         "id": 11,
         "atypeId": 1,
-        "description": "防御が２上昇する腕輪",
+        "description": "A bracelet that increases defense by 2.",
         "etypeId": 2,
         "traits": [
             {
@@ -283,7 +283,7 @@
             }
         ],
         "iconIndex": 465,
-        "name": "魔法の腕輪LV2",
+        "name": "Magic Bracelet LV2",
         "note": "",
         "params": [
             0,
@@ -300,7 +300,7 @@
     {
         "id": 12,
         "atypeId": 1,
-        "description": "防御が３上昇する腕輪",
+        "description": "A bracelet that increases defense by 3.",
         "etypeId": 2,
         "traits": [
             {
@@ -310,7 +310,7 @@
             }
         ],
         "iconIndex": 465,
-        "name": "魔法の腕輪LV3",
+        "name": "Magic Bracelet LV3",
         "note": "",
         "params": [
             0,
@@ -327,7 +327,7 @@
     {
         "id": 13,
         "atypeId": 1,
-        "description": "防御が４上昇する腕輪",
+        "description": "A bracelet that increases defense by 4.",
         "etypeId": 2,
         "traits": [
             {
@@ -337,7 +337,7 @@
             }
         ],
         "iconIndex": 465,
-        "name": "魔法の腕輪LV4",
+        "name": "Magic Bracelet LV4",
         "note": "",
         "params": [
             0,
@@ -381,7 +381,7 @@
     {
         "id": 15,
         "atypeId": 1,
-        "description": "防御が３上昇する指輪",
+        "description": "A ring that increases defense by 3.",
         "etypeId": 2,
         "traits": [
             {
@@ -391,7 +391,7 @@
             }
         ],
         "iconIndex": 465,
-        "name": "はがねの指輪",
+        "name": "Steel Ring",
         "note": "",
         "params": [
             0,
@@ -408,7 +408,7 @@
     {
         "id": 16,
         "atypeId": 1,
-        "description": "防御が４上昇する指輪",
+        "description": "A ring that increases defense by 4.",
         "etypeId": 2,
         "traits": [
             {
@@ -418,7 +418,7 @@
             }
         ],
         "iconIndex": 465,
-        "name": "銀の指輪",
+        "name": "Silver Ring",
         "note": "",
         "params": [
             0,
@@ -435,7 +435,7 @@
     {
         "id": 17,
         "atypeId": 1,
-        "description": "防御が５上昇する指輪",
+        "description": "A ring that increases defense by 5.",
         "etypeId": 2,
         "traits": [
             {
@@ -445,7 +445,7 @@
             }
         ],
         "iconIndex": 465,
-        "name": "ミスリルの指輪",
+        "name": "Mithril Ring",
         "note": "",
         "params": [
             0,
@@ -543,7 +543,7 @@
     {
         "id": 21,
         "atypeId": 1,
-        "description": "妊娠率が１００％になるお守り\nお腹が大きくなる速度も早くなる",
+        "description": "Talisman that increases pregnancy rate to 100%. The speed at which the belly grows also becomes\nfaster.",
         "etypeId": 5,
         "traits": [
             {
@@ -553,7 +553,7 @@
             }
         ],
         "iconIndex": 525,
-        "name": "子宝のお守り",
+        "name": "Fertility Charm",
         "note": "<stay>",
         "params": [
             0,
@@ -570,7 +570,7 @@
     {
         "id": 22,
         "atypeId": 1,
-        "description": "妊娠率が０％になるお守り\n（ただしイベントでの妊娠はあり）",
+        "description": "Amulet that reduces pregnancy rate to 0% (except during events)",
         "etypeId": 5,
         "traits": [
             {
@@ -580,7 +580,7 @@
             }
         ],
         "iconIndex": 525,
-        "name": "避妊のお守り",
+        "name": "Contraceptive amulet",
         "note": "<stay>",
         "params": [
             0,
@@ -705,7 +705,7 @@
     {
         "id": 27,
         "atypeId": 1,
-        "description": "攻撃力が４上がる指輪",
+        "description": "Ring that increases attack power by 4.",
         "etypeId": 2,
         "traits": [
             {
@@ -715,7 +715,7 @@
             }
         ],
         "iconIndex": 465,
-        "name": "怪力の指輪",
+        "name": "Ring of Superhuman Strength",
         "note": "",
         "params": [
             0,
@@ -732,7 +732,7 @@
     {
         "id": 28,
         "atypeId": 1,
-        "description": "攻撃力が６上がる指輪",
+        "description": "Ring that increases attack power by 6.",
         "etypeId": 2,
         "traits": [
             {
@@ -742,7 +742,7 @@
             }
         ],
         "iconIndex": 465,
-        "name": "剛力の指輪",
+        "name": "Ring of Strength",
         "note": "",
         "params": [
             0,
@@ -813,7 +813,7 @@
     {
         "id": 31,
         "atypeId": 1,
-        "description": "防御が３上昇する指輪",
+        "description": "A ring that increases defense by 3.",
         "etypeId": 2,
         "traits": [
             {
@@ -823,7 +823,7 @@
             }
         ],
         "iconIndex": 465,
-        "name": "神秘の指輪",
+        "name": "Mysterious Ring",
         "note": "",
         "params": [
             0,
@@ -840,7 +840,7 @@
     {
         "id": 32,
         "atypeId": 1,
-        "description": "防御が３上昇する指輪",
+        "description": "A ring that increases defense by 3.",
         "etypeId": 2,
         "traits": [
             {
@@ -850,7 +850,7 @@
             }
         ],
         "iconIndex": 465,
-        "name": "神秘の指輪",
+        "name": "Mysterious Ring",
         "note": "",
         "params": [
             0,
@@ -1353,7 +1353,7 @@
     {
         "id": 51,
         "atypeId": 1,
-        "description": "転送に耐えられる盾",
+        "description": "A shield that can withstand transfers.",
         "etypeId": 4,
         "traits": [
             {
@@ -1363,7 +1363,7 @@
             }
         ],
         "iconIndex": 449,
-        "name": "魔法の盾",
+        "name": "Magic Shield",
         "note": "",
         "params": [
             0,
@@ -1407,7 +1407,7 @@
     {
         "id": 53,
         "atypeId": 0,
-        "description": "転送装置の武器もちこみLVが１以上の場合\nにもちこめる。もちこめる武器は１本のみ",
+        "description": "If the weapon carrying LV of the teleportation device is 1 or higher, it can be carried. Only one\nweapon can be carried.",
         "etypeId": 8,
         "traits": [
             {
@@ -1417,7 +1417,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ショートソード",
+        "name": "Short Sword",
         "note": "<weapon: 2>\n<stay>\n<lv:1>",
         "params": [
             0,
@@ -1434,7 +1434,7 @@
     {
         "id": 54,
         "atypeId": 0,
-        "description": "転送装置の武器もちこみLVが２以上の場合\nにもちこめる。もちこめる武器は１本のみ",
+        "description": "If the weapon carrying LV of the teleportation device is 2 or higher, it can be carried. Only one\nweapon can be carried.",
         "etypeId": 2,
         "traits": [
             {
@@ -1444,7 +1444,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ロングソード",
+        "name": "Longsword",
         "note": "<weapon: 4>\n<lv:2>\n<stay>\n",
         "params": [
             0,
@@ -1461,7 +1461,7 @@
     {
         "id": 55,
         "atypeId": 0,
-        "description": "転送装置の武器もちこみLVが３以上の場合\nにもちこめる。もちこめる武器は１本のみ",
+        "description": "If the weapon carrying LV of the teleportation device is 3 or higher, it can be carried. Only one\nweapon can be carried.",
         "etypeId": 2,
         "traits": [
             {
@@ -1471,7 +1471,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ミスリルダガー",
+        "name": "Mithril Dagger",
         "note": "<weapon: 6>\n<lv:3>\n<stay>\n",
         "params": [
             0,
@@ -1488,7 +1488,7 @@
     {
         "id": 56,
         "atypeId": 0,
-        "description": "転送装置の武器もちこみLVが４以上の場合\nにもちこめる。もちこめる武器は１本のみ",
+        "description": "If the weapon carrying LV of the teleportation device is 4 or higher, it can be carried. Only one\nweapon can be carried.",
         "etypeId": 2,
         "traits": [
             {
@@ -1498,7 +1498,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "バスタードソード",
+        "name": "Bastard Sword",
         "note": "<weapon: 7>\n<lv:4>\n<stay>",
         "params": [
             0,
@@ -1515,7 +1515,7 @@
     {
         "id": 57,
         "atypeId": 0,
-        "description": "転送装置の武器もちこみLVが５以上の場合\nにもちこめる。もちこめる武器は１本のみ",
+        "description": "If the weapon carrying LV of the teleportation device is 5 or higher, it can be carried. Only one\nweapon can be carried.",
         "etypeId": 2,
         "traits": [
             {
@@ -1525,7 +1525,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "クレイモア",
+        "name": "Claymore",
         "note": "<weapon: 8>\n<lv:5>\n<stay>",
         "params": [
             0,
@@ -1596,7 +1596,7 @@
     {
         "id": 60,
         "atypeId": 0,
-        "description": "転送装置の防具もちこみLVが１以上の場合にもちこめる。\nこのアイテム自体はなくならず、何度でも使用可能。",
+        "description": "You can equip the teleportation device even if your LV is 1 or higher. This item itself does not\ndisappear and can be used multiple times.",
         "etypeId": 2,
         "traits": [
             {
@@ -1606,7 +1606,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "青銅の指輪",
+        "name": "Bronze Ring",
         "note": "<armor: 2>\n<stay>\n<lv:1>",
         "params": [
             0,
@@ -1623,7 +1623,7 @@
     {
         "id": 61,
         "atypeId": 0,
-        "description": "転送装置の防具もちこみLVが２以上の場合にもちこめる。\nこのアイテム自体はなくならず、何度でも使用可能。",
+        "description": "You can equip the teleportation device even if your LV is 2 or higher. This item itself does not\ndisappear and can be used multiple times.",
         "etypeId": 2,
         "traits": [
             {
@@ -1633,7 +1633,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "鉄の指輪",
+        "name": "Iron Ring",
         "note": "<armor: 5>\n<stay>\n<lv:2>",
         "params": [
             0,
@@ -1650,7 +1650,7 @@
     {
         "id": 62,
         "atypeId": 0,
-        "description": "転送装置の防具もちこみLVが３以上の場合にもちこめる。\nこのアイテム自体はなくならず、何度でも使用可能。",
+        "description": "You can equip the teleportation device even if your LV is 3 or higher. This item itself does not\ndisappear and can be used multiple times.",
         "etypeId": 2,
         "traits": [
             {
@@ -1660,7 +1660,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "はがねの指輪",
+        "name": "Steel Ring",
         "note": "<armor: 15>\n<stay>\n<lv:3>",
         "params": [
             0,
@@ -1677,7 +1677,7 @@
     {
         "id": 63,
         "atypeId": 0,
-        "description": "転送装置の防具もちこみLVが４以上の場合にもちこめる。\nこのアイテム自体はなくならず、何度でも使用可能。",
+        "description": "You can equip the teleportation device armor if your LV is 4 or higher. This item itself does not\ndisappear and can be used multiple times.",
         "etypeId": 2,
         "traits": [
             {
@@ -1687,7 +1687,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "銀の指輪",
+        "name": "Silver Ring",
         "note": "<armor: 16>\n<stay>\n<lv:4>",
         "params": [
             0,
@@ -1704,7 +1704,7 @@
     {
         "id": 64,
         "atypeId": 0,
-        "description": "転送装置の防具もちこみLVが５以上の場合にもちこめる。\nこのアイテム自体はなくならず、何度でも使用可能。",
+        "description": "You can equip the teleportation device armor if your LV is 5 or higher. This item itself does not\ndisappear and can be used multiple times.",
         "etypeId": 2,
         "traits": [
             {
@@ -1714,7 +1714,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "ミスリルの指輪",
+        "name": "Mithril Ring",
         "note": "<armor: 17>\n<stay>\n<lv:5>",
         "params": [
             0,
@@ -1930,7 +1930,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "-----装飾品系",
+        "name": "-----Accessory Series",
         "note": "",
         "params": [
             0,
@@ -1947,7 +1947,7 @@
     {
         "id": 73,
         "atypeId": 1,
-        "description": "【装飾品】防御力を高めてくれるお守り。",
+        "description": "【Accessory】A charm that enhances defense power.",
         "etypeId": 5,
         "traits": [
             {
@@ -1957,7 +1957,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "ガードストーン",
+        "name": "Guard Stone",
         "note": "",
         "params": [
             0,
@@ -1974,7 +1974,7 @@
     {
         "id": 74,
         "atypeId": 1,
-        "description": "【装飾品】防御力を高めてくれる指輪。",
+        "description": "【Accessory】A ring that enhances defense power.",
         "etypeId": 5,
         "traits": [
             {
@@ -1984,7 +1984,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "ガードリング",
+        "name": "Guard Ring",
         "note": "",
         "params": [
             0,
@@ -2001,7 +2001,7 @@
     {
         "id": 75,
         "atypeId": 1,
-        "description": "【装飾品】攻撃力を高めてくれるお守り。",
+        "description": "【Accessory】A charm that enhances attack power.",
         "etypeId": 5,
         "traits": [
             {
@@ -2011,7 +2011,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "パワーストーン",
+        "name": "Power Stone",
         "note": "",
         "params": [
             0,
@@ -2028,7 +2028,7 @@
     {
         "id": 76,
         "atypeId": 1,
-        "description": "【装飾品】攻撃力を高めてくれる指輪。",
+        "description": "【Accessory】A ring that enhances attack power.",
         "etypeId": 5,
         "traits": [
             {
@@ -2038,7 +2038,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "パワーリング",
+        "name": "Power Ring",
         "note": "",
         "params": [
             0,
@@ -2055,7 +2055,7 @@
     {
         "id": 77,
         "atypeId": 1,
-        "description": "【装飾品】敏捷性を高めてくれるお守り。",
+        "description": "【Accessory】A charm that enhances agility.",
         "etypeId": 5,
         "traits": [
             {
@@ -2065,7 +2065,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "スピードストーン",
+        "name": "Speed Stone",
         "note": "",
         "params": [
             0,
@@ -2082,7 +2082,7 @@
     {
         "id": 78,
         "atypeId": 1,
-        "description": "【装飾品】敏捷性を高めてくれる指輪。",
+        "description": "【Accessory】A ring that enhances agility.",
         "etypeId": 5,
         "traits": [
             {
@@ -2092,7 +2092,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "スピードリング",
+        "name": "Speed Ring",
         "note": "",
         "params": [
             0,
@@ -2109,7 +2109,7 @@
     {
         "id": 79,
         "atypeId": 1,
-        "description": "【装飾品】運を高めてくれるお守り。",
+        "description": "【Accessory】A charm that enhances luck.",
         "etypeId": 5,
         "traits": [
             {
@@ -2119,7 +2119,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "ラッキーストーン",
+        "name": "Lucky Stone",
         "note": "",
         "params": [
             0,
@@ -2136,7 +2136,7 @@
     {
         "id": 80,
         "atypeId": 1,
-        "description": "【装飾品】運を高めてくれる指輪。",
+        "description": "【Accessory】A ring that enhances luck.",
         "etypeId": 5,
         "traits": [
             {
@@ -2146,7 +2146,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "ラッキーリング",
+        "name": "Lucky Ring",
         "note": "",
         "params": [
             0,
@@ -2163,7 +2163,7 @@
     {
         "id": 81,
         "atypeId": 1,
-        "description": "【装飾品】魔法力を高めてくれるお守り。",
+        "description": "【Accessory】A charm that enhances magical power.",
         "etypeId": 5,
         "traits": [
             {
@@ -2173,7 +2173,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "マジカルストーン",
+        "name": "Magical Stone",
         "note": "",
         "params": [
             0,
@@ -2190,7 +2190,7 @@
     {
         "id": 82,
         "atypeId": 1,
-        "description": "【装飾品】魔法力を高めてくれる指輪。",
+        "description": "【Accessory】A ring that enhances magical power.",
         "etypeId": 5,
         "traits": [
             {
@@ -2200,7 +2200,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "マジカルリング",
+        "name": "Magical Ring",
         "note": "",
         "params": [
             0,
@@ -2217,7 +2217,7 @@
     {
         "id": 83,
         "atypeId": 1,
-        "description": "【装飾品】攻撃の命中率を高めてくれるお守り。",
+        "description": "【Accessory】A charm that increases the accuracy of attacks.",
         "etypeId": 5,
         "traits": [
             {
@@ -2232,7 +2232,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "シューターストーン",
+        "name": "Shooter Stone",
         "note": "",
         "params": [
             0,
@@ -2249,7 +2249,7 @@
     {
         "id": 84,
         "atypeId": 1,
-        "description": "【装飾品】攻撃の命中率を高めてくれるお守り。",
+        "description": "【Accessory】A charm that increases the accuracy of attacks.",
         "etypeId": 5,
         "traits": [
             {
@@ -2264,7 +2264,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "シューターリング",
+        "name": "Shooter Ring",
         "note": "",
         "params": [
             0,
@@ -2281,7 +2281,7 @@
     {
         "id": 85,
         "atypeId": 1,
-        "description": "【装飾品】MPの消費を20％抑えてくれるお守り。",
+        "description": "【Accessory】A charm that reduces MP consumption by 20%.",
         "etypeId": 5,
         "traits": [
             {
@@ -2296,7 +2296,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "マスターストーン",
+        "name": "Master Stone",
         "note": "",
         "params": [
             0,
@@ -2313,7 +2313,7 @@
     {
         "id": 86,
         "atypeId": 1,
-        "description": "【装飾品】MPの消費を50％抑えてくれる指輪。",
+        "description": "【Accessory】A ring that reduces MP consumption by 50%.",
         "etypeId": 5,
         "traits": [
             {
@@ -2328,7 +2328,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "マスターリング",
+        "name": "Master Ring",
         "note": "",
         "params": [
             0,
@@ -2372,7 +2372,7 @@
     {
         "id": 88,
         "atypeId": 1,
-        "description": "【装飾品】毒・麻痺に、かかりにくくなる指輪。",
+        "description": "【Accessory】A ring that reduces the likelihood of being affected by poison and paralysis.",
         "etypeId": 5,
         "traits": [
             {
@@ -2397,7 +2397,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "ポイズンガード",
+        "name": "Poison Guard",
         "note": "",
         "params": [
             0,
@@ -2414,7 +2414,7 @@
     {
         "id": 89,
         "atypeId": 1,
-        "description": "【装飾品】毒・麻痺を完全に防ぐ指輪。",
+        "description": "【Accessory】A ring that completely prevents poison and paralysis.",
         "etypeId": 5,
         "traits": [
             {
@@ -2439,7 +2439,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "ポイズンガードＳ",
+        "name": "Poison Guard S",
         "note": "",
         "params": [
             0,
@@ -2483,7 +2483,7 @@
     {
         "id": 91,
         "atypeId": 1,
-        "description": "【装飾品】睡眠・沈黙・混乱・魅了・激昂に\nかかりにくくなる指輪。",
+        "description": "【Accessory】A ring that makes it difficult to be affected by sleep, silence, confusion, charm, and\nexcitement.",
         "etypeId": 5,
         "traits": [
             {
@@ -2518,7 +2518,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "メンタルガード",
+        "name": "Mental Guard",
         "note": "",
         "params": [
             0,
@@ -2535,7 +2535,7 @@
     {
         "id": 92,
         "atypeId": 1,
-        "description": "【装飾品】睡眠・沈黙・混乱・魅了・激昂を\n完全に防ぐ指輪。",
+        "description": "【Accessory】A ring that completely prevents sleep, silence, confusion, charm, and agitation.",
         "etypeId": 5,
         "traits": [
             {
@@ -2570,7 +2570,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "メンタルガードＳ",
+        "name": "Mental Guard S",
         "note": "",
         "params": [
             0,
@@ -2614,7 +2614,7 @@
     {
         "id": 94,
         "atypeId": 1,
-        "description": "【装飾品】先制攻撃を行える確率を上げる装飾品。",
+        "description": "【Accessory】An accessory that increases the chance of performing a preemptive attack.",
         "etypeId": 5,
         "traits": [
             {
@@ -2629,7 +2629,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "エネミーレーダー",
+        "name": "Enemy Radar",
         "note": "",
         "params": [
             0,
@@ -2646,7 +2646,7 @@
     {
         "id": 95,
         "atypeId": 1,
-        "description": "【装飾品】不意打ち攻撃を受けなくなる装飾品。",
+        "description": "【Accessory】An accessory that prevents surprise attacks.",
         "etypeId": 5,
         "traits": [
             {
@@ -2661,7 +2661,7 @@
             }
         ],
         "iconIndex": 205,
-        "name": "ワーニングベル",
+        "name": "Warning Bell",
         "note": "",
         "params": [
             0,
@@ -2678,7 +2678,7 @@
     {
         "id": 96,
         "atypeId": 1,
-        "description": "【装飾品】ＴＰを次の戦闘に持ち越す装飾品。",
+        "description": "【Accessory】An accessory that carries over TP to the next battle.",
         "etypeId": 5,
         "traits": [
             {
@@ -2693,7 +2693,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "ＴＰストッカー",
+        "name": "TP Stocker",
         "note": "",
         "params": [
             0,
@@ -2710,7 +2710,7 @@
     {
         "id": 97,
         "atypeId": 1,
-        "description": "【装飾品】ＴＰのチャージ率が上がる指輪。",
+        "description": "【Accessory】A ring that increases TP charging rate.",
         "etypeId": 5,
         "traits": [
             {
@@ -2725,7 +2725,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "ガッツリング",
+        "name": "Guts Ring",
         "note": "",
         "params": [
             0,
@@ -2742,7 +2742,7 @@
     {
         "id": 98,
         "atypeId": 1,
-        "description": "【装飾品】ＭＰの消費率を下げる腕輪。",
+        "description": "【Accessory】A bracelet that reduces the consumption rate of MP.",
         "etypeId": 5,
         "traits": [
             {
@@ -2757,7 +2757,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "ＭＰキーパー",
+        "name": "MP Keeper",
         "note": "",
         "params": [
             0,
@@ -2774,7 +2774,7 @@
     {
         "id": 99,
         "atypeId": 1,
-        "description": "【装飾品】四大精霊の加護のもと\n火、水、風、土属性攻撃で受けるダメージを半減する。",
+        "description": "【Accessory】Under the protection of the Four Great Spirits, damage received from fire, water, wind,\nand earth attribute attacks is reduced by half.",
         "etypeId": 5,
         "traits": [
             {
@@ -2804,7 +2804,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "エレメンタルガード",
+        "name": "Elemental Guard",
         "note": "",
         "params": [
             0,
@@ -2858,7 +2858,7 @@
             }
         ],
         "iconIndex": 74,
-        "name": "命乞いの土下座",
+        "name": "Begging for Life's Kneeling",
         "note": "",
         "params": [
             0,
@@ -2885,7 +2885,7 @@
             }
         ],
         "iconIndex": 74,
-        "name": "マングリ土下座",
+        "name": "Mangri Dogeza",
         "note": "",
         "params": [
             0,
@@ -3101,7 +3101,7 @@
             }
         ],
         "iconIndex": 77,
-        "name": "売春婦勇者",
+        "name": "Prostitute Hero",
         "note": "",
         "params": [
             0,
@@ -3128,7 +3128,7 @@
             }
         ],
         "iconIndex": 77,
-        "name": "フェラチオの技",
+        "name": "Skill of Fellatio",
         "note": "",
         "params": [
             0,
@@ -3155,7 +3155,7 @@
             }
         ],
         "iconIndex": 77,
-        "name": "イラマチオの技",
+        "name": "Deep Throat Technique",
         "note": "",
         "params": [
             0,
@@ -3209,7 +3209,7 @@
             }
         ],
         "iconIndex": 2010,
-        "name": "パイズリの技",
+        "name": "Paizuri Technique",
         "note": "",
         "params": [
             0,
@@ -3398,7 +3398,7 @@
             }
         ],
         "iconIndex": 1992,
-        "name": "アナルオナニー",
+        "name": "Anal Masturbation",
         "note": "",
         "params": [
             0,
@@ -3425,7 +3425,7 @@
             }
         ],
         "iconIndex": 2021,
-        "name": "アナル拡張の技",
+        "name": "Technique of Anal Expansion",
         "note": "",
         "params": [
             0,
@@ -3452,7 +3452,7 @@
             }
         ],
         "iconIndex": 89,
-        "name": "アナルアクメ",
+        "name": "Anal Acme",
         "note": "",
         "params": [
             0,
@@ -3533,7 +3533,7 @@
             }
         ],
         "iconIndex": 1989,
-        "name": "クリオナニー",
+        "name": "Cryonanny",
         "note": "",
         "params": [
             0,
@@ -3560,7 +3560,7 @@
             }
         ],
         "iconIndex": 1989,
-        "name": "クリ肥大",
+        "name": "Cleavage Enlargement",
         "note": "",
         "params": [
             0,
@@ -3587,7 +3587,7 @@
             }
         ],
         "iconIndex": 1989,
-        "name": "クリちんぽ",
+        "name": "Clit penis",
         "note": "",
         "params": [
             0,
@@ -3668,7 +3668,7 @@
             }
         ],
         "iconIndex": 79,
-        "name": "屋外放尿",
+        "name": "Outdoor urination",
         "note": "",
         "params": [
             0,
@@ -3695,7 +3695,7 @@
             }
         ],
         "iconIndex": 79,
-        "name": "人間便器",
+        "name": "Human Toilet",
         "note": "",
         "params": [
             0,
@@ -3955,7 +3955,7 @@
     {
         "id": 142,
         "atypeId": 0,
-        "description": "敗北時に自動的に闇の力３００を獲得する",
+        "description": "Automatically acquire 300 units of dark power upon defeat.",
         "etypeId": 2,
         "traits": [
             {
@@ -3965,7 +3965,7 @@
             }
         ],
         "iconIndex": 1989,
-        "name": "レイプ願望",
+        "name": "Rape Desire",
         "note": "<before:141>",
         "params": [
             0,
@@ -3982,7 +3982,7 @@
     {
         "id": 143,
         "atypeId": 0,
-        "description": "敗北時に敵の数×１００の闇を獲得する",
+        "description": "Obtain darkness equal to the number of enemies multiplied by 100 upon defeat.",
         "etypeId": 2,
         "traits": [
             {
@@ -3992,7 +3992,7 @@
             }
         ],
         "iconIndex": 79,
-        "name": "輪姦願望",
+        "name": "Gang Rape Desire",
         "note": "<before:142>",
         "params": [
             0,
@@ -4009,7 +4009,7 @@
     {
         "id": 144,
         "atypeId": 0,
-        "description": "ゴブリン相手にわざと敗北することができる",
+        "description": "You can intentionally lose against goblins.",
         "etypeId": 2,
         "traits": [
             {
@@ -4019,7 +4019,7 @@
             }
         ],
         "iconIndex": 1989,
-        "name": "ゴブリン輪姦願望",
+        "name": "Goblin Gangbang Desire",
         "note": "",
         "params": [
             0,
@@ -4036,7 +4036,7 @@
     {
         "id": 145,
         "atypeId": 0,
-        "description": "賊相手にわざと敗北することができる",
+        "description": "You can intentionally lose against thieves.",
         "etypeId": 2,
         "traits": [
             {
@@ -4046,7 +4046,7 @@
             }
         ],
         "iconIndex": 1989,
-        "name": "山賊輪姦願望",
+        "name": "Bandit Gang Rape Desire",
         "note": "",
         "params": [
             0,
@@ -4117,7 +4117,7 @@
     {
         "id": 148,
         "atypeId": 0,
-        "description": "メイヴィスの調教イベントのフラグ",
+        "description": "Mavis' training event flag",
         "etypeId": 2,
         "traits": [
             {
@@ -4127,7 +4127,7 @@
             }
         ],
         "iconIndex": 1957,
-        "name": "ドＭ勇者",
+        "name": "Masochistic Hero",
         "note": "",
         "params": [
             0,
@@ -4171,7 +4171,7 @@
     {
         "id": 150,
         "atypeId": 0,
-        "description": "人間相手の場合、１０ヶ月の妊娠期間が３日になる",
+        "description": "In the case of humans, the pregnancy period of 10 months becomes 3 days.",
         "etypeId": 2,
         "traits": [
             {
@@ -4181,7 +4181,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "妊娠期間短縮",
+        "name": "Shortened pregnancy period",
         "note": "",
         "params": [
             0,
@@ -4198,7 +4198,7 @@
     {
         "id": 151,
         "atypeId": 0,
-        "description": "精液をぶっかけられると\n次までの経験値の１％を獲得する",
+        "description": "When covered in semen, you gain 1% of the experience points needed for the next level.",
         "etypeId": 2,
         "traits": [
             {
@@ -4208,7 +4208,7 @@
             }
         ],
         "iconIndex": 2026,
-        "name": "ぶっかけチャージ",
+        "name": "Bukkake Charge",
         "note": "",
         "params": [
             0,
@@ -4252,7 +4252,7 @@
     {
         "id": 153,
         "atypeId": 0,
-        "description": "薬を敵に投げつけたときの効果ターン＋２",
+        "description": "Effect: Turn +2 when throwing medicine at enemies.",
         "etypeId": 2,
         "traits": [
             {
@@ -4262,7 +4262,7 @@
             }
         ],
         "iconIndex": 176,
-        "name": "薬の知識",
+        "name": "Knowledge of Medicine",
         "note": "<kusuriTurn:2>",
         "params": [
             0,
@@ -4279,7 +4279,7 @@
     {
         "id": 154,
         "atypeId": 0,
-        "description": "杖の状態異常の効果ターン＋１",
+        "description": "Effect of abnormal status on staff increases by 1 turn.",
         "etypeId": 2,
         "traits": [
             {
@@ -4289,7 +4289,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "杖への魔力供給",
+        "name": "Magic Power Supply to the Staff",
         "note": "<tueTurn:1>",
         "params": [
             0,
@@ -4333,7 +4333,7 @@
     {
         "id": 156,
         "atypeId": 0,
-        "description": "獲得する精液量＋１０％",
+        "description": "Increase acquired semen volume by 10%.",
         "etypeId": 2,
         "traits": [
             {
@@ -4343,7 +4343,7 @@
             }
         ],
         "iconIndex": 2026,
-        "name": "絞り出しの技",
+        "name": "Squeezing Technique",
         "note": "<seiekiPlus:10>",
         "params": [
             0,
@@ -4387,7 +4387,7 @@
     {
         "id": 158,
         "atypeId": 0,
-        "description": "敗北レイプの後も１度だけ冒険を続行できる\n（ボス相手は不可）",
+        "description": "After the defeat rape, you can continue the adventure only once. (Boss battles are not allowed)",
         "etypeId": 2,
         "traits": [
             {
@@ -4397,7 +4397,7 @@
             }
         ],
         "iconIndex": 77,
-        "name": "忍耐",
+        "name": "Patience",
         "note": "<before:161>",
         "params": [
             0,
@@ -4414,7 +4414,7 @@
     {
         "id": 159,
         "atypeId": 0,
-        "description": "敗北レイプの後にさらに１度、冒険を続行できる",
+        "description": "After the defeat rape, you can continue the adventure one more time.",
         "etypeId": 2,
         "traits": [
             {
@@ -4424,7 +4424,7 @@
             }
         ],
         "iconIndex": 77,
-        "name": "不屈",
+        "name": "Indomitable",
         "note": "<before:158>",
         "params": [
             0,
@@ -4441,7 +4441,7 @@
     {
         "id": 160,
         "atypeId": 0,
-        "description": "最大HPが５上昇する",
+        "description": "Maximum HP increases by 5.",
         "etypeId": 2,
         "traits": [
             {
@@ -4451,7 +4451,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "最大HP＋５",
+        "name": "Maximum HP +5",
         "note": "",
         "params": [
             5,
@@ -4468,7 +4468,7 @@
     {
         "id": 161,
         "atypeId": 0,
-        "description": "最大HPが８上昇する",
+        "description": "Maximum HP increases by 8.",
         "etypeId": 2,
         "traits": [
             {
@@ -4478,7 +4478,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "最大HP＋８",
+        "name": "Maximum HP +8",
         "note": "<before:160>",
         "params": [
             8,
@@ -4495,7 +4495,7 @@
     {
         "id": 162,
         "atypeId": 0,
-        "description": "最大HPが１０上昇する",
+        "description": "Maximum HP increases by 10.",
         "etypeId": 2,
         "traits": [
             {
@@ -4505,7 +4505,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "最大HP＋１０",
+        "name": "Maximum HP +10",
         "note": "<before:161>",
         "params": [
             10,
@@ -4522,7 +4522,7 @@
     {
         "id": 163,
         "atypeId": 0,
-        "description": "最大HPが１２上昇する",
+        "description": "Maximum HP increases by 12.",
         "etypeId": 2,
         "traits": [
             {
@@ -4532,7 +4532,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "最大HP＋１２",
+        "name": "Maximum HP +12",
         "note": "<before:162>",
         "params": [
             12,
@@ -4549,7 +4549,7 @@
     {
         "id": 164,
         "atypeId": 0,
-        "description": "最大HPが１５上昇する",
+        "description": "Maximum HP increases by 15.",
         "etypeId": 2,
         "traits": [
             {
@@ -4559,7 +4559,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "最大HP＋１５",
+        "name": "Maximum HP +15",
         "note": "<before:163>",
         "params": [
             15,
@@ -4576,7 +4576,7 @@
     {
         "id": 165,
         "atypeId": 0,
-        "description": "最大MPが２上昇する",
+        "description": "Maximum MP increases by 2.",
         "etypeId": 2,
         "traits": [
             {
@@ -4586,7 +4586,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "最大MP＋２",
+        "name": "Maximum MP +2",
         "note": "",
         "params": [
             0,
@@ -4603,7 +4603,7 @@
     {
         "id": 166,
         "atypeId": 0,
-        "description": "最大MPが２上昇する",
+        "description": "Maximum MP increases by 2.",
         "etypeId": 2,
         "traits": [
             {
@@ -4613,7 +4613,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "最大MP＋２",
+        "name": "Maximum MP +2",
         "note": "<before:165>",
         "params": [
             0,
@@ -4630,7 +4630,7 @@
     {
         "id": 167,
         "atypeId": 0,
-        "description": "最大MPが２上昇する",
+        "description": "Maximum MP increases by 2.",
         "etypeId": 2,
         "traits": [
             {
@@ -4640,7 +4640,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "最大MP＋２",
+        "name": "Maximum MP +2",
         "note": "<before:166>",
         "params": [
             0,
@@ -4657,7 +4657,7 @@
     {
         "id": 168,
         "atypeId": 0,
-        "description": "最大MPが２上昇する",
+        "description": "Maximum MP increases by 2.",
         "etypeId": 2,
         "traits": [
             {
@@ -4667,7 +4667,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "最大MP＋２",
+        "name": "Maximum MP +2",
         "note": "<before:167>",
         "params": [
             0,
@@ -4684,7 +4684,7 @@
     {
         "id": 169,
         "atypeId": 0,
-        "description": "最大MPが２上昇する",
+        "description": "Maximum MP increases by 2.",
         "etypeId": 2,
         "traits": [
             {
@@ -4694,7 +4694,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "最大MP＋２",
+        "name": "Maximum MP +2",
         "note": "<before:168>",
         "params": [
             0,
@@ -4711,7 +4711,7 @@
     {
         "id": 170,
         "atypeId": 0,
-        "description": "攻撃力が１上昇する",
+        "description": "Attack power increases by 1.",
         "etypeId": 2,
         "traits": [
             {
@@ -4721,7 +4721,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "攻撃力＋１",
+        "name": "Attack Power +1",
         "note": "",
         "params": [
             0,
@@ -4738,7 +4738,7 @@
     {
         "id": 171,
         "atypeId": 0,
-        "description": "攻撃力が２上昇する",
+        "description": "Attack power increases by 2.",
         "etypeId": 2,
         "traits": [
             {
@@ -4748,7 +4748,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "攻撃力＋２",
+        "name": "Attack Power +2",
         "note": "<before:170>",
         "params": [
             0,
@@ -4765,7 +4765,7 @@
     {
         "id": 172,
         "atypeId": 0,
-        "description": "攻撃力が２上昇する",
+        "description": "Attack power increases by 2.",
         "etypeId": 2,
         "traits": [
             {
@@ -4775,7 +4775,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "攻撃力＋２",
+        "name": "Attack Power +2",
         "note": "<before:171>",
         "params": [
             0,
@@ -4792,7 +4792,7 @@
     {
         "id": 173,
         "atypeId": 0,
-        "description": "攻撃力が３上昇する",
+        "description": "Attack power increases by 3.",
         "etypeId": 2,
         "traits": [
             {
@@ -4802,7 +4802,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "攻撃力＋３",
+        "name": "Attack Power +3",
         "note": "<before:172>",
         "params": [
             0,
@@ -4819,7 +4819,7 @@
     {
         "id": 174,
         "atypeId": 0,
-        "description": "攻撃力が３上昇する",
+        "description": "Attack power increases by 3.",
         "etypeId": 2,
         "traits": [
             {
@@ -4829,7 +4829,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "攻撃力＋３",
+        "name": "Attack Power +3",
         "note": "<before:173>",
         "params": [
             0,
@@ -4910,7 +4910,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ダークネススラッシュ",
+        "name": "Darkness Slash",
         "note": "<skill:178>",
         "params": [
             0,
@@ -4937,7 +4937,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "シャドウスピア",
+        "name": "Shadow Spear",
         "note": "<skill:174>",
         "params": [
             0,
@@ -4964,7 +4964,7 @@
             }
         ],
         "iconIndex": 77,
-        "name": "チャージ",
+        "name": "Charge",
         "note": "<skill:175>",
         "params": [
             0,
@@ -4981,7 +4981,7 @@
     {
         "id": 180,
         "atypeId": 0,
-        "description": "ブラックアウトのスキルを習得する",
+        "description": "Learn the skill 'Blackout'.",
         "etypeId": 2,
         "traits": [
             {
@@ -4991,7 +4991,7 @@
             }
         ],
         "iconIndex": 82,
-        "name": "ブラックアウト",
+        "name": "Blackout",
         "note": "<skill:177>",
         "params": [
             0,
@@ -5035,7 +5035,7 @@
     {
         "id": 182,
         "atypeId": 0,
-        "description": "敗北まんぐり返しのスキルを習得する",
+        "description": "Learn the skill of turning defeat into victory.",
         "etypeId": 2,
         "traits": [
             {
@@ -5045,7 +5045,7 @@
             }
         ],
         "iconIndex": 404,
-        "name": "敗北まんぐり返し",
+        "name": "Comeback from Defeat",
         "note": "<skill:180>\n<before:161>",
         "params": [
             0,
@@ -5143,7 +5143,7 @@
     {
         "id": 186,
         "atypeId": 0,
-        "description": "武器防具を投擲した時のダメージが通常攻撃の７０％になる",
+        "description": "When throwing weapons and armor, the damage becomes 70% of a normal attack.",
         "etypeId": 2,
         "traits": [
             {
@@ -5153,7 +5153,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "投擲○",
+        "name": "Throwing Circle",
         "note": "<before:163>",
         "params": [
             0,
@@ -5170,7 +5170,7 @@
     {
         "id": 187,
         "atypeId": 0,
-        "description": "命中＋５％",
+        "description": "Hit rate +5%",
         "etypeId": 2,
         "traits": [
             {
@@ -5180,7 +5180,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "武神の技",
+        "name": "God of War's Technique",
         "note": "<before:173>",
         "params": [
             0,
@@ -5558,7 +5558,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "羽飾り",
+        "name": "Feather ornament",
         "note": "<middleAcce:1>\n<acce:1>\n",
         "params": [
             0,
@@ -5585,7 +5585,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "サークレット",
+        "name": "Circlet",
         "note": "<frontAcce:2>\n<acce:2>\n",
         "params": [
             0,
@@ -5602,7 +5602,7 @@
     {
         "id": 203,
         "atypeId": 0,
-        "description": "赤いチョーカー",
+        "description": "Red choker",
         "etypeId": 2,
         "traits": [
             {
@@ -5612,7 +5612,7 @@
             }
         ],
         "iconIndex": 1963,
-        "name": "チョーカー",
+        "name": "Choker",
         "note": "<frontAcce:3>\n<acce:3>\n",
         "params": [
             0,
@@ -5629,7 +5629,7 @@
     {
         "id": 204,
         "atypeId": 0,
-        "description": "メイヴィスによってつけられた忠誠を誓わせる首輪。\n呪いがかけられているため、外せない。",
+        "description": "A collar that Mavis has put on to make them swear loyalty. It cannot be removed because it is\ncursed.",
         "etypeId": 2,
         "traits": [
             {
@@ -5639,7 +5639,7 @@
             }
         ],
         "iconIndex": 1963,
-        "name": "隷属の首輪",
+        "name": "Collar of Subjugation",
         "note": "<frontAcce:4>\n<acce:4>\n<lock:880>\n<x:310>\n<y:232>",
         "params": [
             0,
@@ -5747,7 +5747,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "懐妊促進の淫紋",
+        "name": "Fertility-boosting lewd seal",
         "note": "<skinAcce:8>\n<acce:8>\n<bote>\n<x:290>\n<y:520>\n<lock:881>",
         "params": [
             0,
@@ -5774,7 +5774,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "淫紋(光)",
+        "name": "Lewd Mark (Light)",
         "note": "<middleAcce:9>\n<acce:9>\n",
         "params": [
             0,
@@ -5801,7 +5801,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "メスブタ用乳首ピアス",
+        "name": "Nipple Piercing for Female Pigs",
         "note": "<skinAcce:10>\n<acce:10>\n<breastAcce>\n<lock:885>\n<order:200>\n\n<x:225>\n<y:345>",
         "params": [
             0,
@@ -5872,7 +5872,7 @@
     {
         "id": 213,
         "atypeId": 0,
-        "description": "性奴隷として売られたときに入れられた焼印。\n２度と消すことはできない特殊な印。",
+        "description": "A special mark that cannot be erased, branded on me when I was sold as a sex slave.",
         "etypeId": 2,
         "traits": [
             {
@@ -5882,7 +5882,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "性奴隷の焼印",
+        "name": "Brand of the Sex Slave",
         "note": "<skinAcce:13>\n<acce:13>\n<lock:884>\n<order:200>\n<x:355>\n<y:315>",
         "params": [
             0,
@@ -5899,7 +5899,7 @@
     {
         "id": 214,
         "atypeId": 0,
-        "description": "山賊によって孕まされたことを示す焼き印。\n恥辱の文言により、その後の人生が台無しになる例も。",
+        "description": "A branding mark that indicates being impregnated by bandits. There are also cases where one's life\nis ruined due to the humiliating wording.",
         "etypeId": 2,
         "traits": [
             {
@@ -5909,7 +5909,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "山賊による焼印",
+        "name": "Branding by Bandits",
         "note": "<skinAcce:14>\n<acce:14>\n<order:200>\n<lock:883>\n<x:290>\n<y:446>\n<bote>",
         "params": [
             0,
@@ -5926,7 +5926,7 @@
     {
         "id": 215,
         "atypeId": 0,
-        "description": "ゴブリンの孕み袋になったことの証。\n世間では、この焼印がある者は蔑まれるという。",
+        "description": "Proof of becoming a Goblin's breeding bag. In society, those with this brand are scorned.",
         "etypeId": 2,
         "traits": [
             {
@@ -5936,7 +5936,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ゴブリンによる焼印",
+        "name": "Goblin's Branding",
         "note": "<skinAcce:15>\n<acce:15>\n<bote>\n<order:200>\n<lock:882>\n<x:334>\n<y:490>",
         "params": [
             0,
@@ -5963,7 +5963,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "チャラいへそピアス",
+        "name": "Trendy Belly Button Piercing",
         "note": "<skinAcce:16>\n<acce:16>\n<bote>\n\n<order:200>\n\n<x:285>\n<y:475>",
         "params": [
             0,
@@ -5990,7 +5990,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "便所の証のクリピアス",
+        "name": "Toilet Proof Kripias",
         "note": "<skinAcce:17>\n<acce:17>\n\n<order:200>\n\n<x:290>\n<y:585>",
         "params": [
             0,
@@ -6007,7 +6007,7 @@
     {
         "id": 218,
         "atypeId": 0,
-        "description": "尻尾のアクセ",
+        "description": "Tail Accessory",
         "etypeId": 2,
         "traits": [
             {
@@ -6017,7 +6017,7 @@
             }
         ],
         "iconIndex": 330,
-        "name": "悪魔の尻尾",
+        "name": "Devil's Tail",
         "note": "<backAcce:18>\n<acce:18>\n\n<order:200>\n\n<x:440>\n<y:575>",
         "params": [
             0,
@@ -6034,7 +6034,7 @@
     {
         "id": 219,
         "atypeId": 0,
-        "description": "バニーの耳のアクセ",
+        "description": "Bunny ear accessory",
         "etypeId": 2,
         "traits": [
             {
@@ -6044,7 +6044,7 @@
             }
         ],
         "iconIndex": 2155,
-        "name": "バニーの耳",
+        "name": "Bunny Ears",
         "note": "<middleAcce:19>\n<acce:19>\n\n<order:200>\n\n",
         "params": [
             0,
@@ -6061,7 +6061,7 @@
     {
         "id": 220,
         "atypeId": 0,
-        "description": "足が綺麗に見えるタイツのアクセ",
+        "description": "Tights that make your legs look beautiful accessory",
         "etypeId": 2,
         "traits": [
             {
@@ -6071,7 +6071,7 @@
             }
         ],
         "iconIndex": 2176,
-        "name": "タイツ",
+        "name": "Tights",
         "note": "<middleAcce:20>\n<acce:20>\n<bote>\n<order:200>\n\n",
         "params": [
             0,
@@ -6088,7 +6088,7 @@
     {
         "id": 221,
         "atypeId": 0,
-        "description": "ちんぽが生えてくる。\nコレットとセックスすることができるようになる。",
+        "description": "A penis starts growing. You become able to have sex with Colette.",
         "etypeId": 2,
         "traits": [
             {
@@ -6098,7 +6098,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ふたなりちんぽ",
+        "name": "Futanari penis",
         "note": "<middleAcce:21>\n<acce:21>\n<noBottom2>\n<estrus1:60>\n<estrus2:100>\n<x:290>\n<y:595>",
         "params": [
             0,
@@ -6125,7 +6125,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "母乳",
+        "name": "Breast milk",
         "note": "<skinAcce:22>\n<acce:22>\n<breastAcce>\n",
         "params": [
             0,
@@ -6152,7 +6152,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "巨大乳首",
+        "name": "Giant Nipples",
         "note": "<middleAcce:23>\n<acce:23>\n<noTop>",
         "params": [
             0,
@@ -6179,7 +6179,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "黒乳首",
+        "name": "Black Nipples",
         "note": "\n<acce:24>\n<kuro:2>",
         "params": [
             0,
@@ -6196,7 +6196,7 @@
     {
         "id": 225,
         "atypeId": 0,
-        "description": "運動にいいはちまき",
+        "description": "Hachimaki is good for exercise.",
         "etypeId": 2,
         "traits": [
             {
@@ -6206,7 +6206,7 @@
             }
         ],
         "iconIndex": 1963,
-        "name": "赤はちまき",
+        "name": "Red Headband",
         "note": "<frontAcce:25>\n<acce:25>\n",
         "params": [
             0,
@@ -6223,7 +6223,7 @@
     {
         "id": 226,
         "atypeId": 0,
-        "description": "ふとももに正の字の落書きをつけることができる",
+        "description": "You can draw a plus sign on my thighs.",
         "etypeId": 2,
         "traits": [
             {
@@ -6233,7 +6233,7 @@
             }
         ],
         "iconIndex": 2165,
-        "name": "正の落書き",
+        "name": "Positive Graffiti",
         "note": "<skinAcce:96>\n<acce:96>\n<p>",
         "params": [
             0,
@@ -6250,7 +6250,7 @@
     {
         "id": 227,
         "atypeId": 0,
-        "description": "ふとももに500Gの落書きをつけることができる",
+        "description": "I can draw a 500G graffiti on your thighs.",
         "etypeId": 2,
         "traits": [
             {
@@ -6260,7 +6260,7 @@
             }
         ],
         "iconIndex": 2165,
-        "name": "500Gの落書き",
+        "name": "Doodle of 500G",
         "note": "<skinAcce:97>\n<acce:97>\n<p>",
         "params": [
             0,
@@ -6277,7 +6277,7 @@
     {
         "id": 228,
         "atypeId": 0,
-        "description": "ふとももにおめこマークの落書きをつけることができる",
+        "description": "You can draw a graffiti of a vagina mark on the thigh.",
         "etypeId": 2,
         "traits": [
             {
@@ -6287,7 +6287,7 @@
             }
         ],
         "iconIndex": 2165,
-        "name": "おめこの落書き",
+        "name": "Doodle on the forehead",
         "note": "<skinAcce:98>\n<acce:98>\n<p>",
         "params": [
             0,
@@ -6304,7 +6304,7 @@
     {
         "id": 229,
         "atypeId": 0,
-        "description": "ふとももに中出し専用の落書きをつけることができる",
+        "description": "You can add a creampie-only graffiti on the thighs.",
         "etypeId": 2,
         "traits": [
             {
@@ -6314,7 +6314,7 @@
             }
         ],
         "iconIndex": 2165,
-        "name": "中出し専用の落書き",
+        "name": "Creampie Exclusive Graffiti",
         "note": "<skinAcce:99>\n<acce:99>\n<p>",
         "params": [
             0,
@@ -6331,7 +6331,7 @@
     {
         "id": 230,
         "atypeId": 0,
-        "description": "ふとももに垂れた精液をつけることができる",
+        "description": "You can apply semen that dripped onto the thighs.",
         "etypeId": 2,
         "traits": [
             {
@@ -6341,7 +6341,7 @@
             }
         ],
         "iconIndex": 2165,
-        "name": "ふともも精液",
+        "name": "Thigh Semen",
         "note": "<skinAcce:90>\n<acce:90>\n<p>",
         "params": [
             0,
@@ -6368,7 +6368,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液A",
+        "name": "Semen A",
         "note": "<seiekiFront>\n<seieki>\n<acce:31>\n",
         "params": [
             0,
@@ -6395,7 +6395,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液B",
+        "name": "Semen B",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:32>\n",
         "params": [
             0,
@@ -6422,7 +6422,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液C",
+        "name": "Semen C",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:33>\n",
         "params": [
             0,
@@ -6449,7 +6449,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液D",
+        "name": "Semen D",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:34>\n",
         "params": [
             0,
@@ -6476,7 +6476,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液E",
+        "name": "Semen E",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:35>\n",
         "params": [
             0,
@@ -6503,7 +6503,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液F",
+        "name": "Semen F",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:36>\n",
         "params": [
             0,
@@ -6530,7 +6530,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液G",
+        "name": "Semen G",
         "note": "<seiekiFront>\n<seieki>\n<acce:37>\n",
         "params": [
             0,
@@ -6557,7 +6557,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液H",
+        "name": "Semen H",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:38>\n",
         "params": [
             0,
@@ -6584,7 +6584,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液I",
+        "name": "Semen I",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:39>\n",
         "params": [
             0,
@@ -6611,7 +6611,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液J",
+        "name": "Semen J",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:40>\n",
         "params": [
             0,
@@ -6638,7 +6638,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液K",
+        "name": "Semen K",
         "note": "<seiekiFront>\n<seieki>\n<acce:41>\n",
         "params": [
             0,
@@ -6665,7 +6665,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液L",
+        "name": "Semen L",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:42>\n",
         "params": [
             0,
@@ -6692,7 +6692,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液M",
+        "name": "Semen M",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:43>\n",
         "params": [
             0,
@@ -6719,7 +6719,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液N",
+        "name": "Semen N",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:44>\n",
         "params": [
             0,
@@ -6746,7 +6746,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液O",
+        "name": "Semen O",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:45>\n",
         "params": [
             0,
@@ -6773,7 +6773,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液P",
+        "name": "Semen P",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:46>\n",
         "params": [
             0,
@@ -6800,7 +6800,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液Q",
+        "name": "Semen Q",
         "note": "<seiekiFront>\n<seieki>\n<acce:47>\n",
         "params": [
             0,
@@ -6827,7 +6827,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液R",
+        "name": "Semen R",
         "note": "<seiekiFront>\n<seieki>\n<acce:48>\n",
         "params": [
             0,
@@ -6854,7 +6854,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液S",
+        "name": "Semen S",
         "note": "<seiekiFront>\n<seieki>\n<acce:49>\n",
         "params": [
             0,
@@ -6881,7 +6881,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液T",
+        "name": "Semen T",
         "note": "<seiekiFront>\n<seieki>\n<acce:50>\n",
         "params": [
             0,
@@ -6908,7 +6908,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "精液U",
+        "name": "Semen U",
         "note": "<seiekiFront>\n<seieki>\n<acce:51>\n",
         "params": [
             0,
@@ -6952,7 +6952,7 @@
     {
         "id": 253,
         "atypeId": 0,
-        "description": "ふとももに垂れた精液をつけることができる",
+        "description": "You can apply semen that dripped onto the thighs.",
         "etypeId": 2,
         "traits": [
             {
@@ -6962,7 +6962,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ボテ腹に手",
+        "name": "Hands on the potbelly",
         "note": "<frontAcce:27>\n<acce:27>\n",
         "params": [
             0,
@@ -6979,7 +6979,7 @@
     {
         "id": 254,
         "atypeId": 0,
-        "description": "ふとももに垂れた精液をつけることができる",
+        "description": "You can apply semen that dripped onto the thighs.",
         "etypeId": 2,
         "traits": [
             {
@@ -6989,7 +6989,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "下腹に手",
+        "name": "Hand on the lower abdomen",
         "note": "<frontAcce:28>\n<acce:28>\n",
         "params": [
             0,
@@ -7006,7 +7006,7 @@
     {
         "id": 255,
         "atypeId": 0,
-        "description": "ふとももに垂れた精液をつけることができる",
+        "description": "You can apply semen that dripped onto the thighs.",
         "etypeId": 2,
         "traits": [
             {
@@ -7016,7 +7016,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "顔に手",
+        "name": "Hand on the face",
         "note": "<frontAcce:29>\n<acce:29>\n",
         "params": [
             0,
@@ -7060,7 +7060,7 @@
     {
         "id": 257,
         "atypeId": 0,
-        "description": "鼻を豚鼻にできる",
+        "description": "Can make the nose into a pig's snout.",
         "etypeId": 2,
         "traits": [
             {
@@ -7070,7 +7070,7 @@
             }
         ],
         "iconIndex": 2107,
-        "name": "鼻フック",
+        "name": "Nose Hook",
         "note": "<frontAcce:30>\n<acce:30>\n",
         "params": [
             0,
@@ -7087,7 +7087,7 @@
     {
         "id": 258,
         "atypeId": 0,
-        "description": "陰毛を生やすことができる",
+        "description": "It is possible to grow pubic hair.",
         "etypeId": 2,
         "traits": [
             {
@@ -7097,7 +7097,7 @@
             }
         ],
         "iconIndex": 2166,
-        "name": "陰毛A",
+        "name": "Pubic Hair A",
         "note": "<skinAcce:131>\n<acce:131>\n",
         "params": [
             0,
@@ -7114,7 +7114,7 @@
     {
         "id": 259,
         "atypeId": 0,
-        "description": "陰毛を生やすことができる",
+        "description": "It is possible to grow pubic hair.",
         "etypeId": 2,
         "traits": [
             {
@@ -7124,7 +7124,7 @@
             }
         ],
         "iconIndex": 2166,
-        "name": "陰毛B",
+        "name": "Pubic Hair B",
         "note": "<skinAcce:132>\n<acce:132>\n",
         "params": [
             0,
@@ -7141,7 +7141,7 @@
     {
         "id": 260,
         "atypeId": 0,
-        "description": "陰毛を生やすことができる",
+        "description": "You can grow pubic hair.",
         "etypeId": 2,
         "traits": [
             {
@@ -7151,7 +7151,7 @@
             }
         ],
         "iconIndex": 2166,
-        "name": "陰毛C",
+        "name": "Pubic Hair C",
         "note": "<skinAcce:133>\n<acce:133>\n",
         "params": [
             0,
@@ -7178,7 +7178,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "溢れ精液A",
+        "name": "Overflowing Semen A",
         "note": "<backAcce:61>\n<acce:61>\n<order:264>\n",
         "params": [
             0,
@@ -7205,7 +7205,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "溢れ精液B",
+        "name": "Overflowing Semen B",
         "note": "<backAcce:62>\n<acce:62>\n<order:263>",
         "params": [
             0,
@@ -7232,7 +7232,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "溢れ精液C",
+        "name": "Overflowing Semen C",
         "note": "<backAcce:63>\n<acce:63>\n<order:262>",
         "params": [
             0,
@@ -7259,7 +7259,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "溢れ精液D",
+        "name": "Overflowing Semen D",
         "note": "<backAcce:64>\n<acce:64>\n\n<order:261>",
         "params": [
             0,
@@ -7286,7 +7286,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "溢れ精液E",
+        "name": "Overflowing Semen E",
         "note": "<backAcce:65>\n<acce:65>\n\n<order:260>",
         "params": [
             0,
@@ -7313,7 +7313,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "垂れ精液A",
+        "name": "Drooping Semen A",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:66>\n",
         "params": [
             0,
@@ -7340,7 +7340,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "垂れ精液B",
+        "name": "Drooping Semen B",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:67>\n",
         "params": [
             0,
@@ -7367,7 +7367,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "垂れ精液C",
+        "name": "Drooping Semen C",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:68>\n",
         "params": [
             0,
@@ -7394,7 +7394,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "垂れ精液D",
+        "name": "Drooping Semen D",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:69>\n<poseD:69_d>",
         "params": [
             0,
@@ -7421,7 +7421,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "垂れ精液E",
+        "name": "Drooping Semen E",
         "note": "<seiekiMiddle>\n<seieki>\n<acce:70>\n<poseD:70_d>",
         "params": [
             0,
@@ -7448,7 +7448,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "愛液A",
+        "name": "Love Juice A",
         "note": "\n<middleAcce:71>\n<acce:71>\n",
         "params": [
             0,
@@ -7475,7 +7475,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "愛液B",
+        "name": "Love Juice B",
         "note": "\n<middleAcce:72>\n<acce:72>\n",
         "params": [
             0,
@@ -7556,7 +7556,7 @@
             }
         ],
         "iconIndex": 2000,
-        "name": "乳輪A",
+        "name": "Areola A",
         "note": "\n<acce:199>\n<nyurin:1>\n<group:10>\n",
         "params": [
             0,
@@ -7573,7 +7573,7 @@
     {
         "id": 276,
         "atypeId": 0,
-        "description": "ちょっと大きい乳輪",
+        "description": "Slightly large areolas",
         "etypeId": 2,
         "traits": [
             {
@@ -7583,7 +7583,7 @@
             }
         ],
         "iconIndex": 2000,
-        "name": "乳輪B",
+        "name": "Areola B",
         "note": "\n<acce:199>\n<nyurin:2>\n<group:10>\n",
         "params": [
             0,
@@ -7600,7 +7600,7 @@
     {
         "id": 277,
         "atypeId": 0,
-        "description": "かなり大きい乳輪",
+        "description": "Quite large areolas",
         "etypeId": 2,
         "traits": [
             {
@@ -7610,7 +7610,7 @@
             }
         ],
         "iconIndex": 2000,
-        "name": "乳輪C",
+        "name": "Areola C",
         "note": "\n<acce:199>\n<nyurin:3>\n<group:10>\n",
         "params": [
             0,
@@ -7718,7 +7718,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "通常胸",
+        "name": "Normal Chest",
         "note": "\n<acce:198>\n<breast:1>\n<group:11>\n",
         "params": [
             0,
@@ -7745,7 +7745,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "微胸",
+        "name": "Small bust",
         "note": "\n<acce:198>\n<breast:2>\n<group:11>\n",
         "params": [
             0,
@@ -7772,7 +7772,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "巨胸",
+        "name": "Large breasts",
         "note": "\n<acce:198>\n<breast:3>\n<group:11>\n",
         "params": [
             0,
@@ -7853,7 +7853,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "呪いの下着",
+        "name": "Cursed underwear",
         "note": "\n<skinAcce:102>\n<acce:102>\n",
         "params": [
             0,
@@ -7880,7 +7880,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "スライムの剣",
+        "name": "Slime Sword",
         "note": "\n<skinAcce:101>\n<acce:101>\n<breastAcce>",
         "params": [
             0,
@@ -8015,7 +8015,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "フェラ",
+        "name": "Fera",
         "note": "<frontAcce:92>\n<acce:92>\n",
         "params": [
             0,
@@ -8069,7 +8069,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "口精液",
+        "name": "Mouth Semen",
         "note": "<frontAcce:94>\n<acce:94>\n",
         "params": [
             0,
@@ -8096,7 +8096,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "マスク",
+        "name": "Mask",
         "note": "<frontAcce:95>\n<acce:95>\n",
         "params": [
             0,
@@ -8258,7 +8258,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "聖騎士の服",
+        "name": "Holy Knight's Armor",
         "note": "\n<outer:b>\n",
         "params": [
             0,
@@ -8275,7 +8275,7 @@
     {
         "id": 302,
         "atypeId": 0,
-        "description": "女性が売春するときによく着られる服",
+        "description": "Clothes commonly worn by women when engaging in prostitution.",
         "etypeId": 2,
         "traits": [
             {
@@ -8285,7 +8285,7 @@
             }
         ],
         "iconIndex": 2134,
-        "name": "娼婦の服",
+        "name": "Prostitute's clothing",
         "note": "\n<outerTop:e>\n<order:314>",
         "params": [
             0,
@@ -8501,7 +8501,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "胸パーツなし",
+        "name": "No chest part",
         "note": "<outerTop:a>\n",
         "params": [
             0,
@@ -8528,7 +8528,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ビキニアーマー上",
+        "name": "Bikini Armor Top",
         "note": "\n<outerTop:c>\n",
         "params": [
             0,
@@ -8555,7 +8555,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "セーラー服上",
+        "name": "Sailor Uniform Top",
         "note": "\n<outerTop:d>\n",
         "params": [
             0,
@@ -8582,7 +8582,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "パジャマ上",
+        "name": "Pajama Top",
         "note": "\n<outerTop:f>\n",
         "params": [
             0,
@@ -8599,7 +8599,7 @@
     {
         "id": 314,
         "atypeId": 0,
-        "description": "とある学校の運動着のレプリカ",
+        "description": "Replica of a school gym uniform",
         "etypeId": 2,
         "traits": [
             {
@@ -8609,7 +8609,7 @@
             }
         ],
         "iconIndex": 2144,
-        "name": "体操服上",
+        "name": "Gym uniform top",
         "note": "\n<outerTop:g>\n",
         "params": [
             0,
@@ -8626,7 +8626,7 @@
     {
         "id": 315,
         "atypeId": 0,
-        "description": "とある学校の水着のレプリカ",
+        "description": "Replica of a school swimsuit",
         "etypeId": 2,
         "traits": [
             {
@@ -8636,7 +8636,7 @@
             }
         ],
         "iconIndex": 2145,
-        "name": "スクール水着",
+        "name": "School Swimsuit",
         "note": "<chinpo>\n<innerTop:h>\n<order:375>",
         "params": [
             0,
@@ -8653,7 +8653,7 @@
     {
         "id": 316,
         "atypeId": 0,
-        "description": "カジノで使われる衣装",
+        "description": "Costumes used in the casino",
         "etypeId": 2,
         "traits": [
             {
@@ -8663,7 +8663,7 @@
             }
         ],
         "iconIndex": 2155,
-        "name": "バニースーツ",
+        "name": "Bunny Suit",
         "note": "<chinpo>\n<outerTop:i>\n",
         "params": [
             0,
@@ -9041,7 +9041,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "腰パーツなし",
+        "name": "No waist part",
         "note": "<outerBottom:a>\n",
         "params": [
             0,
@@ -9068,7 +9068,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ビキニアーマー下",
+        "name": "Bikini Armor Bottom",
         "note": "<chinpo>\n<outerBottom:c>\n",
         "params": [
             0,
@@ -9095,7 +9095,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "セーラー服下",
+        "name": "Sailor Uniform Skirt",
         "note": "\n<outerBottom:d>\n",
         "params": [
             0,
@@ -9122,7 +9122,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "パジャマ下",
+        "name": "Pajama bottoms",
         "note": "\n<outerBottom:f>\n",
         "params": [
             0,
@@ -9139,7 +9139,7 @@
     {
         "id": 334,
         "atypeId": 0,
-        "description": "とある学校の運動着のレプリカ",
+        "description": "Replica of a school gym uniform",
         "etypeId": 2,
         "traits": [
             {
@@ -9149,7 +9149,7 @@
             }
         ],
         "iconIndex": 2144,
-        "name": "体操服下",
+        "name": "Gym Uniform Bottoms",
         "note": "<chinpo>\n<outerBottom:g>\n",
         "params": [
             0,
@@ -9581,7 +9581,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "腕パーツなし",
+        "name": "No arm parts",
         "note": "<arm:a>\n",
         "params": [
             0,
@@ -9608,7 +9608,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ガントレット",
+        "name": "Gauntlet",
         "note": "<arm:b>\n",
         "params": [
             0,
@@ -9635,7 +9635,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "革の手袋(白)",
+        "name": "Leather Gloves (White)",
         "note": "<arm:d>\n",
         "params": [
             0,
@@ -9652,7 +9652,7 @@
     {
         "id": 353,
         "atypeId": 0,
-        "description": "バニーの腕パーツ",
+        "description": "Bunny arm parts",
         "etypeId": 2,
         "traits": [
             {
@@ -9662,7 +9662,7 @@
             }
         ],
         "iconIndex": 462,
-        "name": "バニーカフス",
+        "name": "Bunny Cuffs",
         "note": "<arm:f>\n",
         "params": [
             0,
@@ -9679,7 +9679,7 @@
     {
         "id": 354,
         "atypeId": 0,
-        "description": "鎖のついた腕パーツ",
+        "description": "Arm parts with chains",
         "etypeId": 2,
         "traits": [
             {
@@ -9689,7 +9689,7 @@
             }
         ],
         "iconIndex": 1952,
-        "name": "手錠",
+        "name": "Handcuffs",
         "note": "<arm:e>\n",
         "params": [
             0,
@@ -9706,7 +9706,7 @@
     {
         "id": 355,
         "atypeId": 0,
-        "description": "黒手袋の腕パーツ",
+        "description": "Black Glove Arm Parts",
         "etypeId": 2,
         "traits": [
             {
@@ -9716,7 +9716,7 @@
             }
         ],
         "iconIndex": 462,
-        "name": "革の手袋(黒)",
+        "name": "Leather Gloves (Black)",
         "note": "<arm:g>\n",
         "params": [
             0,
@@ -9851,7 +9851,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "脚パーツなし",
+        "name": "No leg parts",
         "note": "<leg:a>\n",
         "params": [
             0,
@@ -9878,7 +9878,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "青ニーハイブーツ",
+        "name": "Blue Knee-High Boots",
         "note": "<leg:b>\n",
         "params": [
             0,
@@ -9905,7 +9905,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "白靴下(ドット絵のみ)",
+        "name": "White Socks (Dot Art Only)",
         "note": "<leg:d>\n",
         "params": [
             0,
@@ -9932,7 +9932,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "黒ニーハイブーツ",
+        "name": "Black Knee-High Boots",
         "note": "<leg:c>\n",
         "params": [
             0,
@@ -10121,7 +10121,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ブラなし",
+        "name": "No bra",
         "note": "<innerTop:a>\n",
         "params": [
             0,
@@ -10148,7 +10148,7 @@
             }
         ],
         "iconIndex": 2035,
-        "name": "冒険者ブラ",
+        "name": "Adventurer Bra",
         "note": "<innerTop:g>\n",
         "params": [
             0,
@@ -10165,7 +10165,7 @@
     {
         "id": 372,
         "atypeId": 0,
-        "description": "「性奴隷」の性癖がないと装備できない",
+        "description": "Cannot equip without the fetish for 'sex slave'.",
         "etypeId": 2,
         "traits": [
             {
@@ -10175,7 +10175,7 @@
             }
         ],
         "iconIndex": 2107,
-        "name": "奴隷のブラ",
+        "name": "Slave's Bra",
         "note": "<innerTop:f>\n<lock:922>\n<cos>\n<eroItem>",
         "params": [
             0,
@@ -10192,7 +10192,7 @@
     {
         "id": 373,
         "atypeId": 0,
-        "description": "一般的なブラ",
+        "description": "Standard bra",
         "etypeId": 2,
         "traits": [
             {
@@ -10202,7 +10202,7 @@
             }
         ],
         "iconIndex": 2128,
-        "name": "白色ブラ",
+        "name": "White Bra",
         "note": "<innerTop:b>\n<cos>\n<eroItem>",
         "params": [
             0,
@@ -10219,7 +10219,7 @@
     {
         "id": 374,
         "atypeId": 0,
-        "description": "魅惑的なブラ",
+        "description": "Enchanting Bra",
         "etypeId": 2,
         "traits": [
             {
@@ -10229,7 +10229,7 @@
             }
         ],
         "iconIndex": 2128,
-        "name": "セクシーブラ",
+        "name": "Sexy Bra",
         "note": "<innerTop:c>\n<cos>\n<eroItem>",
         "params": [
             0,
@@ -10661,7 +10661,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ショーツなし",
+        "name": "No shorts",
         "note": "<innerBottom:a>\n",
         "params": [
             0,
@@ -10688,7 +10688,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "冒険者ショーツ",
+        "name": "Adventurer Shorts",
         "note": "<innerBottom:g>\n<chinpo>",
         "params": [
             0,
@@ -10705,7 +10705,7 @@
     {
         "id": 392,
         "atypeId": 0,
-        "description": "「性奴隷」の性癖がないと装備できない",
+        "description": "Cannot equip without the 'sex slave' fetish.",
         "etypeId": 2,
         "traits": [
             {
@@ -10715,7 +10715,7 @@
             }
         ],
         "iconIndex": 2107,
-        "name": "奴隷の下着",
+        "name": "Slave underwear",
         "note": "<innerBottom:f>\n<lock:922>\n<chinpo>\n<cos>\n<eroItem>",
         "params": [
             0,
@@ -10732,7 +10732,7 @@
     {
         "id": 393,
         "atypeId": 0,
-        "description": "一般的なショーツ",
+        "description": "Standard underwear",
         "etypeId": 2,
         "traits": [
             {
@@ -10742,7 +10742,7 @@
             }
         ],
         "iconIndex": 2112,
-        "name": "白色ショーツ",
+        "name": "White Shorts",
         "note": "<innerBottom:b>\n<chinpo>\n<cos>\n<eroItem>",
         "params": [
             0,
@@ -10759,7 +10759,7 @@
     {
         "id": 394,
         "atypeId": 0,
-        "description": "魅惑的なショーツ",
+        "description": "Enchanting shorts",
         "etypeId": 2,
         "traits": [
             {
@@ -10769,7 +10769,7 @@
             }
         ],
         "iconIndex": 2112,
-        "name": "セクシーショーツ",
+        "name": "Sexy Shorts",
         "note": "<innerBottom:c>\n<chinpo>\n<cos>\n<eroItem>",
         "params": [
             0,
@@ -11120,7 +11120,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ほっぺ1",
+        "name": "Cheek 1",
         "note": "<hoppe:1>\n",
         "params": [
             0,
@@ -11147,7 +11147,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ほっぺ2",
+        "name": "Cheek 2",
         "note": "<hoppe:2>\n",
         "params": [
             0,
@@ -11174,7 +11174,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ほっぺ3",
+        "name": "Cheek 3",
         "note": "<hoppe:3>\n",
         "params": [
             0,
@@ -11228,7 +11228,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(通常)",
+        "name": "Expression (Normal)",
         "note": "<face:1>\n",
         "params": [
             0,
@@ -11255,7 +11255,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(笑)",
+        "name": "Expression (smile)",
         "note": "<face:2>\n",
         "params": [
             0,
@@ -11282,7 +11282,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(明)",
+        "name": "Expression (Bright)",
         "note": "<face:3>\n",
         "params": [
             0,
@@ -11309,7 +11309,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(困)",
+        "name": "Expression (Troubled)",
         "note": "<face:4>\n",
         "params": [
             0,
@@ -11336,7 +11336,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(呆)",
+        "name": "Expression (Dumb)",
         "note": "<face:5>\n",
         "params": [
             0,
@@ -11363,7 +11363,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(考)",
+        "name": "Expression (Thought)",
         "note": "<face:6>\n",
         "params": [
             0,
@@ -11390,7 +11390,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(驚)",
+        "name": "Expression (Surprised)",
         "note": "<face:7>\n",
         "params": [
             0,
@@ -11417,7 +11417,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(怒)",
+        "name": "Expression (Angry)",
         "note": "<face:8>\n",
         "params": [
             0,
@@ -11444,7 +11444,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(悲)",
+        "name": "Expression (Sad)",
         "note": "<face:9>\n",
         "params": [
             0,
@@ -11471,7 +11471,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(恥)",
+        "name": "Expression (Embarrassment)",
         "note": "<face:10>\n",
         "params": [
             0,
@@ -11498,7 +11498,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(叫)",
+        "name": "Expression (Scream)",
         "note": "<face:11>\n",
         "params": [
             0,
@@ -11525,7 +11525,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(閉)",
+        "name": "Expression (Closed)",
         "note": "<face:12>\n",
         "params": [
             0,
@@ -11552,7 +11552,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(苦)",
+        "name": "Expression (Agony)",
         "note": "<face:13>\n",
         "params": [
             0,
@@ -11579,7 +11579,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(呆2)",
+        "name": "Expression (Dumbfounded 2)",
         "note": "<face:14>\n",
         "params": [
             0,
@@ -11606,7 +11606,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(キリッ)",
+        "name": "Expression (Sharp)",
         "note": "<face:15>\n",
         "params": [
             0,
@@ -11633,7 +11633,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(閉2)",
+        "name": "Expression (Closed 2)",
         "note": "<face:16>\n",
         "params": [
             0,
@@ -11660,7 +11660,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(苦2)",
+        "name": "Expression (Agony 2)",
         "note": "<face:17>\n",
         "params": [
             0,
@@ -11687,7 +11687,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(苦3)",
+        "name": "Expression (Agony 3)",
         "note": "<face:18>\n",
         "params": [
             0,
@@ -11714,7 +11714,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(閉3)",
+        "name": "Expression (Closed 3)",
         "note": "<face:19>\n",
         "params": [
             0,
@@ -11741,7 +11741,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(恐怖)",
+        "name": "Expression (Fear)",
         "note": "<face:20>\n",
         "params": [
             0,
@@ -11768,7 +11768,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(嫌)",
+        "name": "Expression (Dislike)",
         "note": "<face:21>\n",
         "params": [
             0,
@@ -11795,7 +11795,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(絶望)",
+        "name": "Expression (Despair)",
         "note": "<face:40>\n",
         "params": [
             0,
@@ -11822,7 +11822,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(絶望2)",
+        "name": "Expression (Despair 2)",
         "note": "<face:41>\n",
         "params": [
             0,
@@ -11849,7 +11849,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(嫌2)",
+        "name": "Expression (Dislike 2)",
         "note": "<face:42>\n",
         "params": [
             0,
@@ -11876,7 +11876,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "表情(明2)",
+        "name": "Expression (Bright 2)",
         "note": "<face:44>\n",
         "params": [
             0,
@@ -12811,7 +12811,7 @@
     {
         "id": 470,
         "atypeId": 0,
-        "description": "武器LV１",
+        "description": "Weapon LV1",
         "etypeId": 2,
         "traits": [
             {
@@ -12821,7 +12821,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ショートソード",
+        "name": "Short Sword",
         "note": "<weapon: 2>\n<stay>\n<lv:1>",
         "params": [
             0,
@@ -12838,7 +12838,7 @@
     {
         "id": 471,
         "atypeId": 0,
-        "description": "武器LV２",
+        "description": "Weapon LV2",
         "etypeId": 2,
         "traits": [
             {
@@ -12848,7 +12848,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ロングソード",
+        "name": "Longsword",
         "note": "<weapon: 4>\n<lv:2>\n<stay>\n",
         "params": [
             0,
@@ -12865,7 +12865,7 @@
     {
         "id": 472,
         "atypeId": 0,
-        "description": "武器LV３",
+        "description": "Weapon LV3",
         "etypeId": 2,
         "traits": [
             {
@@ -12875,7 +12875,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ミスリルダガー",
+        "name": "Mithril Dagger",
         "note": "<weapon: 6>\n<lv:3>\n",
         "params": [
             0,
@@ -12892,7 +12892,7 @@
     {
         "id": 473,
         "atypeId": 0,
-        "description": "武器LV４",
+        "description": "Weapon LV4",
         "etypeId": 2,
         "traits": [
             {
@@ -12902,7 +12902,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "バスタードソード",
+        "name": "Bastard Sword",
         "note": "<weapon: 7>\n<lv:4>\n",
         "params": [
             0,
@@ -12919,7 +12919,7 @@
     {
         "id": 474,
         "atypeId": 0,
-        "description": "武器LV５",
+        "description": "Weapon LV5",
         "etypeId": 2,
         "traits": [
             {
@@ -12929,7 +12929,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "クレイモア",
+        "name": "Claymore",
         "note": "<weapon: 8>\n<lv:5>\n",
         "params": [
             0,
@@ -13108,7 +13108,7 @@
     {
         "id": 481,
         "atypeId": 0,
-        "description": "防具LV１",
+        "description": "Armor LV1",
         "etypeId": 2,
         "traits": [
             {
@@ -13118,7 +13118,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "青銅の指輪",
+        "name": "Bronze Ring",
         "note": "<armor: 2>\n\n<lv:1>",
         "params": [
             0,
@@ -13135,7 +13135,7 @@
     {
         "id": 482,
         "atypeId": 0,
-        "description": "防具LV２",
+        "description": "Armor LV2",
         "etypeId": 2,
         "traits": [
             {
@@ -13145,7 +13145,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "鉄の指輪",
+        "name": "Iron Ring",
         "note": "<armor: 5>\n\n<lv:2>",
         "params": [
             0,
@@ -13162,7 +13162,7 @@
     {
         "id": 483,
         "atypeId": 0,
-        "description": "防具LV３",
+        "description": "Armor LV3",
         "etypeId": 2,
         "traits": [
             {
@@ -13172,7 +13172,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "はがねの指輪",
+        "name": "Steel Ring",
         "note": "<armor: 15>\n\n<lv:3>",
         "params": [
             0,
@@ -13189,7 +13189,7 @@
     {
         "id": 484,
         "atypeId": 0,
-        "description": "防具LV４",
+        "description": "Armor LV4",
         "etypeId": 2,
         "traits": [
             {
@@ -13199,7 +13199,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "銀の指輪",
+        "name": "Silver Ring",
         "note": "<armor: 16>\n\n<lv:4>",
         "params": [
             0,
@@ -13216,7 +13216,7 @@
     {
         "id": 485,
         "atypeId": 0,
-        "description": "防具LV５",
+        "description": "Armor LV5",
         "etypeId": 2,
         "traits": [
             {
@@ -13226,7 +13226,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "ミスリルの指輪",
+        "name": "Mithril Ring",
         "note": "<armor: 17>\n\n<lv:5>",
         "params": [
             0,
@@ -13648,7 +13648,7 @@
     {
         "id": 501,
         "atypeId": 0,
-        "description": "転送装置の出力LVがアップし、\n遠くの場所や深い場所まで転送ができるようになる。",
+        "description": "The output LV of the teleportation device increases, allowing for teleportation to faraway or deep\nlocations.",
         "etypeId": 2,
         "traits": [
             {
@@ -13658,7 +13658,7 @@
             }
         ],
         "iconIndex": 79,
-        "name": "出力 LV1",
+        "name": "Output LV1",
         "note": "",
         "params": [
             0,
@@ -13675,7 +13675,7 @@
     {
         "id": 502,
         "atypeId": 0,
-        "description": "転送装置の出力LVがアップし、\n遠くの場所や深い場所まで転送ができるようになる。",
+        "description": "The output LV of the teleportation device increases, allowing for teleportation to faraway or deep\nlocations.",
         "etypeId": 2,
         "traits": [
             {
@@ -13685,7 +13685,7 @@
             }
         ],
         "iconIndex": 79,
-        "name": "出力 LV2",
+        "name": "Output LV2",
         "note": "<before: 501>\n\n<quest: 502>",
         "params": [
             0,
@@ -13702,7 +13702,7 @@
     {
         "id": 503,
         "atypeId": 0,
-        "description": "転送装置の出力LVがアップし、\n遠くの場所や深い場所まで転送ができるようになる。",
+        "description": "The output LV of the teleportation device increases, allowing for teleportation to faraway or deep\nlocations.",
         "etypeId": 2,
         "traits": [
             {
@@ -13712,7 +13712,7 @@
             }
         ],
         "iconIndex": 79,
-        "name": "出力 LV3",
+        "name": "Output LV3",
         "note": "<before: 502>",
         "params": [
             0,
@@ -13729,7 +13729,7 @@
     {
         "id": 504,
         "atypeId": 0,
-        "description": "転送装置の出力LVがアップし、\n遠くの場所や深い場所まで転送ができるようになる。",
+        "description": "The output LV of the teleportation device increases, allowing for teleportation to faraway or deep\nlocations.",
         "etypeId": 2,
         "traits": [
             {
@@ -13739,7 +13739,7 @@
             }
         ],
         "iconIndex": 79,
-        "name": "出力 LV4",
+        "name": "Output LV4",
         "note": "<before: 503>",
         "params": [
             0,
@@ -13756,7 +13756,7 @@
     {
         "id": 505,
         "atypeId": 0,
-        "description": "転送装置の出力LVがアップし、\n遠くの場所や深い場所まで転送ができるようになる。",
+        "description": "The output LV of the teleportation device increases, allowing for teleportation to faraway or deep\nlocations.",
         "etypeId": 2,
         "traits": [
             {
@@ -13766,7 +13766,7 @@
             }
         ],
         "iconIndex": 79,
-        "name": "出力 LV5",
+        "name": "Output LV5",
         "note": "<before: 504>",
         "params": [
             0,
@@ -13874,7 +13874,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "リセット",
+        "name": "Reset",
         "note": "<before: 501>\n<reset>",
         "params": [
             0,
@@ -13918,7 +13918,7 @@
     {
         "id": 511,
         "atypeId": 0,
-        "description": "武器屋で購入したLV１の剣を１本持ち込む事ができる。\n重複不可。",
+        "description": "You can bring one LV1 sword that you purchased at the weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -13928,7 +13928,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "武器もちこみ LV1",
+        "name": "Weapon Carry LV1",
         "note": "<weaponLv: 1>\n<before: 501>",
         "params": [
             0,
@@ -13945,7 +13945,7 @@
     {
         "id": 512,
         "atypeId": 0,
-        "description": "武器屋で購入したLV2までの剣を１本持ち込む事ができる。\n重複不可。",
+        "description": "You can bring one sword up to level 2 that you purchased at the weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -13955,7 +13955,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "武器もちこみ LV2",
+        "name": "Equipped with Weapon LV2",
         "note": "<weaponLv: 2>\n\n<before: 511>",
         "params": [
             0,
@@ -13972,7 +13972,7 @@
     {
         "id": 513,
         "atypeId": 0,
-        "description": "武器屋で購入したLV3までの剣を１本持ち込む事ができる。\n重複不可。",
+        "description": "You can bring one sword up to level 3 that you purchased at the weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -13982,7 +13982,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "武器もちこみ LV3",
+        "name": "Weapon Carry LV3",
         "note": "<weaponLv: 3>\n<before: 512>",
         "params": [
             0,
@@ -13999,7 +13999,7 @@
     {
         "id": 514,
         "atypeId": 0,
-        "description": "武器屋で購入したLV4までの剣を１本持ち込む事ができる。\n重複不可。",
+        "description": "You can bring one sword up to level 4 that you purchased at the weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -14009,7 +14009,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "武器もちこみ LV4",
+        "name": "Equipped Weapon LV4",
         "note": "<weaponLv: 4>\n<before: 513>",
         "params": [
             0,
@@ -14026,7 +14026,7 @@
     {
         "id": 515,
         "atypeId": 0,
-        "description": "武器屋で購入したLV5までの剣を１本持ち込む事ができる。\n重複不可。",
+        "description": "You can bring one sword up to level 5 that you purchased at the weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -14036,7 +14036,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "武器もちこみ LV5",
+        "name": "Weapon Carry LV5",
         "note": "<weaponLv: 5>\n<before: 514>",
         "params": [
             0,
@@ -14053,7 +14053,7 @@
     {
         "id": 516,
         "atypeId": 0,
-        "description": "宝箱から獲得できるGが\nさらに２０％増える",
+        "description": "The amount of G that can be obtained from treasure chests increases by an additional 20%.",
         "etypeId": 2,
         "traits": [
             {
@@ -14063,7 +14063,7 @@
             }
         ],
         "iconIndex": 634,
-        "name": "錬金 LV1",
+        "name": "Alchemy LV1",
         "note": "<before: 502>",
         "params": [
             0,
@@ -14080,7 +14080,7 @@
     {
         "id": 517,
         "atypeId": 0,
-        "description": "宝箱から獲得できるGが\nさらに２０％増える",
+        "description": "The amount of G that can be obtained from treasure chests increases by an additional 20%.",
         "etypeId": 2,
         "traits": [
             {
@@ -14090,7 +14090,7 @@
             }
         ],
         "iconIndex": 634,
-        "name": "錬金 LV2",
+        "name": "Alchemy LV2",
         "note": "<before: 504>",
         "params": [
             0,
@@ -14188,7 +14188,7 @@
     {
         "id": 521,
         "atypeId": 0,
-        "description": "武器屋で購入したLV１の指輪を１本持ち込む事ができる。\n重複不可。",
+        "description": "You can bring one LV1 ring that you purchased at the weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -14198,7 +14198,7 @@
             }
         ],
         "iconIndex": 128,
-        "name": "防具もちこみ LV1",
+        "name": "Equipped with Armor LV1",
         "note": "<armorLv: 1>\n<before: 501>",
         "params": [
             0,
@@ -14215,7 +14215,7 @@
     {
         "id": 522,
         "atypeId": 0,
-        "description": "武器屋で購入したLV2までの指輪を１本持ち込む事ができる。\n重複不可。",
+        "description": "You can bring one ring up to level 2 that you purchased at the weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -14225,7 +14225,7 @@
             }
         ],
         "iconIndex": 128,
-        "name": "防具もちこみ LV2",
+        "name": "Equipped Armor LV2",
         "note": "<armorLv: 2>\n<before: 521>",
         "params": [
             0,
@@ -14242,7 +14242,7 @@
     {
         "id": 523,
         "atypeId": 0,
-        "description": "武器屋で購入したLV3までの指輪を１本持ち込む事ができる。\n重複不可。",
+        "description": "You can bring one ring up to level 3 that you purchased at the weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -14252,7 +14252,7 @@
             }
         ],
         "iconIndex": 128,
-        "name": "防具もちこみ LV3",
+        "name": "Equipped with Armor LV3",
         "note": "<armorLv: 3>\n<before: 522>",
         "params": [
             0,
@@ -14269,7 +14269,7 @@
     {
         "id": 524,
         "atypeId": 0,
-        "description": "武器屋で購入したLV4までの指輪を１本持ち込む事ができる。\n重複不可。",
+        "description": "You can bring one ring up to level 4 that you purchased at the weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -14279,7 +14279,7 @@
             }
         ],
         "iconIndex": 128,
-        "name": "防具もちこみ LV4",
+        "name": "Equipped Armor LV4",
         "note": "<armorLv: 4>\n<before: 523>",
         "params": [
             0,
@@ -14296,7 +14296,7 @@
     {
         "id": 525,
         "atypeId": 0,
-        "description": "武器屋で購入したLV5までの指輪を１本持ち込む事ができる。\n重複不可。",
+        "description": "You can bring one ring up to level 5 that you purchased at the weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -14306,7 +14306,7 @@
             }
         ],
         "iconIndex": 128,
-        "name": "防具もちこみ LV5",
+        "name": "Equipped Armor LV5",
         "note": "<armorLv: 5>\n<before: 524>",
         "params": [
             0,
@@ -14431,7 +14431,7 @@
     {
         "id": 530,
         "atypeId": 0,
-        "description": "投擲武器である短剣をもちこむことができる\n短剣を購入する必要はない。",
+        "description": "You can carry throwing weapons, such as daggers.\" \"There is no need to purchase a dagger.",
         "etypeId": 2,
         "traits": [
             {
@@ -14441,7 +14441,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "短剣もちこみ LV1",
+        "name": "Short Sword Carry LV1",
         "note": "<initialItem: 32>\n\n<before: 511>",
         "params": [
             0,
@@ -14998,7 +14998,7 @@
     {
         "id": 551,
         "atypeId": 0,
-        "description": "ダンジョン開始時に\\C[2]吹き飛ばしの杖(3)\\C[0]を\n持ち込むことが出来る",
+        "description": "You can bring the 'Blow Away Wand (3)' with you when starting the dungeon.",
         "etypeId": 2,
         "traits": [
             {
@@ -15008,7 +15008,7 @@
             }
         ],
         "iconIndex": 421,
-        "name": "吹き飛ばしの杖",
+        "name": "Blasting Wand",
         "note": "<initialItem:41>\n<identified>\n<eroItem>",
         "params": [
             0,
@@ -15025,7 +15025,7 @@
     {
         "id": 552,
         "atypeId": 0,
-        "description": "ダンジョン開始時に\\C[2]混乱の杖(3)\\C[0]を\n持ち込むことが出来る",
+        "description": "At the start of the dungeon, you can bring a 'Staff of Confusion (3)' with you.",
         "etypeId": 2,
         "traits": [
             {
@@ -15035,7 +15035,7 @@
             }
         ],
         "iconIndex": 421,
-        "name": "混乱の杖",
+        "name": "Staff of Confusion",
         "note": "<initialItem:43>\n<identified>\n<eroItem>",
         "params": [
             0,
@@ -15052,7 +15052,7 @@
     {
         "id": 553,
         "atypeId": 0,
-        "description": "ダンジョン開始時に\\C[2]金縛りの杖(3)\\C[0]を\n持ち込むことが出来る",
+        "description": "At the start of the dungeon, you can bring a 'Stun Wand (3)' with you.",
         "etypeId": 2,
         "traits": [
             {
@@ -15062,7 +15062,7 @@
             }
         ],
         "iconIndex": 421,
-        "name": "金縛りの杖",
+        "name": "Staff of Paralysis",
         "note": "<initialItem:45>\n<identified>\n<eroItem>",
         "params": [
             0,
@@ -15079,7 +15079,7 @@
     {
         "id": 554,
         "atypeId": 0,
-        "description": "ダンジョン開始時に\\C[2]睡眠の杖(3)\\C[0]を\n持ち込むことが出来る",
+        "description": "At the start of the dungeon, you can bring a 'Sleep Staff (3)' with you.",
         "etypeId": 2,
         "traits": [
             {
@@ -15089,7 +15089,7 @@
             }
         ],
         "iconIndex": 421,
-        "name": "睡眠の杖",
+        "name": "Staff of Sleep",
         "note": "<initialItem:48>\n<identified>\n<eroItem>",
         "params": [
             0,
@@ -15106,7 +15106,7 @@
     {
         "id": 555,
         "atypeId": 0,
-        "description": "ダンジョン開始時に\\C[2]入れ替えの杖(3)\\C[0]を\n持ち込むことが出来る",
+        "description": "At the start of the dungeon, you can bring a 'Staff of Swap (3)' with you.",
         "etypeId": 2,
         "traits": [
             {
@@ -15116,7 +15116,7 @@
             }
         ],
         "iconIndex": 421,
-        "name": "入れ替えの杖",
+        "name": "Staff of Swap",
         "note": "<initialItem:42>\n<identified>\n<eroItem>",
         "params": [
             0,
@@ -16321,7 +16321,7 @@
     {
         "id": 600,
         "atypeId": 12,
-        "description": "聖騎士団長だったが、それも過去のこと…",
+        "description": "I used to be the captain of the Holy Knights, but that's all in the past...",
         "etypeId": 2,
         "traits": [
             {
@@ -16331,7 +16331,7 @@
             }
         ],
         "iconIndex": 407,
-        "name": "元聖騎士団長",
+        "name": "Former Holy Knight Commander",
         "note": "",
         "params": [
             0,
@@ -16348,7 +16348,7 @@
     {
         "id": 601,
         "atypeId": 12,
-        "description": "闇LV１として再出発をした",
+        "description": "Restarted as Darkness LV1",
         "etypeId": 2,
         "traits": [
             {
@@ -16358,7 +16358,7 @@
             }
         ],
         "iconIndex": 416,
-        "name": "LV1勇者",
+        "name": "LV1 Hero",
         "note": "\n<hint:闇のLVが１になった>\n<yowai>",
         "params": [
             0,
@@ -16375,7 +16375,7 @@
     {
         "id": 602,
         "atypeId": 12,
-        "description": "勇者としてはまだかけだし",
+        "description": "As a hero, I'm still just a beginner.",
         "etypeId": 2,
         "traits": [
             {
@@ -16385,7 +16385,7 @@
             }
         ],
         "iconIndex": 417,
-        "name": "見習い勇者",
+        "name": "Apprentice Hero",
         "note": "<hintId:601>\n<hint:闇のLVがLV10になった>\n<yowai>",
         "params": [
             0,
@@ -16402,7 +16402,7 @@
     {
         "id": 603,
         "atypeId": 12,
-        "description": "勇者として一人前である",
+        "description": "To be a full-fledged hero.",
         "etypeId": 2,
         "traits": [
             {
@@ -16412,7 +16412,7 @@
             }
         ],
         "iconIndex": 1410,
-        "name": "ベテラン勇者",
+        "name": "Veteran Hero",
         "note": "<hintId:602>\n<hint:闇のLVがLV30になった>",
         "params": [
             0,
@@ -16429,7 +16429,7 @@
     {
         "id": 604,
         "atypeId": 12,
-        "description": "歴戦の勇者としてソドムでも再び知られる",
+        "description": "As a seasoned hero, they will once again be known even in Sodom.",
         "etypeId": 2,
         "traits": [
             {
@@ -16439,7 +16439,7 @@
             }
         ],
         "iconIndex": 1728,
-        "name": "噂の勇者",
+        "name": "The Legendary Hero",
         "note": "<hintId:603>\n<hint:闇のLVがLV50になった>",
         "params": [
             0,
@@ -16456,7 +16456,7 @@
     {
         "id": 605,
         "atypeId": 12,
-        "description": "伝説にうたわれるレベルの勇者",
+        "description": "A legendary level hero",
         "etypeId": 2,
         "traits": [
             {
@@ -16466,7 +16466,7 @@
             }
         ],
         "iconIndex": 1424,
-        "name": "伝説の勇者",
+        "name": "Legendary Hero",
         "note": "<hintId:604>\n<hint:闇のLVがLV75になった>",
         "params": [
             0,
@@ -16483,7 +16483,7 @@
     {
         "id": 606,
         "atypeId": 12,
-        "description": "闇を極めたクラス",
+        "description": "Class of Darkness",
         "etypeId": 2,
         "traits": [
             {
@@ -16493,7 +16493,7 @@
             }
         ],
         "iconIndex": 1438,
-        "name": "ダークロード",
+        "name": "Dark Lord",
         "note": "<hintId:605>\n<hint:闇のLVがLV99になった>",
         "params": [
             0,
@@ -16537,7 +16537,7 @@
     {
         "id": 608,
         "atypeId": 12,
-        "description": "モンスターを狩るもの",
+        "description": "Monster Hunter",
         "etypeId": 2,
         "traits": [
             {
@@ -16547,7 +16547,7 @@
             }
         ],
         "iconIndex": 334,
-        "name": "モンスターハンター",
+        "name": "Monster Hunter",
         "note": "<hintId:601>\n<hint:戦闘に勝利した>",
         "params": [
             0,
@@ -16564,7 +16564,7 @@
     {
         "id": 609,
         "atypeId": 12,
-        "description": "悪魔を狩るもの",
+        "description": "Demon Hunter",
         "etypeId": 2,
         "traits": [
             {
@@ -16574,7 +16574,7 @@
             }
         ],
         "iconIndex": 334,
-        "name": "デビルハンター",
+        "name": "Devil Hunter",
         "note": "<hintId:608>\n<hint:戦闘に１０回勝利した>",
         "params": [
             0,
@@ -16591,7 +16591,7 @@
     {
         "id": 610,
         "atypeId": 12,
-        "description": "悪魔狩りのベテランと認められたもの",
+        "description": "One who is recognized as a veteran demon hunter",
         "etypeId": 2,
         "traits": [
             {
@@ -16601,7 +16601,7 @@
             }
         ],
         "iconIndex": 407,
-        "name": "特級騎士",
+        "name": "Special Class Knight",
         "note": "<hintId:609>\n<hint:戦闘に５０回勝利した>",
         "params": [
             0,
@@ -16699,7 +16699,7 @@
     {
         "id": 614,
         "atypeId": 12,
-        "description": "ギルドのクエストをこなしたことの証",
+        "description": "Proof of completing guild quests",
         "etypeId": 2,
         "traits": [
             {
@@ -16709,7 +16709,7 @@
             }
         ],
         "iconIndex": 1058,
-        "name": "銅等級",
+        "name": "Copper Grade",
         "note": "<hintId:601>\n<hint:クエストを１つこなした>\n<yowai>",
         "params": [
             0,
@@ -16726,7 +16726,7 @@
     {
         "id": 615,
         "atypeId": 12,
-        "description": "ギルドのクエストをこなしたことの証",
+        "description": "Proof of completing guild quests",
         "etypeId": 2,
         "traits": [
             {
@@ -16736,7 +16736,7 @@
             }
         ],
         "iconIndex": 1071,
-        "name": "銀等級",
+        "name": "Silver Grade",
         "note": "<hintId:614>\n<hint:クエストを３つこなした>",
         "params": [
             0,
@@ -16753,7 +16753,7 @@
     {
         "id": 616,
         "atypeId": 12,
-        "description": "ギルドのクエストをこなしたことの証",
+        "description": "Proof of completing guild quests",
         "etypeId": 2,
         "traits": [
             {
@@ -16763,7 +16763,7 @@
             }
         ],
         "iconIndex": 1058,
-        "name": "金等級",
+        "name": "Gold Rank",
         "note": "<hintId:615>\n<hint:クエストを５つこなした>",
         "params": [
             0,
@@ -16780,7 +16780,7 @@
     {
         "id": 617,
         "atypeId": 12,
-        "description": "ギルドの最高ランクの証",
+        "description": "Proof of the highest rank in the guild",
         "etypeId": 2,
         "traits": [
             {
@@ -16790,7 +16790,7 @@
             }
         ],
         "iconIndex": 1059,
-        "name": "白金等級",
+        "name": "Platinum Rank",
         "note": "<hintId:616>\n<hint:星５のクエストをこなした>",
         "params": [
             0,
@@ -16861,7 +16861,7 @@
     {
         "id": 620,
         "atypeId": 12,
-        "description": "ソドムの街ではまぁまぁ金持ち",
+        "description": "In the city of Sodom, there are quite a few wealthy people.",
         "etypeId": 2,
         "traits": [
             {
@@ -16871,7 +16871,7 @@
             }
         ],
         "iconIndex": 634,
-        "name": "小金持ち",
+        "name": "Rich",
         "note": "<hintId:601>\n<hint:10000Gを所持する>",
         "params": [
             0,
@@ -16888,7 +16888,7 @@
     {
         "id": 621,
         "atypeId": 12,
-        "description": "ソドムの街ではだいぶ金持ち",
+        "description": "In the city of Sodom, there are quite a few wealthy people.",
         "etypeId": 2,
         "traits": [
             {
@@ -16898,7 +16898,7 @@
             }
         ],
         "iconIndex": 634,
-        "name": "大金持ち",
+        "name": "Wealthy",
         "note": "<hintId:620>\n<hint:50000Gを所持する>",
         "params": [
             0,
@@ -16915,7 +16915,7 @@
     {
         "id": 622,
         "atypeId": 12,
-        "description": "お前の金は私のモノ、私の金も私のモノ。",
+        "description": "Your money is mine, and my money is also mine.",
         "etypeId": 2,
         "traits": [
             {
@@ -16925,7 +16925,7 @@
             }
         ],
         "iconIndex": 634,
-        "name": "金のもーじゃ",
+        "name": "Golden Maw",
         "note": "<hintId:621>\n<hint:100000Gを所持する>\n<rokudenashi>",
         "params": [
             0,
@@ -16969,7 +16969,7 @@
     {
         "id": 624,
         "atypeId": 12,
-        "description": "ゴブリンにも負けてしまう勇者",
+        "description": "A hero who even loses to goblins.",
         "etypeId": 2,
         "traits": [
             {
@@ -16979,7 +16979,7 @@
             }
         ],
         "iconIndex": 1,
-        "name": "ゴブリン以下勇者",
+        "name": "Goblin and Below Hero",
         "note": "<hintId:601>\n<hint:ゴブリン巣穴で敗北１回>\n<yowai>",
         "params": [
             0,
@@ -16996,7 +16996,7 @@
     {
         "id": 625,
         "atypeId": 12,
-        "description": "ゴブリンの孕み袋になった勇者",
+        "description": "The Hero Who Became a Goblin's Breeding Bag",
         "etypeId": 2,
         "traits": [
             {
@@ -17006,7 +17006,7 @@
             }
         ],
         "iconIndex": 1,
-        "name": "ゴブリンの孕み袋",
+        "name": "Goblin's Breeding Bag",
         "note": "<hintId:601>\n<hint:ゴブリン巣穴で敗北３回>\n<eroMedal>",
         "params": [
             0,
@@ -17023,7 +17023,7 @@
     {
         "id": 626,
         "atypeId": 12,
-        "description": "山賊に返り討ちにあったもの",
+        "description": "Those who were defeated by the bandits",
         "etypeId": 2,
         "traits": [
             {
@@ -17033,7 +17033,7 @@
             }
         ],
         "iconIndex": 1,
-        "name": "山賊に退治された勇者",
+        "name": "The hero defeated by bandits",
         "note": "<hintId:601>\n<hint:山賊のアジトで敗北１回>\n<yowai>",
         "params": [
             0,
@@ -17050,7 +17050,7 @@
     {
         "id": 627,
         "atypeId": 12,
-        "description": "山賊たちの穴奴隷になったもの",
+        "description": "Became a slave in the bandits' hideout",
         "etypeId": 2,
         "traits": [
             {
@@ -17060,7 +17060,7 @@
             }
         ],
         "iconIndex": 1,
-        "name": "山賊のちんぽサンドバック",
+        "name": "Bandit's Dick Sandbag",
         "note": "<hintId:601>\n<hint:山賊のアジトで敗北３回>\n<eroMedal>",
         "params": [
             0,
@@ -17131,7 +17131,7 @@
     {
         "id": 630,
         "atypeId": 12,
-        "description": "軽めのビッチとして噂される",
+        "description": "Rumored to be a light-hearted 'bitch'.",
         "etypeId": 2,
         "traits": [
             {
@@ -17141,7 +17141,7 @@
             }
         ],
         "iconIndex": 2035,
-        "name": "ビッチ入門",
+        "name": "Bitch Beginner",
         "note": "<hintId:601>\n<hint:一般人との経験人数10人以上になった>\n<eroMedal>",
         "params": [
             0,
@@ -17158,7 +17158,7 @@
     {
         "id": 631,
         "atypeId": 12,
-        "description": "ヤりまくれる女として周知される",
+        "description": "Known as a woman who can have endless sex",
         "etypeId": 2,
         "traits": [
             {
@@ -17168,7 +17168,7 @@
             }
         ],
         "iconIndex": 2035,
-        "name": "エリートビッチ",
+        "name": "Elite Bitch",
         "note": "<hintId:630>\n<hint:一般人との経験人数50人以上になった>\n<eroMedal>",
         "params": [
             0,
@@ -17185,7 +17185,7 @@
     {
         "id": 632,
         "atypeId": 12,
-        "description": "肉便器として周知される",
+        "description": "Known as a 'meat toilet'.",
         "etypeId": 2,
         "traits": [
             {
@@ -17195,7 +17195,7 @@
             }
         ],
         "iconIndex": 2035,
-        "name": "みんなのにくべんき",
+        "name": "Everyone's Meat Dish",
         "note": "<hintId:630>\n<hint:一般人との経験人数100人以上になった>\n<eroMedal>",
         "params": [
             0,
@@ -17212,7 +17212,7 @@
     {
         "id": 633,
         "atypeId": 12,
-        "description": "出産させられてしまった女性への蔑称",
+        "description": "Derogatory term for a woman who has been forced to give birth",
         "etypeId": 2,
         "traits": [
             {
@@ -17222,7 +17222,7 @@
             }
         ],
         "iconIndex": 2035,
-        "name": "ソドムの教会デビュー",
+        "name": "Sodom Church Debut",
         "note": "<hintId:601>\n<hint:ソドムにて出産を行った>\n<eroMedal>",
         "params": [
             0,
@@ -17239,7 +17239,7 @@
     {
         "id": 634,
         "atypeId": 12,
-        "description": "ソドムの平均的な出産回数",
+        "description": "Average number of births in Sodom",
         "etypeId": 2,
         "traits": [
             {
@@ -17249,7 +17249,7 @@
             }
         ],
         "iconIndex": 2035,
-        "name": "ソドムの子種コキ捨て所",
+        "name": "Sodom's Seed Disposal Site",
         "note": "<hintId:633>\n<hint:ソドムにて5回出産を行った>\n<eroMedal>",
         "params": [
             0,
@@ -17266,7 +17266,7 @@
     {
         "id": 635,
         "atypeId": 12,
-        "description": "神父の奴隷として、いいように使われる者",
+        "description": "One who is used and treated as a priest's slave",
         "etypeId": 2,
         "traits": [
             {
@@ -17276,7 +17276,7 @@
             }
         ],
         "iconIndex": 541,
-        "name": "神父の奴隷",
+        "name": "Priest's Slave",
         "note": "<hintId:601>\n<hint:神父にフェラをする>\n<eroMedal>",
         "params": [
             0,
@@ -17293,7 +17293,7 @@
     {
         "id": 636,
         "atypeId": 12,
-        "description": "神父の奴隷として、本気の種付けを受けた者",
+        "description": "One who received serious impregnation as a priest's slave",
         "etypeId": 2,
         "traits": [
             {
@@ -17303,7 +17303,7 @@
             }
         ],
         "iconIndex": 541,
-        "name": "神父の孕ませ奴隷",
+        "name": "Priest's Impregnation Slave",
         "note": "<hintId:635>\n<hint:神父と種付けセックスをする>\n<eroMedal>",
         "params": [
             0,
@@ -17320,7 +17320,7 @@
     {
         "id": 637,
         "atypeId": 12,
-        "description": "とうとう神父の子を産まされてしまった…",
+        "description": "I ended up giving birth to the child of a priest...",
         "etypeId": 2,
         "traits": [
             {
@@ -17330,7 +17330,7 @@
             }
         ],
         "iconIndex": 2035,
-        "name": "神父の孕み嫁",
+        "name": "The Priest's Pregnant Bride",
         "note": "<hintId:636>\n<hint:神父の子を出産する>\n<eroMedal>",
         "params": [
             0,
@@ -17347,7 +17347,7 @@
     {
         "id": 638,
         "atypeId": 12,
-        "description": "フェラが上級に達したあかし",
+        "description": "Evidence of reaching advanced fellatio skills.",
         "etypeId": 2,
         "traits": [
             {
@@ -17357,7 +17357,7 @@
             }
         ],
         "iconIndex": 2028,
-        "name": "おしゃぶり勇者",
+        "name": "Pacifier Hero",
         "note": "<hintId:601>\n<hint:フェラ経験20回以上>\n<eroMedal>",
         "params": [
             0,
@@ -17374,7 +17374,7 @@
     {
         "id": 639,
         "atypeId": 12,
-        "description": "ソドムの中でも屈指の出産率",
+        "description": "One of the highest birth rates in Sodom.",
         "etypeId": 2,
         "traits": [
             {
@@ -17384,7 +17384,7 @@
             }
         ],
         "iconIndex": 2035,
-        "name": "ソドムの孕み胎",
+        "name": "Sodom's Pregnant Womb",
         "note": "<hintId:601>\n<hint:ソドムにて10回出産を行った>\n<eroMedal>\n<order:634>",
         "params": [
             0,
@@ -17428,7 +17428,7 @@
     {
         "id": 641,
         "atypeId": 12,
-        "description": "娼館で娼婦デビューした",
+        "description": "Made my debut as a prostitute in the brothel.",
         "etypeId": 2,
         "traits": [
             {
@@ -17438,7 +17438,7 @@
             }
         ],
         "iconIndex": 404,
-        "name": "ソドムの高級娼婦",
+        "name": "Sodom's High-Class Courtesan",
         "note": "<hintId:601>\n<hint:高級娼館で働く>\n<eroMedal>",
         "params": [
             0,
@@ -17455,7 +17455,7 @@
     {
         "id": 642,
         "atypeId": 12,
-        "description": "売春宿で娼婦デビューした",
+        "description": "Made debut as a prostitute at a brothel.",
         "etypeId": 2,
         "traits": [
             {
@@ -17465,7 +17465,7 @@
             }
         ],
         "iconIndex": 404,
-        "name": "ソドムの売春婦",
+        "name": "Sodom's Prostitute",
         "note": "<hintId:601>\n<hint:安売春宿で働く>\n<eroMedal>",
         "params": [
             0,
@@ -17482,7 +17482,7 @@
     {
         "id": 643,
         "atypeId": 12,
-        "description": "メイヴィスに忠誠を誓ったメスブタ",
+        "description": "A female pig who pledged loyalty to Mavis.",
         "etypeId": 2,
         "traits": [
             {
@@ -17492,7 +17492,7 @@
             }
         ],
         "iconIndex": 2107,
-        "name": "メイヴィス様の奴隷",
+        "name": "Mavis-sama's slave",
         "note": "<hintId:601>\n<hint:メイヴィスの奴隷になる>\n<eroMedal>",
         "params": [
             0,
@@ -17509,7 +17509,7 @@
     {
         "id": 644,
         "atypeId": 12,
-        "description": "浮浪者のじじいとお泊りＨした女",
+        "description": "The woman who had a one-night stand with the homeless old man",
         "etypeId": 2,
         "traits": [
             {
@@ -17519,7 +17519,7 @@
             }
         ],
         "iconIndex": 1,
-        "name": "最底辺の女",
+        "name": "The Lowest Rung Woman",
         "note": "<hintId:601>\n<hint:浮浪者とお泊りセックスをする>\n<eroMedal>",
         "params": [
             0,
@@ -17536,7 +17536,7 @@
     {
         "id": 645,
         "atypeId": 12,
-        "description": "浮浪者のじじいに2重の意味で便器にされる",
+        "description": "Being used as a toilet by a homeless old man in two different ways.",
         "etypeId": 2,
         "traits": [
             {
@@ -17546,7 +17546,7 @@
             }
         ],
         "iconIndex": 1,
-        "name": "浮浪者の便器女",
+        "name": "Vagrant Toilet Woman",
         "note": "<hintId:601>\n<hint:浮浪者の小便を膣で受け止める>\n<eroMedal>",
         "params": [
             0,
@@ -17617,7 +17617,7 @@
     {
         "id": 648,
         "atypeId": 12,
-        "description": "男への授乳がまだ不慣れ",
+        "description": "Still inexperienced in breastfeeding a man.",
         "etypeId": 2,
         "traits": [
             {
@@ -17627,7 +17627,7 @@
             }
         ],
         "iconIndex": 1993,
-        "name": "新人乳牛",
+        "name": "Newbie Milk Cow",
         "note": "<hint:男相手に授乳する>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
@@ -17644,7 +17644,7 @@
     {
         "id": 649,
         "atypeId": 12,
-        "description": "男への授乳もだいぶ慣れた",
+        "description": "I've gotten quite used to breastfeeding men.",
         "etypeId": 2,
         "traits": [
             {
@@ -17654,7 +17654,7 @@
             }
         ],
         "iconIndex": 1993,
-        "name": "ベテラン乳牛",
+        "name": "Veteran Milk Cow",
         "note": "<hintId:648>\n<hint:男相手に５回授乳する>\n<eroMedal>",
         "params": [
             0,
@@ -17671,7 +17671,7 @@
     {
         "id": 650,
         "atypeId": 12,
-        "description": "産んだ子供に会いに行った",
+        "description": "I went to see the child I gave birth to.",
         "etypeId": 2,
         "traits": [
             {
@@ -17681,7 +17681,7 @@
             }
         ],
         "iconIndex": 2055,
-        "name": "新米ママ勇者",
+        "name": "Rookie Mom Hero",
         "note": "<hint:託児所へいく>\n<eroMedal>",
         "params": [
             0,
@@ -17698,7 +17698,7 @@
     {
         "id": 651,
         "atypeId": 12,
-        "description": "男への授乳もだいぶ慣れた",
+        "description": "I've gotten quite used to breastfeeding men.",
         "etypeId": 2,
         "traits": [
             {
@@ -17708,7 +17708,7 @@
             }
         ],
         "iconIndex": 1994,
-        "name": "ソドムのミルクサーバー",
+        "name": "Sodom's Milk Server",
         "note": "<hintId:649>\n<hint:男相手に１０回授乳する>\n<eroMedal>\n<order:649>",
         "params": [
             0,
@@ -17725,7 +17725,7 @@
     {
         "id": 652,
         "atypeId": 12,
-        "description": "赤ん坊に母乳をあげた",
+        "description": "I breastfed the baby.",
         "etypeId": 2,
         "traits": [
             {
@@ -17735,7 +17735,7 @@
             }
         ],
         "iconIndex": 1993,
-        "name": "乳母見習い",
+        "name": "Wet Nurse Apprentice",
         "note": "<hint:授乳イベントで母乳を獲得する>\n<eroMedal>",
         "params": [
             0,
@@ -17752,7 +17752,7 @@
     {
         "id": 653,
         "atypeId": 12,
-        "description": "赤ん坊に母乳を何度もあげた",
+        "description": "I breastfed the baby multiple times.",
         "etypeId": 2,
         "traits": [
             {
@@ -17762,7 +17762,7 @@
             }
         ],
         "iconIndex": 1993,
-        "name": "ベテラン乳母",
+        "name": "Veteran nanny",
         "note": "<hintId:652>\n<hint:授乳イベントで母乳を５回獲得する>\n<eroMedal>",
         "params": [
             0,
@@ -17806,7 +17806,7 @@
     {
         "id": 655,
         "atypeId": 12,
-        "description": "ソドムで妊婦として認識される",
+        "description": "Recognized as a pregnant woman in Sodom.",
         "etypeId": 2,
         "traits": [
             {
@@ -17816,7 +17816,7 @@
             }
         ],
         "iconIndex": 2003,
-        "name": "新人妊婦",
+        "name": "Newbie Pregnant Woman",
         "note": "<hint:孕み袋イベント以外で妊娠する>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
@@ -17833,7 +17833,7 @@
     {
         "id": 656,
         "atypeId": 12,
-        "description": "ソドムで妊婦として広く認識される",
+        "description": "Widely recognized as a pregnant woman in Sodom.",
         "etypeId": 2,
         "traits": [
             {
@@ -17843,7 +17843,7 @@
             }
         ],
         "iconIndex": 2003,
-        "name": "ベテラン妊婦",
+        "name": "Experienced Pregnant Woman",
         "note": "<hint:孕み袋イベント以外で３回妊娠する>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
@@ -17860,7 +17860,7 @@
     {
         "id": 657,
         "atypeId": 12,
-        "description": "ソドムで孕み姫として広く認識される",
+        "description": "Recognized widely as the impregnation princess in Sodom.",
         "etypeId": 2,
         "traits": [
             {
@@ -17870,7 +17870,7 @@
             }
         ],
         "iconIndex": 2003,
-        "name": "ソドムの孕み姫",
+        "name": "Sodom's Pregnant Princess",
         "note": "<hint:孕み袋イベント以外で５回妊娠する>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
@@ -17941,7 +17941,7 @@
     {
         "id": 660,
         "atypeId": 12,
-        "description": "山賊に敗北し、孕まされたことがある",
+        "description": "I have been defeated by bandits and impregnated.",
         "etypeId": 2,
         "traits": [
             {
@@ -17951,7 +17951,7 @@
             }
         ],
         "iconIndex": 2003,
-        "name": "山賊共有、孕まされ女",
+        "name": "Bandit's Share, Impregnated Woman",
         "note": "<hint:山賊相手に敗北する>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
@@ -17968,7 +17968,7 @@
     {
         "id": 661,
         "atypeId": 12,
-        "description": "性奴隷としてオークションにかけれらたことがある",
+        "description": "I have been put up for auction as a sex slave before.",
         "etypeId": 2,
         "traits": [
             {
@@ -17978,7 +17978,7 @@
             }
         ],
         "iconIndex": 2003,
-        "name": "性奴隷",
+        "name": "Sex slave",
         "note": "<hint:山賊相手に何度も敗北する>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
@@ -18022,7 +18022,7 @@
     {
         "id": 663,
         "atypeId": 12,
-        "description": "ブルマとセーラー服を着た勇者",
+        "description": "A hero wearing bloomers and a sailor uniform.",
         "etypeId": 2,
         "traits": [
             {
@@ -18032,7 +18032,7 @@
             }
         ],
         "iconIndex": 2144,
-        "name": "ブルセラ勇者",
+        "name": "Brasella Hero",
         "note": "<hintId:601>\n<hint:セーラー服上と体操服下を装備する>\n<eroMedal>",
         "params": [
             0,
@@ -18049,7 +18049,7 @@
     {
         "id": 664,
         "atypeId": 12,
-        "description": "便器としておしっこを受けた経験がある",
+        "description": "I have had the experience of receiving urine as a toilet.",
         "etypeId": 2,
         "traits": [
             {
@@ -18059,7 +18059,7 @@
             }
         ],
         "iconIndex": 1998,
-        "name": "人間便器",
+        "name": "Human Toilet",
         "note": "<hint:酒場で便器のバイトをする>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
@@ -18130,7 +18130,7 @@
     {
         "id": 667,
         "atypeId": 12,
-        "description": "たくさんの精液を飲んだ女",
+        "description": "A woman who drank a lot of semen",
         "etypeId": 2,
         "traits": [
             {
@@ -18140,7 +18140,7 @@
             }
         ],
         "iconIndex": 2026,
-        "name": "ごっくんマスター",
+        "name": "Gokkun Master",
         "note": "<hint:飲んだ精液1000ccで獲得する>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
@@ -18157,7 +18157,7 @@
     {
         "id": 668,
         "atypeId": 12,
-        "description": "ぶっかけられた回数は数知れず",
+        "description": "The number of times I've been bukkake'd is countless.",
         "etypeId": 2,
         "traits": [
             {
@@ -18167,7 +18167,7 @@
             }
         ],
         "iconIndex": 2026,
-        "name": "白濁泡姫",
+        "name": "Milky Bubble Princess",
         "note": "<hint:ぶっかけ精液1000ccで獲得する>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
@@ -18184,7 +18184,7 @@
     {
         "id": 669,
         "atypeId": 12,
-        "description": "魔物を出産した女",
+        "description": "A woman who gave birth to a monster.",
         "etypeId": 2,
         "traits": [
             {
@@ -18194,7 +18194,7 @@
             }
         ],
         "iconIndex": 2052,
-        "name": "魔を孕みし少女",
+        "name": "Girl Impregnated by Demons",
         "note": "<hint:魔物出産1回で獲得する>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
@@ -18211,7 +18211,7 @@
     {
         "id": 670,
         "atypeId": 12,
-        "description": "魔物を何度も産まされた女",
+        "description": "A woman who was repeatedly impregnated by monsters.",
         "etypeId": 2,
         "traits": [
             {
@@ -18221,7 +18221,7 @@
             }
         ],
         "iconIndex": 2052,
-        "name": "モンスターのゆりかご",
+        "name": "Monster's Cradle",
         "note": "<hint:魔物出産3回で獲得する>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
@@ -18265,7 +18265,7 @@
     {
         "id": 672,
         "atypeId": 12,
-        "description": "たくさんの精液を飲んだ女",
+        "description": "A woman who drank a lot of semen",
         "etypeId": 2,
         "traits": [
             {
@@ -18275,7 +18275,7 @@
             }
         ],
         "iconIndex": 2080,
-        "name": "ちんぽ中毒",
+        "name": "Penis addiction",
         "note": "<hint:中だし回数100回で獲得する>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
@@ -18292,7 +18292,7 @@
     {
         "id": 673,
         "atypeId": 12,
-        "description": "敏感すぎる勇者はすぐイっちゃうの",
+        "description": "The overly sensitive hero climaxes quickly.",
         "etypeId": 2,
         "traits": [
             {
@@ -18302,7 +18302,7 @@
             }
         ],
         "iconIndex": 2090,
-        "name": "イキスギ勇者",
+        "name": "Ikisugi Hero",
         "note": "<hint:絶頂回数200回で獲得する>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
@@ -18319,7 +18319,7 @@
     {
         "id": 674,
         "atypeId": 12,
-        "description": "アナルＨのエキスパート",
+        "description": "Anal H Expert",
         "etypeId": 2,
         "traits": [
             {
@@ -18329,7 +18329,7 @@
             }
         ],
         "iconIndex": 2021,
-        "name": "アナルセックスエリート",
+        "name": "Anal Sex Elite",
         "note": "<hint:アナルＨ50回で獲得する>\n<hintId:601>\n<eroMedal>\n<analMedal>",
         "params": [
             0,
@@ -18508,7 +18508,7 @@
     {
         "id": 681,
         "atypeId": 12,
-        "description": "アナルの呼吸を極めしもの",
+        "description": "The one who masters the art of anal breathing",
         "etypeId": 2,
         "traits": [
             {
@@ -18518,7 +18518,7 @@
             }
         ],
         "iconIndex": 2021,
-        "name": "アナル免許皆伝",
+        "name": "Anal License Master",
         "note": "<hint:アナル先生に認められる>\n<hintId:601>\n<eroMedal>\n<analMedal>",
         "params": [
             0,
@@ -18535,7 +18535,7 @@
     {
         "id": 682,
         "atypeId": 12,
-        "description": "アナルプレイ勉強中",
+        "description": "Studying Anal Play",
         "etypeId": 2,
         "traits": [
             {
@@ -18545,7 +18545,7 @@
             }
         ],
         "iconIndex": 2021,
-        "name": "尻穴生徒",
+        "name": "Asshole Student",
         "note": "<hint:アナル先生から教えを受ける>\n<hintId:601>\n<eroMedal>\n<analMedal>",
         "params": [
             0,
@@ -23692,7 +23692,7 @@
     {
         "id": 873,
         "atypeId": 0,
-        "description": "着替えシーンで乳輪Bを選択できるようになる",
+        "description": "You will be able to select nipple type B in the changing scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -23702,7 +23702,7 @@
             }
         ],
         "iconIndex": 2000,
-        "name": "乳輪がちょっと大きくなる薬",
+        "name": "Medicine to slightly enlarge the areola",
         "note": "<stay>\n<eroItem>\n\n<identified>",
         "params": [
             0,
@@ -23719,7 +23719,7 @@
     {
         "id": 874,
         "atypeId": 0,
-        "description": "着替えシーンで乳輪Cを選択できるようになる",
+        "description": "You will be able to choose nipple color C in the changing scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -23729,7 +23729,7 @@
             }
         ],
         "iconIndex": 2000,
-        "name": "乳輪がかなり大きくなる薬",
+        "name": "Medicine that significantly enlarges the areolas",
         "note": "<stay>\n<eroItem>\n\n<identified>",
         "params": [
             0,
@@ -23800,7 +23800,7 @@
     {
         "id": 877,
         "atypeId": 0,
-        "description": "着替えシーンで巨乳を選択できるようになる",
+        "description": "You will be able to choose a character with large breasts in the changing scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -23810,7 +23810,7 @@
             }
         ],
         "iconIndex": 2000,
-        "name": "巨乳になれる薬",
+        "name": "Potion to become busty",
         "note": "<stay>\n<eroItem>\n\n<identified>",
         "params": [
             0,
@@ -23827,7 +23827,7 @@
     {
         "id": 878,
         "atypeId": 0,
-        "description": "着替えシーンで微乳を選択できるようになる",
+        "description": "You will be able to choose small breasts in the changing scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -23837,7 +23837,7 @@
             }
         ],
         "iconIndex": 2000,
-        "name": "微乳になれる薬",
+        "name": "Medicine to Become Small-Breasted",
         "note": "<stay>\n<eroItem>\n\n<identified>",
         "params": [
             0,
@@ -23881,7 +23881,7 @@
     {
         "id": 880,
         "atypeId": 0,
-        "description": "着替えシーンで隷属の首輪を\n外すことができるようになる",
+        "description": "You will be able to remove the collar of submission during the changing scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -23891,7 +23891,7 @@
             }
         ],
         "iconIndex": 511,
-        "name": "首輪を解呪する巻物",
+        "name": "Scroll to Remove Curse from Collar",
         "note": "<before:204>\n<stay>\n<eroItem>\n\n<identified>",
         "params": [
             0,
@@ -23908,7 +23908,7 @@
     {
         "id": 881,
         "atypeId": 0,
-        "description": "着替えシーンで淫紋を隠すことができる",
+        "description": "You can hide the lewd mark during the changing scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -23918,7 +23918,7 @@
             }
         ],
         "iconIndex": 2002,
-        "name": "淫紋を隠す染料",
+        "name": "Dye to Hide the Lewd Mark",
         "note": "<before:208>\n<stay>\n<eroItem>\n\n<identified>",
         "params": [
             0,
@@ -23935,7 +23935,7 @@
     {
         "id": 882,
         "atypeId": 0,
-        "description": "着替えシーンでゴブリンによる焼印を\n隠すことができる",
+        "description": "You can hide the goblin's branding during the changing scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -23945,7 +23945,7 @@
             }
         ],
         "iconIndex": 2002,
-        "name": "ゴブリンによる焼印を隠す染料",
+        "name": "Dye to conceal the goblin's brand",
         "note": "<before:215>\n<stay>\n<eroItem>\n\n<identified>",
         "params": [
             0,
@@ -23962,7 +23962,7 @@
     {
         "id": 883,
         "atypeId": 0,
-        "description": "着替えシーンで山賊による焼印を\n隠すことができる",
+        "description": "You can hide the burn mark caused by the bandits during the changing scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -23972,7 +23972,7 @@
             }
         ],
         "iconIndex": 2002,
-        "name": "山賊による焼印を隠す染料",
+        "name": "Dye to conceal the branding by bandits",
         "note": "<before:214>\n<stay>\n<eroItem>\n\n<identified>",
         "params": [
             0,
@@ -23989,7 +23989,7 @@
     {
         "id": 884,
         "atypeId": 0,
-        "description": "着替えシーンで性奴隷の焼印を\n隠すことができる",
+        "description": "You can hide the branding of the sex slave during the changing scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -23999,7 +23999,7 @@
             }
         ],
         "iconIndex": 2002,
-        "name": "性奴隷の焼印を隠す染料",
+        "name": "Dye to Hide the Brand of a Sex Slave",
         "note": "<before:213>\n<stay>\n<eroItem>\n\n<identified>",
         "params": [
             0,
@@ -24016,7 +24016,7 @@
     {
         "id": 885,
         "atypeId": 0,
-        "description": "着替えシーンで乳首ピアスを\n外すことができるようになる",
+        "description": "You will be able to remove nipple piercings in the changing scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -24026,7 +24026,7 @@
             }
         ],
         "iconIndex": 511,
-        "name": "乳首ピアスを解呪する巻物",
+        "name": "Scroll of Nipple Piercing Curse Removal",
         "note": "<before:210>\n<stay>\n<eroItem>\n\n<identified>",
         "params": [
             0,
@@ -24421,7 +24421,7 @@
     {
         "id": 900,
         "atypeId": 9,
-        "description": "神父によってつけられた紋章。\n妊娠確率がアップする",
+        "description": "The crest bestowed by the priest. Increases the chances of pregnancy.",
         "etypeId": 2,
         "traits": [
             {
@@ -24431,7 +24431,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "淫紋",
+        "name": "Obscene Mark",
         "note": "<armor:208>\n<hint:神父とのイベントをすすめる>",
         "params": [
             0,
@@ -24448,7 +24448,7 @@
     {
         "id": 901,
         "atypeId": 9,
-        "description": "メイヴィスによって乳首につけられたピアス。\n呪いがかけられているため、外せない。",
+        "description": "Pierced nipples by Mavis. Unable to remove due to a curse.",
         "etypeId": 6,
         "traits": [
             {
@@ -24458,7 +24458,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "乳首ピアス",
+        "name": "Nipple Piercing",
         "note": "<armor:210>\n<hint:メイヴィスとのイベントをすすめる>",
         "params": [
             2,
@@ -24475,7 +24475,7 @@
     {
         "id": 902,
         "atypeId": 9,
-        "description": "マークによってへそにつけられたピアス。\n呪いがかけられているため、外せない。",
+        "description": "A piercing attached to the navel by Mark. It cannot be removed because it is cursed.",
         "etypeId": 2,
         "traits": [
             {
@@ -24485,7 +24485,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "へそピアス",
+        "name": "Navel Piercing",
         "note": "<armor:216>\n<hint:マークとのイベントをすすめる>",
         "params": [
             0,
@@ -24502,7 +24502,7 @@
     {
         "id": 903,
         "atypeId": 9,
-        "description": "公衆便所のバイトでクリにつけられたピアス。\n呪いがかけられているため、外せない。",
+        "description": "I got a piercing on my clit while working at a public restroom part-time job. It's cursed, so I\ncan't take it off.",
         "etypeId": 2,
         "traits": [
             {
@@ -24512,7 +24512,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "クリピアス",
+        "name": "Clipias",
         "note": "<armor:217>\n<hint:公衆便所になる>",
         "params": [
             0,
@@ -24529,7 +24529,7 @@
     {
         "id": 904,
         "atypeId": 9,
-        "description": "性奴隷として売られたときに入れられた焼印。\n２度ときれいに戻ることはない。",
+        "description": "The branding that was placed when sold as a sex slave. There is no way to return to being clean\nagain.",
         "etypeId": 2,
         "traits": [
             {
@@ -24539,7 +24539,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "性奴隷の焼印",
+        "name": "Branding of the Sex Slave",
         "note": "<armor:213>\n<hint:山賊に３回敗北する>",
         "params": [
             0,
@@ -24556,7 +24556,7 @@
     {
         "id": 905,
         "atypeId": 9,
-        "description": "山賊によって孕まされたことを示す焼き印。\n恥ずかしい文言により、その後の人生が台無しになる例も。",
+        "description": "A branding mark that indicates being impregnated by bandits. There are also examples where one's\nlife is ruined due to the shameful wording.",
         "etypeId": 2,
         "traits": [
             {
@@ -24566,7 +24566,7 @@
             }
         ],
         "iconIndex": 2032,
-        "name": "山賊による焼印",
+        "name": "Burn mark by bandits",
         "note": "<armor:214>\n<hint:山賊相手に敗北する>",
         "params": [
             0,
@@ -24583,7 +24583,7 @@
     {
         "id": 906,
         "atypeId": 9,
-        "description": "ゴブリンの孕み袋になったことの証。\n世間では、この焼印がある者を憐れむという。",
+        "description": "Proof of becoming a Goblin's breeding bag. In society, it is said that those with this brand are\npitied.",
         "etypeId": 2,
         "traits": [
             {
@@ -24593,7 +24593,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ゴブリンによる焼印",
+        "name": "Goblin's Branding",
         "note": "<armor:215>\n<hint:ゴブリン相手に２回敗北する>",
         "params": [
             0,
@@ -24664,7 +24664,7 @@
     {
         "id": 909,
         "atypeId": 9,
-        "description": "メイヴィスによってつけられた首輪。\n呪いがかけられているため、外せない。",
+        "description": "Collar placed by Mavis. It cannot be removed because it is cursed.",
         "etypeId": 2,
         "traits": [
             {
@@ -24674,7 +24674,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "隷属の首輪",
+        "name": "Collar of Subjugation",
         "note": "<hint:メイヴィスのイベントをすすめる>\n<armor:204>",
         "params": [
             0,
@@ -24701,7 +24701,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "悪魔のしっぽ",
+        "name": "Devil's Tail",
         "note": "<hint:未実装>\n<armor:218>",
         "params": [
             0,
@@ -24728,7 +24728,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "罪人のタトゥー",
+        "name": "Tattoo of the Sinner",
         "note": "<hint:未実装>\n<armor:213>",
         "params": [
             0,
@@ -24745,7 +24745,7 @@
     {
         "id": 912,
         "atypeId": 9,
-        "description": "おちんぽが生えてくる。\nコレットとセックスすることができる。",
+        "description": "A penis is growing.\" \"You can have sex with Colette.",
         "etypeId": 2,
         "traits": [
             {
@@ -24755,7 +24755,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ふたなりの呪い",
+        "name": "Futanari Curse",
         "note": "<hint:火山の罠宝箱を開ける>\n<armor:221>",
         "params": [
             0,
@@ -24880,7 +24880,7 @@
     {
         "id": 917,
         "atypeId": 11,
-        "description": "誰とでも寝るような女である。\n街の人とエッチするときの条件になる場合がある。",
+        "description": "I am a woman who sleeps with anyone. Sometimes it becomes a condition for having sex with people in\ntown.",
         "etypeId": 2,
         "traits": [
             {
@@ -24890,7 +24890,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "尻軽女",
+        "name": "Easy Woman",
         "note": "<hint:一般人5人以上とセックスをする>",
         "params": [
             0,
@@ -24907,7 +24907,7 @@
     {
         "id": 918,
         "atypeId": 10,
-        "description": "性欲旺盛で、快楽に溺れやすくなっている。\nセックスシーンのセリフが変わることがある。",
+        "description": "They have a strong sexual desire and are easily indulged in pleasure. The dialogue in the sex scenes\nmay change.",
         "etypeId": 2,
         "traits": [
             {
@@ -24917,7 +24917,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "淫乱",
+        "name": "Promiscuous",
         "note": "<hint:絶頂回数が１００回を超える>\n<order:916>",
         "params": [
             0,
@@ -24934,7 +24934,7 @@
     {
         "id": 919,
         "atypeId": 0,
-        "description": "おまんこを見られることに快楽を覚える。\nくぱぁシーンでのセリフが変化する。",
+        "description": "I feel pleasure in being seen my 'private parts'. The dialogue changes during the 'spread open'\nscene.",
         "etypeId": 2,
         "traits": [
             {
@@ -24944,7 +24944,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "恥部露出願望",
+        "name": "Exposure of Genital Desire",
         "note": "",
         "params": [
             0,
@@ -24961,7 +24961,7 @@
     {
         "id": 920,
         "atypeId": 10,
-        "description": "裸を見られることに快楽を覚える。\n着せ替えで裸になることができる。",
+        "description": "I feel pleasure in being seen naked. I can become naked through dress-up.",
         "etypeId": 2,
         "traits": [
             {
@@ -24971,7 +24971,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "露出狂",
+        "name": "Exhibitionist",
         "note": "<hint:酒場でバイトをする>",
         "params": [
             0,
@@ -24988,7 +24988,7 @@
     {
         "id": 921,
         "atypeId": 10,
-        "description": "羞恥心や屈辱感を刺激されることによって快楽を覚える。\nイベントの発生条件になる。",
+        "description": "Experiencing pleasure through the stimulation of shame and humiliation. It becomes a condition for\ntriggering events.",
         "etypeId": 2,
         "traits": [
             {
@@ -24998,7 +24998,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "マゾ",
+        "name": "Masochist",
         "note": "<hint:メイヴィスのイベントを進める>",
         "params": [
             0,
@@ -25015,7 +25015,7 @@
     {
         "id": 922,
         "atypeId": 10,
-        "description": "自らが性奴隷であることを受け入れている。\n性奴隷の衣装を着用することが可能になる。",
+        "description": "They have accepted themselves as a sex slave. It becomes possible to wear a sex slave costume.",
         "etypeId": 2,
         "traits": [
             {
@@ -25025,7 +25025,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "性奴隷",
+        "name": "Sex slave",
         "note": "<hint:メイヴィスのイベントを進める>",
         "params": [
             0,
@@ -25231,7 +25231,7 @@
     {
         "id": 930,
         "atypeId": 0,
-        "description": "男に孕まされることに快楽を覚える。\n中出し前のセリフが変化する。",
+        "description": "I feel pleasure in being impregnated by a man. The lines before creampie change.",
         "etypeId": 2,
         "traits": [
             {
@@ -25241,7 +25241,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "×山賊輪姦願望",
+        "name": "×Bandit Gang Rape Desire",
         "note": "<hint:山賊のアジトで２回負ける>",
         "params": [
             0,
@@ -25285,7 +25285,7 @@
     {
         "id": 932,
         "atypeId": 10,
-        "description": "ゴブリンの孕み袋にされることに快楽を覚える。\nゴブリンの巣穴での敗北時に特殊Ｈイベントが発生する。",
+        "description": "I feel pleasure in being impregnated by a goblin's seed. A special H event occurs when defeated in a\ngoblin's lair.",
         "etypeId": 2,
         "traits": [
             {
@@ -25295,7 +25295,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ゴブリン輪姦願望",
+        "name": "Goblin Gangbang Desire",
         "note": "<hint:ゴブリンの巣穴で３回負ける>",
         "params": [
             0,
@@ -25420,7 +25420,7 @@
     {
         "id": 937,
         "atypeId": 11,
-        "description": "まんこがゆるくなっており、高級娼館で働けなくなる。\nそのかわり、安売春宿で働けるようになる。",
+        "description": "Their vagina becomes loose, and they can no longer work at a high-class brothel. Instead, they are\nable to work at a cheap prostitution inn.",
         "etypeId": 2,
         "traits": [
             {
@@ -25430,7 +25430,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ゆるマン",
+        "name": "Loose Man",
         "note": "<hint:膣締り具合がマイナスで獲得する。>",
         "params": [
             0,
@@ -25447,7 +25447,7 @@
     {
         "id": 938,
         "atypeId": 11,
-        "description": "まんこがガバガバになっており、\n膣挿入時の男性の反応が変わることがある。",
+        "description": "The vagina has become loose, and there may be changes in the male's reaction during vaginal\npenetration.",
         "etypeId": 2,
         "traits": [
             {
@@ -25457,7 +25457,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ガバマン",
+        "name": "Gaba Man",
         "note": "<hint:膣締り具合が-99で獲得する。>",
         "params": [
             0,
@@ -25474,7 +25474,7 @@
     {
         "id": 939,
         "atypeId": 11,
-        "description": "アナルがゆるくなっており、使いやすくなっている。\nイベントの発生条件になる。",
+        "description": "The anus has become looser and easier to use. It becomes a condition for triggering an event.",
         "etypeId": 2,
         "traits": [
             {
@@ -25484,7 +25484,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ゆるアナル",
+        "name": "Loose Anal",
         "note": "<hint:アナル締り具合がマイナスで獲得する。>",
         "params": [
             0,
@@ -25501,7 +25501,7 @@
     {
         "id": 940,
         "atypeId": 11,
-        "description": "アナルがガバガバになっており、\nアナル挿入時の男性の反応が変わることがある。",
+        "description": "The anus has become loose, and there may be changes in a male's reaction during anal penetration.",
         "etypeId": 2,
         "traits": [
             {
@@ -25511,7 +25511,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ガバアナル",
+        "name": "Gabaanal",
         "note": "<hint:アナル締り具合が-99で獲得する。>",
         "params": [
             0,
@@ -25538,7 +25538,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "巨大乳首",
+        "name": "Giant Nipples",
         "note": "",
         "params": [
             0,
@@ -25582,7 +25582,7 @@
     {
         "id": 943,
         "atypeId": 0,
-        "description": "Hシーンで愛液が出ることがある",
+        "description": "There are times when love juices come out during the H scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -25592,7 +25592,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "×濡れやすい",
+        "name": "×Easily wet",
         "note": "<hint:膣開発度が１０００で獲得する>",
         "params": [
             0,
@@ -25609,7 +25609,7 @@
     {
         "id": 944,
         "atypeId": 0,
-        "description": "おしっこがでやすくなってしまう。特定のプレイ用",
+        "description": "I have become more prone to urination. Specifically, during certain play sessions.",
         "etypeId": 2,
         "traits": [
             {
@@ -25619,7 +25619,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "×おもらし姫",
+        "name": "×Princess Bedwetter",
         "note": "",
         "params": [
             0,
@@ -25636,7 +25636,7 @@
     {
         "id": 945,
         "atypeId": 11,
-        "description": "フェラの時、演出が変わるときがある",
+        "description": "During fellatio scenes, there are times when the presentation changes.",
         "etypeId": 2,
         "traits": [
             {
@@ -25646,7 +25646,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "しゃぶり姫",
+        "name": "Sucking Princess",
         "note": "<hint:フェラ２０回で獲得する>",
         "params": [
             0,
@@ -25663,7 +25663,7 @@
     {
         "id": 946,
         "atypeId": 0,
-        "description": "ちんぽを使われるプレイで乱れる。セリフが変わる",
+        "description": "I get all flustered during a play where I'm used for 'that'! The lines change.",
         "etypeId": 2,
         "traits": [
             {
@@ -25673,7 +25673,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "×ちんぽ中毒",
+        "name": "×Chinpō addiction",
         "note": "<hint:中出し回数１００回で獲得する>",
         "params": [
             0,
@@ -25690,7 +25690,7 @@
     {
         "id": 947,
         "atypeId": 10,
-        "description": "ホームレスやモンスターのニオイに快楽を覚える\nイベントの発生条件になる",
+        "description": "I feel pleasure from the smell of homeless people and monsters. It becomes a condition for\ntriggering the event.",
         "etypeId": 2,
         "traits": [
             {
@@ -25700,7 +25700,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "汚臭好き",
+        "name": "Fond of filth",
         "note": "<hint:モンスター１０匹とのH経験で獲得する>",
         "params": [
             0,
@@ -25717,7 +25717,7 @@
     {
         "id": 948,
         "atypeId": 10,
-        "description": "アナルセックスが大好きである。\nアナルの経験が５００アップする。",
+        "description": "I love anal sex. It increases anal experience by 500.",
         "etypeId": 2,
         "traits": [
             {
@@ -25727,7 +25727,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "アナルだいすき",
+        "name": "I love anal",
         "note": "<hint:アナルセックス２０回で獲得する>",
         "params": [
             0,
@@ -25744,7 +25744,7 @@
     {
         "id": 949,
         "atypeId": 0,
-        "description": "乳の感度がとても高い。\n乳首の開発度の上昇値が２０％アップする",
+        "description": "Breast sensitivity is very high. The increase in nipple development level is up by 20%.",
         "etypeId": 2,
         "traits": [
             {
@@ -25754,7 +25754,7 @@
             }
         ],
         "iconIndex": 2016,
-        "name": "×乳狂い",
+        "name": "×Breast Lover",
         "note": "<hint: 乳首開発度１０００で獲得する>",
         "params": [
             0,
@@ -25771,7 +25771,7 @@
     {
         "id": 950,
         "atypeId": 11,
-        "description": "妊娠すると母乳が出るようになる",
+        "description": "When you become pregnant, you start producing breast milk.",
         "etypeId": 2,
         "traits": [
             {
@@ -25781,7 +25781,7 @@
             }
         ],
         "iconIndex": 1993,
-        "name": "母乳初め",
+        "name": "Breast milk beginning",
         "note": "<hint:孕み袋イベント以外で妊娠する>",
         "params": [
             0,
@@ -25808,7 +25808,7 @@
             }
         ],
         "iconIndex": 2003,
-        "name": "×妊娠中毒",
+        "name": "×Pregnancy toxemia",
         "note": "<hint:孕み袋イベント以外で３回妊娠する>",
         "params": [
             0,
@@ -25825,7 +25825,7 @@
     {
         "id": 952,
         "atypeId": 0,
-        "description": "男に孕まされることに快楽を覚える。\n中出し前のセリフが変化する。",
+        "description": "I feel pleasure in being impregnated by a man. The lines before creampie change.",
         "etypeId": 2,
         "traits": [
             {
@@ -25835,7 +25835,7 @@
             }
         ],
         "iconIndex": 2003,
-        "name": "×孕まされ願望",
+        "name": "×Impregnation Desire",
         "note": "<hint:教会で２回出産する>",
         "params": [
             0,
@@ -25862,7 +25862,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "乳牛願望",
+        "name": "Cow Desire",
         "note": "<hint:乳搾りイベントを５回する>",
         "params": [
             0,

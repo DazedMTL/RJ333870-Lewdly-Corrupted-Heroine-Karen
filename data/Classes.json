@@ -46,7 +46,7 @@
             }
         ],
         "learnings": [],
-        "name": "パラディン",
+        "name": "Paladin",
         "note": "",
         "params": [
             [
@@ -913,7 +913,7 @@
             }
         ],
         "learnings": [],
-        "name": "アマゾネス",
+        "name": "Amazoness",
         "note": "",
         "params": [
             [
@@ -1780,7 +1780,7 @@
             }
         ],
         "learnings": [],
-        "name": "ヴァルキリー",
+        "name": "Valkyrie",
         "note": "",
         "params": [
             [
@@ -2718,7 +2718,7 @@
                 "skillId": 203
             }
         ],
-        "name": "騎士",
+        "name": "Knight",
         "note": "",
         "params": [
             [
@@ -3641,7 +3641,7 @@
                 "skillId": 219
             }
         ],
-        "name": "格闘家",
+        "name": "Fighter",
         "note": "",
         "params": [
             [
@@ -4604,7 +4604,7 @@
                 "skillId": 109
             }
         ],
-        "name": "魔法剣士",
+        "name": "Magic Swordsman",
         "note": "",
         "params": [
             [
@@ -5512,7 +5512,7 @@
                 "skillId": 229
             }
         ],
-        "name": "狩人",
+        "name": "Hunter",
         "note": "",
         "params": [
             [
@@ -6430,7 +6430,7 @@
                 "skillId": 210
             }
         ],
-        "name": "盗賊",
+        "name": "Thief",
         "note": "",
         "params": [
             [

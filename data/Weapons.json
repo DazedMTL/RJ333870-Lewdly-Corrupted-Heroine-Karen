@@ -3,7 +3,7 @@
     {
         "id": 1,
         "animationId": 123,
-        "description": "未識別の剣",
+        "description": "Unidentified Sword",
         "etypeId": 1,
         "traits": [
             {
@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "？剣",
+        "name": "? Sword",
         "note": "",
         "params": [
             0,
@@ -36,7 +36,7 @@
     {
         "id": 2,
         "animationId": 123,
-        "description": "軽くて扱いやすい刀身の短い剣。",
+        "description": "A short sword with a lightweight and easy-to-handle blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -51,7 +51,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ショートソード",
+        "name": "Short Sword",
         "note": "",
         "params": [
             0,
@@ -69,7 +69,7 @@
     {
         "id": 3,
         "animationId": 123,
-        "description": "命中の高い剣",
+        "description": "Highly accurate sword",
         "etypeId": 1,
         "traits": [
             {
@@ -84,7 +84,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "バゼラード",
+        "name": "Bazelard",
         "note": "",
         "params": [
             0,
@@ -102,7 +102,7 @@
     {
         "id": 4,
         "animationId": 123,
-        "description": "鋭い切れ味を誇る戦闘用の長剣。",
+        "description": "A longsword designed for combat, boasting a sharp cutting\nedge.",
         "etypeId": 1,
         "traits": [
             {
@@ -117,7 +117,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ロングソード",
+        "name": "Longsword",
         "note": "",
         "params": [
             0,
@@ -135,7 +135,7 @@
     {
         "id": 5,
         "animationId": 123,
-        "description": "高い攻撃力が売りの戦闘用の長剣。",
+        "description": "A longsword designed for combat, boasting high attack\npower.",
         "etypeId": 1,
         "traits": [
             {
@@ -150,7 +150,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "大太刀",
+        "name": "Great Sword",
         "note": "",
         "params": [
             0,
@@ -168,7 +168,7 @@
     {
         "id": 6,
         "animationId": 6,
-        "description": "ミスリルで作られた短刀",
+        "description": "A short sword made of mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -183,7 +183,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ミスリルダガー",
+        "name": "Mithril Dagger",
         "note": "",
         "params": [
             0,
@@ -201,7 +201,7 @@
     {
         "id": 7,
         "animationId": 123,
-        "description": "高い攻撃力が売りの戦闘用の長剣。",
+        "description": "A longsword designed for combat, boasting high attack\npower.",
         "etypeId": 1,
         "traits": [
             {
@@ -216,7 +216,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ブロードソード",
+        "name": "Broadsword",
         "note": "",
         "params": [
             0,
@@ -234,7 +234,7 @@
     {
         "id": 8,
         "animationId": 123,
-        "description": "高い攻撃力が売りの戦闘用の長剣。",
+        "description": "A longsword designed for combat, boasting high attack\npower.",
         "etypeId": 1,
         "traits": [
             {
@@ -249,7 +249,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "クレイモア",
+        "name": "Claymore",
         "note": "",
         "params": [
             0,
@@ -267,7 +267,7 @@
     {
         "id": 9,
         "animationId": 123,
-        "description": "高い攻撃力が売りの戦闘用の長剣。",
+        "description": "A longsword designed for combat, known for its high attack\npower.",
         "etypeId": 1,
         "traits": [
             {
@@ -282,7 +282,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "フランベルジェ",
+        "name": "Flamberge",
         "note": "",
         "params": [
             0,
@@ -300,7 +300,7 @@
     {
         "id": 10,
         "animationId": 123,
-        "description": "高い攻撃力が売りの戦闘用の長剣。",
+        "description": "A longsword designed for combat, boasting high attack\npower.",
         "etypeId": 1,
         "traits": [
             {
@@ -315,7 +315,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "エクスカリパー",
+        "name": "Excalibur",
         "note": "",
         "params": [
             0,
@@ -366,7 +366,7 @@
     {
         "id": 12,
         "animationId": 123,
-        "description": "乳首をねぶるスライムが宿った剣",
+        "description": "A sword inhabited by a slime that licks nipples.",
         "etypeId": 1,
         "traits": [
             {
@@ -381,7 +381,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "スライムの剣",
+        "name": "Slime Sword",
         "note": "<curse_acce:287>\n<curse>\n",
         "params": [
             0,
@@ -399,7 +399,7 @@
     {
         "id": 13,
         "animationId": 123,
-        "description": "２マス先に攻撃できる槍",
+        "description": "A spear that can attack two squares ahead.",
         "etypeId": 1,
         "traits": [
             {
@@ -414,7 +414,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "鋼鉄の槍",
+        "name": "Steel Spear",
         "note": "<skill:5>",
         "params": [
             0,
@@ -498,7 +498,7 @@
     {
         "id": 16,
         "animationId": 123,
-        "description": "転送装置の武器もちこみLVが１以上の場合にもちこめる。\nこのアイテム自体はなくならず、何度でも使用可能。",
+        "description": "The transfer device can be equipped with weapons with an LV\nof 1 or higher. This item itself does not disappear and can\nbe used multiple times.",
         "etypeId": 1,
         "traits": [
             {
@@ -513,7 +513,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ショートソード",
+        "name": "Short Sword",
         "note": "<weapon: 2>\n<stay>\n<lv:1>",
         "params": [
             0,
@@ -531,7 +531,7 @@
     {
         "id": 17,
         "animationId": 123,
-        "description": "転送装置の武器もちこみLVが２以上の場合にもちこめる。\nこのアイテム自体はなくならず、何度でも使用可能。",
+        "description": "The weapon of the teleportation device can be equipped if\nthe LV is 2 or higher. This item itself does not disappear\nand can be used multiple times.",
         "etypeId": 1,
         "traits": [
             {
@@ -546,7 +546,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ロングソード",
+        "name": "Longsword",
         "note": "<weapon: 4>\n<stay>\n<lv:2>",
         "params": [
             0,
@@ -564,7 +564,7 @@
     {
         "id": 18,
         "animationId": 123,
-        "description": "転送装置の武器もちこみLVが３以上の場合にもちこめる。\nこのアイテム自体はなくならず、何度でも使用可能。",
+        "description": "The transfer device can be equipped with weapons with an LV\nof 3 or higher. This item itself does not disappear and can\nbe used multiple times.",
         "etypeId": 1,
         "traits": [
             {
@@ -579,7 +579,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ミスリルダガー",
+        "name": "Mithril Dagger",
         "note": "<weapon: 6>\n<stay>\n<lv:3>",
         "params": [
             0,
@@ -597,7 +597,7 @@
     {
         "id": 19,
         "animationId": 123,
-        "description": "転送装置の武器もちこみLVが４以上の場合にもちこめる。\nこのアイテム自体はなくならず、何度でも使用可能。",
+        "description": "The transfer device's weapon can be equipped if the LV is 4\nor higher. This item itself does not disappear and can be\nused multiple times.",
         "etypeId": 1,
         "traits": [
             {
@@ -612,7 +612,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ブロードソード",
+        "name": "Broadsword",
         "note": "<weapon: 7>\n<stay>\n<lv:4>",
         "params": [
             0,
@@ -630,7 +630,7 @@
     {
         "id": 20,
         "animationId": 123,
-        "description": "転送装置の武器もちこみLVが５以上の場合にもちこめる。\nこのアイテム自体はなくならず、何度でも使用可能。",
+        "description": "The transfer device can be equipped with weapons with an LV\nof 5 or higher. This item itself does not disappear and can\nbe used multiple times.",
         "etypeId": 1,
         "traits": [
             {
@@ -645,7 +645,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "クレイモア",
+        "name": "Claymore",
         "note": "<weapon: 8>\n<stay>\n<lv:5>",
         "params": [
             0,
@@ -1404,7 +1404,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "宝剣フルンティング",
+        "name": "Treasure Sword Flunting",
         "note": "",
         "params": [
             0,
@@ -1422,7 +1422,7 @@
     {
         "id": 44,
         "animationId": 6,
-        "description": "【短剣】接近戦で使用する短刀。",
+        "description": "【Dagger】A short sword used in close combat.",
         "etypeId": 1,
         "traits": [
             {
@@ -1437,7 +1437,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ダガー",
+        "name": "Dagger",
         "note": "",
         "params": [
             0,
@@ -1455,7 +1455,7 @@
     {
         "id": 45,
         "animationId": 6,
-        "description": "【短剣】刀身が厚く丈夫な短刀。",
+        "description": "【Dagger】A sturdy short sword with a thick blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -1470,7 +1470,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "マシェット",
+        "name": "Machete",
         "note": "",
         "params": [
             0,
@@ -1488,7 +1488,7 @@
     {
         "id": 46,
         "animationId": 6,
-        "description": "【短剣】ミスリルで作られた短刀。",
+        "description": "【Dagger】A short sword made of mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -1503,7 +1503,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ミスリルダガー",
+        "name": "Mithril Dagger",
         "note": "",
         "params": [
             0,
@@ -1521,7 +1521,7 @@
     {
         "id": 47,
         "animationId": 6,
-        "description": "【短剣】ドラゴンのキバで作られた短刀。",
+        "description": "【Dagger】A short sword made from a dragon's fang.",
         "etypeId": 1,
         "traits": [
             {
@@ -1536,7 +1536,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ドラゴンダガー",
+        "name": "Dragon Dagger",
         "note": "",
         "params": [
             0,
@@ -1653,7 +1653,7 @@
     {
         "id": 51,
         "animationId": 0,
-        "description": "転送に耐えられる剣",
+        "description": "A sword that can withstand teleportation.",
         "etypeId": 1,
         "traits": [
             {
@@ -1668,7 +1668,7 @@
             }
         ],
         "iconIndex": 1426,
-        "name": "魔法の剣",
+        "name": "Magic Sword",
         "note": "",
         "params": [
             0,
