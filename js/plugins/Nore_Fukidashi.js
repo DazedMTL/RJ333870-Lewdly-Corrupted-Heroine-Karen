@@ -296,7 +296,7 @@ var Window_Fukidashi = /** @class */ (function (_super) {
     };
     Window_Fukidashi.prototype.resetFontSettings = function () {
         this.contents.fontFace = $gameSystem.mainFontFace();
-        this.contents.fontSize = 20;
+        this.contents.fontSize = 14;
         this.contents.fontBold = true;
         this.resetTextColor();
     };
