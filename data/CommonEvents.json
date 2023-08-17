@@ -55004,7 +55004,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "どのパターンを見ますか？"
+                    "Which pattern would you like to see?"
                 ]
             },
             {
@@ -55012,11 +55012,11 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "パターン１",
-                        "パターン２",
-                        "パターン３",
-                        "バニー",
-                        "乳しぼり"
+                        "Pattern 1",
+                        "Pattern 2",
+                        "Pattern 3",
+                        "Bunny",
+                        "Breast Milking"
                     ],
                     1,
                     0,
@@ -63679,7 +63679,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "どの種親にしますか？"
+                    "Which species parent will you choose?"
                 ]
             },
             {
@@ -63687,12 +63687,12 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "テオ",
-                        "神父",
-                        "マーク",
-                        "アンドレイ",
-                        "メイヴィスのブタ",
-                        "その他"
+                        "Teo",
+                        "Priest",
+                        "Mark",
+                        "Andrey",
+                        "Mavis's Pig",
+                        "Other"
                     ],
                     -1,
                     0,
@@ -63873,9 +63873,9 @@
                 "indent": 1,
                 "parameters": [
                     [
-                        "山賊",
-                        "ゴブリン",
-                        "浮浪者"
+                        "Bandit",
+                        "Goblin",
+                        "Wanderer"
                     ],
                     -1,
                     0,
@@ -114099,7 +114099,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "どのエンディングを見ますか？"
+                    "Which ending would you like to see?"
                 ]
             },
             {
@@ -114107,8 +114107,8 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "トゥルーエンド",
-                        "ノーマルエンド"
+                        "True End",
+                        "Normal Ending"
                     ],
                     1,
                     0,
@@ -114628,7 +114628,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "回想を全開放しました"
+                    "All memories have been fully unlocked."
                 ]
             },
             {

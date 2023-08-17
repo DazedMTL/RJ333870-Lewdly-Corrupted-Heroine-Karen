@@ -2365,7 +2365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回想を全開放しますか？"
+                                "Do you want to unlock all the memories?"
                             ]
                         },
                         {
@@ -2373,8 +2373,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2412,7 +2412,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "回想を全開放しました"
+                                "All memories have been unlocked."
                             ]
                         },
                         {
@@ -2796,7 +2796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "階段を使いますか？"
+                                "Do you want to use the stairs?"
                             ]
                         },
                         {
@@ -2804,8 +2804,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

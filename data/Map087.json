@@ -24509,7 +24509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "階段を使いますか？"
+                                "Will you use the stairs?"
                             ]
                         },
                         {
@@ -24517,8 +24517,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
