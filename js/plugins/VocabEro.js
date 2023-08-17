@@ -430,31 +430,31 @@ function getSyusanTitle(eroId, n) {
 }
 function getEroParamTitle(label) {
     switch (label) {
-        case 'nakadashiTotal': return '中出し';
-        case 'anal': return 'アナルSEX';
-        case 'baisyun': return '売春';
-        case 'dorei': return '奴隷売買';
-        case 'defeat': return '敗北レイプ';
-        case 'bukkake': return 'ぶっかけ';
-        case 'seiekiNomu': return '飲んだ精液';
-        case 'seiekiNakadashi': return '中出し精液';
-        case 'syusanHuman': return '出産(人間)';
-        case 'syusanMonster': return '出産(魔物)';
-        case 'fela': return 'フェラ';
-        case 'acme': return '絶頂';
+        case 'nakadashiTotal': return 'Creampies';
+        case 'anal': return 'Anal SEX';
+        case 'baisyun': return 'Prostitution';
+        case 'dorei': return 'Enslaved';
+        case 'defeat': return 'Rape';
+        case 'bukkake': return 'Bukkake';
+        case 'seiekiNomu': return 'Semen';
+        case 'seiekiNakadashi': return 'Creampie Amount';
+        case 'syusanHuman': return 'Births (Human)';
+        case 'syusanMonster': return 'Births (Monster)';
+        case 'fela': return 'Fellatio';
+        case 'acme': return 'Climaxes';
     }
     return '';
 }
 function getEroStatusTitle(label) {
     switch (label) {
-        case 'chitsu': return '膣';
-        case 'anal': return 'アナル';
-        case 'kuchi': return '口';
-        case 'chikubi': return '乳首';
-        case 'defeat': return '敗北レイプ';
-        case 'syusanHuman': return '出産(人間)';
-        case 'syusanMonster': return '出産(魔物)';
-        case 'fela': return 'フェラ';
+        case 'chitsu': return 'Pussy';
+        case 'anal': return 'Anal';
+        case 'kuchi': return 'Mouth';
+        case 'chikubi': return 'Nipples';
+        case 'defeat': return 'Rape';
+        case 'syusanHuman': return 'Births (Human)';
+        case 'syusanMonster': return 'Births (Monster)';
+        case 'fela': return 'Fellatio';
     }
     return '';
 }

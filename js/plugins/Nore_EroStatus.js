@@ -203,7 +203,7 @@ var Nore;
         Window_EroStatus.prototype.drawTaneoya = function (enemy, x, y) {
             this.contents.fontSize = 20;
             this.changeTextColor(ColorManager.systemColor());
-            this.drawText('種親', x, y, 200, 'left');
+            this.drawText('Mother of Offspring', x, y, 200, 'left');
             this.resetFontSettings();
             this.contents.fontSize = 20;
             this.drawText(getTaneoyaName(enemy), x + 60, y + 30, 200, 'left');
@@ -238,7 +238,7 @@ var Nore;
         };
         Window_EroStatus.prototype.drawKeiken = function (x, y) {
             var actor = $gameActors.mainActor();
-            this.drawLabel('経験人数(アナル含む)', x, y, 2080);
+            this.drawLabel('Total Experiences', x, y, 2080);
             var list = ['people', 'enemy', 'monster'];
             var xx = x + 40;
             var yy = y;
@@ -250,16 +250,16 @@ var Nore;
                 var name_1 = getNakadashiTarget(type);
                 this.drawText(name_1, xx, yy, 200, 'left');
                 var nakadashi = ero.keiken(type);
-                var unit = ' 人';
+                var unit = ' x';
                 if (type == 'monster') {
-                    unit = ' 匹';
+                    unit = ' x';
                 }
                 this.drawText(nakadashi + unit, xx, yy, this._valueWidth, 'right');
             }
         };
         Window_EroStatus.prototype.drawCount = function (x, y) {
             var actor = $gameActors.mainActor();
-            this.drawLabel('経験', x, y, 2103);
+            this.drawLabel('Sex Experiences', x, y, 2103);
             var list = ['nakadashiTotal', 'anal', 'fela', 'acme', 'baisyun', 'bukkake',
                 'seiekiNomu', 'seiekiNakadashi', 'syusanHuman', 'syusanMonster'];
             var xx = x + 40;
@@ -277,13 +277,13 @@ var Nore;
                 }
                 else {
                     if (type == 'syusanMonster') {
-                        this.drawText(value + ' 匹', xx, yy, this._valueWidth, 'right');
+                        this.drawText(value + ' x', xx, yy, this._valueWidth, 'right');
                     }
                     else if (type == 'syusanHuman') {
-                        this.drawText(value + ' 人', xx, yy, this._valueWidth, 'right');
+                        this.drawText(value + ' x', xx, yy, this._valueWidth, 'right');
                     }
                     else {
-                        this.drawText(value + ' 回', xx, yy, this._valueWidth, 'right');
+                        this.drawText(value + ' x', xx, yy, this._valueWidth, 'right');
                     }
                 }
             }
@@ -293,21 +293,21 @@ var Nore;
         };
         Window_EroStatus.prototype.drawHarami = function (x, y) {
             var actor = $gameActors.mainActor();
-            this.drawLabel('お腹の状態', x, y, 2003);
+            this.drawLabel('Stomach', x, y, 2003);
             this.resetNormalFont();
             var yy = y;
             var xx = x + 40;
             yy += this.lineHeight();
-            var text = '通常';
+            var text = 'Normal';
             switch (actor.boteId) {
                 case 2:
-                    text = '妊娠初期';
+                    text = 'Early';
                     break;
                 case 3:
-                    text = '妊娠中期';
+                    text = 'Mid';
                     break;
                 case 4:
-                    text = '妊娠後期';
+                    text = 'Late';
                     break;
             }
             this.drawText(text, xx, yy, this._valueWidth, 'left');
@@ -320,28 +320,28 @@ var Nore;
         };
         Window_EroStatus.prototype.drawBust = function (x, y) {
             var actor = $gameActors.mainActor();
-            this.drawLabel('胸状態', x, y, 2000);
+            this.drawLabel('Chest', x, y, 2000);
             this.resetNormalFont();
             var yy = y;
             var xx = x + 40;
             yy += this.lineHeight();
-            var text = '通常';
+            var text = 'Normal';
             switch (actor.breastsId) {
                 case 2:
-                    text = '美乳';
+                    text = 'Pretty';
                     break;
                 case 3:
-                    text = '巨乳';
+                    text = 'Huge';
                     break;
                 case 4:
-                    text = '超乳';
+                    text = 'Small';
                     break;
             }
             this.drawText(text, xx, yy, this._valueWidth, 'left');
         };
         Window_EroStatus.prototype.drawStatus = function (x, y) {
             var actor = $gameActors.mainActor();
-            this.drawLabel('開発度', x, y, 2090);
+            this.drawLabel('Development', x, y, 2090);
             var list = ['chitsu', 'anal', 'kuchi', 'chikubi'];
             var xx = x + 40;
             var yy = y;
@@ -363,7 +363,7 @@ var Nore;
         };
         Window_EroStatus.prototype.drawTightening = function (x, y) {
             var actor = $gameActors.mainActor();
-            this.drawLabel('締まり具合', x, y, 2020);
+            this.drawLabel('Tightness', x, y, 2020);
             var list = ['chitsu', 'anal'];
             var xx = x + 40;
             var yy = y;
@@ -460,7 +460,7 @@ var Nore;
         };
         Window_EroStatus.prototype.draHatsutaiken = function (x, y) {
             this.resetNormalFont();
-            this.drawLabel('初体験の相手', x, y, 404);
+            this.drawLabel('First Experience', x, y, 404);
             this.resetNormalFont();
             var enemyId = $gameActors.mainActor().sikyu().hatsutaiken;
             if (enemyId > 0) {
@@ -470,7 +470,7 @@ var Nore;
                 this.addChild(sp);
             }
             else {
-                this.drawText('処女', x + 40, y + 30, 200, 'left');
+                this.drawText('Virgin', x + 40, y + 30, 200, 'left');
             }
         };
         Window_EroStatus.prototype.drawLabel = function (text, x, y, iconIndex) {
@@ -483,8 +483,8 @@ var Nore;
         };
         Window_EroStatus.prototype.drawSkills = function (x, y) {
             var actor = $gameActors.mainActor();
-            this.drawLabel('つけられた装備・呪い', x, y);
-            this.drawLabel('性癖・特徴', x, y + 148);
+            this.drawLabel('Equipped Curse', x, y);
+            this.drawLabel('Fetish/Characteristic', x, y + 148);
             //this.drawLabel('肉体改造', x, y + 362);
             this.resetNormalFont();
             x += 20;
@@ -637,12 +637,12 @@ Window_Base.prototype.drawSikyu = function (x, y, sikyuSeieki, showNew) {
     if (showNew === void 0) { showNew = false; }
     this.contents.fontSize = 20;
     this.changeTextColor(ColorManager.systemColor());
-    this.drawText('子宮内の精液', x, y, 200, 'left');
+    this.drawText('Semen in Womb', x, y, 200, 'left');
     this.contents.fontSize = 16;
     this.changeTextColor(ColorManager.normalColor());
     if (sikyuSeieki.length == 0) {
         this.changeTextColor(ColorManager.normalColor());
-        this.drawText('なし', x + 44, y + 30, 200, 'left');
+        this.drawText('None', x + 44, y + 30, 200, 'left');
         return;
     }
     y += 40;
