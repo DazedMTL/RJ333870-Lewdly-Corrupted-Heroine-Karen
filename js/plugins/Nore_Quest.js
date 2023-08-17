@@ -204,14 +204,14 @@ var Nore;
             this.drawText(quest.name, 10, 10, 450, 'left');
             this.contents.fontSize = 24;
             var y = 80;
-            this.drawText('報酬', 20, y, 450, 'left');
+            this.drawText('Reward', 20, y, 450, 'left');
             this.drawText(quest.meta['reward'] + 'Ｇ', 10, y, 420, 'right');
             y += 30;
             var rank = '';
             for (var i = 0; i < parseInt(quest.meta['rank']); i++) {
                 rank += '★';
             }
-            this.drawText('必要な冒険者ランク', 20, y, 200, 'left');
+            this.drawText('Required Rank', 20, y, 200, 'left');
             this.drawText(rank, 10, y, 420, 'right');
         };
         Window_QuestDetail.prototype.drawDescription = function (quest, y) {
@@ -233,7 +233,7 @@ var Nore;
                 return;
             }
             this.contents.fontSize = 24;
-            this.drawText('★敵情報', 10, y, 450, 'left');
+            this.drawText('★Enemy Info', 10, y, 450, 'left');
             this.contents.fontSize = 28;
             this.drawText(enemy.name, 20, y + 32, 450, 'left');
             y += 70;
@@ -244,7 +244,7 @@ var Nore;
         };
         Window_QuestDetail.prototype.resetFontSettings = function () {
             this.contents.fontFace = $gameSystem.mainFontFace();
-            this.contents.fontSize = 22;
+            this.contents.fontSize = 16;
             this.resetTextColor();
         };
         return Window_QuestDetail;
