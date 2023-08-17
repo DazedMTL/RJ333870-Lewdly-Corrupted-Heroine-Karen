@@ -272,7 +272,7 @@ var Nore;
         Window_SimpleStatus.prototype.drawMedal = function () {
             var y = 5;
             this.changeTextColor(ColorManager.systemColor());
-            this.drawText('二つ名', 20, y, 200, 'left');
+            this.drawText('Nickname: ', 20, y, 200, 'left');
             this.changeTextColor(ColorManager.normalColor());
             this.drawText($gameVariables.value(99), 155, y, 260, 'left');
         };

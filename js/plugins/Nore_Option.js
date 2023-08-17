@@ -59,9 +59,9 @@ Window_Options.prototype.statusText = function (index) {
     if (symbol == 'skipKey') {
         switch (value) {
             case 0:
-                return 'Shift(ダッシュ)';
+                return 'Shift(Dash)';
             case 1:
-                return 'A(方向転換)';
+                return 'A(Movement)';
             case 2:
                 return 'ctrl';
         }

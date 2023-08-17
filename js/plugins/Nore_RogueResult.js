@@ -535,12 +535,12 @@ var Nore;
                 this.changeTextColor(ColorManager.normalColor());
                 var rect = this.itemLineRect(index);
                 this.contents.fontSize = 18;
-                var text = item.day + '日';
+                var text = item.day + 'Day';
                 if (item.morning) {
-                    text += '朝';
+                    text += 'Morning';
                 }
                 else if (item.night) {
-                    text += '夜';
+                    text += 'Night';
                 }
                 this.drawText(text, rect.x, rect.y, rect.width, 'left');
                 this.contents.fontSize = 24;

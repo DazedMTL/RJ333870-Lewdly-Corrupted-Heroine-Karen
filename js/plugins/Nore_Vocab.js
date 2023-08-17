@@ -18,7 +18,7 @@ TextManager.notEnoughSeieki = 'Not enough semen.';
 TextManager.kodakara = 'Because I am equipped with a child protection charm, it becomes 100%.';
 TextManager.kigaeError = 'It is not possible to determine with certainty while exposing only a part.';
 TextManager.endGame = 'End Game';
-TextManager.displayOperation = 'Operation Instructions';
+TextManager.displayOperation = 'Tutorials';
 TextManager.skipKey = 'Message Skip Key';
 function getPlaceName(destId) {
     switch (destId) {
