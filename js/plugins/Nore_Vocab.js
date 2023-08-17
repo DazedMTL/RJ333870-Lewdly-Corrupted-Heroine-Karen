@@ -22,7 +22,7 @@ TextManager.displayOperation = 'Tutorials';
 TextManager.skipKey = 'Message Skip Key';
 function getPlaceName(destId) {
     switch (destId) {
-        case Destination.Town: return 'Magical City Sodom';
+        case Destination.Town: return 'Magic Capital Sodom';
         case Destination.Forest: return 'Enchanted Forest';
         case Destination.Goblin: return 'Goblin Lair';
     }

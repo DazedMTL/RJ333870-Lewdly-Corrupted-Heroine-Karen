@@ -100,6 +100,6 @@ var $plugins =
         { "name": "Nore_SyusanImage", "status": true, "description": "", "parameters": {} },
         { "name": "Nore_Title", "status": true, "description": "", "parameters": {} },
         { "name": "Nore_SeihekiWindow", "status": true, "description": "", "parameters": {} },
-        { "name": "Nore_BackLog", "status": true, "description": "バックログを表示するプラグインです。", "parameters": { "backLogButton": "pageup", "marginLeft": "70", "marginRight": "30", "nameLeft": "20", "fontSize": "24", "scrollSpeed": "5", "windowHeight": "2000", "maxLogCount": "50", "bottmMargin": "50", "logMargin": "44", "windowSkin": "WindowBacklog", "backOpacity": "230" } },
+        { "name": "Nore_BackLog", "status": true, "description": "バックログを表示するプラグインです。", "parameters": { "backLogButton": "pageup", "marginLeft": "70", "marginRight": "30", "nameLeft": "20", "fontSize": "20", "scrollSpeed": "5", "windowHeight": "2000", "maxLogCount": "50", "bottmMargin": "50", "logMargin": "44", "windowSkin": "WindowBacklog", "backOpacity": "230" } },
         { "name": "WindowOverlay", "status": true, "description": "", "parameters": {} }
     ];

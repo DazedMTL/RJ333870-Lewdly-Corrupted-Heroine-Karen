@@ -51,24 +51,24 @@ var Nore;
             var armor = $dataArmors[departureItemId];
             var canGo = $gameParty.hasItem(armor, false);
             if (this._item.id == 487) {
-                this.addCommand('最終決戦へと旅立つ', WarpCommand.go, canGo, null);
+                this.addCommand('Depart Final Battle', WarpCommand.go, canGo, null);
             }
             else {
-                this.addCommand('１層から出発する(' + armor.name + ')', WarpCommand.go, canGo, null);
+                this.addCommand('Start Floor 1(' + armor.name + ')', WarpCommand.go, canGo, null);
             }
             var departureItemId2 = this._item.meta['departure2'];
             if (departureItemId2) {
                 var armor2 = $dataArmors[departureItemId2];
                 var canGo2 = $gameParty.hasItem(armor2, false);
-                this.addCommand('２層から出発する(' + armor2.name + ')', WarpCommand.go2, canGo2, null);
+                this.addCommand('Start Floor 2(' + armor2.name + ')', WarpCommand.go2, canGo2, null);
             }
             var departureItemId3 = this._item.meta['departure3'];
             if (departureItemId3) {
                 var armor3 = $dataArmors[departureItemId3];
                 var canGo3 = $gameParty.hasItem(armor3, false);
-                this.addCommand('３層から出発する(' + armor3.name + ')', WarpCommand.go3, canGo3, null);
+                this.addCommand('Start Floor 3(' + armor3.name + ')', WarpCommand.go3, canGo3, null);
             }
-            this.addCommand('転送装置の調整', WarpCommand.upgrade, true, null);
+            this.addCommand('Adjust Equipment', WarpCommand.upgrade, true, null);
         };
         return Window_DestCommand;
     }(Window_Command));
@@ -443,6 +443,7 @@ var Nore;
         Window_DestSelect.prototype.windowHeight = function () {
             return this._destList.length * (this.lineHeight() + 8) + 14 * 2;
         };
+        
         Window_DestSelect.prototype.selectedId = function () {
             return this.item().id;
         };
@@ -477,7 +478,7 @@ var Nore;
                     this.changePaintOpacity(false);
                 }
             }
-            this.drawText(item.name, rect.x + 54, rect.y, 310, 'left');
+            this.drawText(item.name, rect.x + 54, rect.y, 200, 310, 'left');
             this.changePaintOpacity(true);
             var iconX = parseInt(item.meta['iconX']);
             var iconY = parseInt(item.meta['iconY']);
