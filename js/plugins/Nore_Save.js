@@ -68,7 +68,7 @@ var Nore;
             }
         };
         Window_SavefileList2.prototype.drawDays = function (info, x, y) {
-            this.drawText(info.days + '日', x, y, 190, 'right');
+            this.drawText('Day ' + info.days, x, y, 190, 'right');
             this.drawText('LV ' + info.level, x - 70, y, 190, 'right');
             var time = new Date(info.timestamp);
             var mm = (time.getMonth() + 1).padZero(2);
