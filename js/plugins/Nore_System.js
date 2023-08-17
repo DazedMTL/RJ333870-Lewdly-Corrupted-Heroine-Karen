@@ -202,46 +202,46 @@ var Game_RogueSystem = /** @class */ (function (_super) {
         var actor = $gameActors.mainActor();
         var text = '';
         if ($gameParty.ether() > this._lastSeieki) {
-            text += '精液を %1 cc獲得した！\n'.format($gameParty.ether() - this._lastSeieki);
+            text += 'Obtained %1 cc of semen!\n'.format($gameParty.ether() - this._lastSeieki);
         }
         if (actor.eroPower > this._lastEroPower) {
-            text += '闇の力が %1 上昇した！\n'.format(actor.eroPower - this._lastEroPower);
+            text += 'Dark power increased by %1!\n'.format(actor.eroPower - this._lastEroPower);
         }
         if (ero.chitsuStatus > this._lastEro.chitsuStatus) {
-            text += '膣開発度が %1 上昇した！\n'.format(ero.chitsuStatus - this._lastEro.chitsuStatus);
+            text += 'Vaginal development increased by %1!\n'.format(ero.chitsuStatus - this._lastEro.chitsuStatus);
         }
         if (ero.analStatus > this._lastEro.analStatus) {
-            text += 'アナル開発度が %1 上昇した！\n'.format(ero.analStatus - this._lastEro.analStatus);
+            text += 'Anal development increased by %1!\n'.format(ero.analStatus - this._lastEro.analStatus);
         }
         if (ero.chikubiStatus > this._lastEro.chikubiStatus) {
-            text += '乳首開発度が %1 上昇した！\n'.format(ero.chikubiStatus - this._lastEro.chikubiStatus);
+            text += 'Nipple development increased by %1!\n'.format(ero.chikubiStatus - this._lastEro.chikubiStatus);
         }
         if (ero.kuchiStatus > this._lastEro.kuchiStatus) {
-            text += '口開発度が %1 上昇した！\n'.format(ero.kuchiStatus - this._lastEro.kuchiStatus);
+            text += 'Oral development increased by %1!\n'.format(ero.kuchiStatus - this._lastEro.kuchiStatus);
         }
         if (ero.keikenPeople() > this._lastEro.keikenPeople()) {
-            text += '経験人数(一般人)が %1 回増えた！\n'.format(ero.keikenPeople() - this._lastEro.keikenPeople());
+            text += 'Number of sexual experiences (with regular people) increased by %1!\n'.format(ero.keikenPeople() - this._lastEro.keikenPeople());
         }
         if (ero.anal > this._lastEro.anal) {
-            text += 'アナル回数が %1 回増えた！\n'.format(ero.anal - this._lastEro.anal);
+            text += 'Number of anal sex increased by %1!\n'.format(ero.anal - this._lastEro.anal);
         }
         if (ero.fela > this._lastEro.fela) {
-            text += 'フェラ回数が %1 回増えた！\n'.format(ero.fela - this._lastEro.fela);
+            text += 'Number of blowjobs increased by %1!\n'.format(ero.fela - this._lastEro.fela);
         }
         if (ero.keikenMonster() > this._lastEro.keikenMonster()) {
-            text += '経験人数(モンスター)が %1 回増えた！\n'.format(ero.keikenMonster() - this._lastEro.keikenMonster());
+            text += 'Number of sexual experiences (with monsters) increased by %1!\n'.format(ero.keikenMonster() - this._lastEro.keikenMonster());
         }
         if (ero.chitsuTightening > this._lastEro.chitsuTightening) {
-            text += '膣の締まり具合が %1 増加した！\n'.format(ero.chitsuTightening - this._lastEro.chitsuTightening);
+            text += 'Vaginal tightness increased by %1!\n'.format(ero.chitsuTightening - this._lastEro.chitsuTightening);
         }
         if (ero.chitsuTightening < this._lastEro.chitsuTightening) {
-            text += '膣の締まり具合が %1 減少した！\n'.format(Math.abs(ero.chitsuTightening - this._lastEro.chitsuTightening));
+            text += 'Vaginal tightness decreased by %1!\n'.format(Math.abs(ero.chitsuTightening - this._lastEro.chitsuTightening));
         }
         if (ero.analTightening > this._lastEro.analTightening) {
-            text += 'アナルの締まり具合が %1 増加した！\n'.format(ero.analTightening - this._lastEro.analTightening);
+            text += 'Anal tightness increased by %1!\n'.format(ero.analTightening - this._lastEro.analTightening);
         }
         if (ero.analTightening < this._lastEro.analTightening) {
-            text += 'アナルの締まり具合が %1 減少した！\n'.format(Math.abs(ero.analTightening - this._lastEro.analTightening));
+            text += 'Anal tightness decreased by %1!\n'.format(Math.abs(ero.analTightening - this._lastEro.analTightening));
         }
         $gameVariables.setValue(20, text);
     };

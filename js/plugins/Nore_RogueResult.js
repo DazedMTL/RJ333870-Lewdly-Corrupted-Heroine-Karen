@@ -617,10 +617,10 @@ var Nore;
         };
         Window_Result.prototype.drawTitle = function (y) {
             if (this._result.isDungeon()) {
-                this.drawText('冒険の結果', 0, y, this.width, 'center');
+                this.drawText('Adventure Results', 0, y, this.width, 'center');
             }
             else {
-                this.drawText('Ｈの結果', 0, y, this.width, 'center');
+                this.drawText('H Results:', 0, y, this.width, 'center');
             }
         };
         Window_Result.prototype.drawResultText = function (y) {
@@ -686,26 +686,26 @@ var Nore;
             var width2;
             var actorName = $gameActors.mainActor().name();
             if (result.isClear()) {
-                var base1 = '%1は%2を';
+                var base1 = '%1 at %2 Results:';
                 text1 = base1.format('\\C[6]' + actorName + '\\C[0]', '\\C[2]' + dungeonName);
                 text2 = this.getClearText(result);
                 width1 = this.textWidth(base1.format(actorName, dungeonName));
                 width2 = this.textWidth(text2);
             }
             else if (result.isRope()) {
-                var base1 = '%1は%2から撤退した！';
+                var base1 = '%1 has withdrawn from %2!';
                 text1 = base1.format('\\C[6]' + actorName + '\\C[0]', '\\C[2]' + dungeonName);
                 text2 = '';
                 width1 = this.textWidth(base1.format(actorName, dungeonName));
                 width2 = this.textWidth(text2);
             }
             else {
-                var base1 = '%1は%2%3階で';
+                var base1 = '%1 is on layer %3 of %2.';
                 var floor = Nore.hankaku2Zenkaku(result.floor);
                 text1 = base1.format('\\C[6]' + actorName + '\\C[0]', '\\C[2]' + dungeonName, '\\C[16]' + floor + '\\C[0]');
                 width1 = this.textWidth(base1.format(actorName, dungeonName, floor));
                 var enemyName = this.enemyName(result);
-                var base2 = '%1の攻撃を受けて倒れた。';
+                var base2 = "I fell down after being hit by %1's attack.";
                 text2 = base2.format('\\C[6]' + enemyName + '\\C[0]');
                 width2 = this.textWidth(base2.format(enemyName));
             }
@@ -714,10 +714,10 @@ var Nore;
         };
         Window_Result.prototype.getClearText = function (result) {
             if (result.defeatCount() == 0) {
-                return '無事にクリアした';
+                return 'Successfully Cleared!';
             }
             else {
-                return '%1回敗北しながらもクリアした'.format(result.defeatCount());
+                return 'I cleared it despite losing %1 times.'.format(result.defeatCount());
             }
         };
         Window_Result.prototype.lineHeight = function () {
@@ -743,20 +743,20 @@ var Nore;
         Window_Result.prototype.drawEroStatus = function (x, y) {
             this.contents.fontSize = 20;
             this.changeTextColor(ColorManager.systemColor());
-            this.drawText('今回のＨ活動', x, y, 200, 'left');
+            this.drawText('H Activity:', x, y, 200, 'left');
             this.contents.fontSize = 18;
             this.changeTextColor(ColorManager.normalColor());
             x += 30;
-            this.drawItem(x, y, 1, '中出し', 2031, 'nakadashiCount');
-            this.drawItem(x, y, 2, 'アナル', 2021, 'anal');
-            this.drawItem(x, y, 3, 'フェラ', 2004, 'fela');
+            this.drawItem(x, y, 1, 'Creampie', 2031, 'nakadashiCount');
+            this.drawItem(x, y, 2, 'Anal', 2021, 'anal');
+            this.drawItem(x, y, 3, 'Fellatio', 2004, 'fela');
             this.drawItem(x, y, 4, TextManager.bukkake, 2026, 'bukkake', 'ml');
-            this.drawItem(x, y, 5, '中出し精液', 2031, 'nakaSeieki', 'ml');
-            this.drawItem(x, y, 6, '飲んだ精液', 2028, 'kounaiSeieki', 'ml');
-            this.drawItem(x, y, 7, 'キス', 2096, 'kiss');
-            this.drawItem(x, y, 8, 'アクメ', 2090, 'iku');
-            this.drawItem(x, y, 9, '出産(人間)', 2048, 'syusanHuman');
-            this.drawItem(x, y, 10, '出産(モンスター)', 2052, 'syusanMonster');
+            this.drawItem(x, y, 5, 'Creampie Amount', 2031, 'nakaSeieki', 'ml');
+            this.drawItem(x, y, 6, 'Swallowed', 2028, 'kounaiSeieki', 'ml');
+            this.drawItem(x, y, 7, 'Kiss', 2096, 'kiss');
+            this.drawItem(x, y, 8, 'Orgasms', 2090, 'iku');
+            this.drawItem(x, y, 9, 'Births (Human)', 2048, 'syusanHuman');
+            this.drawItem(x, y, 10, 'Births (Monster)', 2052, 'syusanMonster');
         };
         Window_Result.prototype.drawLine = function (y) {
             this.contents.fillRect(10, y, this.width - 20 - this.padding * 2, 2, ColorManager.normalColor());

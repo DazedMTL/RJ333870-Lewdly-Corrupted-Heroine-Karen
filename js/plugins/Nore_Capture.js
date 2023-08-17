@@ -937,16 +937,16 @@ var Nore;
             if (!this._window) {
                 return;
             }
-            this.addCommand('エロ画像', 'ero', true, null);
-            this.addCommand('擬音1', 'effect1', true, null);
-            this.addCommand('擬音2', 'effect2', true, null);
-            this.addCommand('セリフ1', 'effect3', true, null);
-            this.addCommand('セリフ2', 'effect4', true, null);
-            this.addCommand('エフェクト1', 'effect5', true, null);
-            this.addCommand('エフェクト2', 'effect6', true, null);
-            this.addCommand('エフェクト3', 'effect7', true, null);
-            this.addCommand('エフェクト4', 'effect8', true, null);
-            this.addCommand('確定', 'ok', true, null);
+            this.addCommand('Erotic image', 'ero', true, null);
+            this.addCommand('Sound effect 1', 'effect1', true, null);
+            this.addCommand('Sound effect 2', 'effect2', true, null);
+            this.addCommand('Speech 1', 'effect3', true, null);
+            this.addCommand('Speech 2', 'effect4', true, null);
+            this.addCommand('Effect 1', 'effect5', true, null);
+            this.addCommand('Effect 2', 'effect6', true, null);
+            this.addCommand('Effect 3', 'effect7', true, null);
+            this.addCommand('Effect 4', 'effect8', true, null);
+            this.addCommand('Confirm', 'ok', true, null);
         };
         Window_ItemCommand.prototype.setEffectIndex = function (index) {
             this._effectIndex = index;
@@ -979,16 +979,16 @@ var Nore;
             if (!this._window) {
                 return;
             }
-            this.addCommand('位置調整', 'move', true, null);
-            this.addCommand('次の画像', 'next', this._window.canGoNext(), null);
-            this.addCommand('前の画像', 'previous', this._window.canGoPrevious(), null);
-            this.addCommand('拡大', 'big', this._window.canBig(), null);
-            this.addCommand('縮小', 'small', this._window.canSmall(), null);
-            this.addCommand('右回転(1度)', 'right', true, null);
-            this.addCommand('左回転(1度)', 'left', true, null);
-            this.addCommand('右回転(45度)', 'right90', true, null);
-            this.addCommand('左回転(45度)', 'left90', true, null);
-            this.addCommand('リセット', 'reset', true, null);
+            this.addCommand('Adjust position', 'move', true, null);
+            this.addCommand('Next image', 'next', this._window.canGoNext(), null);
+            this.addCommand('Previous image', 'previous', this._window.canGoPrevious(), null);
+            this.addCommand('Zoom in', 'big', this._window.canBig(), null);
+            this.addCommand('Zoom out', 'small', this._window.canSmall(), null);
+            this.addCommand('Rotate right (1 degree)', 'right', true, null);
+            this.addCommand('Rotate left (1 degree)', 'left', true, null);
+            this.addCommand('Rotate right (45 degrees)', 'right90', true, null);
+            this.addCommand('Rotate left (45 degrees)', 'left90', true, null);
+            this.addCommand('Reset', 'reset', true, null);
         };
         return Window_CaptureCommand;
     }(Window_Command));
@@ -1013,18 +1013,18 @@ var Nore;
             }
             var isOn = this._window.isOnEffect(this._effectIndex);
             if (isOn) {
-                this.addCommand('オン状態', 'off', true, null);
+                this.addCommand('On state', 'off', true, null);
             }
             else {
-                this.addCommand('オフ状態', 'on', true, null);
+                this.addCommand('Off state', 'on', true, null);
             }
-            this.addCommand('位置調整', 'move', isOn, null);
-            this.addCommand('次の画像', 'next', isOn && this._window.canGoNextEffect(this._effectIndex), null);
-            this.addCommand('前の画像', 'previous', isOn && this._window.canGoPreviousEffect(this._effectIndex), null);
-            this.addCommand('拡大', 'big', isOn && this._window.canBig(), null);
-            this.addCommand('縮小', 'small', isOn && this._window.canSmall(), null);
-            this.addCommand('右回転', 'right', isOn, null);
-            this.addCommand('左回転', 'left', isOn, null);
+            this.addCommand('Adjust position', 'move', isOn, null);
+            this.addCommand('Next image', 'next', isOn && this._window.canGoNextEffect(this._effectIndex), null);
+            this.addCommand('Previous image', 'previous', isOn && this._window.canGoPreviousEffect(this._effectIndex), null);
+            this.addCommand('Zoom in', 'big', isOn && this._window.canBig(), null);
+            this.addCommand('Zoom out', 'small', isOn && this._window.canSmall(), null);
+            this.addCommand('Rotate right', 'right', isOn, null);
+            this.addCommand('Rotate left', 'left', isOn, null);
             //this.addCommand('右回転(90度)', 'right90',  true, null);
             //this.addCommand('左回転(90度)', 'left90',  true, null);
             //this.addCommand('リセット', 'reset',  true, null);

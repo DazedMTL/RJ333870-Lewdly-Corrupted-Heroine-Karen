@@ -1085,7 +1085,7 @@ var Game_MainActor = /** @class */ (function (_super) {
             exp *= 2;
         }
         this.gainExp(exp);
-        Nore.$gameMessageRogue.add('宝箱獲得によって %1EXP を獲得した！'.format(exp));
+        Nore.$gameMessageRogue.add('You have gained %1 EXP through obtaining a treasure chest!'.format(exp));
     };
     Game_MainActor.prototype.getTreasureExp = function () {
         var rate = 6;

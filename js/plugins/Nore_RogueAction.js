@@ -308,10 +308,10 @@ var Nore;
             var changed = actor.updateBreakId();
             if (changed) {
                 AudioManager.playSe({ name: 'Slash10', volume: 100, pitch: 100, pan: 0 });
-                Nore.$gameMessageRogue.add('カレンの服が１段階破壊された！');
+                Nore.$gameMessageRogue.add("Karen's clothes were damaged by one level!");
                 var minus = actor.minusArmor();
                 if (minus != lastMinus) {
-                    Nore.$gameMessageRogue.add('カレンの服の最大値が減少した！');
+                    Nore.$gameMessageRogue.add("Karen's maximum clothing value has decreased!");
                 }
             }
         };
@@ -355,7 +355,7 @@ var Nore;
             $gameActors.mainActor().setBattleFaceId(reaction.face);
             $gameActors.mainActor().addState(27);
             Nore.$gameMessageRogue.add(reaction.desc, false);
-            Nore.$gameMessageRogue.add('カレンは魔物にイカされてしまった', false);
+            Nore.$gameMessageRogue.add('Karen was possessed by a monster.', false);
             if ($gameTemp.isCommonEventReserved()) {
                 p('skipReserve');
                 return;

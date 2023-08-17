@@ -137,28 +137,28 @@ var Nore;
                 if (item.atypeId > 0) {
                     if (item.atypeId == 12) {
                         AudioManager.playSe({ name: 'Chime2', volume: 80, pitch: 100, pan: 0 });
-                        this.contents.drawText('称号ゲット‼︎', xx - 20, 5, 300, 30, 'left');
+                        this.contents.drawText('Title Acquired‼︎', xx - 20, 5, 300, 30, 'left');
                     }
                     else if (item.atypeId == 9) {
                         AudioManager.playSe({ name: 'Chime2', volume: 80, pitch: 100, pan: 0 });
-                        this.contents.drawText('装備・呪いゲット!!', xx - 20, 5, 300, 30, 'left');
+                        this.contents.drawText('Equipment/Curse Acquired!!', xx - 20, 5, 300, 30, 'left');
                     }
                     else if (item.atypeId == 10) {
                         AudioManager.playSe({ name: 'Chime2', volume: 80, pitch: 100, pan: 0 });
-                        this.contents.drawText('性癖ゲット!!', xx - 20, 5, 300, 30, 'left');
+                        this.contents.drawText('Fetish Acquired!!', xx - 20, 5, 300, 30, 'left');
                     }
                     else if (item.atypeId == 11) {
                         AudioManager.playSe({ name: 'Chime2', volume: 80, pitch: 100, pan: 0 });
-                        this.contents.drawText('特徴ゲット‼︎', xx - 20, 5, 300, 30, 'left');
+                        this.contents.drawText('Feature Acquired‼︎', xx - 20, 5, 300, 30, 'left');
                     }
                 }
                 else {
                     if (item.id == 11 || item.id == 19) {
                         name = $gameVariables.value(20) + ' Ｇ';
-                        this.contents.drawText('お金ゲット‼︎', xx - 20, 0, 300, 30, 'left');
+                        this.contents.drawText('G Acquired‼︎', xx - 20, 0, 300, 30, 'left');
                     }
                     else {
-                        this.contents.drawText('アイテムゲット‼︎', xx - 20, 5, 300, 30, 'left');
+                        this.contents.drawText('Item Acquired‼︎', xx - 20, 5, 300, 30, 'left');
                     }
                 }
                 this.contents.textColor = '#ffffff';

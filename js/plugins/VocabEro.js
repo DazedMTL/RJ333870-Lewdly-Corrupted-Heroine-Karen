@@ -1,64 +1,64 @@
 var ERO_REACTION_MAP = {
-    乳首_1_1: { desc: 'カレン「やっ！　そんなところをいじらないで！」', face: 20 },
-    乳首_1_2: { desc: 'カレン「んんっ！　そこ、弱いの！」', face: 24 },
-    乳首_1_3: { desc: 'カレン「あぁっ……そこ……」', face: 19 },
-    乳首_2_1: { desc: 'カレン「胸はやめてっ！！」', face: 26 },
-    乳首_2_2: { desc: 'カレン「はぁんっ！　また気持ちよくさせられるっ」', face: 24 },
-    乳首_2_3: { desc: 'カレン「そこっ、そこが気持ちいいの！」', face: 22 },
-    乳首_3_1: { desc: 'カレンは身悶えた！', face: 25 },
-    乳首_3_2: { desc: 'カレンは身悶えた！', face: 24 },
-    乳首_3_3: { desc: 'カレンは快楽に身悶えた！', face: 19 },
-    乳首_4_1: { desc: 'カレン「うう、こんなやつに！」', face: 13 },
-    乳首_4_2: { desc: 'カレン「んっ、恥ずかしい」', face: 18 },
-    乳首_4_3: { desc: 'カレン「あああっ、乳首もっといじって！」', face: 19 },
-    股間_1_1: { desc: 'カレン「そ、そこはダメェ！！」', face: 22 },
-    股間_1_2: { desc: 'カレン「やっ、そ、そこはっ！」', face: 23 },
-    股間_1_3: { desc: 'カレン「はぁ……はぁ……いい……」', face: 19 },
-    股間_2_1: { desc: 'カレン「私の大事な所なの！　やめてっ！」', face: 24 },
-    股間_2_2: { desc: 'カレン「私の恥ずかしい部分をいじられちゃう！」', face: 25 },
-    股間_2_3: { desc: 'カレン「私の気持ちいい場所……いじって……」', face: 18 },
-    股間_3_1: { desc: 'カレンは嫌悪に身をよじらせた！', face: 21 },
-    股間_3_2: { desc: 'カレンは快楽に身をよじらせた！', face: 18 },
-    股間_3_3: { desc: 'カレンは腰を差し出し、快楽に身をまかせた！', face: 10 },
-    股間_4_1: { desc: 'カレン「ううう～っ！　こんなやつに大事な部分を……！」', face: 21 },
-    股間_4_2: { desc: 'カレン「ああっ！　またザコにイカされちゃう……！」', face: 24 },
-    股間_4_3: { desc: 'カレン「いじって……ください……」', face: 10 },
-    キス_1_1: { desc: 'カレン「やめてっ！　気持ち悪いっ！」', face: 21 },
-    キス_1_2: { desc: 'カレン「んんっ！　口を犯されちゃう！」', face: 29 },
-    キス_1_3: { desc: 'カレン「いいですよ、唾液を交換しましょう……」', face: 27 },
-    キス_2_1: { desc: 'カレン「んんっ！　キスはいやぁ！」', face: 24 },
-    キス_2_2: { desc: 'カレン「んっ……あっ……」', face: 27 },
-    キス_2_3: { desc: 'カレン「はぁっ……あっ……」', face: 28 },
-    キス_3_1: { desc: 'カレンはなすすべもなく口を犯された！', face: 24 },
-    キス_3_2: { desc: 'カレンは口を差し出した！', face: 29 },
-    キス_3_3: { desc: 'カレンは舌を出し、それを受け入れた！', face: 27 },
-    キス_4_1: { desc: 'カレン「うう、臭い！」', face: 22 },
-    キス_4_2: { desc: 'カレン「あっ……臭いけれど……んっ……」', face: 29 },
-    キス_4_3: { desc: 'カレン「ん……くせになる臭い……」', face: 27 },
-    イク_1_1: { desc: 'カレン「や、やぁぁぁ～～っ！」', face: 23 },
-    イク_1_2: { desc: 'カレン「ああっ！　イカされるっ！」', face: 23 },
-    イク_1_3: { desc: 'カレン「んっ！　気持ちいいっ！」', face: 16 },
-    イク_2_1: { desc: 'カレン「こんなザコに……気持ちよく……ああっ！！」', face: 17 },
-    イク_2_2: { desc: 'カレン「あっ……くる……ああっ！！」', face: 24 },
-    イク_2_3: { desc: 'カレン「きた！！　きた！　イク～～っ！！」', face: 29 },
-    イク_3_1: { desc: 'カレン「やめてっ！　アクメするっ！　やぁぁっ！」', face: 24 },
-    イク_3_2: { desc: 'カレン「ま、また！　イクっ！　んんんっ！」', face: 12 },
-    イク_3_3: { desc: 'カレン「イクっ！　イクっ！　イッちゃううう～！！」', face: 24 },
-    イク_4_1: { desc: 'カレン「う、うそっ！　き、気持ちい……」', face: 21 },
-    イク_4_2: { desc: 'カレン「ううっ！　嫌なのに……体が反応しちゃうっ！」', face: 17 },
-    イク_4_3: { desc: 'カレン「ああっ……そこっ……気持ちよすぎるっ！」', face: 19 },
-    フェラ_1_1: { desc: 'カレン「ううっ！　臭いっ」', face: 23 },
-    フェラ_1_2: { desc: 'カレン「ぐっ、ねじ込まれるっ！」', face: 23 },
-    フェラ_1_3: { desc: 'カレン「んっ！　気持ちいいっ！」', face: 16 },
-    フェラ_2_1: { desc: 'カレン「こんなザコに！！」', face: 17 },
-    フェラ_2_2: { desc: 'カレン「あっ……だされるっ！！」', face: 24 },
-    フェラ_2_3: { desc: 'カレン「くるっ！　くるっ！」', face: 29 },
-    フェラ_3_1: { desc: 'カレンはなすすべもなく口を犯された！', face: 24 },
-    フェラ_3_2: { desc: 'カレンは口を差し出した！', face: 12 },
-    フェラ_3_3: { desc: 'カレンは舌を出し、それを受け入れた！', face: 24 },
-    フェラ_4_1: { desc: 'カレン「気持ち悪いっ、こんなのっ……！」', face: 21 },
-    フェラ_4_2: { desc: 'カレン「ううっ！　嫌なのに！」', face: 17 },
-    フェラ_4_3: { desc: 'カレン「ああっ口を犯されている……」', face: 19 },
+乳首_1_1: { desc: 'Karen: "Hey! Dont touch me there!"', face: 20 },
+乳首_1_2: { desc: 'Karen: "Mmm! That spot is sensitive!"', face: 24 },
+乳首_1_3: { desc: 'Karen: "Ahh... right there..."', face: 19 },
+乳首_2_1: { desc: 'Karen: "Stop touching my breasts!!"', face: 26 },
+乳首_2_2: { desc: 'Karen: "Haa! Youre making me feel good again"', face: 24 },
+乳首_2_3: { desc: 'Karen: "There, that spot feels so good!"', face: 22 },
+乳首_3_1: { desc: 'Karen squirmed in pleasure!', face: 25 },
+乳首_3_2: { desc: 'Karen squirmed in pleasure!', face: 24 },
+乳首_3_3: { desc: 'Karen writhed in pleasure!', face: 19 },
+乳首_4_1: { desc: 'Karen: "Ugh, someone like you!"', face:13 },
+乳首_4_2: { desc: 'Karen: "Mmm, embarrassing"', face: 18 },
+乳首_4_3: { desc: 'Karen: "Ahhh, play with my nipples more!"', face: 19 },
+股間_1_1: { desc: 'Karen: "T-Thats off-limits!"', face: 22 },
+股間_1_2: { desc: 'Karen: "Hey, d-don\'t touch th-there!"', face: 23 },
+股間_1_3: { desc: 'Karen: "Haa... haa... feels good..."', face: 19 },
+股間_2_1: { desc: 'Karen: "Thats my private area! Stop!"', face: 24 },
+股間_2_2: { desc: 'Karen: "Youre touching my embarrassing part!"', face: 25 },
+股間_2_3: { desc: 'Karen: "Touch my pleasurable spot..."', face: 18 },
+股間_3_1: { desc: 'Karen squirmed in disgust!', face: 21 },
+股間_3_2: { desc: 'Karen writhed in pleasure!', face: 18 },
+股間_3_3: { desc: 'Karen offered her hips and surrendered to pleasure!', face: 10 },
+股間_4_1: { desc: 'Karen: "Uhh, to someone like you!"', face: 21 },
+股間_4_2: { desc: 'Karen: "Aahh! Im being made to come by a loser...!"', face: 24 },
+股間_4_3: { desc: 'Karen: "Touch me... more..."', face: 10 },
+キス_1_1: { desc: 'Karen: "Stop! Its disgusting!"', face: 21 },
+キス_1_2: { desc: 'Karen: "Mmm! My mouth is being violated!"', face: 29 },
+キス_1_3: { desc: 'Karen: "Alright, let\'s exchange saliva..."', face: 27 },
+キス_2_1: { desc: 'Karen: "Mmm! I hate kissing!"', face: 24 },
+キス_2_2: { desc: 'Karen: "Nn... Ah..."', face: 27 },
+キス_2_3: { desc: 'Karen: "Haa... Ahh..."', face: 28 },
+キス_3_1: { desc: 'Karen helplessly had her mouth violated!', face: 24 },
+キス_3_2: { desc: 'Karen offered her mouth!', face: 29 },
+キス_3_3: { desc: 'Karen stuck out her tongue and accepted it!', face: 27 },
+キス_4_1: { desc: 'Karen: "Uhh, it smells!"', face: 22 },
+キス_4_2: { desc: 'Karen: "Ah... It smells but... Mmm..."', face: 29 },
+キス_4_3: { desc: 'Karen: "Mmm... The smell is addictive..."', face: 27 },
+イク_1_1: { desc: 'Karen: "Y-Yaahhh!"', face: 23 },
+イク_1_2: { desc: 'Karen: "Aahh! Im going to come!"', face: 23 },
+イク_1_3: { desc: 'Karen: "Mm! It feels amazing!"', face: 16 },
+イク_2_1: { desc: 'Karen: "To someone like you... making me feel good... Aahh!!"', face: 17 },
+イク_2_2: { desc: 'Karen: "Ah... Its coming... Aahh!!"', face: 24 },
+イク_2_3: { desc: 'Karen: "Im coming!! Im coming!!!"', face: 29 },
+イク_3_1: { desc: 'Karen: "Stop! Im going to climax! Nooo!!"', face: 24 },
+イク_3_2: { desc: 'Karen: "A-Again! Im going to come! Ummphh!!"', face: 12 },
+イク_3_3: { desc: 'Karen: "Im coming! Im coming! Im coming!!"', face: 24 },
+イク_4_1: { desc: 'Karen: "N-No way! It feels... good..."', face: 21 },
+イク_4_2: { desc: 'Karen: "Uhh! Even though I hate it... Mybody is responding!"', face: 17 },
+イク_4_3: { desc: 'Karen: "Aahh... Right there... It feels too good!"', face: 19 },
+フェラ_1_1: { desc: 'Karen: "Uhh! Its smelly!"', face: 23 },
+フェラ_1_2: { desc: 'Karen: "Ngh, its being forced in!"', face: 23 },
+フェラ_1_3: { desc: 'Karen: "Mmm! It feels good!"', face: 16 },
+フェラ_2_1: { desc: 'Karen: "To someone like you!!"', face: 17 },
+フェラ_2_2: { desc: 'Karen: "Ah... Its coming out...!"', face: 24 },
+フェラ_2_3: { desc: 'Karen: "Cumming! Cumming!"', face: 29 },
+フェラ_3_1: { desc: 'Karen helplessly had her mouth violated!', face: 24 },
+フェラ_3_2: { desc: 'Karen offered her mouth!', face: 12 },
+フェラ_3_3: { desc: 'Karen stuck out her tongue and accepted it!', face: 24 },
+フェラ_4_1: { desc: 'Karen: "Its disgusting... Like this...!"', face: 21 },
+フェラ_4_2: { desc: 'Karen: "Uhh! Even though I hate it!"', face: 17 },
+フェラ_4_3: { desc: 'Karen: "Aahh... My mouth is being violated..."', face: 19 },
 };
 var ERO_TITLES = {
     1: 'オーガに敗北',
@@ -243,58 +243,58 @@ function getEroTitle(eroId, count) {
     ;
     console.error('ero title not found.' + eroId);
     switch (eroId) {
-        case -2: return '奴隷生活';
-        case -1: return '妊娠';
-        case 2: return 'ゴブリン敗北';
-        case 3: return '宿屋でフェラ';
-        case 7: return '塔でアナル調教';
-        case 8: return '孕まされた挙げ句晒し者';
-        case 831: return '荷物運びのバイト';
+        case -2: return 'Slave Life';
+        case -1: return 'Pregnancy';
+        case 2: return 'Goblin Defeat';
+        case 3: return 'Blowjob at the Inn';
+        case 7: return 'Anal Training at the Tower';
+        case 8: return 'Impregnated and Exposed';
+        case 831: return 'Parcel Delivery Part-time Job';
         case 11:
-        case 511: return '売春宿でセックス';
-        case 12: return 'アナル拡張';
-        case 840: return 'アナル拡張 次の段階';
-        case 841: return 'アナル拡張 最終段階';
-        case 842: return 'アナル拡張訓練';
-        case 13: return '調教２回目'.format(count);
-        case 14: return '公衆便所のバイト';
-        case 15: return '調教１回目'.format(count);
-        case 16: return 'マークさんとの初夜';
-        case 17: return 'ブタによる種付け';
-        case 18: return '娼館で初H';
-        case 19: return '調教３回目'.format(count);
-        case 23: return '性奴隷オークション';
-        case 24: return '公開セックス';
-        case 25: return 'ゴブリンの孕み袋';
-        case 26: return 'ゴブリンによる種付け';
-        case 27: return '山賊敗北';
-        case 28: return '娼館で騎乗位H';
-        case 30: return '物乞いの家でH';
-        case 31: return '物乞いの家で過ごす日々';
-        case 32: return '物乞いの家でH２回目';
-        case 33: return '教会で神父にフェラ';
+        case 511: return 'Sex at the Brothel';
+        case 12: return 'Anal Stretching';
+        case 840: return 'Next Stage of Anal Stretching';
+        case 841: return 'Final Stage of Anal Stretching';
+        case 842: return 'Anal Stretching Training';
+        case 13: return 'Training Round 2'.format(count);
+        case 14: return 'Toilet Cleaning Part-time Job';
+        case 15: return 'Training Round 1'.format(count);
+        case 16: return 'First Night with Mark';
+        case 17: return 'Breeding by Boars';
+        case 18: return 'First Sex at the Brothel';
+        case 19: return 'Training Round3'.format(count);
+        case 23: return 'Sex Slave Auction';
+        case 24: return 'Public Sex';
+        case 25: return 'Goblin Seed Bag';
+        case 26: return 'Breeding by Goblins';
+        case 27: return 'Bandit Defeat';
+        case 28: return 'Cowgirl Sex at the Brothel';
+        case 30: return 'Sex at the Beggars House';
+        case 31: return 'Days at the Beggars House';
+        case 32: return 'Second Round of Sex at the Beggars House';
+        case 33: return 'Blowjob to the Priest at the Church';
         case 34:
         case 37:
-        case 35: return '宿屋の主人のお酌';
-        case 36: return 'コレットとセックス';
-        case 38: return '宿屋でフェラ';
-        case 538: return '宿屋でフェラ';
-        case 39: return '教会で神父とエッチ';
-        case 99: return 'ボテ腹で神父とエッチ';
-        case 41: return '娼館で中出しH';
-        case 42: return 'マークさんとまたエッチ';
-        case 43: return 'マークさんとのエッチ';
-        case 838: return '身重状態でマークさんとエッチ';
-        case 44: return 'アジトで強制出産';
-        case 45: return '山賊に種付け';
-        case 47: return 'ゴブリンの孕み袋２日目';
-        case 49: return '調教４回目'.format(count);
-        case 202: return 'テオくんにフェラ';
-        case 203: return 'テオくんとセックス';
-        case 204: return 'テオくんと騎乗位';
-        case 205: return 'テオくんと後背位';
-        case 209: return 'テオくんとボテ腹正常位';
-        case 851: return '酒場でバイト';
+        case 35: return 'Serving the Innkeeper at the Inn';
+        case 36: return 'Sex with Colette';
+        case 38: return 'Blowjob at the Inn';
+        case 538: return 'Blowjob at the Inn';
+        case 39: return 'Sex with the Priest at the Church';
+        case 99: return 'Pregnant and Sex with the Priest';
+        case 41: return 'Creampie Sex at theBrothel';
+        case 42: return 'Another Sex with Mark';
+        case 43: return 'Sex with Mark';
+        case 838: return 'Sex with Mark while Pregnant';
+        case 44: return 'Forced Labor in Hideout';
+        case 45: return 'Breeding by Bandits';
+        case 47: return 'Second Day of Goblin Seed Bag';
+        case 49: return 'Training Round 4'.format(count);
+        case 202: return 'Blowjob to Theo';
+        case 203: return 'Sex with Theo';
+        case 204: return 'Cowgirl with Theo';
+        case 205: return 'Doggy Style with Theo';
+        case 209: return 'Pregnant Sex in Missionary Position with Theo';
+        case 851: return 'Working at the Tavern';
         default:
             console.error(eroId + ' が見つかりません');
             return '';
@@ -368,15 +368,15 @@ function getEroTitles(eroId, eroResult) {
         case -3:
             if (eroResult.enemyId > 0) {
                 var enemy = $dataEnemies[eroResult.enemyId];
-                return ['妊娠が発覚してしまった。', '%1が種親だそうだ。'.format(getTaneoyaName(enemy))];
+                return ['I got pregnant.', '%1 is the father.'.format(getTaneoyaName(enemy))];
             }
             else {
-                return ['妊娠が発覚してしまった。', '誰が親なのかはまだわからない。'];
+                return ['I got pregnant.', 'I don\'t know who the father is yet.'];
             }
-        case -2: return ['山賊たちに奴隷として売られてしまった'];
-        case -1: return ['少し太ったような気がする'];
+        case -2: return ['I got sold as a slave to the bandits'];
+        case -1: return ['I feel like I gained some weight'];
         default:
-            console.error(eroId + ' が見つかりません');
+            console.error(eroId + ' not found');
             return ['', ''];
     }
 }
@@ -418,14 +418,14 @@ function getEroText(eroResult) {
     }
 }
 function getNinshinTitle(n) {
-    return '少し太った？'.format(n);
+    return 'Have I gained some weight?'.format(n);
     return '妊娠発覚%1回目'.format(n);
 }
 function getNinshinTitle2(n) {
-    return '妊娠発覚'.format(n);
+    return 'Pregnancy Confirmed'.format(n);
 }
 function getSyusanTitle(eroId, n) {
-    return '出産'.format(n);
+    return 'Delivery'.format(n);
     return '出産%1回目'.format(n);
 }
 function getEroParamTitle(label) {

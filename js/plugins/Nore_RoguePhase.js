@@ -362,20 +362,20 @@ var Nore;
                 }
                 if (rogueItem.isHammer()) {
                     AudioManager.playSe({ name: 'Hammer', volume: 80, pitch: 100, pan: 0 });
-                    Nore.$gameMessageRogue.add('ハンマーで服を修理した！');
+                    Nore.$gameMessageRogue.add('I repaired my clothes with a hammer!');
                     $gameMap.removeItemAt($gamePlayer.x, $gamePlayer.y);
                     $gameActors.mainActor().recoverArmor();
                 }
                 else if (rogueItem.isGold()) {
                     AudioManager.playSe({ name: 'Coin', volume: 80, pitch: 100, pan: 0 });
                     $gameParty.gainGold(rogueItem.count());
-                    Nore.$gameMessageRogue.add('%1Ｇを手に入れた！'.format(rogueItem.count()));
+                    Nore.$gameMessageRogue.add('I got %1G!'.format(rogueItem.count()));
                     $gameMap.removeItemAt($gamePlayer.x, $gamePlayer.y);
                 }
                 else if (rogueItem.isEther()) {
                     AudioManager.playSe({ name: 'Item1', volume: 80, pitch: 100, pan: 0 });
                     $gameParty.gainEther(rogueItem.count());
-                    Nore.$gameMessageRogue.add('%1%2ccを手に入れた！'.format(rogueItem.name(), rogueItem.count()));
+                    Nore.$gameMessageRogue.add('I got %1 %2cc!'.format(rogueItem.name(), rogueItem.count()));
                     $gameMap.removeItemAt($gamePlayer.x, $gamePlayer.y);
                 }
                 else if ($gameParty._inventory.isMax()) {
@@ -1084,7 +1084,7 @@ var Nore;
             return _super !== null && _super.apply(this, arguments) || this;
         }
         Window_DefeatCommand.prototype.makeCommandList = function () {
-            this.addCommand('耐える', 'endure', true, null);
+            this.addCommand('Endure', 'endure', true, null);
         };
         return Window_DefeatCommand;
     }(Window_Command));
