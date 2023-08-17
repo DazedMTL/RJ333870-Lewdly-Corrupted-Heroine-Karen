@@ -1,0 +1,591 @@
+{"frames": {
+
+"01_50_01.png":
+{
+	"frame": {"x":962,"y":2708,"w":135,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":648,"y":291,"w":135,"h":96},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_01_01.png":
+{
+	"frame": {"x":0,"y":768,"w":1143,"h":720},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":0,"w":1143,"h":720},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_01_02.png":
+{
+	"frame": {"x":1231,"y":2679,"w":131,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":651,"y":226,"w":131,"h":106},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_01_03.png":
+{
+	"frame": {"x":398,"y":2555,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_01_04.png":
+{
+	"frame": {"x":0,"y":2676,"w":124,"h":180},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":639,"y":544,"w":124,"h":180},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_01_05.png":
+{
+	"frame": {"x":1748,"y":2202,"w":174,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":625,"y":238,"w":174,"h":145},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_01_06.png":
+{
+	"frame": {"x":1362,"y":2679,"w":104,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":634,"y":437,"w":104,"h":116},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_01_07.png":
+{
+	"frame": {"x":0,"y":2676,"w":124,"h":180},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":639,"y":544,"w":124,"h":180},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_01_08.png":
+{
+	"frame": {"x":980,"y":1687,"w":41,"h":143},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":687,"y":540,"w":41,"h":143},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_01_09.png":
+{
+	"frame": {"x":962,"y":2708,"w":135,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":648,"y":291,"w":135,"h":96},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_02.png":
+{
+	"frame": {"x":1606,"y":2349,"w":134,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":649,"y":293,"w":134,"h":93},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_03.png":
+{
+	"frame": {"x":1467,"y":2538,"w":134,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":649,"y":299,"w":134,"h":88},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_04.png":
+{
+	"frame": {"x":1097,"y":2708,"w":134,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":649,"y":291,"w":134,"h":96},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_05.png":
+{
+	"frame": {"x":766,"y":2710,"w":134,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":649,"y":293,"w":134,"h":94},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_06.png":
+{
+	"frame": {"x":1735,"y":2442,"w":134,"h":87},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":649,"y":299,"w":134,"h":87},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_07.png":
+{
+	"frame": {"x":534,"y":2582,"w":135,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":648,"y":291,"w":135,"h":105},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_08.png":
+{
+	"frame": {"x":1601,"y":2442,"w":134,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":649,"y":299,"w":134,"h":95},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_09.png":
+{
+	"frame": {"x":1097,"y":2708,"w":134,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":649,"y":291,"w":134,"h":96},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_10.png":
+{
+	"frame": {"x":1601,"y":2537,"w":134,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":649,"y":291,"w":134,"h":95},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_11.png":
+{
+	"frame": {"x":669,"y":2582,"w":134,"h":97},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":649,"y":299,"w":134,"h":97},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_12.png":
+{
+	"frame": {"x":1723,"y":2662,"w":126,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":650,"y":301,"w":126,"h":91},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_13.png":
+{
+	"frame": {"x":521,"y":2687,"w":136,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":648,"y":291,"w":136,"h":101},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_14.png":
+{
+	"frame": {"x":1748,"y":2347,"w":126,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":650,"y":301,"w":126,"h":95},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_15.png":
+{
+	"frame": {"x":1592,"y":2632,"w":131,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":651,"y":299,"w":131,"h":93},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_16.png":
+{
+	"frame": {"x":1326,"y":2574,"w":136,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":648,"y":291,"w":136,"h":105},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_17.png":
+{
+	"frame": {"x":1874,"y":2347,"w":131,"h":93},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":651,"y":299,"w":131,"h":93},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_18.png":
+{
+	"frame": {"x":281,"y":2677,"w":126,"h":105},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":648,"y":291,"w":126,"h":105},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_19.png":
+{
+	"frame": {"x":180,"y":2676,"w":126,"h":101},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":648,"y":291,"w":126,"h":101},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_20.png":
+{
+	"frame": {"x":398,"y":2582,"w":136,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":648,"y":294,"w":136,"h":102},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_21.png":
+{
+	"frame": {"x":386,"y":2684,"w":135,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":648,"y":291,"w":135,"h":105},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_22.png":
+{
+	"frame": {"x":1467,"y":2426,"w":134,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":649,"y":284,"w":134,"h":112},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_23.png":
+{
+	"frame": {"x":1822,"y":2478,"w":126,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":648,"y":298,"w":126,"h":98},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_24.png":
+{
+	"frame": {"x":1735,"y":2576,"w":126,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":650,"y":301,"w":126,"h":86},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_25.png":
+{
+	"frame": {"x":1466,"y":2626,"w":126,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":650,"y":301,"w":126,"h":99},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_back.png":
+{
+	"frame": {"x":0,"y":0,"w":1366,"h":768},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1366,"h":768},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_base.png":
+{
+	"frame": {"x":0,"y":768,"w":1143,"h":720},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":0,"w":1143,"h":720},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_hoppe1.png":
+{
+	"frame": {"x":1911,"y":987,"w":127,"h":42},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":653,"y":327,"w":127,"h":42},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_ぶっかけ.png":
+{
+	"frame": {"x":1231,"y":2679,"w":131,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":651,"y":226,"w":131,"h":106},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_ぶっかけ2.png":
+{
+	"frame": {"x":1861,"y":2576,"w":90,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":677,"y":452,"w":90,"h":65},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_ぶっかけ3.png":
+{
+	"frame": {"x":980,"y":1488,"w":199,"h":154},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":604,"y":567,"w":199,"h":154},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_ぶっかけ4.png":
+{
+	"frame": {"x":1748,"y":2202,"w":174,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":625,"y":238,"w":174,"h":145},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_ぶっかけ5.png":
+{
+	"frame": {"x":1362,"y":2679,"w":104,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":634,"y":437,"w":104,"h":116},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_ぶっかけ6.png":
+{
+	"frame": {"x":0,"y":2676,"w":124,"h":180},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":639,"y":544,"w":124,"h":180},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_アナル1.png":
+{
+	"frame": {"x":1911,"y":1205,"w":48,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":679,"y":614,"w":48,"h":76},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_アナル2.png":
+{
+	"frame": {"x":900,"y":2710,"w":53,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":674,"y":609,"w":53,"h":87},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_アナル挿入.png":
+{
+	"frame": {"x":1673,"y":2725,"w":48,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":683,"y":630,"w":48,"h":63},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_アナル精液.png":
+{
+	"frame": {"x":1466,"y":2725,"w":52,"h":114},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":679,"y":587,"w":52,"h":114},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_マンコ1.png":
+{
+	"frame": {"x":0,"y":2800,"w":4,"h":58},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":705,"y":550,"w":4,"h":58},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_マンコ1中出し.png":
+{
+	"frame": {"x":980,"y":1687,"w":41,"h":143},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":687,"y":540,"w":41,"h":143},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_マンコ2.png":
+{
+	"frame": {"x":766,"y":2256,"w":454,"h":196},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":486,"y":543,"w":454,"h":196},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_マンコ2中出し.png":
+{
+	"frame": {"x":1748,"y":1748,"w":454,"h":197},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":486,"y":542,"w":454,"h":197},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_マンコ挿入.png":
+{
+	"frame": {"x":1580,"y":2725,"w":64,"h":93},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":675,"y":583,"w":64,"h":93},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_ムチ1.png":
+{
+	"frame": {"x":962,"y":2349,"w":364,"h":330},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":559,"y":438,"w":364,"h":330},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_ムチ2.png":
+{
+	"frame": {"x":401,"y":2256,"w":365,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":554,"y":442,"w":365,"h":326},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_乳首つまみ.png":
+{
+	"frame": {"x":0,"y":2256,"w":401,"h":299},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":605,"y":358,"w":401,"h":299},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_乳首ピアス.png":
+{
+	"frame": {"x":962,"y":2679,"w":232,"h":29},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":595,"y":382,"w":232,"h":29},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_乳首舌.png":
+{
+	"frame": {"x":1721,"y":2753,"w":59,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":606,"y":349,"w":59,"h":51},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_出産1.png":
+{
+	"frame": {"x":657,"y":2716,"w":83,"h":87},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":665,"y":550,"w":83,"h":87},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_出産2.png":
+{
+	"frame": {"x":282,"y":2555,"w":116,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":651,"y":528,"w":116,"h":122},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_出産3.png":
+{
+	"frame": {"x":1326,"y":2426,"w":141,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":635,"y":532,"w":141,"h":148},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_出産4.png":
+{
+	"frame": {"x":1911,"y":768,"w":53,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":695,"y":549,"w":53,"h":219},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_手マン.png":
+{
+	"frame": {"x":0,"y":2555,"w":121,"h":282},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":666,"y":380,"w":121,"h":282},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_母乳1.png":
+{
+	"frame": {"x":1911,"y":1114,"w":48,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":563,"y":294,"w":48,"h":91},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_淫紋.png":
+{
+	"frame": {"x":1911,"y":1281,"w":59,"h":42},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":679,"y":470,"w":59,"h":42},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_焼印1.png":
+{
+	"frame": {"x":962,"y":2256,"w":85,"h":17},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":669,"y":429,"w":85,"h":17},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_焼印2.png":
+{
+	"frame": {"x":1194,"y":2679,"w":33,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":735,"y":454,"w":33,"h":18},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_男1.png":
+{
+	"frame": {"x":0,"y":1488,"w":980,"h":768},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":215,"y":0,"w":980,"h":768},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_男2.png":
+{
+	"frame": {"x":1143,"y":768,"w":980,"h":768},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":215,"y":0,"w":980,"h":768},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_男3.png":
+{
+	"frame": {"x":1366,"y":0,"w":601,"h":768},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":412,"y":0,"w":601,"h":768},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_男4.png":
+{
+	"frame": {"x":980,"y":1748,"w":601,"h":768},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":412,"y":0,"w":601,"h":768},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_50_黒乳首.png":
+{
+	"frame": {"x":1326,"y":2349,"w":280,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":569,"y":365,"w":280,"h":77},
+	"sourceSize": {"w":1366,"h":768}
+}},
+"animations": {
+	"01_50": ["01_50_01.png","01_50_02.png","01_50_03.png","01_50_04.png","01_50_05.png","01_50_06.png","01_50_07.png","01_50_08.png","01_50_09.png","01_50_10.png","01_50_11.png","01_50_12.png","01_50_13.png","01_50_14.png","01_50_15.png","01_50_16.png","01_50_17.png","01_50_18.png","01_50_19.png","01_50_20.png","01_50_21.png","01_50_22.png","01_50_23.png","01_50_24.png","01_50_25.png"],
+	"01_50_01": ["01_50_01_01.png","01_50_01_02.png","01_50_01_03.png","01_50_01_04.png","01_50_01_05.png","01_50_01_06.png","01_50_01_07.png","01_50_01_08.png","01_50_01_09.png"],
+	"01_50_ぶっかけ": ["01_50_ぶっかけ2.png","01_50_ぶっかけ3.png","01_50_ぶっかけ4.png","01_50_ぶっかけ5.png","01_50_ぶっかけ6.png"],
+	"01_50_アナル": ["01_50_アナル1.png","01_50_アナル2.png"],
+	"01_50_マンコ": ["01_50_マンコ1.png","01_50_マンコ2.png"],
+	"01_50_ムチ": ["01_50_ムチ1.png","01_50_ムチ2.png"],
+	"01_50_出産": ["01_50_出産1.png","01_50_出産2.png","01_50_出産3.png","01_50_出産4.png"],
+	"01_50_焼印": ["01_50_焼印1.png","01_50_焼印2.png"],
+	"01_50_男": ["01_50_男1.png","01_50_男2.png","01_50_男3.png","01_50_男4.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ero01_50_1.webp",
+	"format": "RGBA8888",
+	"size": {"w":1967,"h":2804},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e3cf0e67ced1def9caab8acf63d94d47:2a292cc46ea3cb18152ac51dfa2186c6:b04d1039cafe95586fb8246446d91dcb$"
+}
+}

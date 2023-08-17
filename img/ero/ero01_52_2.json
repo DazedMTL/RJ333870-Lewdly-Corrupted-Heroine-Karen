@@ -1,0 +1,87 @@
+{"frames": {
+
+"01_52_60_02.png":
+{
+	"frame": {"x":0,"y":0,"w":971,"h":961},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":221,"y":171,"w":971,"h":961},
+	"sourceSize": {"w":1366,"h":1501}
+},
+"01_52_61_02.png":
+{
+	"frame": {"x":971,"y":0,"w":971,"h":961},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":221,"y":171,"w":971,"h":961},
+	"sourceSize": {"w":1366,"h":1501}
+},
+"01_52_62_02.png":
+{
+	"frame": {"x":0,"y":961,"w":971,"h":961},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":221,"y":171,"w":971,"h":961},
+	"sourceSize": {"w":1366,"h":1501}
+},
+"01_52_63_02.png":
+{
+	"frame": {"x":961,"y":971,"w":971,"h":961},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":221,"y":171,"w":971,"h":961},
+	"sourceSize": {"w":1366,"h":1501}
+},
+"01_52_64_02.png":
+{
+	"frame": {"x":1932,"y":0,"w":971,"h":961},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":221,"y":171,"w":971,"h":961},
+	"sourceSize": {"w":1366,"h":1501}
+},
+"01_52_65_02.png":
+{
+	"frame": {"x":1932,"y":971,"w":971,"h":961},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":221,"y":171,"w":971,"h":961},
+	"sourceSize": {"w":1366,"h":1501}
+},
+"01_52_66_02.png":
+{
+	"frame": {"x":0,"y":1932,"w":971,"h":961},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":221,"y":171,"w":971,"h":961},
+	"sourceSize": {"w":1366,"h":1501}
+},
+"01_52_67_02.png":
+{
+	"frame": {"x":961,"y":1932,"w":971,"h":961},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":221,"y":171,"w":971,"h":961},
+	"sourceSize": {"w":1366,"h":1501}
+},
+"01_52_68_02.png":
+{
+	"frame": {"x":1922,"y":1942,"w":971,"h":961},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":221,"y":171,"w":971,"h":961},
+	"sourceSize": {"w":1366,"h":1501}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ero01_52_2.webp",
+	"format": "RGBA8888",
+	"size": {"w":2893,"h":2903},
+	"scale": "1",
+	"related_multi_packs": [ "ero01_52_1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:3e7f24f78a8b30d8f22275087d33f72e:1bf2a76b2c81caf07a6f376da6053063:4d3e9132c7ac07e6ec83c3e0ee708e66$"
+}
+}

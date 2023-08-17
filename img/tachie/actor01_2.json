@@ -1,0 +1,3412 @@
+{"frames": {
+
+"actor01_01.png":
+{
+	"frame": {"x":1561,"y":96,"w":122,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":246,"y":224,"w":122,"h":94},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_02.png":
+{
+	"frame": {"x":990,"y":422,"w":120,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":246,"y":233,"w":120,"h":89},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_03.png":
+{
+	"frame": {"x":1912,"y":0,"w":120,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":232,"w":120,"h":89},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_04.png":
+{
+	"frame": {"x":864,"y":326,"w":120,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":247,"y":222,"w":120,"h":96},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_05.png":
+{
+	"frame": {"x":1611,"y":190,"w":120,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":247,"y":222,"w":120,"h":93},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_06.png":
+{
+	"frame": {"x":2019,"y":89,"w":119,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":232,"w":119,"h":86},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_07.png":
+{
+	"frame": {"x":984,"y":320,"w":122,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":246,"y":220,"w":122,"h":102},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_08.png":
+{
+	"frame": {"x":2480,"y":83,"w":119,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":232,"w":119,"h":83},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_09.png":
+{
+	"frame": {"x":295,"y":425,"w":119,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":231,"w":119,"h":87},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_10.png":
+{
+	"frame": {"x":1906,"y":361,"w":119,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":231,"w":119,"h":87},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_11.png":
+{
+	"frame": {"x":630,"y":422,"w":120,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":232,"w":120,"h":90},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_14.png":
+{
+	"frame": {"x":1683,"y":92,"w":121,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":246,"y":224,"w":121,"h":91},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_15.png":
+{
+	"frame": {"x":2360,"y":84,"w":120,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":232,"w":120,"h":83},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_16.png":
+{
+	"frame": {"x":2805,"y":80,"w":100,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":256,"y":242,"w":100,"h":73},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_17.png":
+{
+	"frame": {"x":2032,"y":0,"w":112,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":235,"w":112,"h":86},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_18.png":
+{
+	"frame": {"x":2504,"y":0,"w":108,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":232,"w":108,"h":83},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_19.png":
+{
+	"frame": {"x":2813,"y":0,"w":100,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":256,"y":242,"w":100,"h":73},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_20.png":
+{
+	"frame": {"x":1587,"y":291,"w":121,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":247,"y":222,"w":121,"h":93},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_21.png":
+{
+	"frame": {"x":750,"y":422,"w":120,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":228,"w":120,"h":90},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_22.png":
+{
+	"frame": {"x":1317,"y":201,"w":120,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":228,"w":120,"h":99},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_23.png":
+{
+	"frame": {"x":414,"y":424,"w":108,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":230,"w":108,"h":88},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_24.png":
+{
+	"frame": {"x":1708,"y":283,"w":108,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":230,"w":108,"h":92},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_25.png":
+{
+	"frame": {"x":870,"y":422,"w":120,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":228,"w":120,"h":90},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_26.png":
+{
+	"frame": {"x":1563,"y":0,"w":120,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":228,"w":120,"h":94},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_28.png":
+{
+	"frame": {"x":1922,"y":270,"w":99,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":257,"y":242,"w":99,"h":87},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_29.png":
+{
+	"frame": {"x":1350,"y":0,"w":108,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":230,"w":108,"h":99},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_30.png":
+{
+	"frame": {"x":2384,"y":0,"w":120,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":232,"w":120,"h":83},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_31.png":
+{
+	"frame": {"x":175,"y":425,"w":120,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":234,"w":120,"h":87},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_32.png":
+{
+	"frame": {"x":2167,"y":346,"w":100,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":256,"y":242,"w":100,"h":85},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_33.png":
+{
+	"frame": {"x":2267,"y":346,"w":99,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":257,"y":242,"w":99,"h":85},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_34.png":
+{
+	"frame": {"x":1478,"y":395,"w":120,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":247,"y":222,"w":120,"h":96},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_35.png":
+{
+	"frame": {"x":955,"y":215,"w":120,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":247,"y":222,"w":120,"h":105},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_36.png":
+{
+	"frame": {"x":765,"y":345,"w":99,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":257,"y":242,"w":99,"h":76},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_37.png":
+{
+	"frame": {"x":2767,"y":237,"w":99,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":257,"y":242,"w":99,"h":73},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_38.png":
+{
+	"frame": {"x":2078,"y":434,"w":99,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":257,"y":242,"w":99,"h":76},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_39.png":
+{
+	"frame": {"x":1324,"y":100,"w":120,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":228,"w":120,"h":99},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_40.png":
+{
+	"frame": {"x":2373,"y":254,"w":120,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":232,"w":120,"h":83},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_41.png":
+{
+	"frame": {"x":2011,"y":176,"w":120,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":232,"w":120,"h":86},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_42.png":
+{
+	"frame": {"x":2389,"y":167,"w":120,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":248,"y":232,"w":120,"h":83},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_43.png":
+{
+	"frame": {"x":1718,"y":0,"w":121,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":246,"y":227,"w":121,"h":91},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_44.png":
+{
+	"frame": {"x":1705,"y":384,"w":121,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":246,"y":227,"w":121,"h":92},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_02.png":
+{
+	"frame": {"x":2893,"y":153,"w":149,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":228,"y":160,"w":149,"h":68},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_07.png":
+{
+	"frame": {"x":3042,"y":153,"w":41,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":309,"y":690,"w":41,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_21.png":
+{
+	"frame": {"x":2810,"y":310,"w":59,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":265,"y":661,"w":59,"h":70},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_34.png":
+{
+	"frame": {"x":2913,"y":0,"w":50,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":226,"y":596,"w":50,"h":66},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_35.png":
+{
+	"frame": {"x":2706,"y":246,"w":61,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":332,"y":657,"w":61,"h":75},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_36.png":
+{
+	"frame": {"x":1110,"y":205,"w":80,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":303,"y":175,"w":80,"h":101},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_37.png":
+{
+	"frame": {"x":1731,"y":183,"w":45,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":231,"y":164,"w":45,"h":91},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_38.png":
+{
+	"frame": {"x":853,"y":111,"w":54,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":247,"y":499,"w":54,"h":108},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_39.png":
+{
+	"frame": {"x":1861,"y":364,"w":45,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":313,"y":402,"w":45,"h":89},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_41.png":
+{
+	"frame": {"x":692,"y":117,"w":114,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":266,"y":146,"w":114,"h":115},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_42.png":
+{
+	"frame": {"x":544,"y":243,"w":162,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":221,"y":375,"w":162,"h":116},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_43.png":
+{
+	"frame": {"x":1272,"y":301,"w":136,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":200,"y":378,"w":136,"h":99},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_44.png":
+{
+	"frame": {"x":859,"y":219,"w":96,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":238,"y":505,"w":96,"h":107},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_45.png":
+{
+	"frame": {"x":331,"y":263,"w":107,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":256,"y":419,"w":107,"h":124},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_46.png":
+{
+	"frame": {"x":438,"y":263,"w":106,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":269,"y":581,"w":106,"h":119},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_49.png":
+{
+	"frame": {"x":2866,"y":225,"w":35,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":266,"y":265,"w":35,"h":70},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_50.png":
+{
+	"frame": {"x":907,"y":108,"w":95,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":232,"y":176,"w":95,"h":107},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_64.png":
+{
+	"frame": {"x":2696,"y":325,"w":114,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":249,"y":716,"w":114,"h":75},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_66.png":
+{
+	"frame": {"x":1224,"y":101,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":240,"y":669,"w":100,"h":100},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_70.png":
+{
+	"frame": {"x":143,"y":0,"w":133,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":234,"y":692,"w":133,"h":151},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_71.png":
+{
+	"frame": {"x":2347,"y":431,"w":42,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":681,"w":42,"h":81},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_72.png":
+{
+	"frame": {"x":1517,"y":97,"w":44,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":279,"y":693,"w":44,"h":96},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_93.png":
+{
+	"frame": {"x":1059,"y":0,"w":79,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":256,"y":282,"w":79,"h":103},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_97_p1.png":
+{
+	"frame": {"x":1959,"y":448,"w":48,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":240,"y":697,"w":48,"h":53},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_97_p4.png":
+{
+	"frame": {"x":1858,"y":455,"w":49,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":698,"w":49,"h":55},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_98_p1.png":
+{
+	"frame": {"x":3107,"y":297,"w":37,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":351,"y":679,"w":37,"h":43},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_101_b1_1.png":
+{
+	"frame": {"x":2180,"y":0,"w":204,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":193,"y":388,"w":204,"h":84},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_102.png":
+{
+	"frame": {"x":2509,"y":166,"w":209,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":197,"y":623,"w":209,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_133.png":
+{
+	"frame": {"x":3145,"y":209,"w":61,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":261,"y":659,"w":61,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_back_34.png":
+{
+	"frame": {"x":1907,"y":448,"w":52,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":225,"y":605,"w":52,"h":59},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_back_35.png":
+{
+	"frame": {"x":2905,"y":73,"w":56,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":336,"y":667,"w":56,"h":67},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_back_38.png":
+{
+	"frame": {"x":870,"y":0,"w":51,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":246,"y":502,"w":51,"h":108},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_back_39.png":
+{
+	"frame": {"x":2209,"y":84,"w":42,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":312,"y":408,"w":42,"h":84},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_back_41.png":
+{
+	"frame": {"x":1106,"y":312,"w":120,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":163,"w":120,"h":101},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_back_42.png":
+{
+	"frame": {"x":1110,"y":413,"w":160,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":225,"y":396,"w":160,"h":99},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_back_43.png":
+{
+	"frame": {"x":2718,"y":163,"w":140,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":198,"y":405,"w":140,"h":74},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_back_44.png":
+{
+	"frame": {"x":1489,"y":294,"w":98,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":238,"y":519,"w":98,"h":96},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_back_45.png":
+{
+	"frame": {"x":706,"y":232,"w":107,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":253,"y":435,"w":107,"h":113},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_back_46.png":
+{
+	"frame": {"x":714,"y":0,"w":110,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":267,"y":590,"w":110,"h":113},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_back_48.png":
+{
+	"frame": {"x":1924,"y":177,"w":51,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":296,"y":242,"w":51,"h":87},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_back_50.png":
+{
+	"frame": {"x":1515,"y":195,"w":96,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":231,"y":191,"w":96,"h":96},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_back_66.png":
+{
+	"frame": {"x":1598,"y":384,"w":107,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":236,"y":681,"w":107,"h":93},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_acce_back_68.png":
+{
+	"frame": {"x":447,"y":0,"w":98,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":262,"y":663,"w":98,"h":125},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_breasts_1_4.png":
+{
+	"frame": {"x":317,"y":135,"w":206,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":194,"y":383,"w":206,"h":128},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_breasts_2_1.png":
+{
+	"frame": {"x":0,"y":307,"w":160,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":229,"y":370,"w":160,"h":144},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_breasts_2_2.png":
+{
+	"frame": {"x":0,"y":307,"w":160,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":229,"y":370,"w":160,"h":144},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_breasts_2_3.png":
+{
+	"frame": {"x":0,"y":307,"w":160,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":229,"y":370,"w":160,"h":144},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_breasts_2_4.png":
+{
+	"frame": {"x":0,"y":307,"w":160,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":229,"y":370,"w":160,"h":144},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_chikubi_1_1_1_1.png":
+{
+	"frame": {"x":2201,"y":170,"w":188,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":201,"y":388,"w":188,"h":84},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_chikubi_2_2_2_1.png":
+{
+	"frame": {"x":3042,"y":0,"w":165,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":220,"y":415,"w":165,"h":67},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_chikubi_2_3_1_1.png":
+{
+	"frame": {"x":2177,"y":431,"w":170,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":219,"y":410,"w":170,"h":81},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_in_b_top_main_1_2.png":
+{
+	"frame": {"x":0,"y":154,"w":151,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":228,"y":338,"w":151,"h":153},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_in_b_top_main_2_2.png":
+{
+	"frame": {"x":0,"y":154,"w":151,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":228,"y":338,"w":151,"h":153},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_in_b_top_main_3_2.png":
+{
+	"frame": {"x":0,"y":154,"w":151,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":228,"y":338,"w":151,"h":153},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_in_b_top_main_4_2.png":
+{
+	"frame": {"x":0,"y":154,"w":151,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":228,"y":338,"w":151,"h":153},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_in_b_top_shadow_1_2.png":
+{
+	"frame": {"x":0,"y":0,"w":143,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":233,"y":340,"w":143,"h":154},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_in_b_top_shadow_2_2.png":
+{
+	"frame": {"x":0,"y":0,"w":143,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":233,"y":340,"w":143,"h":154},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_in_b_top_shadow_3_2.png":
+{
+	"frame": {"x":0,"y":0,"w":143,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":233,"y":340,"w":143,"h":154},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_in_b_top_shadow_4_2.png":
+{
+	"frame": {"x":0,"y":0,"w":143,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":233,"y":340,"w":143,"h":154},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_in_d_bottom_main_1_1.png":
+{
+	"frame": {"x":276,"y":0,"w":171,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":212,"y":568,"w":171,"h":135},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_in_e_bottom_main_1_1.png":
+{
+	"frame": {"x":2599,"y":83,"w":206,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":198,"y":623,"w":206,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_in_f_bottom_main_1_1.png":
+{
+	"frame": {"x":160,"y":290,"w":171,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":212,"y":568,"w":171,"h":135},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_in_f_bottom_main_2_1.png":
+{
+	"frame": {"x":160,"y":290,"w":171,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":212,"y":568,"w":171,"h":135},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_in_f_bottom_shadow_3_1.png":
+{
+	"frame": {"x":151,"y":151,"w":166,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":212,"y":564,"w":166,"h":139},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_in_i_bottom_main_1_1.png":
+{
+	"frame": {"x":2509,"y":166,"w":209,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":197,"y":623,"w":209,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_in_i_bottom_main_2_1.png":
+{
+	"frame": {"x":2509,"y":166,"w":209,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":197,"y":623,"w":209,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_in_i_bottom_main_3_1.png":
+{
+	"frame": {"x":2509,"y":166,"w":209,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":197,"y":623,"w":209,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_in_i_bottom_main_4_1.png":
+{
+	"frame": {"x":2509,"y":166,"w":209,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":197,"y":623,"w":209,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_c_bottom_shadow_1_a.png":
+{
+	"frame": {"x":2165,"y":261,"w":208,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":196,"y":626,"w":208,"h":85},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_c_bottom_shadow_1_b.png":
+{
+	"frame": {"x":2165,"y":261,"w":208,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":196,"y":626,"w":208,"h":85},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_c_bottom_shadow_2_a.png":
+{
+	"frame": {"x":2165,"y":261,"w":208,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":196,"y":626,"w":208,"h":85},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_c_bottom_shadow_2_b.png":
+{
+	"frame": {"x":2165,"y":261,"w":208,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":196,"y":626,"w":208,"h":85},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_c_bottom_shadow_3_a.png":
+{
+	"frame": {"x":2165,"y":261,"w":208,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":196,"y":626,"w":208,"h":85},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_c_bottom_shadow_3_b.png":
+{
+	"frame": {"x":2165,"y":261,"w":208,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":196,"y":626,"w":208,"h":85},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_i_top_shadow_1_1_a.png":
+{
+	"frame": {"x":2612,"y":0,"w":201,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":418,"w":201,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_i_top_shadow_1_1_b.png":
+{
+	"frame": {"x":2612,"y":0,"w":201,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":418,"w":201,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_i_top_shadow_1_3_a.png":
+{
+	"frame": {"x":2612,"y":0,"w":201,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":418,"w":201,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_i_top_shadow_1_3_b.png":
+{
+	"frame": {"x":2612,"y":0,"w":201,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":418,"w":201,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_i_top_shadow_2_1_a.png":
+{
+	"frame": {"x":2612,"y":0,"w":201,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":418,"w":201,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_i_top_shadow_2_1_b.png":
+{
+	"frame": {"x":2612,"y":0,"w":201,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":418,"w":201,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_i_top_shadow_2_3_a.png":
+{
+	"frame": {"x":2612,"y":0,"w":201,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":418,"w":201,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_i_top_shadow_2_3_b.png":
+{
+	"frame": {"x":2612,"y":0,"w":201,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":418,"w":201,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_i_top_shadow_3_1_a.png":
+{
+	"frame": {"x":2612,"y":0,"w":201,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":418,"w":201,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_i_top_shadow_3_1_b.png":
+{
+	"frame": {"x":2612,"y":0,"w":201,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":418,"w":201,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_i_top_shadow_3_3_a.png":
+{
+	"frame": {"x":2612,"y":0,"w":201,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":418,"w":201,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_i_top_shadow_3_3_b.png":
+{
+	"frame": {"x":2612,"y":0,"w":201,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":418,"w":201,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_i_top_shadow_4_1_a.png":
+{
+	"frame": {"x":2612,"y":0,"w":201,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":418,"w":201,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_i_top_shadow_4_1_b.png":
+{
+	"frame": {"x":2612,"y":0,"w":201,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":418,"w":201,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_i_top_shadow_4_3_a.png":
+{
+	"frame": {"x":2612,"y":0,"w":201,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":418,"w":201,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_out_i_top_shadow_4_3_b.png":
+{
+	"frame": {"x":2612,"y":0,"w":201,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":418,"w":201,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム1_1.png":
+{
+	"frame": {"x":3148,"y":165,"w":59,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":193,"y":425,"w":59,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム1_2.png":
+{
+	"frame": {"x":3050,"y":297,"w":57,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":194,"y":426,"w":57,"h":43},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム1_3.png":
+{
+	"frame": {"x":2901,"y":221,"w":57,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":194,"y":426,"w":57,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム1_4.png":
+{
+	"frame": {"x":3019,"y":420,"w":55,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":427,"w":55,"h":43},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム1_5.png":
+{
+	"frame": {"x":3074,"y":420,"w":53,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":196,"y":428,"w":53,"h":42},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム1_6.png":
+{
+	"frame": {"x":2877,"y":471,"w":52,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":196,"y":429,"w":52,"h":41},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム1_7.png":
+{
+	"frame": {"x":3144,"y":297,"w":50,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":197,"y":430,"w":50,"h":41},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム1_8.png":
+{
+	"frame": {"x":2777,"y":472,"w":48,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":198,"y":431,"w":48,"h":40},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム1_9.png":
+{
+	"frame": {"x":3155,"y":374,"w":50,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":197,"y":430,"w":50,"h":41},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム1_10.png":
+{
+	"frame": {"x":2825,"y":471,"w":52,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":196,"y":429,"w":52,"h":41},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム1_11.png":
+{
+	"frame": {"x":3073,"y":463,"w":53,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":196,"y":428,"w":53,"h":42},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム1_12.png":
+{
+	"frame": {"x":3018,"y":466,"w":55,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":195,"y":427,"w":55,"h":43},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム1_13.png":
+{
+	"frame": {"x":3138,"y":253,"w":57,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":194,"y":426,"w":57,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム1_14.png":
+{
+	"frame": {"x":2999,"y":377,"w":57,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":194,"y":426,"w":57,"h":43},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム1_15.png":
+{
+	"frame": {"x":3079,"y":221,"w":59,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":193,"y":425,"w":59,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム2_1.png":
+{
+	"frame": {"x":2820,"y":380,"w":55,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":341,"y":423,"w":55,"h":46},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム2_2.png":
+{
+	"frame": {"x":2820,"y":426,"w":54,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":341,"y":423,"w":54,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム2_3.png":
+{
+	"frame": {"x":2929,"y":468,"w":53,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":342,"y":424,"w":53,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム2_4.png":
+{
+	"frame": {"x":2911,"y":378,"w":52,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":342,"y":424,"w":52,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム2_5.png":
+{
+	"frame": {"x":3056,"y":377,"w":51,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":343,"y":424,"w":51,"h":43},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム2_7.png":
+{
+	"frame": {"x":3107,"y":375,"w":48,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":344,"y":425,"w":48,"h":42},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム2_8.png":
+{
+	"frame": {"x":3155,"y":415,"w":48,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":344,"y":425,"w":48,"h":41},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム2_9.png":
+{
+	"frame": {"x":3107,"y":375,"w":48,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":344,"y":425,"w":48,"h":42},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム2_11.png":
+{
+	"frame": {"x":3056,"y":377,"w":51,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":343,"y":424,"w":51,"h":43},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム2_12.png":
+{
+	"frame": {"x":2911,"y":378,"w":52,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":342,"y":424,"w":52,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム2_13.png":
+{
+	"frame": {"x":2929,"y":468,"w":53,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":342,"y":424,"w":53,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム2_14.png":
+{
+	"frame": {"x":2820,"y":426,"w":54,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":341,"y":423,"w":54,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_スライム2_15.png":
+{
+	"frame": {"x":2820,"y":380,"w":55,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":341,"y":423,"w":55,"h":46},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_バイブの呪い_0.png":
+{
+	"frame": {"x":545,"y":0,"w":169,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":215,"y":583,"w":169,"h":117},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_バイブの呪い_3.png":
+{
+	"frame": {"x":523,"y":125,"w":169,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":215,"y":583,"w":169,"h":118},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮0_0.png":
+{
+	"frame": {"x":522,"y":424,"w":36,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":619,"w":36,"h":88},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮1_0.png":
+{
+	"frame": {"x":558,"y":424,"w":36,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":619,"w":36,"h":88},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮2_0.png":
+{
+	"frame": {"x":594,"y":424,"w":36,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":619,"w":36,"h":88},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮3_0.png":
+{
+	"frame": {"x":1886,"y":273,"w":36,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":619,"w":36,"h":88},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮4_0.png":
+{
+	"frame": {"x":1888,"y":182,"w":36,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":619,"w":36,"h":88},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_0_0.png":
+{
+	"frame": {"x":2025,"y":348,"w":36,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":36,"h":86},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_0_1.png":
+{
+	"frame": {"x":2289,"y":84,"w":36,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":36,"h":84},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_0_2.png":
+{
+	"frame": {"x":2636,"y":246,"w":35,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":35,"h":79},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_0_3.png":
+{
+	"frame": {"x":2715,"y":400,"w":35,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":35,"h":72},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_0_4.png":
+{
+	"frame": {"x":590,"y":359,"w":35,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":35,"h":65},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_0_5.png":
+{
+	"frame": {"x":0,"y":451,"w":35,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":35,"h":60},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_0_6.png":
+{
+	"frame": {"x":35,"y":451,"w":35,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":655,"w":35,"h":60},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_0_7.png":
+{
+	"frame": {"x":70,"y":451,"w":35,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":656,"w":35,"h":60},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_0_8.png":
+{
+	"frame": {"x":660,"y":359,"w":35,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":35,"h":62},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_0_10.png":
+{
+	"frame": {"x":2858,"y":153,"w":35,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":35,"h":72},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_0_11.png":
+{
+	"frame": {"x":730,"y":345,"w":35,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":35,"h":77},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_0_12.png":
+{
+	"frame": {"x":2462,"y":419,"w":35,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":35,"h":82},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_0_13.png":
+{
+	"frame": {"x":2138,"y":86,"w":36,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":36,"h":85},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_0_14.png":
+{
+	"frame": {"x":2059,"y":262,"w":36,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":36,"h":86},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_1_3.png":
+{
+	"frame": {"x":1877,"y":0,"w":35,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":91},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_1_4.png":
+{
+	"frame": {"x":2325,"y":84,"w":35,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":84},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_1_5.png":
+{
+	"frame": {"x":2536,"y":412,"w":35,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":657,"w":35,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_1_6.png":
+{
+	"frame": {"x":2553,"y":326,"w":35,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":655,"w":35,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_1_7.png":
+{
+	"frame": {"x":2645,"y":405,"w":35,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":657,"w":35,"h":79},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_1_8.png":
+{
+	"frame": {"x":2479,"y":337,"w":35,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":657,"w":35,"h":82},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_1_9.png":
+{
+	"frame": {"x":2095,"y":262,"w":35,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":86},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_1_10.png":
+{
+	"frame": {"x":1843,"y":91,"w":35,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":91},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_1_11.png":
+{
+	"frame": {"x":1528,"y":0,"w":35,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":96},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_2_2.png":
+{
+	"frame": {"x":1444,"y":99,"w":38,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":658,"w":38,"h":98},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_2_3.png":
+{
+	"frame": {"x":1815,"y":182,"w":38,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":658,"w":38,"h":91},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_2_4.png":
+{
+	"frame": {"x":2251,"y":84,"w":38,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":658,"w":38,"h":84},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_2_5.png":
+{
+	"frame": {"x":2528,"y":246,"w":38,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":38,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_2_7.png":
+{
+	"frame": {"x":2623,"y":326,"w":38,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":38,"h":79},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_2_8.png":
+{
+	"frame": {"x":2389,"y":431,"w":38,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":658,"w":38,"h":81},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_2_9.png":
+{
+	"frame": {"x":2021,"y":262,"w":38,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":658,"w":38,"h":86},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_2_10.png":
+{
+	"frame": {"x":1839,"y":0,"w":38,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":658,"w":38,"h":91},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_2_12.png":
+{
+	"frame": {"x":1186,"y":101,"w":38,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":658,"w":38,"h":101},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_3_4.png":
+{
+	"frame": {"x":1048,"y":105,"w":46,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":658,"w":46,"h":104},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_3_5.png":
+{
+	"frame": {"x":1258,"y":0,"w":46,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":657,"w":46,"h":100},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_3_6.png":
+{
+	"frame": {"x":1304,"y":0,"w":46,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":655,"w":46,"h":100},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_3_7.png":
+{
+	"frame": {"x":1316,"y":400,"w":46,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":657,"w":46,"h":99},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_beast_3_8.png":
+{
+	"frame": {"x":1140,"y":102,"w":46,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":658,"w":46,"h":101},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_0_0.png":
+{
+	"frame": {"x":1948,"y":89,"w":36,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":36,"h":87},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_0_1.png":
+{
+	"frame": {"x":2144,"y":0,"w":36,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":36,"h":85},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_0_2.png":
+{
+	"frame": {"x":2661,"y":325,"w":35,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":35,"h":79},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_0_3.png":
+{
+	"frame": {"x":2785,"y":400,"w":35,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":35,"h":72},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_0_5.png":
+{
+	"frame": {"x":105,"y":451,"w":35,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":35,"h":60},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_0_6.png":
+{
+	"frame": {"x":140,"y":451,"w":35,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":655,"w":35,"h":60},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_0_7.png":
+{
+	"frame": {"x":695,"y":359,"w":35,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":656,"w":35,"h":60},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_0_8.png":
+{
+	"frame": {"x":625,"y":359,"w":35,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":35,"h":63},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_0_10.png":
+{
+	"frame": {"x":2750,"y":400,"w":35,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":35,"h":72},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_0_11.png":
+{
+	"frame": {"x":2043,"y":434,"w":35,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":35,"h":78},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_0_12.png":
+{
+	"frame": {"x":2493,"y":250,"w":35,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":35,"h":82},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_0_13.png":
+{
+	"frame": {"x":2061,"y":348,"w":36,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":36,"h":86},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_0_14.png":
+{
+	"frame": {"x":1975,"y":176,"w":36,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":657,"w":36,"h":87},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_1_2.png":
+{
+	"frame": {"x":1458,"y":0,"w":35,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":98},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_1_3.png":
+{
+	"frame": {"x":1826,"y":364,"w":35,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":91},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_1_4.png":
+{
+	"frame": {"x":2166,"y":171,"w":35,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":85},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_1_5.png":
+{
+	"frame": {"x":2566,"y":246,"w":35,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":657,"w":35,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_1_6.png":
+{
+	"frame": {"x":2571,"y":406,"w":35,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":655,"w":35,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_1_7.png":
+{
+	"frame": {"x":2671,"y":246,"w":35,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":657,"w":35,"h":79},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_1_8.png":
+{
+	"frame": {"x":2405,"y":337,"w":35,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":657,"w":35,"h":83},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_1_9.png":
+{
+	"frame": {"x":2097,"y":348,"w":35,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":86},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_1_10.png":
+{
+	"frame": {"x":1816,"y":273,"w":35,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":91},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_1_11.png":
+{
+	"frame": {"x":1482,"y":98,"w":35,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":97},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_1_12.png":
+{
+	"frame": {"x":1223,"y":0,"w":35,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":101},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_2_2.png":
+{
+	"frame": {"x":1437,"y":199,"w":39,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":658,"w":39,"h":98},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_2_3.png":
+{
+	"frame": {"x":1804,"y":91,"w":39,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":658,"w":39,"h":91},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_2_4.png":
+{
+	"frame": {"x":2366,"y":346,"w":39,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":658,"w":39,"h":85},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_2_5.png":
+{
+	"frame": {"x":2497,"y":419,"w":39,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":657,"w":39,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_2_6.png":
+{
+	"frame": {"x":2514,"y":332,"w":39,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":655,"w":39,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_2_7.png":
+{
+	"frame": {"x":2606,"y":406,"w":39,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":657,"w":39,"h":79},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_2_8.png":
+{
+	"frame": {"x":2440,"y":337,"w":39,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":658,"w":39,"h":82},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_2_10.png":
+{
+	"frame": {"x":1776,"y":183,"w":39,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":658,"w":39,"h":91},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_2_11.png":
+{
+	"frame": {"x":1476,"y":197,"w":39,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":658,"w":39,"h":97},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_2_12.png":
+{
+	"frame": {"x":1184,"y":0,"w":39,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":658,"w":39,"h":101},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_3_4.png":
+{
+	"frame": {"x":1002,"y":106,"w":46,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":658,"w":46,"h":105},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_3_5.png":
+{
+	"frame": {"x":1225,"y":201,"w":46,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":657,"w":46,"h":100},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_3_6.png":
+{
+	"frame": {"x":1226,"y":301,"w":46,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":655,"w":46,"h":100},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_3_7.png":
+{
+	"frame": {"x":1362,"y":400,"w":46,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":657,"w":46,"h":99},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_3_8.png":
+{
+	"frame": {"x":1094,"y":103,"w":46,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":658,"w":46,"h":102},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_3_9.png":
+{
+	"frame": {"x":921,"y":0,"w":46,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":658,"w":46,"h":106},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_3_10.png":
+{
+	"frame": {"x":824,"y":0,"w":46,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":658,"w":46,"h":111},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_4_3.png":
+{
+	"frame": {"x":1443,"y":399,"w":35,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":652,"w":35,"h":98},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_4_4.png":
+{
+	"frame": {"x":1851,"y":273,"w":35,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":652,"w":35,"h":91},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_4_5.png":
+{
+	"frame": {"x":1984,"y":89,"w":35,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":650,"w":35,"h":87},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_4_6.png":
+{
+	"frame": {"x":2130,"y":262,"w":35,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":649,"w":35,"h":86},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_4_7.png":
+{
+	"frame": {"x":2132,"y":348,"w":35,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":650,"w":35,"h":86},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_4_8.png":
+{
+	"frame": {"x":1913,"y":89,"w":35,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":652,"w":35,"h":88},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_4_9.png":
+{
+	"frame": {"x":1683,"y":0,"w":35,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":652,"w":35,"h":92},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_4_10.png":
+{
+	"frame": {"x":1408,"y":399,"w":35,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":652,"w":35,"h":98},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_goblin_4_11.png":
+{
+	"frame": {"x":1075,"y":209,"w":35,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":652,"w":35,"h":103},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_0_2.png":
+{
+	"frame": {"x":1454,"y":297,"w":35,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":98},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_0_3.png":
+{
+	"frame": {"x":1878,"y":91,"w":35,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":91},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_0_4.png":
+{
+	"frame": {"x":2174,"y":85,"w":35,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":85},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_0_5.png":
+{
+	"frame": {"x":2588,"y":326,"w":35,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":657,"w":35,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_0_6.png":
+{
+	"frame": {"x":2601,"y":246,"w":35,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":655,"w":35,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_0_7.png":
+{
+	"frame": {"x":2680,"y":404,"w":35,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":657,"w":35,"h":79},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_0_8.png":
+{
+	"frame": {"x":2427,"y":420,"w":35,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":657,"w":35,"h":83},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_0_9.png":
+{
+	"frame": {"x":2131,"y":175,"w":35,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":86},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_0_10.png":
+{
+	"frame": {"x":1853,"y":182,"w":35,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":91},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_0_11.png":
+{
+	"frame": {"x":1493,"y":0,"w":35,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":97},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_0_12.png":
+{
+	"frame": {"x":1190,"y":202,"w":35,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":101},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_1_2.png":
+{
+	"frame": {"x":1454,"y":297,"w":35,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":98},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_1_3.png":
+{
+	"frame": {"x":1878,"y":91,"w":35,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":91},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_1_4.png":
+{
+	"frame": {"x":2174,"y":85,"w":35,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":85},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_1_5.png":
+{
+	"frame": {"x":2588,"y":326,"w":35,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":657,"w":35,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_1_6.png":
+{
+	"frame": {"x":2601,"y":246,"w":35,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":655,"w":35,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_1_7.png":
+{
+	"frame": {"x":2680,"y":404,"w":35,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":657,"w":35,"h":79},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_1_8.png":
+{
+	"frame": {"x":2427,"y":420,"w":35,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":657,"w":35,"h":83},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_1_9.png":
+{
+	"frame": {"x":2131,"y":175,"w":35,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":86},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_1_10.png":
+{
+	"frame": {"x":1853,"y":182,"w":35,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":91},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_1_11.png":
+{
+	"frame": {"x":1493,"y":0,"w":35,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":97},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_1_12.png":
+{
+	"frame": {"x":1190,"y":202,"w":35,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":658,"w":35,"h":101},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_2_2.png":
+{
+	"frame": {"x":1437,"y":199,"w":39,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":658,"w":39,"h":98},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_2_3.png":
+{
+	"frame": {"x":1804,"y":91,"w":39,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":658,"w":39,"h":91},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_2_4.png":
+{
+	"frame": {"x":2366,"y":346,"w":39,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":658,"w":39,"h":85},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_2_5.png":
+{
+	"frame": {"x":2497,"y":419,"w":39,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":657,"w":39,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_2_6.png":
+{
+	"frame": {"x":2514,"y":332,"w":39,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":655,"w":39,"h":80},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_2_7.png":
+{
+	"frame": {"x":2606,"y":406,"w":39,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":657,"w":39,"h":79},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_2_8.png":
+{
+	"frame": {"x":2440,"y":337,"w":39,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":658,"w":39,"h":82},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_2_10.png":
+{
+	"frame": {"x":1776,"y":183,"w":39,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":658,"w":39,"h":91},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_2_11.png":
+{
+	"frame": {"x":1476,"y":197,"w":39,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":658,"w":39,"h":97},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_2_12.png":
+{
+	"frame": {"x":1184,"y":0,"w":39,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":658,"w":39,"h":101},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_3_3.png":
+{
+	"frame": {"x":806,"y":113,"w":47,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":269,"y":658,"w":47,"h":111},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_3_4.png":
+{
+	"frame": {"x":1013,"y":0,"w":46,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":658,"w":46,"h":105},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_3_5.png":
+{
+	"frame": {"x":1271,"y":201,"w":46,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":657,"w":46,"h":100},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_3_6.png":
+{
+	"frame": {"x":1270,"y":401,"w":46,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":655,"w":46,"h":100},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_3_7.png":
+{
+	"frame": {"x":1408,"y":300,"w":46,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":657,"w":46,"h":99},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_3_8.png":
+{
+	"frame": {"x":1138,"y":0,"w":46,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":658,"w":46,"h":102},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_3_9.png":
+{
+	"frame": {"x":967,"y":0,"w":46,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":658,"w":46,"h":106},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_human_3_10.png":
+{
+	"frame": {"x":813,"y":224,"w":46,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":270,"y":658,"w":46,"h":111},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_0_0.png":
+{
+	"frame": {"x":2874,"y":426,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_0_1.png":
+{
+	"frame": {"x":2874,"y":426,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_0_2.png":
+{
+	"frame": {"x":2874,"y":426,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_0_3.png":
+{
+	"frame": {"x":2874,"y":426,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_0_4.png":
+{
+	"frame": {"x":2874,"y":426,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_0_5.png":
+{
+	"frame": {"x":2874,"y":426,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_0_6.png":
+{
+	"frame": {"x":2874,"y":426,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_0_7.png":
+{
+	"frame": {"x":2874,"y":426,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_0_8.png":
+{
+	"frame": {"x":2874,"y":426,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_0_9.png":
+{
+	"frame": {"x":2963,"y":378,"w":36,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_0_10.png":
+{
+	"frame": {"x":3042,"y":198,"w":37,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":619,"w":37,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_0_11.png":
+{
+	"frame": {"x":2963,"y":378,"w":36,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_0_12.png":
+{
+	"frame": {"x":2874,"y":426,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_0_13.png":
+{
+	"frame": {"x":2874,"y":426,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_0_14.png":
+{
+	"frame": {"x":2874,"y":426,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_0_15.png":
+{
+	"frame": {"x":2874,"y":426,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_0_16.png":
+{
+	"frame": {"x":2874,"y":426,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_0_17.png":
+{
+	"frame": {"x":2874,"y":426,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_0_18.png":
+{
+	"frame": {"x":2874,"y":426,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_0_19.png":
+{
+	"frame": {"x":2874,"y":426,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_0_射精_0.png":
+{
+	"frame": {"x":2007,"y":448,"w":36,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":51},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_1_0.png":
+{
+	"frame": {"x":2869,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_1_1.png":
+{
+	"frame": {"x":2869,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_1_2.png":
+{
+	"frame": {"x":2869,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_1_3.png":
+{
+	"frame": {"x":2869,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_1_4.png":
+{
+	"frame": {"x":2869,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_1_5.png":
+{
+	"frame": {"x":2869,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_1_6.png":
+{
+	"frame": {"x":2869,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_1_7.png":
+{
+	"frame": {"x":2869,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_1_8.png":
+{
+	"frame": {"x":2869,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_1_9.png":
+{
+	"frame": {"x":2978,"y":297,"w":36,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_1_10.png":
+{
+	"frame": {"x":2941,"y":297,"w":37,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":619,"w":37,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_1_11.png":
+{
+	"frame": {"x":2978,"y":297,"w":36,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_1_12.png":
+{
+	"frame": {"x":2869,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_1_13.png":
+{
+	"frame": {"x":2869,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_1_14.png":
+{
+	"frame": {"x":2869,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_1_15.png":
+{
+	"frame": {"x":2869,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_1_16.png":
+{
+	"frame": {"x":2869,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_1_17.png":
+{
+	"frame": {"x":2869,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_1_18.png":
+{
+	"frame": {"x":2869,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_1_19.png":
+{
+	"frame": {"x":2869,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_1_射精_0.png":
+{
+	"frame": {"x":2961,"y":80,"w":36,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":51},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_2_0.png":
+{
+	"frame": {"x":2905,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_2_1.png":
+{
+	"frame": {"x":2905,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_2_2.png":
+{
+	"frame": {"x":2905,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_2_3.png":
+{
+	"frame": {"x":2905,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_2_4.png":
+{
+	"frame": {"x":2905,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_2_5.png":
+{
+	"frame": {"x":2905,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_2_6.png":
+{
+	"frame": {"x":2905,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_2_7.png":
+{
+	"frame": {"x":2905,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_2_8.png":
+{
+	"frame": {"x":2905,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_2_9.png":
+{
+	"frame": {"x":3014,"y":297,"w":36,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_2_10.png":
+{
+	"frame": {"x":2958,"y":221,"w":37,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":619,"w":37,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_2_11.png":
+{
+	"frame": {"x":3014,"y":297,"w":36,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_2_12.png":
+{
+	"frame": {"x":2905,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_2_13.png":
+{
+	"frame": {"x":2905,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_2_14.png":
+{
+	"frame": {"x":2905,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_2_15.png":
+{
+	"frame": {"x":2905,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_2_16.png":
+{
+	"frame": {"x":2905,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_2_17.png":
+{
+	"frame": {"x":2905,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_2_18.png":
+{
+	"frame": {"x":2905,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_2_19.png":
+{
+	"frame": {"x":2905,"y":297,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_2_射精_0.png":
+{
+	"frame": {"x":2997,"y":80,"w":36,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":51},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_3_0.png":
+{
+	"frame": {"x":2875,"y":378,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_3_1.png":
+{
+	"frame": {"x":2875,"y":378,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_3_2.png":
+{
+	"frame": {"x":2875,"y":378,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_3_3.png":
+{
+	"frame": {"x":2875,"y":378,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_3_4.png":
+{
+	"frame": {"x":2875,"y":378,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_3_5.png":
+{
+	"frame": {"x":2875,"y":378,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_3_6.png":
+{
+	"frame": {"x":2875,"y":378,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_3_7.png":
+{
+	"frame": {"x":2875,"y":378,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_3_8.png":
+{
+	"frame": {"x":2875,"y":378,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_3_9.png":
+{
+	"frame": {"x":2982,"y":466,"w":36,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_3_10.png":
+{
+	"frame": {"x":2995,"y":221,"w":37,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":619,"w":37,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_3_11.png":
+{
+	"frame": {"x":2982,"y":466,"w":36,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_3_12.png":
+{
+	"frame": {"x":2875,"y":378,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_3_13.png":
+{
+	"frame": {"x":2875,"y":378,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_3_14.png":
+{
+	"frame": {"x":2875,"y":378,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_3_15.png":
+{
+	"frame": {"x":2875,"y":378,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_3_16.png":
+{
+	"frame": {"x":2875,"y":378,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_3_17.png":
+{
+	"frame": {"x":2875,"y":378,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_3_18.png":
+{
+	"frame": {"x":2875,"y":378,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_3_19.png":
+{
+	"frame": {"x":2875,"y":378,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_3_射精_0.png":
+{
+	"frame": {"x":3033,"y":67,"w":36,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":51},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_4_0.png":
+{
+	"frame": {"x":2910,"y":423,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_4_1.png":
+{
+	"frame": {"x":2910,"y":423,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_4_2.png":
+{
+	"frame": {"x":2910,"y":423,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_4_3.png":
+{
+	"frame": {"x":2910,"y":423,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_4_4.png":
+{
+	"frame": {"x":2910,"y":423,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_4_5.png":
+{
+	"frame": {"x":2983,"y":422,"w":36,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_4_6.png":
+{
+	"frame": {"x":2946,"y":422,"w":37,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":619,"w":37,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_4_7.png":
+{
+	"frame": {"x":2983,"y":422,"w":36,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":44},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_4_8.png":
+{
+	"frame": {"x":2910,"y":423,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_4_9.png":
+{
+	"frame": {"x":2910,"y":423,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_4_10.png":
+{
+	"frame": {"x":2910,"y":423,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_4_11.png":
+{
+	"frame": {"x":2910,"y":423,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_4_12.png":
+{
+	"frame": {"x":2910,"y":423,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_4_13.png":
+{
+	"frame": {"x":2910,"y":423,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_4_14.png":
+{
+	"frame": {"x":2910,"y":423,"w":36,"h":45},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":45},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_4_射精_0.png":
+{
+	"frame": {"x":3069,"y":67,"w":36,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":275,"y":619,"w":36,"h":51},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_5_5.png":
+{
+	"frame": {"x":3170,"y":67,"w":37,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":614,"w":37,"h":49},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_5_6.png":
+{
+	"frame": {"x":3169,"y":116,"w":37,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":614,"w":37,"h":49},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_子宮_上_5_7.png":
+{
+	"frame": {"x":3170,"y":67,"w":37,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":614,"w":37,"h":49},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌1_0.png":
+{
+	"frame": {"x":1756,"y":476,"w":51,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":440,"w":51,"h":36},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌1_1.png":
+{
+	"frame": {"x":3073,"y":340,"w":51,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":439,"w":51,"h":35},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌1_2.png":
+{
+	"frame": {"x":1704,"y":477,"w":52,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":438,"w":52,"h":35},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌1_3.png":
+{
+	"frame": {"x":3033,"y":118,"w":52,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":437,"w":52,"h":35},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌1_4.png":
+{
+	"frame": {"x":1598,"y":477,"w":53,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":436,"w":53,"h":35},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌1_5.png":
+{
+	"frame": {"x":1651,"y":477,"w":53,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":435,"w":53,"h":35},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌1_7.png":
+{
+	"frame": {"x":2901,"y":265,"w":53,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":433,"w":53,"h":32},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌1_13.png":
+{
+	"frame": {"x":2954,"y":265,"w":52,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":433,"w":52,"h":32},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌1_14.png":
+{
+	"frame": {"x":3124,"y":340,"w":51,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":434,"w":51,"h":34},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌1_15.png":
+{
+	"frame": {"x":1807,"y":476,"w":51,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":435,"w":51,"h":36},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌1_16.png":
+{
+	"frame": {"x":2869,"y":342,"w":51,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":436,"w":51,"h":36},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌1_17.png":
+{
+	"frame": {"x":2920,"y":342,"w":51,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":437,"w":51,"h":36},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌1_18.png":
+{
+	"frame": {"x":2971,"y":341,"w":51,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":438,"w":51,"h":36},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌1_19.png":
+{
+	"frame": {"x":3022,"y":341,"w":51,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":439,"w":51,"h":36},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌2_0.png":
+{
+	"frame": {"x":529,"y":382,"w":61,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":425,"w":61,"h":42},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌2_1.png":
+{
+	"frame": {"x":3083,"y":180,"w":62,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":424,"w":62,"h":41},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌2_2.png":
+{
+	"frame": {"x":2715,"y":472,"w":62,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":423,"w":62,"h":40},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌2_3.png":
+{
+	"frame": {"x":3085,"y":141,"w":63,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":422,"w":63,"h":39},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌2_4.png":
+{
+	"frame": {"x":3105,"y":104,"w":64,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":422,"w":64,"h":37},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌2_5.png":
+{
+	"frame": {"x":3105,"y":67,"w":65,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":421,"w":65,"h":37},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌2_6.png":
+{
+	"frame": {"x":2963,"y":0,"w":66,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":420,"w":66,"h":37},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌2_7.png":
+{
+	"frame": {"x":399,"y":387,"w":67,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":419,"w":67,"h":37},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌2_8.png":
+{
+	"frame": {"x":331,"y":387,"w":68,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":418,"w":68,"h":37},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌2_18.png":
+{
+	"frame": {"x":2963,"y":37,"w":65,"h":43},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":423,"w":65,"h":43},
+	"sourceSize": {"w":1024,"h":1024}
+},
+"actor01_舌2_19.png":
+{
+	"frame": {"x":466,"y":382,"w":63,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":424,"w":63,"h":42},
+	"sourceSize": {"w":1024,"h":1024}
+}},
+"animations": {
+	"actor01": ["actor01_01.png","actor01_02.png","actor01_03.png","actor01_04.png","actor01_05.png","actor01_06.png","actor01_07.png","actor01_08.png","actor01_09.png","actor01_10.png","actor01_11.png","actor01_14.png","actor01_15.png","actor01_16.png","actor01_17.png","actor01_18.png","actor01_19.png","actor01_20.png","actor01_21.png","actor01_22.png","actor01_23.png","actor01_24.png","actor01_25.png","actor01_26.png","actor01_28.png","actor01_29.png","actor01_30.png","actor01_31.png","actor01_32.png","actor01_33.png","actor01_34.png","actor01_35.png","actor01_36.png","actor01_37.png","actor01_38.png","actor01_39.png","actor01_40.png","actor01_41.png","actor01_42.png","actor01_43.png","actor01_44.png"],
+	"actor01_acce": ["actor01_acce_02.png","actor01_acce_07.png","actor01_acce_21.png","actor01_acce_34.png","actor01_acce_35.png","actor01_acce_36.png","actor01_acce_37.png","actor01_acce_38.png","actor01_acce_39.png","actor01_acce_41.png","actor01_acce_42.png","actor01_acce_43.png","actor01_acce_44.png","actor01_acce_45.png","actor01_acce_46.png","actor01_acce_49.png","actor01_acce_50.png","actor01_acce_64.png","actor01_acce_66.png","actor01_acce_70.png","actor01_acce_71.png","actor01_acce_72.png","actor01_acce_93.png","actor01_acce_102.png","actor01_acce_133.png"],
+	"actor01_acce_97_p": ["actor01_acce_97_p1.png","actor01_acce_97_p4.png"],
+	"actor01_acce_back": ["actor01_acce_back_34.png","actor01_acce_back_35.png","actor01_acce_back_38.png","actor01_acce_back_39.png","actor01_acce_back_41.png","actor01_acce_back_42.png","actor01_acce_back_43.png","actor01_acce_back_44.png","actor01_acce_back_45.png","actor01_acce_back_46.png","actor01_acce_back_48.png","actor01_acce_back_50.png","actor01_acce_back_66.png","actor01_acce_back_68.png"],
+	"actor01_breasts_2": ["actor01_breasts_2_1.png","actor01_breasts_2_2.png","actor01_breasts_2_3.png","actor01_breasts_2_4.png"],
+	"actor01_スライム1": ["actor01_スライム1_1.png","actor01_スライム1_2.png","actor01_スライム1_3.png","actor01_スライム1_4.png","actor01_スライム1_5.png","actor01_スライム1_6.png","actor01_スライム1_7.png","actor01_スライム1_8.png","actor01_スライム1_9.png","actor01_スライム1_10.png","actor01_スライム1_11.png","actor01_スライム1_12.png","actor01_スライム1_13.png","actor01_スライム1_14.png","actor01_スライム1_15.png"],
+	"actor01_スライム2": ["actor01_スライム2_1.png","actor01_スライム2_2.png","actor01_スライム2_3.png","actor01_スライム2_4.png","actor01_スライム2_5.png","actor01_スライム2_7.png","actor01_スライム2_8.png","actor01_スライム2_9.png","actor01_スライム2_11.png","actor01_スライム2_12.png","actor01_スライム2_13.png","actor01_スライム2_14.png","actor01_スライム2_15.png"],
+	"actor01_バイブの呪い": ["actor01_バイブの呪い_0.png","actor01_バイブの呪い_3.png"],
+	"actor01_子宮_beast_0": ["actor01_子宮_beast_0_0.png","actor01_子宮_beast_0_1.png","actor01_子宮_beast_0_2.png","actor01_子宮_beast_0_3.png","actor01_子宮_beast_0_4.png","actor01_子宮_beast_0_5.png","actor01_子宮_beast_0_6.png","actor01_子宮_beast_0_7.png","actor01_子宮_beast_0_8.png","actor01_子宮_beast_0_10.png","actor01_子宮_beast_0_11.png","actor01_子宮_beast_0_12.png","actor01_子宮_beast_0_13.png","actor01_子宮_beast_0_14.png"],
+	"actor01_子宮_beast_1": ["actor01_子宮_beast_1_3.png","actor01_子宮_beast_1_4.png","actor01_子宮_beast_1_5.png","actor01_子宮_beast_1_6.png","actor01_子宮_beast_1_7.png","actor01_子宮_beast_1_8.png","actor01_子宮_beast_1_9.png","actor01_子宮_beast_1_10.png","actor01_子宮_beast_1_11.png"],
+	"actor01_子宮_beast_2": ["actor01_子宮_beast_2_2.png","actor01_子宮_beast_2_3.png","actor01_子宮_beast_2_4.png","actor01_子宮_beast_2_5.png","actor01_子宮_beast_2_7.png","actor01_子宮_beast_2_8.png","actor01_子宮_beast_2_9.png","actor01_子宮_beast_2_10.png","actor01_子宮_beast_2_12.png"],
+	"actor01_子宮_beast_3": ["actor01_子宮_beast_3_4.png","actor01_子宮_beast_3_5.png","actor01_子宮_beast_3_6.png","actor01_子宮_beast_3_7.png","actor01_子宮_beast_3_8.png"],
+	"actor01_子宮_goblin_0": ["actor01_子宮_goblin_0_0.png","actor01_子宮_goblin_0_1.png","actor01_子宮_goblin_0_2.png","actor01_子宮_goblin_0_3.png","actor01_子宮_goblin_0_5.png","actor01_子宮_goblin_0_6.png","actor01_子宮_goblin_0_7.png","actor01_子宮_goblin_0_8.png","actor01_子宮_goblin_0_10.png","actor01_子宮_goblin_0_11.png","actor01_子宮_goblin_0_12.png","actor01_子宮_goblin_0_13.png","actor01_子宮_goblin_0_14.png"],
+	"actor01_子宮_goblin_1": ["actor01_子宮_goblin_1_2.png","actor01_子宮_goblin_1_3.png","actor01_子宮_goblin_1_4.png","actor01_子宮_goblin_1_5.png","actor01_子宮_goblin_1_6.png","actor01_子宮_goblin_1_7.png","actor01_子宮_goblin_1_8.png","actor01_子宮_goblin_1_9.png","actor01_子宮_goblin_1_10.png","actor01_子宮_goblin_1_11.png","actor01_子宮_goblin_1_12.png"],
+	"actor01_子宮_goblin_2": ["actor01_子宮_goblin_2_2.png","actor01_子宮_goblin_2_3.png","actor01_子宮_goblin_2_4.png","actor01_子宮_goblin_2_5.png","actor01_子宮_goblin_2_6.png","actor01_子宮_goblin_2_7.png","actor01_子宮_goblin_2_8.png","actor01_子宮_goblin_2_10.png","actor01_子宮_goblin_2_11.png","actor01_子宮_goblin_2_12.png"],
+	"actor01_子宮_goblin_3": ["actor01_子宮_goblin_3_4.png","actor01_子宮_goblin_3_5.png","actor01_子宮_goblin_3_6.png","actor01_子宮_goblin_3_7.png","actor01_子宮_goblin_3_8.png","actor01_子宮_goblin_3_9.png","actor01_子宮_goblin_3_10.png"],
+	"actor01_子宮_goblin_4": ["actor01_子宮_goblin_4_3.png","actor01_子宮_goblin_4_4.png","actor01_子宮_goblin_4_5.png","actor01_子宮_goblin_4_6.png","actor01_子宮_goblin_4_7.png","actor01_子宮_goblin_4_8.png","actor01_子宮_goblin_4_9.png","actor01_子宮_goblin_4_10.png","actor01_子宮_goblin_4_11.png"],
+	"actor01_子宮_human_0": ["actor01_子宮_human_0_2.png","actor01_子宮_human_0_3.png","actor01_子宮_human_0_4.png","actor01_子宮_human_0_5.png","actor01_子宮_human_0_6.png","actor01_子宮_human_0_7.png","actor01_子宮_human_0_8.png","actor01_子宮_human_0_9.png","actor01_子宮_human_0_10.png","actor01_子宮_human_0_11.png","actor01_子宮_human_0_12.png"],
+	"actor01_子宮_human_1": ["actor01_子宮_human_1_2.png","actor01_子宮_human_1_3.png","actor01_子宮_human_1_4.png","actor01_子宮_human_1_5.png","actor01_子宮_human_1_6.png","actor01_子宮_human_1_7.png","actor01_子宮_human_1_8.png","actor01_子宮_human_1_9.png","actor01_子宮_human_1_10.png","actor01_子宮_human_1_11.png","actor01_子宮_human_1_12.png"],
+	"actor01_子宮_human_2": ["actor01_子宮_human_2_2.png","actor01_子宮_human_2_3.png","actor01_子宮_human_2_4.png","actor01_子宮_human_2_5.png","actor01_子宮_human_2_6.png","actor01_子宮_human_2_7.png","actor01_子宮_human_2_8.png","actor01_子宮_human_2_10.png","actor01_子宮_human_2_11.png","actor01_子宮_human_2_12.png"],
+	"actor01_子宮_human_3": ["actor01_子宮_human_3_3.png","actor01_子宮_human_3_4.png","actor01_子宮_human_3_5.png","actor01_子宮_human_3_6.png","actor01_子宮_human_3_7.png","actor01_子宮_human_3_8.png","actor01_子宮_human_3_9.png","actor01_子宮_human_3_10.png"],
+	"actor01_子宮_上_0": ["actor01_子宮_上_0_0.png","actor01_子宮_上_0_1.png","actor01_子宮_上_0_2.png","actor01_子宮_上_0_3.png","actor01_子宮_上_0_4.png","actor01_子宮_上_0_5.png","actor01_子宮_上_0_6.png","actor01_子宮_上_0_7.png","actor01_子宮_上_0_8.png","actor01_子宮_上_0_9.png","actor01_子宮_上_0_10.png","actor01_子宮_上_0_11.png","actor01_子宮_上_0_12.png","actor01_子宮_上_0_13.png","actor01_子宮_上_0_14.png","actor01_子宮_上_0_15.png","actor01_子宮_上_0_16.png","actor01_子宮_上_0_17.png","actor01_子宮_上_0_18.png","actor01_子宮_上_0_19.png"],
+	"actor01_子宮_上_1": ["actor01_子宮_上_1_0.png","actor01_子宮_上_1_1.png","actor01_子宮_上_1_2.png","actor01_子宮_上_1_3.png","actor01_子宮_上_1_4.png","actor01_子宮_上_1_5.png","actor01_子宮_上_1_6.png","actor01_子宮_上_1_7.png","actor01_子宮_上_1_8.png","actor01_子宮_上_1_9.png","actor01_子宮_上_1_10.png","actor01_子宮_上_1_11.png","actor01_子宮_上_1_12.png","actor01_子宮_上_1_13.png","actor01_子宮_上_1_14.png","actor01_子宮_上_1_15.png","actor01_子宮_上_1_16.png","actor01_子宮_上_1_17.png","actor01_子宮_上_1_18.png","actor01_子宮_上_1_19.png"],
+	"actor01_子宮_上_2": ["actor01_子宮_上_2_0.png","actor01_子宮_上_2_1.png","actor01_子宮_上_2_2.png","actor01_子宮_上_2_3.png","actor01_子宮_上_2_4.png","actor01_子宮_上_2_5.png","actor01_子宮_上_2_6.png","actor01_子宮_上_2_7.png","actor01_子宮_上_2_8.png","actor01_子宮_上_2_9.png","actor01_子宮_上_2_10.png","actor01_子宮_上_2_11.png","actor01_子宮_上_2_12.png","actor01_子宮_上_2_13.png","actor01_子宮_上_2_14.png","actor01_子宮_上_2_15.png","actor01_子宮_上_2_16.png","actor01_子宮_上_2_17.png","actor01_子宮_上_2_18.png","actor01_子宮_上_2_19.png"],
+	"actor01_子宮_上_3": ["actor01_子宮_上_3_0.png","actor01_子宮_上_3_1.png","actor01_子宮_上_3_2.png","actor01_子宮_上_3_3.png","actor01_子宮_上_3_4.png","actor01_子宮_上_3_5.png","actor01_子宮_上_3_6.png","actor01_子宮_上_3_7.png","actor01_子宮_上_3_8.png","actor01_子宮_上_3_9.png","actor01_子宮_上_3_10.png","actor01_子宮_上_3_11.png","actor01_子宮_上_3_12.png","actor01_子宮_上_3_13.png","actor01_子宮_上_3_14.png","actor01_子宮_上_3_15.png","actor01_子宮_上_3_16.png","actor01_子宮_上_3_17.png","actor01_子宮_上_3_18.png","actor01_子宮_上_3_19.png"],
+	"actor01_子宮_上_4": ["actor01_子宮_上_4_0.png","actor01_子宮_上_4_1.png","actor01_子宮_上_4_2.png","actor01_子宮_上_4_3.png","actor01_子宮_上_4_4.png","actor01_子宮_上_4_5.png","actor01_子宮_上_4_6.png","actor01_子宮_上_4_7.png","actor01_子宮_上_4_8.png","actor01_子宮_上_4_9.png","actor01_子宮_上_4_10.png","actor01_子宮_上_4_11.png","actor01_子宮_上_4_12.png","actor01_子宮_上_4_13.png","actor01_子宮_上_4_14.png"],
+	"actor01_子宮_上_5": ["actor01_子宮_上_5_5.png","actor01_子宮_上_5_6.png","actor01_子宮_上_5_7.png"],
+	"actor01_舌1": ["actor01_舌1_0.png","actor01_舌1_1.png","actor01_舌1_2.png","actor01_舌1_3.png","actor01_舌1_4.png","actor01_舌1_5.png","actor01_舌1_7.png","actor01_舌1_13.png","actor01_舌1_14.png","actor01_舌1_15.png","actor01_舌1_16.png","actor01_舌1_17.png","actor01_舌1_18.png","actor01_舌1_19.png"],
+	"actor01_舌2": ["actor01_舌2_0.png","actor01_舌2_1.png","actor01_舌2_2.png","actor01_舌2_3.png","actor01_舌2_4.png","actor01_舌2_5.png","actor01_舌2_6.png","actor01_舌2_7.png","actor01_舌2_8.png","actor01_舌2_18.png","actor01_舌2_19.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "actor01_2.webp",
+	"format": "RGBA8888",
+	"size": {"w":3207,"h":512},
+	"scale": "1",
+	"related_multi_packs": [ "actor01_1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:55285e86ea59db08084aa72f8248a14e:569ffeb1ae380d9c98c76b95b2270425:2a6250188f88b95121350b5cec310efe$"
+}
+}

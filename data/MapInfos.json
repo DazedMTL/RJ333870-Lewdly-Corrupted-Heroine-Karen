@@ -1,0 +1,1110 @@
+[
+    null,
+    {
+        "id": 1,
+        "expanded": true,
+        "name": "オープニング",
+        "order": 3,
+        "parentId": 0,
+        "scrollX": 1131,
+        "scrollY": 641.5
+    },
+    {
+        "id": 2,
+        "expanded": true,
+        "name": "街",
+        "order": 7,
+        "parentId": 0,
+        "scrollX": 640.4444444444445,
+        "scrollY": 495.1111111111111
+    },
+    {
+        "id": 3,
+        "expanded": false,
+        "name": "世界地図",
+        "order": 120,
+        "parentId": 0,
+        "scrollX": 3188,
+        "scrollY": 3392.5
+    },
+    {
+        "id": 4,
+        "expanded": false,
+        "name": "ゲーム開始位置",
+        "order": 2,
+        "parentId": 0,
+        "scrollX": 808.5,
+        "scrollY": 502
+    },
+    {
+        "id": 5,
+        "expanded": false,
+        "name": "敵に敗北したとき",
+        "order": 114,
+        "parentId": 0,
+        "scrollX": 0,
+        "scrollY": 0
+    },
+    {
+        "id": 6,
+        "expanded": false,
+        "name": "酒場",
+        "order": 9,
+        "parentId": 8,
+        "scrollX": 888.4444444444445,
+        "scrollY": 495.1111111111111
+    },
+    {
+        "id": 7,
+        "expanded": false,
+        "name": "魔王城最下層負けイベ<fixed>",
+        "order": 110,
+        "parentId": 97,
+        "scrollX": 703.5555555555555,
+        "scrollY": 872.8888888888889
+    },
+    {
+        "id": 8,
+        "expanded": true,
+        "name": "魔都ソドム",
+        "order": 8,
+        "parentId": 2,
+        "scrollX": 1005.7777777777778,
+        "scrollY": 995.5555555555555
+    },
+    {
+        "id": 9,
+        "expanded": false,
+        "name": "塔",
+        "order": 4,
+        "parentId": 1,
+        "scrollX": 1139,
+        "scrollY": 766.5
+    },
+    {
+        "id": 10,
+        "expanded": false,
+        "name": "民家1",
+        "order": 5,
+        "parentId": 1,
+        "scrollX": 1131,
+        "scrollY": 641.5
+    },
+    {
+        "id": 11,
+        "expanded": false,
+        "name": "空中神殿",
+        "order": 6,
+        "parentId": 1,
+        "scrollX": 744.4444444444445,
+        "scrollY": 642.6666666666666
+    },
+    {
+        "id": 12,
+        "expanded": false,
+        "name": "ベルナの森",
+        "order": 41,
+        "parentId": 15,
+        "scrollX": 1255.5555555555557,
+        "scrollY": 807.1111111111111
+    },
+    {
+        "id": 13,
+        "expanded": false,
+        "name": "デバッグルーム",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 640.4444444444445,
+        "scrollY": 495.1111111111111
+    },
+    {
+        "id": 14,
+        "expanded": true,
+        "name": "B2F",
+        "order": 44,
+        "parentId": 12,
+        "scrollX": 844,
+        "scrollY": 530
+    },
+    {
+        "id": 15,
+        "expanded": true,
+        "name": "ダンジョン",
+        "order": 40,
+        "parentId": 0,
+        "scrollX": 1131,
+        "scrollY": 633
+    },
+    {
+        "id": 16,
+        "expanded": false,
+        "name": "ギルド",
+        "order": 10,
+        "parentId": 8,
+        "scrollX": 640.4444444444445,
+        "scrollY": 623.1111111111111
+    },
+    {
+        "id": 17,
+        "expanded": false,
+        "name": "ゴブリンの巣穴1F<fixed>",
+        "order": 53,
+        "parentId": 15,
+        "scrollX": 1139.111111111111,
+        "scrollY": 813.3333333333334
+    },
+    {
+        "id": 18,
+        "expanded": false,
+        "name": "ゴブリンの巣穴B2F",
+        "order": 55,
+        "parentId": 17,
+        "scrollX": 1131.111111111111,
+        "scrollY": 641.7777777777778
+    },
+    {
+        "id": 19,
+        "expanded": false,
+        "name": "敗北時",
+        "order": 56,
+        "parentId": 17,
+        "scrollX": 1129.3333333333333,
+        "scrollY": 496
+    },
+    {
+        "id": 20,
+        "expanded": true,
+        "name": "宵闇の塔4F",
+        "order": 90,
+        "parentId": 71,
+        "scrollX": 640.4444444444445,
+        "scrollY": 495.1111111111111
+    },
+    {
+        "id": 21,
+        "expanded": false,
+        "name": "奴隷売り場",
+        "order": 115,
+        "parentId": 5,
+        "scrollX": 836,
+        "scrollY": 640
+    },
+    {
+        "id": 22,
+        "expanded": false,
+        "name": "素材_4",
+        "order": 84,
+        "parentId": 73,
+        "scrollX": 816,
+        "scrollY": 624
+    },
+    {
+        "id": 23,
+        "expanded": true,
+        "name": "宿屋",
+        "order": 11,
+        "parentId": 8,
+        "scrollX": 640.4444444444445,
+        "scrollY": 495.1111111111111
+    },
+    {
+        "id": 24,
+        "expanded": false,
+        "name": "奥の部屋",
+        "order": 12,
+        "parentId": 23,
+        "scrollX": 792.4444444444445,
+        "scrollY": 495.1111111111111
+    },
+    {
+        "id": 25,
+        "expanded": true,
+        "name": "魔都ソドム",
+        "order": 27,
+        "parentId": 8,
+        "scrollX": 2122.222222222222,
+        "scrollY": 828.4444444444445
+    },
+    {
+        "id": 26,
+        "expanded": false,
+        "name": "防具屋",
+        "order": 116,
+        "parentId": 5,
+        "scrollX": 844,
+        "scrollY": 530
+    },
+    {
+        "id": 27,
+        "expanded": false,
+        "name": "ゴブリン敗北1",
+        "order": 117,
+        "parentId": 5,
+        "scrollX": 836,
+        "scrollY": 493
+    },
+    {
+        "id": 28,
+        "expanded": true,
+        "name": "回想用",
+        "order": 111,
+        "parentId": 0,
+        "scrollX": 1131,
+        "scrollY": 641.5
+    },
+    {
+        "id": 29,
+        "expanded": false,
+        "name": "地下室",
+        "order": 33,
+        "parentId": 61,
+        "scrollX": 640.4444444444445,
+        "scrollY": 495.1111111111111
+    },
+    {
+        "id": 30,
+        "expanded": false,
+        "name": "ゴブリン敗北2",
+        "order": 118,
+        "parentId": 5,
+        "scrollX": 836,
+        "scrollY": 578
+    },
+    {
+        "id": 31,
+        "expanded": false,
+        "name": "B3F",
+        "order": 45,
+        "parentId": 12,
+        "scrollX": 837,
+        "scrollY": 530
+    },
+    {
+        "id": 32,
+        "expanded": false,
+        "name": "素材_1",
+        "order": 47,
+        "parentId": 33,
+        "scrollX": 822.5,
+        "scrollY": 484.5
+    },
+    {
+        "id": 33,
+        "expanded": true,
+        "name": "森素材",
+        "order": 46,
+        "parentId": 12,
+        "scrollX": 1131,
+        "scrollY": 625
+    },
+    {
+        "id": 34,
+        "expanded": false,
+        "name": "素材_1",
+        "order": 48,
+        "parentId": 33,
+        "scrollX": 834.5,
+        "scrollY": 529
+    },
+    {
+        "id": 35,
+        "expanded": false,
+        "name": "素材_1",
+        "order": 49,
+        "parentId": 33,
+        "scrollX": 0,
+        "scrollY": 0
+    },
+    {
+        "id": 36,
+        "expanded": false,
+        "name": "素材_1",
+        "order": 50,
+        "parentId": 33,
+        "scrollX": 0,
+        "scrollY": 0
+    },
+    {
+        "id": 37,
+        "expanded": true,
+        "name": "B3F",
+        "order": 57,
+        "parentId": 17,
+        "scrollX": 1129,
+        "scrollY": 640
+    },
+    {
+        "id": 38,
+        "expanded": true,
+        "name": "ゴブリンの巣穴ボス<fixed>",
+        "order": 58,
+        "parentId": 17,
+        "scrollX": 1139.111111111111,
+        "scrollY": 769.7777777777778
+    },
+    {
+        "id": 39,
+        "expanded": true,
+        "name": "移動テスト<fixed>",
+        "order": 51,
+        "parentId": 12,
+        "scrollX": 1139,
+        "scrollY": 642
+    },
+    {
+        "id": 40,
+        "expanded": true,
+        "name": "洞窟素材",
+        "order": 59,
+        "parentId": 17,
+        "scrollX": 1131,
+        "scrollY": 625
+    },
+    {
+        "id": 41,
+        "expanded": false,
+        "name": "素材_2",
+        "order": 60,
+        "parentId": 40,
+        "scrollX": 640.4444444444445,
+        "scrollY": 495.1111111111111
+    },
+    {
+        "id": 42,
+        "expanded": false,
+        "name": "素材_2",
+        "order": 61,
+        "parentId": 40,
+        "scrollX": 1131,
+        "scrollY": 641.5
+    },
+    {
+        "id": 43,
+        "expanded": false,
+        "name": "素材_2",
+        "order": 62,
+        "parentId": 40,
+        "scrollX": 0,
+        "scrollY": 0
+    },
+    {
+        "id": 44,
+        "expanded": false,
+        "name": "素材_2",
+        "order": 63,
+        "parentId": 40,
+        "scrollX": 0,
+        "scrollY": 0
+    },
+    {
+        "id": 45,
+        "expanded": false,
+        "name": "ゴブリンの巣穴B1F",
+        "order": 54,
+        "parentId": 17,
+        "scrollX": 642.2222222222222,
+        "scrollY": 495.1111111111111
+    },
+    {
+        "id": 46,
+        "expanded": true,
+        "name": "ベルナの森 B1F<fixed>",
+        "order": 42,
+        "parentId": 12,
+        "scrollX": 1234,
+        "scrollY": 755
+    },
+    {
+        "id": 47,
+        "expanded": true,
+        "name": "ベルナの森 B2F<fixed>",
+        "order": 43,
+        "parentId": 12,
+        "scrollX": 1131,
+        "scrollY": 641
+    },
+    {
+        "id": 48,
+        "expanded": true,
+        "name": "ベルナの森 B3F<fixed>",
+        "order": 52,
+        "parentId": 12,
+        "scrollX": 1269,
+        "scrollY": 1067
+    },
+    {
+        "id": 49,
+        "expanded": false,
+        "name": "素材_2",
+        "order": 64,
+        "parentId": 40,
+        "scrollX": 0,
+        "scrollY": 0
+    },
+    {
+        "id": 50,
+        "expanded": false,
+        "name": "転送装置",
+        "order": 29,
+        "parentId": 2,
+        "scrollX": 1005.3333333333334,
+        "scrollY": 570.2222222222222
+    },
+    {
+        "id": 51,
+        "expanded": true,
+        "name": "ホテル",
+        "order": 15,
+        "parentId": 8,
+        "scrollX": 1005.3333333333334,
+        "scrollY": 629.7777777777778
+    },
+    {
+        "id": 52,
+        "expanded": false,
+        "name": "アリの店2F(古)",
+        "order": 18,
+        "parentId": 65,
+        "scrollX": 895.5555555555555,
+        "scrollY": 632.8888888888889
+    },
+    {
+        "id": 53,
+        "expanded": true,
+        "name": "山賊のアジト",
+        "order": 66,
+        "parentId": 15,
+        "scrollX": 640.4444444444445,
+        "scrollY": 495.1111111111111
+    },
+    {
+        "id": 54,
+        "expanded": false,
+        "name": "山賊のアジトB1F",
+        "order": 67,
+        "parentId": 53,
+        "scrollX": 994.5,
+        "scrollY": 640.5
+    },
+    {
+        "id": 55,
+        "expanded": true,
+        "name": "素材",
+        "order": 68,
+        "parentId": 53,
+        "scrollX": 822.5,
+        "scrollY": 484.5
+    },
+    {
+        "id": 56,
+        "expanded": false,
+        "name": "素材_3",
+        "order": 69,
+        "parentId": 55,
+        "scrollX": 1233.75,
+        "scrollY": 744.75
+    },
+    {
+        "id": 57,
+        "expanded": false,
+        "name": "素材_3",
+        "order": 70,
+        "parentId": 55,
+        "scrollX": 836.5,
+        "scrollY": 529.5
+    },
+    {
+        "id": 58,
+        "expanded": false,
+        "name": "素材_3",
+        "order": 71,
+        "parentId": 55,
+        "scrollX": 822.5,
+        "scrollY": 484.5
+    },
+    {
+        "id": 59,
+        "expanded": false,
+        "name": "奴隷オークション",
+        "order": 34,
+        "parentId": 2,
+        "scrollX": 1004.4444444444445,
+        "scrollY": 632.8888888888889
+    },
+    {
+        "id": 60,
+        "expanded": false,
+        "name": "山賊のアジト",
+        "order": 30,
+        "parentId": 2,
+        "scrollX": 1005.3333333333334,
+        "scrollY": 706.2222222222222
+    },
+    {
+        "id": 61,
+        "expanded": true,
+        "name": "メイヴィスの店",
+        "order": 31,
+        "parentId": 2,
+        "scrollX": 737.3333333333334,
+        "scrollY": 625.7777777777778
+    },
+    {
+        "id": 62,
+        "expanded": false,
+        "name": "メイヴィスの部屋",
+        "order": 32,
+        "parentId": 61,
+        "scrollX": 751.5555555555555,
+        "scrollY": 632.8888888888889
+    },
+    {
+        "id": 63,
+        "expanded": false,
+        "name": "途中セーブ",
+        "order": 112,
+        "parentId": 28,
+        "scrollX": 832,
+        "scrollY": 624
+    },
+    {
+        "id": 64,
+        "expanded": false,
+        "name": "ゴミ溜め",
+        "order": 17,
+        "parentId": 65,
+        "scrollX": 888.4444444444445,
+        "scrollY": 630.2222222222222
+    },
+    {
+        "id": 65,
+        "expanded": true,
+        "name": "売春宿",
+        "order": 16,
+        "parentId": 8,
+        "scrollX": 640.4444444444445,
+        "scrollY": 495.1111111111111
+    },
+    {
+        "id": 66,
+        "expanded": false,
+        "name": "普通の売春宿",
+        "order": 19,
+        "parentId": 65,
+        "scrollX": 895.5555555555555,
+        "scrollY": 630.2222222222222
+    },
+    {
+        "id": 67,
+        "expanded": false,
+        "name": "怪しい店",
+        "order": 25,
+        "parentId": 8,
+        "scrollX": 943.5555555555555,
+        "scrollY": 628.4444444444445
+    },
+    {
+        "id": 68,
+        "expanded": false,
+        "name": "山賊のアジトB2F",
+        "order": 73,
+        "parentId": 53,
+        "scrollX": 1088,
+        "scrollY": 662
+    },
+    {
+        "id": 69,
+        "expanded": false,
+        "name": "山賊のアジトB3F",
+        "order": 74,
+        "parentId": 53,
+        "scrollX": 1104,
+        "scrollY": 642
+    },
+    {
+        "id": 70,
+        "expanded": true,
+        "name": "山賊のアジトボス<fixed>",
+        "order": 75,
+        "parentId": 53,
+        "scrollX": 1124,
+        "scrollY": 960.8888888888889
+    },
+    {
+        "id": 71,
+        "expanded": true,
+        "name": "宵闇の塔",
+        "order": 77,
+        "parentId": 15,
+        "scrollX": 640.4444444444445,
+        "scrollY": 495.1111111111111
+    },
+    {
+        "id": 72,
+        "expanded": false,
+        "name": "宵闇の塔1F",
+        "order": 78,
+        "parentId": 71,
+        "scrollX": 640.4444444444445,
+        "scrollY": 495.1111111111111
+    },
+    {
+        "id": 73,
+        "expanded": true,
+        "name": "素材",
+        "order": 79,
+        "parentId": 71,
+        "scrollX": 822.5,
+        "scrollY": 484.5
+    },
+    {
+        "id": 74,
+        "expanded": false,
+        "name": "素材_4",
+        "order": 80,
+        "parentId": 73,
+        "scrollX": 1233.75,
+        "scrollY": 744.75
+    },
+    {
+        "id": 75,
+        "expanded": false,
+        "name": "素材_4",
+        "order": 81,
+        "parentId": 73,
+        "scrollX": 816,
+        "scrollY": 624
+    },
+    {
+        "id": 76,
+        "expanded": true,
+        "name": "宵闇の塔2F",
+        "order": 86,
+        "parentId": 71,
+        "scrollX": 640.4444444444445,
+        "scrollY": 495.1111111111111
+    },
+    {
+        "id": 77,
+        "expanded": false,
+        "name": "宵闇の塔3F",
+        "order": 87,
+        "parentId": 71,
+        "scrollX": 640.4444444444445,
+        "scrollY": 495.1111111111111
+    },
+    {
+        "id": 78,
+        "expanded": true,
+        "name": "宵闇の塔5F",
+        "order": 88,
+        "parentId": 71,
+        "scrollX": 1088.4444444444443,
+        "scrollY": 641.7777777777778
+    },
+    {
+        "id": 79,
+        "expanded": true,
+        "name": "宵闇の塔6F<fixed>",
+        "order": 89,
+        "parentId": 71,
+        "scrollX": 1005.7777777777778,
+        "scrollY": 704.8888888888889
+    },
+    {
+        "id": 80,
+        "expanded": false,
+        "name": "素材_4",
+        "order": 82,
+        "parentId": 73,
+        "scrollX": 816,
+        "scrollY": 624
+    },
+    {
+        "id": 81,
+        "expanded": true,
+        "name": "火吹山",
+        "order": 91,
+        "parentId": 15,
+        "scrollX": 640.4444444444445,
+        "scrollY": 495.1111111111111
+    },
+    {
+        "id": 82,
+        "expanded": false,
+        "name": "火吹山B1F",
+        "order": 92,
+        "parentId": 81,
+        "scrollX": 640.4444444444445,
+        "scrollY": 495.1111111111111
+    },
+    {
+        "id": 83,
+        "expanded": true,
+        "name": "素材",
+        "order": 93,
+        "parentId": 81,
+        "scrollX": 822.5,
+        "scrollY": 484.5
+    },
+    {
+        "id": 84,
+        "expanded": false,
+        "name": "素材_5",
+        "order": 94,
+        "parentId": 83,
+        "scrollX": 640.4444444444445,
+        "scrollY": 495.1111111111111
+    },
+    {
+        "id": 85,
+        "expanded": false,
+        "name": "素材_5",
+        "order": 95,
+        "parentId": 83,
+        "scrollX": 640.4444444444445,
+        "scrollY": 495.1111111111111
+    },
+    {
+        "id": 86,
+        "expanded": false,
+        "name": "素材_5",
+        "order": 96,
+        "parentId": 83,
+        "scrollX": 640.4444444444445,
+        "scrollY": 495.1111111111111
+    },
+    {
+        "id": 87,
+        "expanded": false,
+        "name": "火吹山B2F",
+        "order": 97,
+        "parentId": 81,
+        "scrollX": 1104.4444444444443,
+        "scrollY": 641.7777777777778
+    },
+    {
+        "id": 88,
+        "expanded": false,
+        "name": "火吹き山B6F",
+        "order": 98,
+        "parentId": 81,
+        "scrollX": 1131,
+        "scrollY": 644.5
+    },
+    {
+        "id": 89,
+        "expanded": false,
+        "name": "火山B4F",
+        "order": 101,
+        "parentId": 81,
+        "scrollX": 1131,
+        "scrollY": 641
+    },
+    {
+        "id": 90,
+        "expanded": true,
+        "name": "火山5F<fixed>",
+        "order": 102,
+        "parentId": 81,
+        "scrollX": 1131.111111111111,
+        "scrollY": 943.1111111111111
+    },
+    {
+        "id": 91,
+        "expanded": true,
+        "name": "エンディング",
+        "order": 119,
+        "parentId": 0,
+        "scrollX": 640.4444444444445,
+        "scrollY": 495.1111111111111
+    },
+    {
+        "id": 92,
+        "expanded": false,
+        "name": "素材_3",
+        "order": 72,
+        "parentId": 55,
+        "scrollX": 1131,
+        "scrollY": 641
+    },
+    {
+        "id": 93,
+        "expanded": false,
+        "name": "オーガの谷",
+        "order": 104,
+        "parentId": 15,
+        "scrollX": 816,
+        "scrollY": 624
+    },
+    {
+        "id": 94,
+        "expanded": false,
+        "name": "谷B1F<fixed>",
+        "order": 105,
+        "parentId": 93,
+        "scrollX": 1131,
+        "scrollY": 641.5
+    },
+    {
+        "id": 95,
+        "expanded": false,
+        "name": "素材",
+        "order": 106,
+        "parentId": 93,
+        "scrollX": 697.5,
+        "scrollY": 545.5
+    },
+    {
+        "id": 96,
+        "expanded": false,
+        "name": "谷最下層<fixed>",
+        "order": 107,
+        "parentId": 93,
+        "scrollX": 1088,
+        "scrollY": 640
+    },
+    {
+        "id": 97,
+        "expanded": true,
+        "name": "魔王城",
+        "order": 108,
+        "parentId": 15,
+        "scrollX": 1131,
+        "scrollY": 641.5
+    },
+    {
+        "id": 98,
+        "expanded": false,
+        "name": "魔王城最下層<fixed>",
+        "order": 109,
+        "parentId": 97,
+        "scrollX": 689.3333333333334,
+        "scrollY": 792.8888888888889
+    },
+    {
+        "id": 99,
+        "expanded": false,
+        "name": "宿屋1F",
+        "order": 13,
+        "parentId": 23,
+        "scrollX": 984.4444444444445,
+        "scrollY": 633.7777777777778
+    },
+    {
+        "id": 100,
+        "expanded": false,
+        "name": "宿屋2F",
+        "order": 14,
+        "parentId": 23,
+        "scrollX": 1005.7777777777778,
+        "scrollY": 608.8888888888889
+    },
+    {
+        "id": 101,
+        "expanded": false,
+        "name": "立ち絵表示エリア",
+        "order": 113,
+        "parentId": 28,
+        "scrollX": 816,
+        "scrollY": 624
+    },
+    {
+        "id": 102,
+        "expanded": false,
+        "name": "武器屋",
+        "order": 26,
+        "parentId": 8,
+        "scrollX": 703.5555555555555,
+        "scrollY": 505.77777777777777
+    },
+    {
+        "id": 103,
+        "expanded": false,
+        "name": "テント",
+        "order": 121,
+        "parentId": 0,
+        "scrollX": 1131,
+        "scrollY": 633.5
+    },
+    {
+        "id": 104,
+        "expanded": false,
+        "name": "教会",
+        "order": 28,
+        "parentId": 8,
+        "scrollX": 1005.3333333333334,
+        "scrollY": 641.3333333333334
+    },
+    {
+        "id": 105,
+        "expanded": false,
+        "name": "託児所１F",
+        "order": 36,
+        "parentId": 110,
+        "scrollX": 1131,
+        "scrollY": 654.5
+    },
+    {
+        "id": 106,
+        "expanded": false,
+        "name": "託児所２F",
+        "order": 37,
+        "parentId": 110,
+        "scrollX": 1131,
+        "scrollY": 641.5
+    },
+    {
+        "id": 107,
+        "expanded": true,
+        "name": "ゴブリンの巣穴最初<fixed>",
+        "order": 65,
+        "parentId": 17,
+        "scrollX": 832.4444444444445,
+        "scrollY": 752
+    },
+    {
+        "id": 108,
+        "expanded": false,
+        "name": "高級風俗店1F",
+        "order": 20,
+        "parentId": 65,
+        "scrollX": 640.4444444444445,
+        "scrollY": 582.2222222222222
+    },
+    {
+        "id": 109,
+        "expanded": false,
+        "name": "高級風俗店2F",
+        "order": 21,
+        "parentId": 65,
+        "scrollX": 640.4444444444445,
+        "scrollY": 573.3333333333334
+    },
+    {
+        "id": 110,
+        "expanded": true,
+        "name": "託児所",
+        "order": 35,
+        "parentId": 2,
+        "scrollX": 1131,
+        "scrollY": 641
+    },
+    {
+        "id": 111,
+        "expanded": false,
+        "name": "素材_4",
+        "order": 83,
+        "parentId": 73,
+        "scrollX": 1233.75,
+        "scrollY": 744.75
+    },
+    {
+        "id": 112,
+        "expanded": false,
+        "name": "転送装置",
+        "order": 122,
+        "parentId": 0,
+        "scrollX": 734.5,
+        "scrollY": 553.5
+    },
+    {
+        "id": 113,
+        "expanded": false,
+        "name": "MAP113",
+        "order": 123,
+        "parentId": 0,
+        "scrollX": 0,
+        "scrollY": 0
+    },
+    {
+        "id": 114,
+        "expanded": true,
+        "name": "山賊のアジト最初<fixed>",
+        "order": 76,
+        "parentId": 53,
+        "scrollX": 1124,
+        "scrollY": 694.2222222222222
+    },
+    {
+        "id": 115,
+        "expanded": true,
+        "name": "火吹き山3F<fixed>",
+        "order": 99,
+        "parentId": 81,
+        "scrollX": 1131.111111111111,
+        "scrollY": 641.7777777777778
+    },
+    {
+        "id": 116,
+        "expanded": false,
+        "name": "アイテム2F<fixed>",
+        "order": 100,
+        "parentId": 81,
+        "scrollX": 1104,
+        "scrollY": 684
+    },
+    {
+        "id": 117,
+        "expanded": true,
+        "name": "関所",
+        "order": 38,
+        "parentId": 2,
+        "scrollX": 1139,
+        "scrollY": 800
+    },
+    {
+        "id": 118,
+        "expanded": false,
+        "name": "城2F",
+        "order": 39,
+        "parentId": 117,
+        "scrollX": 1131,
+        "scrollY": 640.5
+    },
+    {
+        "id": 119,
+        "expanded": false,
+        "name": "火吹き山最初<fixed>",
+        "order": 103,
+        "parentId": 81,
+        "scrollX": 640.4444444444445,
+        "scrollY": 648
+    },
+    {
+        "id": 120,
+        "expanded": true,
+        "name": "ゴブリンの売春宿",
+        "order": 22,
+        "parentId": 65,
+        "scrollX": 895.5555555555555,
+        "scrollY": 630.2222222222222
+    },
+    {
+        "id": 121,
+        "expanded": false,
+        "name": "普通の売春宿",
+        "order": 23,
+        "parentId": 120,
+        "scrollX": 895.5555555555555,
+        "scrollY": 632.8888888888889
+    },
+    {
+        "id": 122,
+        "expanded": false,
+        "name": "素材_4",
+        "order": 85,
+        "parentId": 73,
+        "scrollX": 816,
+        "scrollY": 624
+    },
+    {
+        "id": 123,
+        "expanded": true,
+        "name": "魔都ソドム",
+        "order": 24,
+        "parentId": 120,
+        "scrollX": 2672,
+        "scrollY": 1328
+    }
+]

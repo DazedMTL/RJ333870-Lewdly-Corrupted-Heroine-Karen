@@ -1,0 +1,39 @@
+{"frames": {
+
+"01_21_02_01.png":
+{
+	"frame": {"x":0,"y":0,"w":1366,"h":766},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":1366,"h":766},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_21_03_01.png":
+{
+	"frame": {"x":0,"y":766,"w":1366,"h":766},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":1366,"h":766},
+	"sourceSize": {"w":1366,"h":768}
+},
+"01_21_04_01.png":
+{
+	"frame": {"x":0,"y":1532,"w":1366,"h":766},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":1366,"h":766},
+	"sourceSize": {"w":1366,"h":768}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ero01_21_3.webp",
+	"format": "RGBA8888",
+	"size": {"w":1366,"h":2298},
+	"scale": "1",
+	"related_multi_packs": [ "ero01_21_1.json", "ero01_21_2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:0cf6888734d6a1e9394be105dc6edbbd:700390649582ea06906d90c2ca141ae0:b89a6c1045f557bc2e947c78b17d29bc$"
+}
+}
