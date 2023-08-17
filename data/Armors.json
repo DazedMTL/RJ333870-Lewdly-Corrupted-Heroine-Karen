@@ -138,7 +138,7 @@
     {
         "id": 6,
         "atypeId": 1,
-        "description": "【General Equipment】A tanned leather outfit reinforced with steel plates.",
+        "description": "【General Equipment】A tanned leather outfit reinforced with\nsteel plates.",
         "etypeId": 4,
         "traits": [
             {
@@ -192,7 +192,7 @@
     {
         "id": 8,
         "atypeId": 1,
-        "description": "Underwear that is automatically put on. It's tight, so it digs into the buttocks.",
+        "description": "Underwear that is automatically put on. It's tight, so it\ndigs into the buttocks.",
         "etypeId": 2,
         "traits": [
             {
@@ -543,7 +543,7 @@
     {
         "id": 21,
         "atypeId": 1,
-        "description": "Talisman that increases pregnancy rate to 100%. The speed at which the belly grows also becomes\nfaster.",
+        "description": "Talisman that increases pregnancy rate to 100%. The speed\nat which the belly grows also becomes faster.",
         "etypeId": 5,
         "traits": [
             {
@@ -570,7 +570,7 @@
     {
         "id": 22,
         "atypeId": 1,
-        "description": "Amulet that reduces pregnancy rate to 0% (except during events)",
+        "description": "Amulet that reduces pregnancy rate to 0% (except during\nevents)",
         "etypeId": 5,
         "traits": [
             {
@@ -1407,7 +1407,7 @@
     {
         "id": 53,
         "atypeId": 0,
-        "description": "If the weapon carrying LV of the teleportation device is 1 or higher, it can be carried. Only one\nweapon can be carried.",
+        "description": "If the weapon carrying LV of the teleportation device is 1\nor higher, it can be carried. Only one weapon can be\ncarried.",
         "etypeId": 8,
         "traits": [
             {
@@ -1434,7 +1434,7 @@
     {
         "id": 54,
         "atypeId": 0,
-        "description": "If the weapon carrying LV of the teleportation device is 2 or higher, it can be carried. Only one\nweapon can be carried.",
+        "description": "If the weapon carrying LV of the teleportation device is 2\nor higher, it can be carried. Only one weapon can be\ncarried.",
         "etypeId": 2,
         "traits": [
             {
@@ -1461,7 +1461,7 @@
     {
         "id": 55,
         "atypeId": 0,
-        "description": "If the weapon carrying LV of the teleportation device is 3 or higher, it can be carried. Only one\nweapon can be carried.",
+        "description": "If the weapon carrying LV of the teleportation device is 3\nor higher, it can be carried. Only one weapon can be\ncarried.",
         "etypeId": 2,
         "traits": [
             {
@@ -1488,7 +1488,7 @@
     {
         "id": 56,
         "atypeId": 0,
-        "description": "If the weapon carrying LV of the teleportation device is 4 or higher, it can be carried. Only one\nweapon can be carried.",
+        "description": "If the weapon carrying LV of the teleportation device is 4\nor higher, it can be carried. Only one weapon can be\ncarried.",
         "etypeId": 2,
         "traits": [
             {
@@ -1515,7 +1515,7 @@
     {
         "id": 57,
         "atypeId": 0,
-        "description": "If the weapon carrying LV of the teleportation device is 5 or higher, it can be carried. Only one\nweapon can be carried.",
+        "description": "If the weapon carrying LV of the teleportation device is 5\nor higher, it can be carried. Only one weapon can be\ncarried.",
         "etypeId": 2,
         "traits": [
             {
@@ -1596,7 +1596,7 @@
     {
         "id": 60,
         "atypeId": 0,
-        "description": "You can equip the teleportation device even if your LV is 1 or higher. This item itself does not\ndisappear and can be used multiple times.",
+        "description": "You can equip the teleportation device even if your LV is 1\nor higher. This item itself does not disappear and can be\nused multiple times.",
         "etypeId": 2,
         "traits": [
             {
@@ -1623,7 +1623,7 @@
     {
         "id": 61,
         "atypeId": 0,
-        "description": "You can equip the teleportation device even if your LV is 2 or higher. This item itself does not\ndisappear and can be used multiple times.",
+        "description": "You can equip the teleportation device even if your LV is 2\nor higher. This item itself does not disappear and can be\nused multiple times.",
         "etypeId": 2,
         "traits": [
             {
@@ -1650,7 +1650,7 @@
     {
         "id": 62,
         "atypeId": 0,
-        "description": "You can equip the teleportation device even if your LV is 3 or higher. This item itself does not\ndisappear and can be used multiple times.",
+        "description": "You can equip the teleportation device even if your LV is 3\nor higher. This item itself does not disappear and can be\nused multiple times.",
         "etypeId": 2,
         "traits": [
             {
@@ -1677,7 +1677,7 @@
     {
         "id": 63,
         "atypeId": 0,
-        "description": "You can equip the teleportation device armor if your LV is 4 or higher. This item itself does not\ndisappear and can be used multiple times.",
+        "description": "You can equip the teleportation device armor if your LV is\n4 or higher. This item itself does not disappear and can be\nused multiple times.",
         "etypeId": 2,
         "traits": [
             {
@@ -1704,7 +1704,7 @@
     {
         "id": 64,
         "atypeId": 0,
-        "description": "You can equip the teleportation device armor if your LV is 5 or higher. This item itself does not\ndisappear and can be used multiple times.",
+        "description": "You can equip the teleportation device armor if your LV is\n5 or higher. This item itself does not disappear and can be\nused multiple times.",
         "etypeId": 2,
         "traits": [
             {
@@ -2372,7 +2372,7 @@
     {
         "id": 88,
         "atypeId": 1,
-        "description": "【Accessory】A ring that reduces the likelihood of being affected by poison and paralysis.",
+        "description": "【Accessory】A ring that reduces the likelihood of being\naffected by poison and paralysis.",
         "etypeId": 5,
         "traits": [
             {
@@ -2414,7 +2414,7 @@
     {
         "id": 89,
         "atypeId": 1,
-        "description": "【Accessory】A ring that completely prevents poison and paralysis.",
+        "description": "【Accessory】A ring that completely prevents poison and\nparalysis.",
         "etypeId": 5,
         "traits": [
             {
@@ -2483,7 +2483,7 @@
     {
         "id": 91,
         "atypeId": 1,
-        "description": "【Accessory】A ring that makes it difficult to be affected by sleep, silence, confusion, charm, and\nexcitement.",
+        "description": "【Accessory】A ring that makes it difficult to be affected by\nsleep, silence, confusion, charm, and excitement.",
         "etypeId": 5,
         "traits": [
             {
@@ -2535,7 +2535,7 @@
     {
         "id": 92,
         "atypeId": 1,
-        "description": "【Accessory】A ring that completely prevents sleep, silence, confusion, charm, and agitation.",
+        "description": "【Accessory】A ring that completely prevents sleep, silence,\nconfusion, charm, and agitation.",
         "etypeId": 5,
         "traits": [
             {
@@ -2614,7 +2614,7 @@
     {
         "id": 94,
         "atypeId": 1,
-        "description": "【Accessory】An accessory that increases the chance of performing a preemptive attack.",
+        "description": "【Accessory】An accessory that increases the chance of\nperforming a preemptive attack.",
         "etypeId": 5,
         "traits": [
             {
@@ -2678,7 +2678,7 @@
     {
         "id": 96,
         "atypeId": 1,
-        "description": "【Accessory】An accessory that carries over TP to the next battle.",
+        "description": "【Accessory】An accessory that carries over TP to the next\nbattle.",
         "etypeId": 5,
         "traits": [
             {
@@ -2742,7 +2742,7 @@
     {
         "id": 98,
         "atypeId": 1,
-        "description": "【Accessory】A bracelet that reduces the consumption rate of MP.",
+        "description": "【Accessory】A bracelet that reduces the consumption rate of\nMP.",
         "etypeId": 5,
         "traits": [
             {
@@ -2774,7 +2774,7 @@
     {
         "id": 99,
         "atypeId": 1,
-        "description": "【Accessory】Under the protection of the Four Great Spirits, damage received from fire, water, wind,\nand earth attribute attacks is reduced by half.",
+        "description": "【Accessory】Under the protection of the Four Great Spirits,\ndamage received from fire, water, wind, and earth attribute\nattacks is reduced by half.",
         "etypeId": 5,
         "traits": [
             {
@@ -3982,7 +3982,7 @@
     {
         "id": 143,
         "atypeId": 0,
-        "description": "Obtain darkness equal to the number of enemies multiplied by 100 upon defeat.",
+        "description": "Obtain darkness equal to the number of enemies multiplied\nby 100 upon defeat.",
         "etypeId": 2,
         "traits": [
             {
@@ -4171,7 +4171,7 @@
     {
         "id": 150,
         "atypeId": 0,
-        "description": "In the case of humans, the pregnancy period of 10 months becomes 3 days.",
+        "description": "In the case of humans, the pregnancy period of 10 months\nbecomes 3 days.",
         "etypeId": 2,
         "traits": [
             {
@@ -4198,7 +4198,7 @@
     {
         "id": 151,
         "atypeId": 0,
-        "description": "When covered in semen, you gain 1% of the experience points needed for the next level.",
+        "description": "When covered in semen, you gain 1% of the experience points\nneeded for the next level.",
         "etypeId": 2,
         "traits": [
             {
@@ -4387,7 +4387,7 @@
     {
         "id": 158,
         "atypeId": 0,
-        "description": "After the defeat rape, you can continue the adventure only once. (Boss battles are not allowed)",
+        "description": "After the defeat rape, you can continue the adventure only\nonce. (Boss battles are not allowed)",
         "etypeId": 2,
         "traits": [
             {
@@ -4414,7 +4414,7 @@
     {
         "id": 159,
         "atypeId": 0,
-        "description": "After the defeat rape, you can continue the adventure one more time.",
+        "description": "After the defeat rape, you can continue the adventure one\nmore time.",
         "etypeId": 2,
         "traits": [
             {
@@ -5143,7 +5143,7 @@
     {
         "id": 186,
         "atypeId": 0,
-        "description": "When throwing weapons and armor, the damage becomes 70% of a normal attack.",
+        "description": "When throwing weapons and armor, the damage becomes 70% of\na normal attack.",
         "etypeId": 2,
         "traits": [
             {
@@ -5629,7 +5629,7 @@
     {
         "id": 204,
         "atypeId": 0,
-        "description": "A collar that Mavis has put on to make them swear loyalty. It cannot be removed because it is\ncursed.",
+        "description": "A collar that Mavis has put on to make them swear loyalty.\nIt cannot be removed because it is cursed.",
         "etypeId": 2,
         "traits": [
             {
@@ -5872,7 +5872,7 @@
     {
         "id": 213,
         "atypeId": 0,
-        "description": "A special mark that cannot be erased, branded on me when I was sold as a sex slave.",
+        "description": "A special mark that cannot be erased, branded on me when I\nwas sold as a sex slave.",
         "etypeId": 2,
         "traits": [
             {
@@ -5899,7 +5899,7 @@
     {
         "id": 214,
         "atypeId": 0,
-        "description": "A branding mark that indicates being impregnated by bandits. There are also cases where one's life\nis ruined due to the humiliating wording.",
+        "description": "A branding mark that indicates being impregnated by\nbandits. There are also cases where one's life is ruined due\nto the humiliating wording.",
         "etypeId": 2,
         "traits": [
             {
@@ -5926,7 +5926,7 @@
     {
         "id": 215,
         "atypeId": 0,
-        "description": "Proof of becoming a Goblin's breeding bag. In society, those with this brand are scorned.",
+        "description": "Proof of becoming a Goblin's breeding bag. In society,\nthose with this brand are scorned.",
         "etypeId": 2,
         "traits": [
             {
@@ -6088,7 +6088,7 @@
     {
         "id": 221,
         "atypeId": 0,
-        "description": "A penis starts growing. You become able to have sex with Colette.",
+        "description": "A penis starts growing. You become able to have sex with\nColette.",
         "etypeId": 2,
         "traits": [
             {
@@ -8275,7 +8275,7 @@
     {
         "id": 302,
         "atypeId": 0,
-        "description": "Clothes commonly worn by women when engaging in prostitution.",
+        "description": "Clothes commonly worn by women when engaging in\nprostitution.",
         "etypeId": 2,
         "traits": [
             {
@@ -13648,7 +13648,7 @@
     {
         "id": 501,
         "atypeId": 0,
-        "description": "The output LV of the teleportation device increases, allowing for teleportation to faraway or deep\nlocations.",
+        "description": "The output LV of the teleportation device increases,\nallowing for teleportation to faraway or deep locations.",
         "etypeId": 2,
         "traits": [
             {
@@ -13675,7 +13675,7 @@
     {
         "id": 502,
         "atypeId": 0,
-        "description": "The output LV of the teleportation device increases, allowing for teleportation to faraway or deep\nlocations.",
+        "description": "The output LV of the teleportation device increases,\nallowing for teleportation to faraway or deep locations.",
         "etypeId": 2,
         "traits": [
             {
@@ -13702,7 +13702,7 @@
     {
         "id": 503,
         "atypeId": 0,
-        "description": "The output LV of the teleportation device increases, allowing for teleportation to faraway or deep\nlocations.",
+        "description": "The output LV of the teleportation device increases,\nallowing for teleportation to faraway or deep locations.",
         "etypeId": 2,
         "traits": [
             {
@@ -13729,7 +13729,7 @@
     {
         "id": 504,
         "atypeId": 0,
-        "description": "The output LV of the teleportation device increases, allowing for teleportation to faraway or deep\nlocations.",
+        "description": "The output LV of the teleportation device increases,\nallowing for teleportation to faraway or deep locations.",
         "etypeId": 2,
         "traits": [
             {
@@ -13756,7 +13756,7 @@
     {
         "id": 505,
         "atypeId": 0,
-        "description": "The output LV of the teleportation device increases, allowing for teleportation to faraway or deep\nlocations.",
+        "description": "The output LV of the teleportation device increases,\nallowing for teleportation to faraway or deep locations.",
         "etypeId": 2,
         "traits": [
             {
@@ -13918,7 +13918,7 @@
     {
         "id": 511,
         "atypeId": 0,
-        "description": "You can bring one LV1 sword that you purchased at the weapon shop. No duplicates allowed.",
+        "description": "You can bring one LV1 sword that you purchased at the\nweapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -13945,7 +13945,7 @@
     {
         "id": 512,
         "atypeId": 0,
-        "description": "You can bring one sword up to level 2 that you purchased at the weapon shop. No duplicates allowed.",
+        "description": "You can bring one sword up to level 2 that you purchased at\nthe weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -13972,7 +13972,7 @@
     {
         "id": 513,
         "atypeId": 0,
-        "description": "You can bring one sword up to level 3 that you purchased at the weapon shop. No duplicates allowed.",
+        "description": "You can bring one sword up to level 3 that you purchased at\nthe weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -13999,7 +13999,7 @@
     {
         "id": 514,
         "atypeId": 0,
-        "description": "You can bring one sword up to level 4 that you purchased at the weapon shop. No duplicates allowed.",
+        "description": "You can bring one sword up to level 4 that you purchased at\nthe weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -14026,7 +14026,7 @@
     {
         "id": 515,
         "atypeId": 0,
-        "description": "You can bring one sword up to level 5 that you purchased at the weapon shop. No duplicates allowed.",
+        "description": "You can bring one sword up to level 5 that you purchased at\nthe weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -14053,7 +14053,7 @@
     {
         "id": 516,
         "atypeId": 0,
-        "description": "The amount of G that can be obtained from treasure chests increases by an additional 20%.",
+        "description": "The amount of G that can be obtained from treasure chests\nincreases by an additional 20%.",
         "etypeId": 2,
         "traits": [
             {
@@ -14080,7 +14080,7 @@
     {
         "id": 517,
         "atypeId": 0,
-        "description": "The amount of G that can be obtained from treasure chests increases by an additional 20%.",
+        "description": "The amount of G that can be obtained from treasure chests\nincreases by an additional 20%.",
         "etypeId": 2,
         "traits": [
             {
@@ -14188,7 +14188,7 @@
     {
         "id": 521,
         "atypeId": 0,
-        "description": "You can bring one LV1 ring that you purchased at the weapon shop. No duplicates allowed.",
+        "description": "You can bring one LV1 ring that you purchased at the weapon\nshop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -14215,7 +14215,7 @@
     {
         "id": 522,
         "atypeId": 0,
-        "description": "You can bring one ring up to level 2 that you purchased at the weapon shop. No duplicates allowed.",
+        "description": "You can bring one ring up to level 2 that you purchased at\nthe weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -14242,7 +14242,7 @@
     {
         "id": 523,
         "atypeId": 0,
-        "description": "You can bring one ring up to level 3 that you purchased at the weapon shop. No duplicates allowed.",
+        "description": "You can bring one ring up to level 3 that you purchased at\nthe weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -14269,7 +14269,7 @@
     {
         "id": 524,
         "atypeId": 0,
-        "description": "You can bring one ring up to level 4 that you purchased at the weapon shop. No duplicates allowed.",
+        "description": "You can bring one ring up to level 4 that you purchased at\nthe weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -14296,7 +14296,7 @@
     {
         "id": 525,
         "atypeId": 0,
-        "description": "You can bring one ring up to level 5 that you purchased at the weapon shop. No duplicates allowed.",
+        "description": "You can bring one ring up to level 5 that you purchased at\nthe weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -14431,7 +14431,7 @@
     {
         "id": 530,
         "atypeId": 0,
-        "description": "You can carry throwing weapons, such as daggers.\" \"There is no need to purchase a dagger.",
+        "description": "You can carry throwing weapons, such as daggers.\" \"There is\nno need to purchase a dagger.",
         "etypeId": 2,
         "traits": [
             {
@@ -14998,7 +14998,7 @@
     {
         "id": 551,
         "atypeId": 0,
-        "description": "You can bring the 'Blow Away Wand (3)' with you when starting the dungeon.",
+        "description": "You can bring the 'Blow Away Wand (3)' with you when\nstarting the dungeon.",
         "etypeId": 2,
         "traits": [
             {
@@ -15025,7 +15025,7 @@
     {
         "id": 552,
         "atypeId": 0,
-        "description": "At the start of the dungeon, you can bring a 'Staff of Confusion (3)' with you.",
+        "description": "At the start of the dungeon, you can bring a 'Staff of\nConfusion (3)' with you.",
         "etypeId": 2,
         "traits": [
             {
@@ -15052,7 +15052,7 @@
     {
         "id": 553,
         "atypeId": 0,
-        "description": "At the start of the dungeon, you can bring a 'Stun Wand (3)' with you.",
+        "description": "At the start of the dungeon, you can bring a 'Stun Wand\n(3)' with you.",
         "etypeId": 2,
         "traits": [
             {
@@ -15079,7 +15079,7 @@
     {
         "id": 554,
         "atypeId": 0,
-        "description": "At the start of the dungeon, you can bring a 'Sleep Staff (3)' with you.",
+        "description": "At the start of the dungeon, you can bring a 'Sleep Staff\n(3)' with you.",
         "etypeId": 2,
         "traits": [
             {
@@ -15106,7 +15106,7 @@
     {
         "id": 555,
         "atypeId": 0,
-        "description": "At the start of the dungeon, you can bring a 'Staff of Swap (3)' with you.",
+        "description": "At the start of the dungeon, you can bring a 'Staff of Swap\n(3)' with you.",
         "etypeId": 2,
         "traits": [
             {
@@ -16321,7 +16321,7 @@
     {
         "id": 600,
         "atypeId": 12,
-        "description": "I used to be the captain of the Holy Knights, but that's all in the past...",
+        "description": "I used to be the captain of the Holy Knights, but that's\nall in the past...",
         "etypeId": 2,
         "traits": [
             {
@@ -16429,7 +16429,7 @@
     {
         "id": 604,
         "atypeId": 12,
-        "description": "As a seasoned hero, they will once again be known even in Sodom.",
+        "description": "As a seasoned hero, they will once again be known even in\nSodom.",
         "etypeId": 2,
         "traits": [
             {
@@ -16861,7 +16861,7 @@
     {
         "id": 620,
         "atypeId": 12,
-        "description": "In the city of Sodom, there are quite a few wealthy people.",
+        "description": "In the city of Sodom, there are quite a few wealthy\npeople.",
         "etypeId": 2,
         "traits": [
             {
@@ -16888,7 +16888,7 @@
     {
         "id": 621,
         "atypeId": 12,
-        "description": "In the city of Sodom, there are quite a few wealthy people.",
+        "description": "In the city of Sodom, there are quite a few wealthy\npeople.",
         "etypeId": 2,
         "traits": [
             {
@@ -17212,7 +17212,7 @@
     {
         "id": 633,
         "atypeId": 12,
-        "description": "Derogatory term for a woman who has been forced to give birth",
+        "description": "Derogatory term for a woman who has been forced to give\nbirth",
         "etypeId": 2,
         "traits": [
             {
@@ -17509,7 +17509,7 @@
     {
         "id": 644,
         "atypeId": 12,
-        "description": "The woman who had a one-night stand with the homeless old man",
+        "description": "The woman who had a one-night stand with the homeless old\nman",
         "etypeId": 2,
         "traits": [
             {
@@ -17536,7 +17536,7 @@
     {
         "id": 645,
         "atypeId": 12,
-        "description": "Being used as a toilet by a homeless old man in two different ways.",
+        "description": "Being used as a toilet by a homeless old man in two\ndifferent ways.",
         "etypeId": 2,
         "traits": [
             {
@@ -23692,7 +23692,7 @@
     {
         "id": 873,
         "atypeId": 0,
-        "description": "You will be able to select nipple type B in the changing scene.",
+        "description": "You will be able to select nipple type B in the changing\nscene.",
         "etypeId": 2,
         "traits": [
             {
@@ -23719,7 +23719,7 @@
     {
         "id": 874,
         "atypeId": 0,
-        "description": "You will be able to choose nipple color C in the changing scene.",
+        "description": "You will be able to choose nipple color C in the changing\nscene.",
         "etypeId": 2,
         "traits": [
             {
@@ -23800,7 +23800,7 @@
     {
         "id": 877,
         "atypeId": 0,
-        "description": "You will be able to choose a character with large breasts in the changing scene.",
+        "description": "You will be able to choose a character with large breasts\nin the changing scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -23827,7 +23827,7 @@
     {
         "id": 878,
         "atypeId": 0,
-        "description": "You will be able to choose small breasts in the changing scene.",
+        "description": "You will be able to choose small breasts in the changing\nscene.",
         "etypeId": 2,
         "traits": [
             {
@@ -23881,7 +23881,7 @@
     {
         "id": 880,
         "atypeId": 0,
-        "description": "You will be able to remove the collar of submission during the changing scene.",
+        "description": "You will be able to remove the collar of submission during\nthe changing scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -23935,7 +23935,7 @@
     {
         "id": 882,
         "atypeId": 0,
-        "description": "You can hide the goblin's branding during the changing scene.",
+        "description": "You can hide the goblin's branding during the changing\nscene.",
         "etypeId": 2,
         "traits": [
             {
@@ -23962,7 +23962,7 @@
     {
         "id": 883,
         "atypeId": 0,
-        "description": "You can hide the burn mark caused by the bandits during the changing scene.",
+        "description": "You can hide the burn mark caused by the bandits during the\nchanging scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -23989,7 +23989,7 @@
     {
         "id": 884,
         "atypeId": 0,
-        "description": "You can hide the branding of the sex slave during the changing scene.",
+        "description": "You can hide the branding of the sex slave during the\nchanging scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -24016,7 +24016,7 @@
     {
         "id": 885,
         "atypeId": 0,
-        "description": "You will be able to remove nipple piercings in the changing scene.",
+        "description": "You will be able to remove nipple piercings in the changing\nscene.",
         "etypeId": 2,
         "traits": [
             {
@@ -24421,7 +24421,7 @@
     {
         "id": 900,
         "atypeId": 9,
-        "description": "The crest bestowed by the priest. Increases the chances of pregnancy.",
+        "description": "The crest bestowed by the priest. Increases the chances of\npregnancy.",
         "etypeId": 2,
         "traits": [
             {
@@ -24475,7 +24475,7 @@
     {
         "id": 902,
         "atypeId": 9,
-        "description": "A piercing attached to the navel by Mark. It cannot be removed because it is cursed.",
+        "description": "A piercing attached to the navel by Mark. It cannot be\nremoved because it is cursed.",
         "etypeId": 2,
         "traits": [
             {
@@ -24502,7 +24502,7 @@
     {
         "id": 903,
         "atypeId": 9,
-        "description": "I got a piercing on my clit while working at a public restroom part-time job. It's cursed, so I\ncan't take it off.",
+        "description": "I got a piercing on my clit while working at a public\nrestroom part-time job. It's cursed, so I can't take it\noff.",
         "etypeId": 2,
         "traits": [
             {
@@ -24529,7 +24529,7 @@
     {
         "id": 904,
         "atypeId": 9,
-        "description": "The branding that was placed when sold as a sex slave. There is no way to return to being clean\nagain.",
+        "description": "The branding that was placed when sold as a sex slave.\nThere is no way to return to being clean again.",
         "etypeId": 2,
         "traits": [
             {
@@ -24556,7 +24556,7 @@
     {
         "id": 905,
         "atypeId": 9,
-        "description": "A branding mark that indicates being impregnated by bandits. There are also examples where one's\nlife is ruined due to the shameful wording.",
+        "description": "A branding mark that indicates being impregnated by\nbandits. There are also examples where one's life is ruined\ndue to the shameful wording.",
         "etypeId": 2,
         "traits": [
             {
@@ -24583,7 +24583,7 @@
     {
         "id": 906,
         "atypeId": 9,
-        "description": "Proof of becoming a Goblin's breeding bag. In society, it is said that those with this brand are\npitied.",
+        "description": "Proof of becoming a Goblin's breeding bag. In society, it\nis said that those with this brand are pitied.",
         "etypeId": 2,
         "traits": [
             {
@@ -24664,7 +24664,7 @@
     {
         "id": 909,
         "atypeId": 9,
-        "description": "Collar placed by Mavis. It cannot be removed because it is cursed.",
+        "description": "Collar placed by Mavis. It cannot be removed because it is\ncursed.",
         "etypeId": 2,
         "traits": [
             {
@@ -24880,7 +24880,7 @@
     {
         "id": 917,
         "atypeId": 11,
-        "description": "I am a woman who sleeps with anyone. Sometimes it becomes a condition for having sex with people in\ntown.",
+        "description": "I am a woman who sleeps with anyone. Sometimes it becomes a\ncondition for having sex with people in town.",
         "etypeId": 2,
         "traits": [
             {
@@ -24907,7 +24907,7 @@
     {
         "id": 918,
         "atypeId": 10,
-        "description": "They have a strong sexual desire and are easily indulged in pleasure. The dialogue in the sex scenes\nmay change.",
+        "description": "They have a strong sexual desire and are easily indulged in\npleasure. The dialogue in the sex scenes may change.",
         "etypeId": 2,
         "traits": [
             {
@@ -24934,7 +24934,7 @@
     {
         "id": 919,
         "atypeId": 0,
-        "description": "I feel pleasure in being seen my 'private parts'. The dialogue changes during the 'spread open'\nscene.",
+        "description": "I feel pleasure in being seen my 'private parts'. The\ndialogue changes during the 'spread open' scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -24961,7 +24961,7 @@
     {
         "id": 920,
         "atypeId": 10,
-        "description": "I feel pleasure in being seen naked. I can become naked through dress-up.",
+        "description": "I feel pleasure in being seen naked. I can become naked\nthrough dress-up.",
         "etypeId": 2,
         "traits": [
             {
@@ -24988,7 +24988,7 @@
     {
         "id": 921,
         "atypeId": 10,
-        "description": "Experiencing pleasure through the stimulation of shame and humiliation. It becomes a condition for\ntriggering events.",
+        "description": "Experiencing pleasure through the stimulation of shame and\nhumiliation. It becomes a condition for triggering events.",
         "etypeId": 2,
         "traits": [
             {
@@ -25015,7 +25015,7 @@
     {
         "id": 922,
         "atypeId": 10,
-        "description": "They have accepted themselves as a sex slave. It becomes possible to wear a sex slave costume.",
+        "description": "They have accepted themselves as a sex slave. It becomes\npossible to wear a sex slave costume.",
         "etypeId": 2,
         "traits": [
             {
@@ -25231,7 +25231,7 @@
     {
         "id": 930,
         "atypeId": 0,
-        "description": "I feel pleasure in being impregnated by a man. The lines before creampie change.",
+        "description": "I feel pleasure in being impregnated by a man. The lines\nbefore creampie change.",
         "etypeId": 2,
         "traits": [
             {
@@ -25285,7 +25285,7 @@
     {
         "id": 932,
         "atypeId": 10,
-        "description": "I feel pleasure in being impregnated by a goblin's seed. A special H event occurs when defeated in a\ngoblin's lair.",
+        "description": "I feel pleasure in being impregnated by a goblin's seed. A\nspecial H event occurs when defeated in a goblin's lair.",
         "etypeId": 2,
         "traits": [
             {
@@ -25420,7 +25420,7 @@
     {
         "id": 937,
         "atypeId": 11,
-        "description": "Their vagina becomes loose, and they can no longer work at a high-class brothel. Instead, they are\nable to work at a cheap prostitution inn.",
+        "description": "Their vagina becomes loose, and they can no longer work at\na high-class brothel. Instead, they are able to work at a\ncheap prostitution inn.",
         "etypeId": 2,
         "traits": [
             {
@@ -25447,7 +25447,7 @@
     {
         "id": 938,
         "atypeId": 11,
-        "description": "The vagina has become loose, and there may be changes in the male's reaction during vaginal\npenetration.",
+        "description": "The vagina has become loose, and there may be changes in\nthe male's reaction during vaginal penetration.",
         "etypeId": 2,
         "traits": [
             {
@@ -25474,7 +25474,7 @@
     {
         "id": 939,
         "atypeId": 11,
-        "description": "The anus has become looser and easier to use. It becomes a condition for triggering an event.",
+        "description": "The anus has become looser and easier to use. It becomes a\ncondition for triggering an event.",
         "etypeId": 2,
         "traits": [
             {
@@ -25501,7 +25501,7 @@
     {
         "id": 940,
         "atypeId": 11,
-        "description": "The anus has become loose, and there may be changes in a male's reaction during anal penetration.",
+        "description": "The anus has become loose, and there may be changes in a\nmale's reaction during anal penetration.",
         "etypeId": 2,
         "traits": [
             {
@@ -25582,7 +25582,7 @@
     {
         "id": 943,
         "atypeId": 0,
-        "description": "There are times when love juices come out during the H scene.",
+        "description": "There are times when love juices come out during the H\nscene.",
         "etypeId": 2,
         "traits": [
             {
@@ -25609,7 +25609,7 @@
     {
         "id": 944,
         "atypeId": 0,
-        "description": "I have become more prone to urination. Specifically, during certain play sessions.",
+        "description": "I have become more prone to urination. Specifically, during\ncertain play sessions.",
         "etypeId": 2,
         "traits": [
             {
@@ -25636,7 +25636,7 @@
     {
         "id": 945,
         "atypeId": 11,
-        "description": "During fellatio scenes, there are times when the presentation changes.",
+        "description": "During fellatio scenes, there are times when the\npresentation changes.",
         "etypeId": 2,
         "traits": [
             {
@@ -25663,7 +25663,7 @@
     {
         "id": 946,
         "atypeId": 0,
-        "description": "I get all flustered during a play where I'm used for 'that'! The lines change.",
+        "description": "I get all flustered during a play where I'm used for\n'that'! The lines change.",
         "etypeId": 2,
         "traits": [
             {
@@ -25690,7 +25690,7 @@
     {
         "id": 947,
         "atypeId": 10,
-        "description": "I feel pleasure from the smell of homeless people and monsters. It becomes a condition for\ntriggering the event.",
+        "description": "I feel pleasure from the smell of homeless people and\nmonsters. It becomes a condition for triggering the event.",
         "etypeId": 2,
         "traits": [
             {
@@ -25744,7 +25744,7 @@
     {
         "id": 949,
         "atypeId": 0,
-        "description": "Breast sensitivity is very high. The increase in nipple development level is up by 20%.",
+        "description": "Breast sensitivity is very high. The increase in nipple\ndevelopment level is up by 20%.",
         "etypeId": 2,
         "traits": [
             {
@@ -25825,7 +25825,7 @@
     {
         "id": 952,
         "atypeId": 0,
-        "description": "I feel pleasure in being impregnated by a man. The lines before creampie change.",
+        "description": "I feel pleasure in being impregnated by a man. The lines\nbefore creampie change.",
         "etypeId": 2,
         "traits": [
             {
