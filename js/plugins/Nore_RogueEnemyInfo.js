@@ -266,7 +266,7 @@ var Nore;
             var action1 = new Game_Action(enemy);
             action1.setAttack();
             var damage1 = action1.makeDamageValue(actor, false);
-            this.drawTextEx('\\C[2](%1ダメ)\\C[0]'.format(damage1), 140, y + 4, 100);
+            this.drawTextEx('\\C[2](%1 DMG)\\C[0]'.format(damage1), 140, y + 4, 100);
             y += 32;
             this.changeTextColor(ColorManager.systemColor());
             this.drawText(TextManager.param(3), 24, y, 200, 'left');
@@ -275,7 +275,7 @@ var Nore;
             var action2 = new Game_Action(actor);
             action2.setAttack();
             var damage2 = action2.makeDamageValue(enemy, false);
-            this.drawTextEx('\\C[6](%1ダメ)\\C[0]'.format(damage2), 140, y + 4, 100);
+            this.drawTextEx('\\C[6](%1 DMG)\\C[0]'.format(damage2), 140, y + 4, 100);
         };
         Window_EnemyInfo.prototype.resetFontSettings = function () {
             this.contents.fontFace = $gameSystem.mainFontFace();

@@ -1432,7 +1432,7 @@
             "escapeFailure": "However, I couldn't escape!",
             "victory": "Victory for %1!",
             "defeat": "%1 was defeated in battle",
-            "obtainExp": "Defeated \\C[6] and obtained \\C[0] of %2!",
+            "obtainExp": "Defeated \\C[6]%3\\C[0] and obtained %1 %2",
             "obtainGold": "Obtained %1\\G!",
             "obtainItem": "Obtained %1!",
             "levelUp": "%1 has risen to %2 %3!",
