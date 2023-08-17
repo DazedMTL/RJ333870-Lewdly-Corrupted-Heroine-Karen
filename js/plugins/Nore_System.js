@@ -220,7 +220,7 @@ var Game_RogueSystem = /** @class */ (function (_super) {
             text += 'Oral development increased by %1!\n'.format(ero.kuchiStatus - this._lastEro.kuchiStatus);
         }
         if (ero.keikenPeople() > this._lastEro.keikenPeople()) {
-            text += 'Number of sexual experiences (with regular people) increased by %1!\n'.format(ero.keikenPeople() - this._lastEro.keikenPeople());
+            text += 'Sex with Humans increased by %1!\n'.format(ero.keikenPeople() - this._lastEro.keikenPeople());
         }
         if (ero.anal > this._lastEro.anal) {
             text += 'Number of anal sex increased by %1!\n'.format(ero.anal - this._lastEro.anal);
@@ -229,7 +229,7 @@ var Game_RogueSystem = /** @class */ (function (_super) {
             text += 'Number of blowjobs increased by %1!\n'.format(ero.fela - this._lastEro.fela);
         }
         if (ero.keikenMonster() > this._lastEro.keikenMonster()) {
-            text += 'Number of sexual experiences (with monsters) increased by %1!\n'.format(ero.keikenMonster() - this._lastEro.keikenMonster());
+            text += 'Sex with Monsters increased by %1!\n'.format(ero.keikenMonster() - this._lastEro.keikenMonster());
         }
         if (ero.chitsuTightening > this._lastEro.chitsuTightening) {
             text += 'Vaginal tightness increased by %1!\n'.format(ero.chitsuTightening - this._lastEro.chitsuTightening);
