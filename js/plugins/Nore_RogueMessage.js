@@ -79,7 +79,7 @@ var Nore;
         var isActor = target.isActor();
         var fmt;
         if (result.mhpPlus > 0) {
-            return '%1　の最大HPが%2上昇した！'.format(target.name(), result.mhpPlus);
+            return "%1's maximum HP increased by %2!".format(target.name(), result.mhpPlus);
         }
         else if (damage > 0 && result.drain) {
             fmt = isActor ? TextManager.actorDrain : TextManager.enemyDrain;
@@ -119,23 +119,23 @@ var Nore;
     }
     Nore.itemGetText = itemGetText;
     function arrowGetText(count) {
-        return '%1本の矢を手に入れた！'.format(count);
+        return 'Obtained %1 arrows!'.format(count);
     }
     Nore.arrowGetText = arrowGetText;
     function cannotGetText(name) {
-        return 'アイテムがいっぱいのため、%1 を持てませんでした。'.format(name);
+        return 'Unable to carry %1 due to full inventory.'.format(name);
     }
     Nore.cannotGetText = cannotGetText;
     function rideOnItemText(name) {
-        return '%1 の上に乗った！'.format(name);
+        return 'Riding on %1!'.format(name);
     }
     Nore.rideOnItemText = rideOnItemText;
     function makeDispelText() {
-        return '装備中の武器防具の呪いが解けた！';
+        return 'Curse on equipped weapons and armor has been lifted!';
     }
     Nore.makeDispelText = makeDispelText;
     function makeEquipWeaponText(item, lastAtk, newAtk) {
-        var text = '\\C[29]%1\\C[0]を装備した！'.format(item.name());
+        var text = 'Equipped \\C[29]%1!\\C[0]'.format(item.name());
         if (item.isCursed) {
             text += makeCursedText(item);
         }
@@ -149,16 +149,16 @@ var Nore;
             return text + makeDownAtkText(lastAtk, newAtk);
         }
         else {
-            return text + '攻撃力は%1のまま変わらなかった！'.format(lastAtk);
+            return text + 'My attack power remained unchanged at %1!'.format(lastAtk);
         }
     }
     Nore.makeEquipWeaponText = makeEquipWeaponText;
     function makeEquipCursedArmorText(item) {
-        return 'しかしふたなりちんぽのおかげで装備できなかった！';
+        return "However, due to my penis, I couldn't equip it!";
     }
     Nore.makeEquipCursedArmorText = makeEquipCursedArmorText;
     function makeEquipArmorText(item, lastAtk, newAtk, lastDef, newDef) {
-        var text = '\\C[3]%1\\C[0]を装備した！'.format(item.name());
+        var text = 'Equipped \\C[3]%1\\C[0]!'.format(item.name());
         if (item.isCursed) {
             text += makeCursedText(item);
         }
@@ -172,31 +172,31 @@ var Nore;
             text += makeDownAtkText(lastAtk, newAtk) + '\n';
         }
         if (lastDef < newDef) {
-            return text + '防御力が%1から\\C[4]%2\\C[0]に上がった！'.format(hankaku2Zenkaku(lastDef), hankaku2Zenkaku(newDef));
+            return text + 'Defense power increased from %1 to \\C[4]%2\\C[0]!'.format(hankaku2Zenkaku(lastDef), hankaku2Zenkaku(newDef));
         }
         else if (lastDef > newDef) {
-            return text + '防御力が%1から\\C[2]%2\\C[0]に下がった！'.format(hankaku2Zenkaku(lastDef), hankaku2Zenkaku(newDef));
+            return text + 'Defense power decreased from %1 to \\C[2]%2\\C[0]!'.format(hankaku2Zenkaku(lastDef), hankaku2Zenkaku(newDef));
         }
         else {
-            return text + '防御力は%1のまま変わらなかった！'.format(lastDef);
+            return text + 'Defense power remained unchanged at %1!'.format(lastDef);
         }
     }
     Nore.makeEquipArmorText = makeEquipArmorText;
     function makeUpAtkText(lastAtk, newAtk) {
-        return '攻撃力が%1から\\C[4]%2\\C[0]に上がった！'.format(hankaku2Zenkaku(lastAtk), hankaku2Zenkaku(newAtk));
+        return 'Attack power increased from %1 to \\C[4]%2\\C[0]!'.format(hankaku2Zenkaku(lastAtk), hankaku2Zenkaku(newAtk));
     }
     function makeDownAtkText(lastAtk, newAtk) {
-        return '攻撃力が%1から\\C[2]%2\\C[0]に下がった！'.format(hankaku2Zenkaku(lastAtk), hankaku2Zenkaku(newAtk));
+        return 'Attack power decreased from %1 to \\C[2]%2\\C[0]!'.format(hankaku2Zenkaku(lastAtk), hankaku2Zenkaku(newAtk));
     }
     function makeDownDefText(lastDef, newDef) {
-        return '防御力が%1から\\C[4]%2\\C[0]に下がった！'.format(hankaku2Zenkaku(lastDef), hankaku2Zenkaku(newDef));
+        return 'Defense power decreased from %1 to \\C[4]%2\\C[0]!'.format(hankaku2Zenkaku(lastDef), hankaku2Zenkaku(newDef));
     }
     function makeDiscardEquipWeaponText(item, lastAtk, newAtk) {
-        return '\\C[3]%1\\C[0]を外した！\n攻撃力が%2から\\C[2]%3\\C[0]に下がった！'.format(item.name(), hankaku2Zenkaku(lastAtk), hankaku2Zenkaku(newAtk));
+        return 'Unequipped \\C[3]%1\\C[0]!\nAttack power decreased from %2 to \\C[2]%3\\C[0]!'.format(item.name(), hankaku2Zenkaku(lastAtk), hankaku2Zenkaku(newAtk));
     }
     Nore.makeDiscardEquipWeaponText = makeDiscardEquipWeaponText;
     function makeDiscardEquipArmorText(item, lastAtk, newAtk, lastDef, newDef) {
-        var text = '\\C[3]%1\\C[0]を外した！\n'.format(item.name());
+        var text = '\\C[3]%1\\C[0] Removed!\n'.format(item.name());
         if (lastDef > newDef) {
             return text + makeDownDefText(lastDef, newDef);
         }
@@ -207,22 +207,22 @@ var Nore;
     }
     Nore.makeDiscardEquipArmorText = makeDiscardEquipArmorText;
     function makeCursedText(item) {
-        return '　\\C[29]%1\\C[0]は呪われていた！\n'.format(item.name());
+        return '　\\C[29]%1\\C[0] was cursed!\n'.format(item.name());
     }
     Nore.makeCursedText = makeCursedText;
     function makeCannotEquipWeaponText(item) {
-        var text = '装備中の\\C[3]%1\\C[0]が呪われているため、装備を変更できない！\n'.format(item.name());
+        var text = 'You cannot change your equipment because \\C[3]%1\\C[0] is cursed.\n'.format(item.name());
         ;
         return text;
     }
     Nore.makeCannotEquipWeaponText = makeCannotEquipWeaponText;
     function makePutItemText(item) {
-        var text = '\\C[3]%1\\C[0]を足元に置いた！\n'.format(item.name());
+        var text = 'I placed C[3]%1\C[0] at my feet!\n'.format(item.name());
         return text;
     }
     Nore.makePutItemText = makePutItemText;
     function makeCannotDiscardEquipText(item) {
-        var text = '\\C[3]%1\\C[0]は呪われているため外せない！\n'.format(item.name());
+        var text = "\\C[3]%1\\C[0] can't be removed because it's cursed!\n".format(item.name());
         return text;
     }
     Nore.makeCannotDiscardEquipText = makeCannotDiscardEquipText;
@@ -231,7 +231,7 @@ var Nore;
         if (!rogueItem.isIdentified()) {
             text = '\\C[32]' + text + '\\C[0]';
         }
-        return '%1を飲んだ！'.format(text);
+        return 'Drank %1!'.format(text);
     }
     Nore.makeDrinkText = makeDrinkText;
     function makePutInText(boxItem, rogueItem) {
@@ -240,47 +240,47 @@ var Nore;
         /*if (! rogueItem.isIdentified()) {
             text = '\\C[32]' + text + '\\C[0]';
         }*/
-        return '%1に%2を入れた！'.format(box, text);
+        return 'I put %2 into %1!'.format(box, text);
     }
     Nore.makePutInText = makePutInText;
     function makeReadText(rogueItem) {
         var text = rogueItem.name();
         if (rogueItem.realItem().id == 38) {
-            return '%2は%1を使った！'.format(text, $gameActors.actor(1).name());
+            return '%2 used %1!'.format(text, $gameActors.actor(1).name());
         }
         if (!rogueItem.isIdentified()) {
             text = '\\C[32]' + text + '\\C[0]';
         }
-        return '%2は%1を読んだ！'.format(text, $gameActors.actor(1).name());
+        return 'I read %1 %2!'.format(text, $gameActors.actor(1).name());
     }
     Nore.makeReadText = makeReadText;
     function makeIdentifyText(rogueItem) {
         var item1 = '\\C[32]' + rogueItem.name() + '\\C[0]';
         var item2 = rogueItem.identifiedName();
-        return '%1は%2だった！'.format(item1, item2);
+        return '%1 was %2!'.format(item1, item2);
     }
     Nore.makeIdentifyText = makeIdentifyText;
     function makeNoEffectText() {
-        return 'しかし効果がなかった！';
+        return 'But it had no effect!';
     }
     Nore.makeNoEffectText = makeNoEffectText;
     ;
     function makeNoEffectToIdentifyText() {
-        return 'しかし対象のアイテムはすでに識別されている！';
+        return 'However, the target item has already been identified!';
     }
     Nore.makeNoEffectToIdentifyText = makeNoEffectToIdentifyText;
     ;
     function makePowerUpText(rogueItem) {
-        var text = '\\C[3]%1\\C[0]\ が強化された！'.format(rogueItem.name(), rogueItem.plus);
+        var text = '\\C[3]%1\\C[0]\ has been enhanced!'.format(rogueItem.name(), rogueItem.plus);
         if (rogueItem.isCursed) {
-            text += '\n\\C[3]%1\\C[0]\ の呪いが解けた！'.format(rogueItem.name());
+            text += '\n\\C[3]%1\\C[0]\ curse has been lifted!'.format(rogueItem.name());
         }
         return text;
     }
     Nore.makePowerUpText = makePowerUpText;
     ;
     function makeSwingText(rogueItem) {
-        return '%1を振った！'.format(rogueItem.name());
+        return 'I shook %1!'.format(rogueItem.name());
     }
     Nore.makeSwingText = makeSwingText;
     ;
@@ -316,16 +316,16 @@ var Nore;
         var afterEnemy = $dataEnemies[result.afterEnemy];
         var text;
         if (parseInt(beforeEnemy.meta['rank']) < parseInt(afterEnemy.meta['rank'])) {
-            text = '%1はレベルアップして%2になった！'.format(beforeEnemy.name, afterEnemy.name);
+            text = '%1 has leveled up and become Lv %2!'.format(beforeEnemy.name, afterEnemy.name);
         }
         else {
-            text = '%1はレベルダウンして%2になった！'.format(beforeEnemy.name, afterEnemy.name);
+            text = '%2 has leveled down and become Lv %2!'.format(beforeEnemy.name, afterEnemy.name);
         }
         Nore.$gameMessageRogue.add(text);
     }
     Nore.displayEnemyLevelUp = displayEnemyLevelUp;
     function displayActorLevelDown(level) {
-        Nore.$gameMessageRogue.add('%1はレベルダウンしてLv%2になった！'.format($gameActors.actor(1).name(), level));
+        Nore.$gameMessageRogue.add('%1 has decreased in level and become Lv %2!'.format($gameActors.actor(1).name(), level));
     }
     Nore.displayActorLevelDown = displayActorLevelDown;
     var Window_MessageRogue = /** @class */ (function (_super) {

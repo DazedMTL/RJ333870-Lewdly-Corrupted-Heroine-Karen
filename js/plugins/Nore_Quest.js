@@ -118,6 +118,7 @@ var Nore;
         };
         Window_Quest.prototype.drawItem = function (index) {
             var item = this.itemAt(index);
+            this.contents.fontSize = 16;
             if (item) {
                 var rect = this.itemLineRect(index);
                 if ($gameSystem.questManager().isReceive(item.id)) {
@@ -176,7 +177,7 @@ var Nore;
         };
         Window_GuildRank.prototype.drawCurrentRank = function (value, x, y, width) {
             this.resetTextColor();
-            var rank = '現在の冒険者ランク ';
+            var rank = 'Adventurer Rank ';
             for (var i = 0; i < value; i++) {
                 rank += '★';
             }
