@@ -57,7 +57,7 @@
     {
         "id": 7,
         "expanded": false,
-        "name": "Demon King's Castle Lowest Floor Defeat Event",
+        "name": "Demon King's Castle Lowest Floor Defeat Event<fixed>",
         "order": 110,
         "parentId": 97,
         "scrollX": 703.5555555555555,
@@ -192,7 +192,7 @@
     {
         "id": 22,
         "expanded": false,
-        "name": "Material_4",
+        "name": "素材_4",
         "order": 84,
         "parentId": 73,
         "scrollX": 816,
@@ -282,7 +282,7 @@
     {
         "id": 32,
         "expanded": false,
-        "name": "Material_1",
+        "name": "素材_1",
         "order": 47,
         "parentId": 33,
         "scrollX": 822.5,
@@ -291,7 +291,7 @@
     {
         "id": 33,
         "expanded": true,
-        "name": "Forest Materials",
+        "name": "森素材",
         "order": 46,
         "parentId": 12,
         "scrollX": 1131,
@@ -300,7 +300,7 @@
     {
         "id": 34,
         "expanded": false,
-        "name": "Material_1",
+        "name": "素材_1",
         "order": 48,
         "parentId": 33,
         "scrollX": 834.5,
@@ -309,7 +309,7 @@
     {
         "id": 35,
         "expanded": false,
-        "name": "Material_1",
+        "name": "素材_1",
         "order": 49,
         "parentId": 33,
         "scrollX": 0,
@@ -318,7 +318,7 @@
     {
         "id": 36,
         "expanded": false,
-        "name": "Material_1",
+        "name": "素材_1",
         "order": 50,
         "parentId": 33,
         "scrollX": 0,
@@ -354,7 +354,7 @@
     {
         "id": 40,
         "expanded": true,
-        "name": "Cave Materials",
+        "name": "Cave 素材s",
         "order": 59,
         "parentId": 17,
         "scrollX": 1131,
@@ -363,7 +363,7 @@
     {
         "id": 41,
         "expanded": false,
-        "name": "Material_2",
+        "name": "素材_2",
         "order": 60,
         "parentId": 40,
         "scrollX": 640.4444444444445,
@@ -372,7 +372,7 @@
     {
         "id": 42,
         "expanded": false,
-        "name": "Material_2",
+        "name": "素材_2",
         "order": 61,
         "parentId": 40,
         "scrollX": 1131,
@@ -381,7 +381,7 @@
     {
         "id": 43,
         "expanded": false,
-        "name": "Material_2",
+        "name": "素材_2",
         "order": 62,
         "parentId": 40,
         "scrollX": 0,
@@ -390,7 +390,7 @@
     {
         "id": 44,
         "expanded": false,
-        "name": "Material_2",
+        "name": "素材_2",
         "order": 63,
         "parentId": 40,
         "scrollX": 0,
@@ -408,7 +408,7 @@
     {
         "id": 46,
         "expanded": true,
-        "name": "Forest of Berna B1F",
+        "name": "Forest of Berna B1F<fixed>",
         "order": 42,
         "parentId": 12,
         "scrollX": 1234,
@@ -417,7 +417,7 @@
     {
         "id": 47,
         "expanded": true,
-        "name": "Berna Forest B2F",
+        "name": "Berna Forest B2F<fixed>",
         "order": 43,
         "parentId": 12,
         "scrollX": 1131,
@@ -426,7 +426,7 @@
     {
         "id": 48,
         "expanded": true,
-        "name": "Berna Forest B3F",
+        "name": "Berna Forest B3F<fixed>",
         "order": 52,
         "parentId": 12,
         "scrollX": 1269,
@@ -435,7 +435,7 @@
     {
         "id": 49,
         "expanded": false,
-        "name": "Material_2",
+        "name": "素材_2",
         "order": 64,
         "parentId": 40,
         "scrollX": 0,
@@ -489,7 +489,7 @@
     {
         "id": 55,
         "expanded": true,
-        "name": "Material",
+        "name": "素材",
         "order": 68,
         "parentId": 53,
         "scrollX": 822.5,
@@ -498,7 +498,7 @@
     {
         "id": 56,
         "expanded": false,
-        "name": "Material_3",
+        "name": "素材_3",
         "order": 69,
         "parentId": 55,
         "scrollX": 1233.75,
@@ -507,7 +507,7 @@
     {
         "id": 57,
         "expanded": false,
-        "name": "Material_3",
+        "name": "素材_3",
         "order": 70,
         "parentId": 55,
         "scrollX": 836.5,
@@ -516,7 +516,7 @@
     {
         "id": 58,
         "expanded": false,
-        "name": "Material_3",
+        "name": "素材_3",
         "order": 71,
         "parentId": 55,
         "scrollX": 822.5,
@@ -624,7 +624,7 @@
     {
         "id": 70,
         "expanded": true,
-        "name": "Bandit's Hideout Boss",
+        "name": "Bandit's Hideout Boss<fixed>",
         "order": 75,
         "parentId": 53,
         "scrollX": 1124,
@@ -651,7 +651,7 @@
     {
         "id": 73,
         "expanded": true,
-        "name": "Material",
+        "name": "素材",
         "order": 79,
         "parentId": 71,
         "scrollX": 822.5,
@@ -660,7 +660,7 @@
     {
         "id": 74,
         "expanded": false,
-        "name": "Material_4",
+        "name": "素材_4",
         "order": 80,
         "parentId": 73,
         "scrollX": 1233.75,
@@ -669,7 +669,7 @@
     {
         "id": 75,
         "expanded": false,
-        "name": "Material_4",
+        "name": "素材_4",
         "order": 81,
         "parentId": 73,
         "scrollX": 816,
@@ -714,7 +714,7 @@
     {
         "id": 80,
         "expanded": false,
-        "name": "Material_4",
+        "name": "素材_4",
         "order": 82,
         "parentId": 73,
         "scrollX": 816,
@@ -741,7 +741,7 @@
     {
         "id": 83,
         "expanded": true,
-        "name": "Material",
+        "name": "素材",
         "order": 93,
         "parentId": 81,
         "scrollX": 822.5,
@@ -750,7 +750,7 @@
     {
         "id": 84,
         "expanded": false,
-        "name": "Material_5",
+        "name": "素材_5",
         "order": 94,
         "parentId": 83,
         "scrollX": 640.4444444444445,
@@ -759,7 +759,7 @@
     {
         "id": 85,
         "expanded": false,
-        "name": "Material_5",
+        "name": "素材_5",
         "order": 95,
         "parentId": 83,
         "scrollX": 640.4444444444445,
@@ -768,7 +768,7 @@
     {
         "id": 86,
         "expanded": false,
-        "name": "Material_5",
+        "name": "素材_5",
         "order": 96,
         "parentId": 83,
         "scrollX": 640.4444444444445,
@@ -822,7 +822,7 @@
     {
         "id": 92,
         "expanded": false,
-        "name": "Material_3",
+        "name": "素材_3",
         "order": 72,
         "parentId": 55,
         "scrollX": 1131,
@@ -849,7 +849,7 @@
     {
         "id": 95,
         "expanded": false,
-        "name": "Material",
+        "name": "素材",
         "order": 106,
         "parentId": 93,
         "scrollX": 697.5,
@@ -993,7 +993,7 @@
     {
         "id": 111,
         "expanded": false,
-        "name": "Material_4",
+        "name": "素材_4",
         "order": 83,
         "parentId": 73,
         "scrollX": 1233.75,
@@ -1092,7 +1092,7 @@
     {
         "id": 122,
         "expanded": false,
-        "name": "Material_4",
+        "name": "素材_4",
         "order": 85,
         "parentId": 73,
         "scrollX": 816,
