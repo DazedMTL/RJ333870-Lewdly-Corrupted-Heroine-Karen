@@ -246,9 +246,9 @@ var Nore;
     Window_MenuCommand.prototype.addOriginalCommands = function () {
         _Window_MenuCommand_prototype_addOriginalCommands.call(this);
         //this.addCommand('足元', "foot", EventArranger.hasFootEvent($gamePlayer.x, $gamePlayer.y));
-        this.addCommand('ステータス', "status", true);
-        this.addCommand('パワーアップ', "powerup", $gameSwitches.value(22));
-        this.addCommand('冒険の記録', "history", $gameSwitches.value(22));
+        this.addCommand('Status', "status", true);
+        this.addCommand('Enhance', "powerup", $gameSwitches.value(22));
+        this.addCommand('Record', "history", $gameSwitches.value(22));
     };
     var _Window_MenuCommand_prototype_isSaveEnabled = Window_MenuCommand.prototype.isSaveEnabled;
     Window_MenuCommand.prototype.isSaveEnabled = function () {
@@ -336,7 +336,7 @@ var Nore;
         Window_SimpleQuest.prototype.drawTitle = function () {
             var y = 0;
             this.changeTextColor(ColorManager.systemColor());
-            this.drawText('受注中のクエスト', 20, y, 200, 'left');
+            this.drawText('Quest in Progress', 20, y, 200, 'left');
         };
         Window_SimpleQuest.prototype.resetFontSettings = function () {
             this.contents.fontFace = $gameSystem.mainFontFace();
@@ -358,7 +358,7 @@ var Nore;
                 this.changeTextColor(ColorManager.normalColor());
                 this.drawText(item.name, textX, y, 220, 'left');
                 this.changeTextColor(ColorManager.crisisColor());
-                this.drawText('報告可能', textX + 215, y, 110, 'right');
+                this.drawText('Report', textX + 215, y, 110, 'right');
                 y += 31;
             }
             var list = $gameSystem.questManager().list();
@@ -694,13 +694,13 @@ var Nore;
             this._itemWindow.redrawCurrentItem();
         };
         Scene_ItemRogue.prototype.createLabel = function () {
-            var label1 = new Window_Label('Shift→ソート', 580, 670);
+            var label1 = new Window_Label('Shift→Sort', 580, 670);
             this.addWindow(label1);
-            var labe2 = new Window_Label2('どのアイテムに使いますか？', 180, 10);
+            var labe2 = new Window_Label2('Which item do you use it for?', 180, 10);
             this.addWindow(labe2);
             this._labe2 = labe2;
             this._labe2.hide();
-            var labe3 = new Window_Label2('どのアイテムを入れますか？', 180, 10);
+            var labe3 = new Window_Label2('Which item do you put in?', 180, 10);
             this.addWindow(labe3);
             this._labe3 = labe3;
             this._labe3.hide();
@@ -733,7 +733,7 @@ var Nore;
             var rect = this.baseTextRect();
             this.contents.clear();
             //this.drawTextEx(this._item.item().description, rect.x, rect.y, rect.width);
-            this.drawText('箱の中身', 0, 0, 400, 'center');
+            this.drawText('Box Contents', 0, 0, 400, 'center');
             var itemList = this._item.box().items();
             for (var i = 0; i < itemList.length; i++) {
                 this.drawItem(i, itemList[i]);
@@ -932,29 +932,29 @@ var Nore;
             var isRogue = $gameMap.isRogue();
             var isStay = this._item.isStay();
             if (this._item == this._footItem) {
-                this.addCommand('拾う', ItemCommand.pickup, !$gameParty._inventory.isMax(), null);
+                this.addCommand('Pick Up', ItemCommand.pickup, !$gameParty._inventory.isMax(), null);
             }
             else {
                 if (this._item.isWeapon()) {
                     if (this.actor().isEquipped(this._item)) {
-                        this.addCommand('外す', ItemCommand.discardWeapon, true, null);
+                        this.addCommand('Discard', ItemCommand.discardWeapon, true, null);
                     }
                     else {
-                        this.addCommand('装備する', ItemCommand.equip, true, null);
+                        this.addCommand('Equip', ItemCommand.equip, true, null);
                     }
                 }
                 if (this._item.isArmor() && !this._item.isEroItem()) {
                     if (this.actor().isEquipped(this._item)) {
-                        this.addCommand('外す', ItemCommand.discardArmor, true, null);
+                        this.addCommand('Discard', ItemCommand.discardArmor, true, null);
                     }
                     else {
-                        this.addCommand('装備する', ItemCommand.equip, true, null);
+                        this.addCommand('Equip', ItemCommand.equip, true, null);
                     }
                 }
             }
             if (this._item.realItem().id == 38) {
                 // 白旗
-                this.addCommand('使う', ItemCommand.read, true, null);
+                this.addCommand('Use', ItemCommand.read, true, null);
                 return;
             }
             var inRoom = $gamePlayer._room != null;
@@ -962,25 +962,25 @@ var Nore;
                 inRoom = $gamePlayer._room.enemyCount() > 0;
             }
             if (this._item.isPotion()) {
-                this.addCommand('飲む', ItemCommand.drink, true, null);
+                this.addCommand('Drink', ItemCommand.drink, true, null);
             }
             if (this._item.isBox()) {
-                this.addCommand('入れる', ItemCommand.putIn, !this._item.box().isMax(), null);
+                this.addCommand('Insert', ItemCommand.putIn, !this._item.box().isMax(), null);
             }
             if (this._item.isScroll()) {
-                this.addCommand('読む', ItemCommand.read, true, null);
+                this.addCommand('Read', ItemCommand.read, true, null);
             }
             if (this._item.isRod()) {
-                this.addCommand('振る', ItemCommand.swing, inRoom, null);
+                this.addCommand('Swing', ItemCommand.swing, inRoom, null);
             }
             if (!this._item.isRope()) {
-                this.addCommand('投げる', ItemCommand.throw, isRogue && !isStay && inRoom, null);
+                this.addCommand('Throw', ItemCommand.throw, isRogue && !isStay && inRoom, null);
                 if (this._item != this._footItem) {
-                    this.addCommand('置く', ItemCommand.put, isRogue && !isStay, null);
+                    this.addCommand('Place', ItemCommand.put, isRogue && !isStay, null);
                 }
             }
             else {
-                this.addCommand('脱出する', ItemCommand.rope, isRogue, null);
+                this.addCommand('Escape', ItemCommand.rope, isRogue, null);
             }
         };
         Window_ItemCommand.prototype.actor = function () {

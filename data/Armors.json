@@ -138,7 +138,7 @@
     {
         "id": 6,
         "atypeId": 1,
-        "description": "【General Equipment】A tanned leather outfit reinforced with\nsteel plates.",
+        "description": "【General Equipment】A tanned leather outfit reinforced with steel plates.",
         "etypeId": 4,
         "traits": [
             {
@@ -192,7 +192,7 @@
     {
         "id": 8,
         "atypeId": 1,
-        "description": "Underwear that is automatically put on. It's tight, so it\ndigs into the buttocks.",
+        "description": "Underwear that is automatically put on. It's tight, so it digs into the buttocks.",
         "etypeId": 2,
         "traits": [
             {
@@ -543,7 +543,7 @@
     {
         "id": 21,
         "atypeId": 1,
-        "description": "Talisman that increases pregnancy rate to 100%. The speed\nat which the belly grows also becomes faster.",
+        "description": "Talisman that increases pregnancy rate to 100%. The speed at which the belly grows also becomes\nfaster.",
         "etypeId": 5,
         "traits": [
             {
@@ -570,7 +570,7 @@
     {
         "id": 22,
         "atypeId": 1,
-        "description": "Amulet that reduces pregnancy rate to 0% (except during\nevents)",
+        "description": "Amulet that reduces pregnancy rate to 0% (except during events)",
         "etypeId": 5,
         "traits": [
             {
@@ -1407,7 +1407,7 @@
     {
         "id": 53,
         "atypeId": 0,
-        "description": "If the weapon carrying LV of the teleportation device is 1\nor higher, it can be carried. Only one weapon can be\ncarried.",
+        "description": "If the weapon carrying LV of the teleportation device is 1 or higher, it can be carried. Only one\nweapon can be carried.",
         "etypeId": 8,
         "traits": [
             {
@@ -1434,7 +1434,7 @@
     {
         "id": 54,
         "atypeId": 0,
-        "description": "If the weapon carrying LV of the teleportation device is 2\nor higher, it can be carried. Only one weapon can be\ncarried.",
+        "description": "If the weapon carrying LV of the teleportation device is 2 or higher, it can be carried. Only one\nweapon can be carried.",
         "etypeId": 2,
         "traits": [
             {
@@ -1461,7 +1461,7 @@
     {
         "id": 55,
         "atypeId": 0,
-        "description": "If the weapon carrying LV of the teleportation device is 3\nor higher, it can be carried. Only one weapon can be\ncarried.",
+        "description": "If the weapon carrying LV of the teleportation device is 3 or higher, it can be carried. Only one\nweapon can be carried.",
         "etypeId": 2,
         "traits": [
             {
@@ -1488,7 +1488,7 @@
     {
         "id": 56,
         "atypeId": 0,
-        "description": "If the weapon carrying LV of the teleportation device is 4\nor higher, it can be carried. Only one weapon can be\ncarried.",
+        "description": "If the weapon carrying LV of the teleportation device is 4 or higher, it can be carried. Only one\nweapon can be carried.",
         "etypeId": 2,
         "traits": [
             {
@@ -1515,7 +1515,7 @@
     {
         "id": 57,
         "atypeId": 0,
-        "description": "If the weapon carrying LV of the teleportation device is 5\nor higher, it can be carried. Only one weapon can be\ncarried.",
+        "description": "If the weapon carrying LV of the teleportation device is 5 or higher, it can be carried. Only one\nweapon can be carried.",
         "etypeId": 2,
         "traits": [
             {
@@ -1596,7 +1596,7 @@
     {
         "id": 60,
         "atypeId": 0,
-        "description": "You can equip the teleportation device even if your LV is 1\nor higher. This item itself does not disappear and can be\nused multiple times.",
+        "description": "You can equip the teleportation device even if your LV is 1 or higher. This item itself does not\ndisappear and can be used multiple times.",
         "etypeId": 2,
         "traits": [
             {
@@ -1623,7 +1623,7 @@
     {
         "id": 61,
         "atypeId": 0,
-        "description": "You can equip the teleportation device even if your LV is 2\nor higher. This item itself does not disappear and can be\nused multiple times.",
+        "description": "You can equip the teleportation device even if your LV is 2 or higher. This item itself does not\ndisappear and can be used multiple times.",
         "etypeId": 2,
         "traits": [
             {
@@ -1650,7 +1650,7 @@
     {
         "id": 62,
         "atypeId": 0,
-        "description": "You can equip the teleportation device even if your LV is 3\nor higher. This item itself does not disappear and can be\nused multiple times.",
+        "description": "You can equip the teleportation device even if your LV is 3 or higher. This item itself does not\ndisappear and can be used multiple times.",
         "etypeId": 2,
         "traits": [
             {
@@ -1677,7 +1677,7 @@
     {
         "id": 63,
         "atypeId": 0,
-        "description": "You can equip the teleportation device armor if your LV is\n4 or higher. This item itself does not disappear and can be\nused multiple times.",
+        "description": "You can equip the teleportation device armor if your LV is 4 or higher. This item itself does not\ndisappear and can be used multiple times.",
         "etypeId": 2,
         "traits": [
             {
@@ -1704,7 +1704,7 @@
     {
         "id": 64,
         "atypeId": 0,
-        "description": "You can equip the teleportation device armor if your LV is\n5 or higher. This item itself does not disappear and can be\nused multiple times.",
+        "description": "You can equip the teleportation device armor if your LV is 5 or higher. This item itself does not\ndisappear and can be used multiple times.",
         "etypeId": 2,
         "traits": [
             {
@@ -2372,7 +2372,7 @@
     {
         "id": 88,
         "atypeId": 1,
-        "description": "【Accessory】A ring that reduces the likelihood of being\naffected by poison and paralysis.",
+        "description": "【Accessory】A ring that reduces the likelihood of being affected by poison and paralysis.",
         "etypeId": 5,
         "traits": [
             {
@@ -2414,7 +2414,7 @@
     {
         "id": 89,
         "atypeId": 1,
-        "description": "【Accessory】A ring that completely prevents poison and\nparalysis.",
+        "description": "【Accessory】A ring that completely prevents poison and paralysis.",
         "etypeId": 5,
         "traits": [
             {
@@ -2483,7 +2483,7 @@
     {
         "id": 91,
         "atypeId": 1,
-        "description": "【Accessory】A ring that makes it difficult to be affected by\nsleep, silence, confusion, charm, and excitement.",
+        "description": "【Accessory】A ring that makes it difficult to be affected by sleep, silence, confusion, charm, and\nexcitement.",
         "etypeId": 5,
         "traits": [
             {
@@ -2535,7 +2535,7 @@
     {
         "id": 92,
         "atypeId": 1,
-        "description": "【Accessory】A ring that completely prevents sleep, silence,\nconfusion, charm, and agitation.",
+        "description": "【Accessory】A ring that completely prevents sleep, silence, confusion, charm, and agitation.",
         "etypeId": 5,
         "traits": [
             {
@@ -2614,7 +2614,7 @@
     {
         "id": 94,
         "atypeId": 1,
-        "description": "【Accessory】An accessory that increases the chance of\nperforming a preemptive attack.",
+        "description": "【Accessory】An accessory that increases the chance of performing a preemptive attack.",
         "etypeId": 5,
         "traits": [
             {
@@ -2678,7 +2678,7 @@
     {
         "id": 96,
         "atypeId": 1,
-        "description": "【Accessory】An accessory that carries over TP to the next\nbattle.",
+        "description": "【Accessory】An accessory that carries over TP to the next battle.",
         "etypeId": 5,
         "traits": [
             {
@@ -2742,7 +2742,7 @@
     {
         "id": 98,
         "atypeId": 1,
-        "description": "【Accessory】A bracelet that reduces the consumption rate of\nMP.",
+        "description": "【Accessory】A bracelet that reduces the consumption rate of MP.",
         "etypeId": 5,
         "traits": [
             {
@@ -2774,7 +2774,7 @@
     {
         "id": 99,
         "atypeId": 1,
-        "description": "【Accessory】Under the protection of the Four Great Spirits,\ndamage received from fire, water, wind, and earth attribute\nattacks is reduced by half.",
+        "description": "【Accessory】Under the protection of the Four Great Spirits, damage received from fire, water, wind,\nand earth attribute attacks is reduced by half.",
         "etypeId": 5,
         "traits": [
             {
@@ -3982,7 +3982,7 @@
     {
         "id": 143,
         "atypeId": 0,
-        "description": "Obtain darkness equal to the number of enemies multiplied\nby 100 upon defeat.",
+        "description": "Obtain darkness equal to the number of enemies multiplied by 100 upon defeat.",
         "etypeId": 2,
         "traits": [
             {
@@ -4171,7 +4171,7 @@
     {
         "id": 150,
         "atypeId": 0,
-        "description": "In the case of humans, the pregnancy period of 10 months\nbecomes 3 days.",
+        "description": "In the case of humans, the pregnancy period of 10 months becomes 3 days.",
         "etypeId": 2,
         "traits": [
             {
@@ -4198,7 +4198,7 @@
     {
         "id": 151,
         "atypeId": 0,
-        "description": "When covered in semen, you gain 1% of the experience points\nneeded for the next level.",
+        "description": "When covered in semen, you gain 1% of the experience points needed for the next level.",
         "etypeId": 2,
         "traits": [
             {
@@ -4387,7 +4387,7 @@
     {
         "id": 158,
         "atypeId": 0,
-        "description": "After the defeat rape, you can continue the adventure only\nonce. (Boss battles are not allowed)",
+        "description": "After the defeat rape, you can continue the adventure only once. (Boss battles are not allowed)",
         "etypeId": 2,
         "traits": [
             {
@@ -4414,7 +4414,7 @@
     {
         "id": 159,
         "atypeId": 0,
-        "description": "After the defeat rape, you can continue the adventure one\nmore time.",
+        "description": "After the defeat rape, you can continue the adventure one more time.",
         "etypeId": 2,
         "traits": [
             {
@@ -5143,7 +5143,7 @@
     {
         "id": 186,
         "atypeId": 0,
-        "description": "When throwing weapons and armor, the damage becomes 70% of\na normal attack.",
+        "description": "When throwing weapons and armor, the damage becomes 70% of a normal attack.",
         "etypeId": 2,
         "traits": [
             {
@@ -5629,7 +5629,7 @@
     {
         "id": 204,
         "atypeId": 0,
-        "description": "A collar that Mavis has put on to make them swear loyalty.\nIt cannot be removed because it is cursed.",
+        "description": "A collar that Mavis has put on to make them swear loyalty. It cannot be removed because it is\ncursed.",
         "etypeId": 2,
         "traits": [
             {
@@ -5872,7 +5872,7 @@
     {
         "id": 213,
         "atypeId": 0,
-        "description": "A special mark that cannot be erased, branded on me when I\nwas sold as a sex slave.",
+        "description": "A special mark that cannot be erased, branded on me when I was sold as a sex slave.",
         "etypeId": 2,
         "traits": [
             {
@@ -5899,7 +5899,7 @@
     {
         "id": 214,
         "atypeId": 0,
-        "description": "A branding mark that indicates being impregnated by\nbandits. There are also cases where one's life is ruined due\nto the humiliating wording.",
+        "description": "A branding mark that indicates being impregnated by bandits. There are also cases where one's life\nis ruined due to the humiliating wording.",
         "etypeId": 2,
         "traits": [
             {
@@ -5926,7 +5926,7 @@
     {
         "id": 215,
         "atypeId": 0,
-        "description": "Proof of becoming a Goblin's breeding bag. In society,\nthose with this brand are scorned.",
+        "description": "Proof of becoming a Goblin's breeding bag. In society, those with this brand are scorned.",
         "etypeId": 2,
         "traits": [
             {
@@ -6088,7 +6088,7 @@
     {
         "id": 221,
         "atypeId": 0,
-        "description": "A penis starts growing. You become able to have sex with\nColette.",
+        "description": "A penis starts growing. You become able to have sex with Colette.",
         "etypeId": 2,
         "traits": [
             {
@@ -8275,7 +8275,7 @@
     {
         "id": 302,
         "atypeId": 0,
-        "description": "Clothes commonly worn by women when engaging in\nprostitution.",
+        "description": "Clothes commonly worn by women when engaging in prostitution.",
         "etypeId": 2,
         "traits": [
             {
@@ -13648,7 +13648,7 @@
     {
         "id": 501,
         "atypeId": 0,
-        "description": "The output LV of the teleportation device increases,\nallowing for teleportation to faraway or deep locations.",
+        "description": "The output LV of the teleportation device increases, allowing for teleportation to faraway or deep\nlocations.",
         "etypeId": 2,
         "traits": [
             {
@@ -13675,7 +13675,7 @@
     {
         "id": 502,
         "atypeId": 0,
-        "description": "The output LV of the teleportation device increases,\nallowing for teleportation to faraway or deep locations.",
+        "description": "The output LV of the teleportation device increases, allowing for teleportation to faraway or deep\nlocations.",
         "etypeId": 2,
         "traits": [
             {
@@ -13702,7 +13702,7 @@
     {
         "id": 503,
         "atypeId": 0,
-        "description": "The output LV of the teleportation device increases,\nallowing for teleportation to faraway or deep locations.",
+        "description": "The output LV of the teleportation device increases, allowing for teleportation to faraway or deep\nlocations.",
         "etypeId": 2,
         "traits": [
             {
@@ -13729,7 +13729,7 @@
     {
         "id": 504,
         "atypeId": 0,
-        "description": "The output LV of the teleportation device increases,\nallowing for teleportation to faraway or deep locations.",
+        "description": "The output LV of the teleportation device increases, allowing for teleportation to faraway or deep\nlocations.",
         "etypeId": 2,
         "traits": [
             {
@@ -13756,7 +13756,7 @@
     {
         "id": 505,
         "atypeId": 0,
-        "description": "The output LV of the teleportation device increases,\nallowing for teleportation to faraway or deep locations.",
+        "description": "The output LV of the teleportation device increases, allowing for teleportation to faraway or deep\nlocations.",
         "etypeId": 2,
         "traits": [
             {
@@ -13918,7 +13918,7 @@
     {
         "id": 511,
         "atypeId": 0,
-        "description": "You can bring one LV1 sword that you purchased at the\nweapon shop. No duplicates allowed.",
+        "description": "You can bring one LV1 sword that you purchased at the weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -13945,7 +13945,7 @@
     {
         "id": 512,
         "atypeId": 0,
-        "description": "You can bring one sword up to level 2 that you purchased at\nthe weapon shop. No duplicates allowed.",
+        "description": "You can bring one sword up to level 2 that you purchased at the weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -13972,7 +13972,7 @@
     {
         "id": 513,
         "atypeId": 0,
-        "description": "You can bring one sword up to level 3 that you purchased at\nthe weapon shop. No duplicates allowed.",
+        "description": "You can bring one sword up to level 3 that you purchased at the weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -13999,7 +13999,7 @@
     {
         "id": 514,
         "atypeId": 0,
-        "description": "You can bring one sword up to level 4 that you purchased at\nthe weapon shop. No duplicates allowed.",
+        "description": "You can bring one sword up to level 4 that you purchased at the weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -14026,7 +14026,7 @@
     {
         "id": 515,
         "atypeId": 0,
-        "description": "You can bring one sword up to level 5 that you purchased at\nthe weapon shop. No duplicates allowed.",
+        "description": "You can bring one sword up to level 5 that you purchased at the weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -14053,7 +14053,7 @@
     {
         "id": 516,
         "atypeId": 0,
-        "description": "The amount of G that can be obtained from treasure chests\nincreases by an additional 20%.",
+        "description": "The amount of G that can be obtained from treasure chests increases by an additional 20%.",
         "etypeId": 2,
         "traits": [
             {
@@ -14080,7 +14080,7 @@
     {
         "id": 517,
         "atypeId": 0,
-        "description": "The amount of G that can be obtained from treasure chests\nincreases by an additional 20%.",
+        "description": "The amount of G that can be obtained from treasure chests increases by an additional 20%.",
         "etypeId": 2,
         "traits": [
             {
@@ -14188,7 +14188,7 @@
     {
         "id": 521,
         "atypeId": 0,
-        "description": "You can bring one LV1 ring that you purchased at the weapon\nshop. No duplicates allowed.",
+        "description": "You can bring one LV1 ring that you purchased at the weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -14215,7 +14215,7 @@
     {
         "id": 522,
         "atypeId": 0,
-        "description": "You can bring one ring up to level 2 that you purchased at\nthe weapon shop. No duplicates allowed.",
+        "description": "You can bring one ring up to level 2 that you purchased at the weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -14242,7 +14242,7 @@
     {
         "id": 523,
         "atypeId": 0,
-        "description": "You can bring one ring up to level 3 that you purchased at\nthe weapon shop. No duplicates allowed.",
+        "description": "You can bring one ring up to level 3 that you purchased at the weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -14269,7 +14269,7 @@
     {
         "id": 524,
         "atypeId": 0,
-        "description": "You can bring one ring up to level 4 that you purchased at\nthe weapon shop. No duplicates allowed.",
+        "description": "You can bring one ring up to level 4 that you purchased at the weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -14296,7 +14296,7 @@
     {
         "id": 525,
         "atypeId": 0,
-        "description": "You can bring one ring up to level 5 that you purchased at\nthe weapon shop. No duplicates allowed.",
+        "description": "You can bring one ring up to level 5 that you purchased at the weapon shop. No duplicates allowed.",
         "etypeId": 2,
         "traits": [
             {
@@ -14431,7 +14431,7 @@
     {
         "id": 530,
         "atypeId": 0,
-        "description": "You can carry throwing weapons, such as daggers.\" \"There is\nno need to purchase a dagger.",
+        "description": "You can carry throwing weapons, such as daggers.\" \"There is no need to purchase a dagger.",
         "etypeId": 2,
         "traits": [
             {
@@ -14998,7 +14998,7 @@
     {
         "id": 551,
         "atypeId": 0,
-        "description": "You can bring the 'Blow Away Wand (3)' with you when\nstarting the dungeon.",
+        "description": "You can bring the 'Blow Away Wand (3)' with you when starting the dungeon.",
         "etypeId": 2,
         "traits": [
             {
@@ -15025,7 +15025,7 @@
     {
         "id": 552,
         "atypeId": 0,
-        "description": "At the start of the dungeon, you can bring a 'Staff of\nConfusion (3)' with you.",
+        "description": "At the start of the dungeon, you can bring a 'Staff of Confusion (3)' with you.",
         "etypeId": 2,
         "traits": [
             {
@@ -15052,7 +15052,7 @@
     {
         "id": 553,
         "atypeId": 0,
-        "description": "At the start of the dungeon, you can bring a 'Stun Wand\n(3)' with you.",
+        "description": "At the start of the dungeon, you can bring a 'Stun Wand (3)' with you.",
         "etypeId": 2,
         "traits": [
             {
@@ -15079,7 +15079,7 @@
     {
         "id": 554,
         "atypeId": 0,
-        "description": "At the start of the dungeon, you can bring a 'Sleep Staff\n(3)' with you.",
+        "description": "At the start of the dungeon, you can bring a 'Sleep Staff (3)' with you.",
         "etypeId": 2,
         "traits": [
             {
@@ -15106,7 +15106,7 @@
     {
         "id": 555,
         "atypeId": 0,
-        "description": "At the start of the dungeon, you can bring a 'Staff of Swap\n(3)' with you.",
+        "description": "At the start of the dungeon, you can bring a 'Staff of Swap (3)' with you.",
         "etypeId": 2,
         "traits": [
             {
@@ -16321,7 +16321,7 @@
     {
         "id": 600,
         "atypeId": 12,
-        "description": "I used to be the captain of the Holy Knights, but that's\nall in the past...",
+        "description": "I used to be the captain of the Holy Knights, but that's all in the past...",
         "etypeId": 2,
         "traits": [
             {
@@ -16359,7 +16359,7 @@
         ],
         "iconIndex": 416,
         "name": "LV1 Hero",
-        "note": "\n<hint:闇のLVが１になった>\n<yowai>",
+        "note": "\n<hint:Darkness LV has become 1.>\n<yowai>",
         "params": [
             0,
             0,
@@ -16386,7 +16386,7 @@
         ],
         "iconIndex": 417,
         "name": "Apprentice Hero",
-        "note": "<hintId:601>\n<hint:闇のLVがLV10になった>\n<yowai>",
+        "note": "<hintId:601>\n<hint:The darkness level has reached level 10.>\n<yowai>",
         "params": [
             0,
             0,
@@ -16413,7 +16413,7 @@
         ],
         "iconIndex": 1410,
         "name": "Veteran Hero",
-        "note": "<hintId:602>\n<hint:闇のLVがLV30になった>",
+        "note": "<hintId:602>\n<hint:The darkness level has reached level 30.>",
         "params": [
             0,
             0,
@@ -16429,7 +16429,7 @@
     {
         "id": 604,
         "atypeId": 12,
-        "description": "As a seasoned hero, they will once again be known even in\nSodom.",
+        "description": "As a seasoned hero, they will once again be known even in Sodom.",
         "etypeId": 2,
         "traits": [
             {
@@ -16440,7 +16440,7 @@
         ],
         "iconIndex": 1728,
         "name": "The Legendary Hero",
-        "note": "<hintId:603>\n<hint:闇のLVがLV50になった>",
+        "note": "<hintId:603>\n<hint:The darkness level has reached level 50.>",
         "params": [
             0,
             0,
@@ -16467,7 +16467,7 @@
         ],
         "iconIndex": 1424,
         "name": "Legendary Hero",
-        "note": "<hintId:604>\n<hint:闇のLVがLV75になった>",
+        "note": "<hintId:604>\n<hint:The darkness level has reached level 75.>",
         "params": [
             0,
             0,
@@ -16494,7 +16494,7 @@
         ],
         "iconIndex": 1438,
         "name": "Dark Lord",
-        "note": "<hintId:605>\n<hint:闇のLVがLV99になった>",
+        "note": "<hintId:605>\n<hint:The darkness level has reached level 99.>",
         "params": [
             0,
             0,
@@ -16548,7 +16548,7 @@
         ],
         "iconIndex": 334,
         "name": "Monster Hunter",
-        "note": "<hintId:601>\n<hint:戦闘に勝利した>",
+        "note": "<hintId:601>\n<hint:Victory in battle.>",
         "params": [
             0,
             0,
@@ -16575,7 +16575,7 @@
         ],
         "iconIndex": 334,
         "name": "Devil Hunter",
-        "note": "<hintId:608>\n<hint:戦闘に１０回勝利した>",
+        "note": "<hintId:608>\n<hint:Won 10 battles.>",
         "params": [
             0,
             0,
@@ -16602,7 +16602,7 @@
         ],
         "iconIndex": 407,
         "name": "Special Class Knight",
-        "note": "<hintId:609>\n<hint:戦闘に５０回勝利した>",
+        "note": "<hintId:609>\n<hint:Won 50 battles.>",
         "params": [
             0,
             0,
@@ -16710,7 +16710,7 @@
         ],
         "iconIndex": 1058,
         "name": "Copper Grade",
-        "note": "<hintId:601>\n<hint:クエストを１つこなした>\n<yowai>",
+        "note": "<hintId:601>\n<hint:Completed one quest.>\n<yowai>",
         "params": [
             0,
             0,
@@ -16737,7 +16737,7 @@
         ],
         "iconIndex": 1071,
         "name": "Silver Grade",
-        "note": "<hintId:614>\n<hint:クエストを３つこなした>",
+        "note": "<hintId:614>\n<hint:Completed three quests.>",
         "params": [
             0,
             0,
@@ -16764,7 +16764,7 @@
         ],
         "iconIndex": 1058,
         "name": "Gold Rank",
-        "note": "<hintId:615>\n<hint:クエストを５つこなした>",
+        "note": "<hintId:615>\n<hint:Completed five quests.>",
         "params": [
             0,
             0,
@@ -16791,7 +16791,7 @@
         ],
         "iconIndex": 1059,
         "name": "Platinum Rank",
-        "note": "<hintId:616>\n<hint:星５のクエストをこなした>",
+        "note": "<hintId:616>\n<hint:Completed a 5-star quest.>",
         "params": [
             0,
             0,
@@ -16861,7 +16861,7 @@
     {
         "id": 620,
         "atypeId": 12,
-        "description": "In the city of Sodom, there are quite a few wealthy\npeople.",
+        "description": "In the city of Sodom, there are quite a few wealthy people.",
         "etypeId": 2,
         "traits": [
             {
@@ -16872,7 +16872,7 @@
         ],
         "iconIndex": 634,
         "name": "Rich",
-        "note": "<hintId:601>\n<hint:10000Gを所持する>",
+        "note": "<hintId:601>\n<hint:Possessing 10,000G.>",
         "params": [
             0,
             0,
@@ -16888,7 +16888,7 @@
     {
         "id": 621,
         "atypeId": 12,
-        "description": "In the city of Sodom, there are quite a few wealthy\npeople.",
+        "description": "In the city of Sodom, there are quite a few wealthy people.",
         "etypeId": 2,
         "traits": [
             {
@@ -16899,7 +16899,7 @@
         ],
         "iconIndex": 634,
         "name": "Wealthy",
-        "note": "<hintId:620>\n<hint:50000Gを所持する>",
+        "note": "<hintId:620>\n<hint:Having 50,000G in possession.>",
         "params": [
             0,
             0,
@@ -16926,7 +16926,7 @@
         ],
         "iconIndex": 634,
         "name": "Golden Maw",
-        "note": "<hintId:621>\n<hint:100000Gを所持する>\n<rokudenashi>",
+        "note": "<hintId:621>\n<hint:Having 100,000G in possession.>\n<rokudenashi>",
         "params": [
             0,
             0,
@@ -16980,7 +16980,7 @@
         ],
         "iconIndex": 1,
         "name": "Goblin and Below Hero",
-        "note": "<hintId:601>\n<hint:ゴブリン巣穴で敗北１回>\n<yowai>",
+        "note": "<hintId:601>\n<hint:Defeated once in the Goblin's Lair.>\n<yowai>",
         "params": [
             0,
             0,
@@ -17007,7 +17007,7 @@
         ],
         "iconIndex": 1,
         "name": "Goblin's Breeding Bag",
-        "note": "<hintId:601>\n<hint:ゴブリン巣穴で敗北３回>\n<eroMedal>",
+        "note": "<hintId:601>\n<hint:Defeated three times in the Goblin's Lair.>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17034,7 +17034,7 @@
         ],
         "iconIndex": 1,
         "name": "The hero defeated by bandits",
-        "note": "<hintId:601>\n<hint:山賊のアジトで敗北１回>\n<yowai>",
+        "note": "<hintId:601>\n<hint:Defeated once at the bandit's hideout.>\n<yowai>",
         "params": [
             0,
             0,
@@ -17061,7 +17061,7 @@
         ],
         "iconIndex": 1,
         "name": "Bandit's Dick Sandbag",
-        "note": "<hintId:601>\n<hint:山賊のアジトで敗北３回>\n<eroMedal>",
+        "note": "<hintId:601>\n<hint:Defeated three times at the bandit's hideout.>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17142,7 +17142,7 @@
         ],
         "iconIndex": 2035,
         "name": "Bitch Beginner",
-        "note": "<hintId:601>\n<hint:一般人との経験人数10人以上になった>\n<eroMedal>",
+        "note": "<hintId:601>\n<hint:I have had experiences with more than 10 ordinary people.>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17169,7 +17169,7 @@
         ],
         "iconIndex": 2035,
         "name": "Elite Bitch",
-        "note": "<hintId:630>\n<hint:一般人との経験人数50人以上になった>\n<eroMedal>",
+        "note": "<hintId:630>\n<hint:I have had experiences with over 50 ordinary people.>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17196,7 +17196,7 @@
         ],
         "iconIndex": 2035,
         "name": "Everyone's Meat Dish",
-        "note": "<hintId:630>\n<hint:一般人との経験人数100人以上になった>\n<eroMedal>",
+        "note": "<hintId:630>\n<hint:I have had experiences with over 100 ordinary people.>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17212,7 +17212,7 @@
     {
         "id": 633,
         "atypeId": 12,
-        "description": "Derogatory term for a woman who has been forced to give\nbirth",
+        "description": "Derogatory term for a woman who has been forced to give birth",
         "etypeId": 2,
         "traits": [
             {
@@ -17223,7 +17223,7 @@
         ],
         "iconIndex": 2035,
         "name": "Sodom Church Debut",
-        "note": "<hintId:601>\n<hint:ソドムにて出産を行った>\n<eroMedal>",
+        "note": "<hintId:601>\n<hint:Gave birth in Sodom.>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17250,7 +17250,7 @@
         ],
         "iconIndex": 2035,
         "name": "Sodom's Seed Disposal Site",
-        "note": "<hintId:633>\n<hint:ソドムにて5回出産を行った>\n<eroMedal>",
+        "note": "<hintId:633>\n<hint:Gave birth five times in Sodom.>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17277,7 +17277,7 @@
         ],
         "iconIndex": 541,
         "name": "Priest's Slave",
-        "note": "<hintId:601>\n<hint:神父にフェラをする>\n<eroMedal>",
+        "note": "<hintId:601>\n<hint:Performing fellatio on a priest.>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17304,7 +17304,7 @@
         ],
         "iconIndex": 541,
         "name": "Priest's Impregnation Slave",
-        "note": "<hintId:635>\n<hint:神父と種付けセックスをする>\n<eroMedal>",
+        "note": "<hintId:635>\n<hint:Having impregnation sex with a priest.>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17331,7 +17331,7 @@
         ],
         "iconIndex": 2035,
         "name": "The Priest's Pregnant Bride",
-        "note": "<hintId:636>\n<hint:神父の子を出産する>\n<eroMedal>",
+        "note": "<hintId:636>\n<hint:Giving birth to the child of a priest.>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17358,7 +17358,7 @@
         ],
         "iconIndex": 2028,
         "name": "Pacifier Hero",
-        "note": "<hintId:601>\n<hint:フェラ経験20回以上>\n<eroMedal>",
+        "note": "<hintId:601>\n<hint:More than 20 experiences of fellatio>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17385,7 +17385,7 @@
         ],
         "iconIndex": 2035,
         "name": "Sodom's Pregnant Womb",
-        "note": "<hintId:601>\n<hint:ソドムにて10回出産を行った>\n<eroMedal>\n<order:634>",
+        "note": "<hintId:601>\n<hint:I gave birth 10 times in Sodom.>\n<eroMedal>\n<order:634>",
         "params": [
             0,
             0,
@@ -17439,7 +17439,7 @@
         ],
         "iconIndex": 404,
         "name": "Sodom's High-Class Courtesan",
-        "note": "<hintId:601>\n<hint:高級娼館で働く>\n<eroMedal>",
+        "note": "<hintId:601>\n<hint:Working at a high-class brothel.>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17466,7 +17466,7 @@
         ],
         "iconIndex": 404,
         "name": "Sodom's Prostitute",
-        "note": "<hintId:601>\n<hint:安売春宿で働く>\n<eroMedal>",
+        "note": "<hintId:601>\n<hint:Working at a brothel.>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17493,7 +17493,7 @@
         ],
         "iconIndex": 2107,
         "name": "Mavis-sama's slave",
-        "note": "<hintId:601>\n<hint:メイヴィスの奴隷になる>\n<eroMedal>",
+        "note": "<hintId:601>\n<hint:Become Mavis' slave.>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17509,7 +17509,7 @@
     {
         "id": 644,
         "atypeId": 12,
-        "description": "The woman who had a one-night stand with the homeless old\nman",
+        "description": "The woman who had a one-night stand with the homeless old man",
         "etypeId": 2,
         "traits": [
             {
@@ -17520,7 +17520,7 @@
         ],
         "iconIndex": 1,
         "name": "The Lowest Rung Woman",
-        "note": "<hintId:601>\n<hint:浮浪者とお泊りセックスをする>\n<eroMedal>",
+        "note": "<hintId:601>\n<hint:Having sex with a homeless person.>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17536,7 +17536,7 @@
     {
         "id": 645,
         "atypeId": 12,
-        "description": "Being used as a toilet by a homeless old man in two\ndifferent ways.",
+        "description": "Being used as a toilet by a homeless old man in two different ways.",
         "etypeId": 2,
         "traits": [
             {
@@ -17547,7 +17547,7 @@
         ],
         "iconIndex": 1,
         "name": "Vagrant Toilet Woman",
-        "note": "<hintId:601>\n<hint:浮浪者の小便を膣で受け止める>\n<eroMedal>",
+        "note": "<hintId:601>\n<hint:Receiving a vagrant's urine with the vagina>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17628,7 +17628,7 @@
         ],
         "iconIndex": 1993,
         "name": "Newbie Milk Cow",
-        "note": "<hint:男相手に授乳する>\n<hintId:601>\n<eroMedal>",
+        "note": "<hint:Breastfeeding a man.>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17655,7 +17655,7 @@
         ],
         "iconIndex": 1993,
         "name": "Veteran Milk Cow",
-        "note": "<hintId:648>\n<hint:男相手に５回授乳する>\n<eroMedal>",
+        "note": "<hintId:648>\n<hint:Breastfeed the man five times.>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17682,7 +17682,7 @@
         ],
         "iconIndex": 2055,
         "name": "Rookie Mom Hero",
-        "note": "<hint:託児所へいく>\n<eroMedal>",
+        "note": "<hint:Going to the daycare center.>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17709,7 +17709,7 @@
         ],
         "iconIndex": 1994,
         "name": "Sodom's Milk Server",
-        "note": "<hintId:649>\n<hint:男相手に１０回授乳する>\n<eroMedal>\n<order:649>",
+        "note": "<hintId:649>\n<hint:Breastfeed the man 10 times.>\n<eroMedal>\n<order:649>",
         "params": [
             0,
             0,
@@ -17736,7 +17736,7 @@
         ],
         "iconIndex": 1993,
         "name": "Wet Nurse Apprentice",
-        "note": "<hint:授乳イベントで母乳を獲得する>\n<eroMedal>",
+        "note": "<hint:Obtain breast milk during the breastfeeding event.>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17763,7 +17763,7 @@
         ],
         "iconIndex": 1993,
         "name": "Veteran nanny",
-        "note": "<hintId:652>\n<hint:授乳イベントで母乳を５回獲得する>\n<eroMedal>",
+        "note": "<hintId:652>\n<hint:Obtain breast milk 5 times during the breastfeeding event.>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17817,7 +17817,7 @@
         ],
         "iconIndex": 2003,
         "name": "Newbie Pregnant Woman",
-        "note": "<hint:孕み袋イベント以外で妊娠する>\n<hintId:601>\n<eroMedal>",
+        "note": "<hint:Getting pregnant outside of the pregnancy event>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17844,7 +17844,7 @@
         ],
         "iconIndex": 2003,
         "name": "Experienced Pregnant Woman",
-        "note": "<hint:孕み袋イベント以外で３回妊娠する>\n<hintId:601>\n<eroMedal>",
+        "note": "<hint:Get pregnant three times outside of the pregnancy event.>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17871,7 +17871,7 @@
         ],
         "iconIndex": 2003,
         "name": "Sodom's Pregnant Princess",
-        "note": "<hint:孕み袋イベント以外で５回妊娠する>\n<hintId:601>\n<eroMedal>",
+        "note": "<hint:Get pregnant five times outside of the pregnancy event.>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17952,7 +17952,7 @@
         ],
         "iconIndex": 2003,
         "name": "Bandit's Share, Impregnated Woman",
-        "note": "<hint:山賊相手に敗北する>\n<hintId:601>\n<eroMedal>",
+        "note": "<hint:Defeated by bandits.>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -17979,7 +17979,7 @@
         ],
         "iconIndex": 2003,
         "name": "Sex slave",
-        "note": "<hint:山賊相手に何度も敗北する>\n<hintId:601>\n<eroMedal>",
+        "note": "<hint:I keep losing to the bandits.>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -18033,7 +18033,7 @@
         ],
         "iconIndex": 2144,
         "name": "Brasella Hero",
-        "note": "<hintId:601>\n<hint:セーラー服上と体操服下を装備する>\n<eroMedal>",
+        "note": "<hintId:601>\n<hint:Equipped with a sailor uniform top and a gym uniform bottom.>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -18060,7 +18060,7 @@
         ],
         "iconIndex": 1998,
         "name": "Human Toilet",
-        "note": "<hint:酒場で便器のバイトをする>\n<hintId:601>\n<eroMedal>",
+        "note": "<hint:Working as a toilet attendant at the bar.>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -18141,7 +18141,7 @@
         ],
         "iconIndex": 2026,
         "name": "Gokkun Master",
-        "note": "<hint:飲んだ精液1000ccで獲得する>\n<hintId:601>\n<eroMedal>",
+        "note": "<hint:Obtain by drinking 1000cc of semen.>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -18168,7 +18168,7 @@
         ],
         "iconIndex": 2026,
         "name": "Milky Bubble Princess",
-        "note": "<hint:ぶっかけ精液1000ccで獲得する>\n<hintId:601>\n<eroMedal>",
+        "note": "<hint:Obtained by receiving a 1000cc semen bukkake.>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -18195,7 +18195,7 @@
         ],
         "iconIndex": 2052,
         "name": "Girl Impregnated by Demons",
-        "note": "<hint:魔物出産1回で獲得する>\n<hintId:601>\n<eroMedal>",
+        "note": "<hint:Obtainable through one monster birth.>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -18222,7 +18222,7 @@
         ],
         "iconIndex": 2052,
         "name": "Monster's Cradle",
-        "note": "<hint:魔物出産3回で獲得する>\n<hintId:601>\n<eroMedal>",
+        "note": "<hint:Obtain by giving birth to monsters 3 times.>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -18276,7 +18276,7 @@
         ],
         "iconIndex": 2080,
         "name": "Penis addiction",
-        "note": "<hint:中だし回数100回で獲得する>\n<hintId:601>\n<eroMedal>",
+        "note": "<hint:Obtained by reaching 100 creampie count.>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -18303,7 +18303,7 @@
         ],
         "iconIndex": 2090,
         "name": "Ikisugi Hero",
-        "note": "<hint:絶頂回数200回で獲得する>\n<hintId:601>\n<eroMedal>",
+        "note": "<hint:Obtained by reaching the climax 200 times.>\n<hintId:601>\n<eroMedal>",
         "params": [
             0,
             0,
@@ -18330,7 +18330,7 @@
         ],
         "iconIndex": 2021,
         "name": "Anal Sex Elite",
-        "note": "<hint:アナルＨ50回で獲得する>\n<hintId:601>\n<eroMedal>\n<analMedal>",
+        "note": "<hint:Obtain by doing anal H 50 times.>\n<hintId:601>\n<eroMedal>\n<analMedal>",
         "params": [
             0,
             0,
@@ -18519,7 +18519,7 @@
         ],
         "iconIndex": 2021,
         "name": "Anal License Master",
-        "note": "<hint:アナル先生に認められる>\n<hintId:601>\n<eroMedal>\n<analMedal>",
+        "note": "<hint:To be acknowledged by Anal-sensei.>\n<hintId:601>\n<eroMedal>\n<analMedal>",
         "params": [
             0,
             0,
@@ -18546,7 +18546,7 @@
         ],
         "iconIndex": 2021,
         "name": "Asshole Student",
-        "note": "<hint:アナル先生から教えを受ける>\n<hintId:601>\n<eroMedal>\n<analMedal>",
+        "note": "<hint:Receiving lessons from Anal-sensei>\n<hintId:601>\n<eroMedal>\n<analMedal>",
         "params": [
             0,
             0,
@@ -23692,7 +23692,7 @@
     {
         "id": 873,
         "atypeId": 0,
-        "description": "You will be able to select nipple type B in the changing\nscene.",
+        "description": "You will be able to select nipple type B in the changing scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -23719,7 +23719,7 @@
     {
         "id": 874,
         "atypeId": 0,
-        "description": "You will be able to choose nipple color C in the changing\nscene.",
+        "description": "You will be able to choose nipple color C in the changing scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -23800,7 +23800,7 @@
     {
         "id": 877,
         "atypeId": 0,
-        "description": "You will be able to choose a character with large breasts\nin the changing scene.",
+        "description": "You will be able to choose a character with large breasts in the changing scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -23827,7 +23827,7 @@
     {
         "id": 878,
         "atypeId": 0,
-        "description": "You will be able to choose small breasts in the changing\nscene.",
+        "description": "You will be able to choose small breasts in the changing scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -23881,7 +23881,7 @@
     {
         "id": 880,
         "atypeId": 0,
-        "description": "You will be able to remove the collar of submission during\nthe changing scene.",
+        "description": "You will be able to remove the collar of submission during the changing scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -23935,7 +23935,7 @@
     {
         "id": 882,
         "atypeId": 0,
-        "description": "You can hide the goblin's branding during the changing\nscene.",
+        "description": "You can hide the goblin's branding during the changing scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -23962,7 +23962,7 @@
     {
         "id": 883,
         "atypeId": 0,
-        "description": "You can hide the burn mark caused by the bandits during the\nchanging scene.",
+        "description": "You can hide the burn mark caused by the bandits during the changing scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -23989,7 +23989,7 @@
     {
         "id": 884,
         "atypeId": 0,
-        "description": "You can hide the branding of the sex slave during the\nchanging scene.",
+        "description": "You can hide the branding of the sex slave during the changing scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -24016,7 +24016,7 @@
     {
         "id": 885,
         "atypeId": 0,
-        "description": "You will be able to remove nipple piercings in the changing\nscene.",
+        "description": "You will be able to remove nipple piercings in the changing scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -24421,7 +24421,7 @@
     {
         "id": 900,
         "atypeId": 9,
-        "description": "The crest bestowed by the priest. Increases the chances of\npregnancy.",
+        "description": "The crest bestowed by the priest. Increases the chances of pregnancy.",
         "etypeId": 2,
         "traits": [
             {
@@ -24432,7 +24432,7 @@
         ],
         "iconIndex": 0,
         "name": "Obscene Mark",
-        "note": "<armor:208>\n<hint:神父とのイベントをすすめる>",
+        "note": "<armor:208>\n<hint:Advance the event with the priest.>",
         "params": [
             0,
             0,
@@ -24459,7 +24459,7 @@
         ],
         "iconIndex": 0,
         "name": "Nipple Piercing",
-        "note": "<armor:210>\n<hint:メイヴィスとのイベントをすすめる>",
+        "note": "<armor:210>\n<hint:Advance the event with Mavis.>",
         "params": [
             2,
             0,
@@ -24475,7 +24475,7 @@
     {
         "id": 902,
         "atypeId": 9,
-        "description": "A piercing attached to the navel by Mark. It cannot be\nremoved because it is cursed.",
+        "description": "A piercing attached to the navel by Mark. It cannot be removed because it is cursed.",
         "etypeId": 2,
         "traits": [
             {
@@ -24486,7 +24486,7 @@
         ],
         "iconIndex": 0,
         "name": "Navel Piercing",
-        "note": "<armor:216>\n<hint:マークとのイベントをすすめる>",
+        "note": "<armor:216>\n<hint:Advance the event with Mark.>",
         "params": [
             0,
             0,
@@ -24502,7 +24502,7 @@
     {
         "id": 903,
         "atypeId": 9,
-        "description": "I got a piercing on my clit while working at a public\nrestroom part-time job. It's cursed, so I can't take it\noff.",
+        "description": "I got a piercing on my clit while working at a public restroom part-time job. It's cursed, so I\ncan't take it off.",
         "etypeId": 2,
         "traits": [
             {
@@ -24513,7 +24513,7 @@
         ],
         "iconIndex": 0,
         "name": "Clipias",
-        "note": "<armor:217>\n<hint:公衆便所になる>",
+        "note": "<armor:217>\n<hint:Becomes a public restroom.>",
         "params": [
             0,
             0,
@@ -24529,7 +24529,7 @@
     {
         "id": 904,
         "atypeId": 9,
-        "description": "The branding that was placed when sold as a sex slave.\nThere is no way to return to being clean again.",
+        "description": "The branding that was placed when sold as a sex slave. There is no way to return to being clean\nagain.",
         "etypeId": 2,
         "traits": [
             {
@@ -24540,7 +24540,7 @@
         ],
         "iconIndex": 0,
         "name": "Branding of the Sex Slave",
-        "note": "<armor:213>\n<hint:山賊に３回敗北する>",
+        "note": "<armor:213>\n<hint:I am defeated by the bandits three times.>",
         "params": [
             0,
             0,
@@ -24556,7 +24556,7 @@
     {
         "id": 905,
         "atypeId": 9,
-        "description": "A branding mark that indicates being impregnated by\nbandits. There are also examples where one's life is ruined\ndue to the shameful wording.",
+        "description": "A branding mark that indicates being impregnated by bandits. There are also examples where one's\nlife is ruined due to the shameful wording.",
         "etypeId": 2,
         "traits": [
             {
@@ -24567,7 +24567,7 @@
         ],
         "iconIndex": 2032,
         "name": "Burn mark by bandits",
-        "note": "<armor:214>\n<hint:山賊相手に敗北する>",
+        "note": "<armor:214>\n<hint:Defeated by bandits.>",
         "params": [
             0,
             0,
@@ -24583,7 +24583,7 @@
     {
         "id": 906,
         "atypeId": 9,
-        "description": "Proof of becoming a Goblin's breeding bag. In society, it\nis said that those with this brand are pitied.",
+        "description": "Proof of becoming a Goblin's breeding bag. In society, it is said that those with this brand are\npitied.",
         "etypeId": 2,
         "traits": [
             {
@@ -24594,7 +24594,7 @@
         ],
         "iconIndex": 0,
         "name": "Goblin's Branding",
-        "note": "<armor:215>\n<hint:ゴブリン相手に２回敗北する>",
+        "note": "<armor:215>\n<hint:I lost twice against the goblins.>",
         "params": [
             0,
             0,
@@ -24664,7 +24664,7 @@
     {
         "id": 909,
         "atypeId": 9,
-        "description": "Collar placed by Mavis. It cannot be removed because it is\ncursed.",
+        "description": "Collar placed by Mavis. It cannot be removed because it is cursed.",
         "etypeId": 2,
         "traits": [
             {
@@ -24675,7 +24675,7 @@
         ],
         "iconIndex": 0,
         "name": "Collar of Subjugation",
-        "note": "<hint:メイヴィスのイベントをすすめる>\n<armor:204>",
+        "note": "<hint:Advance Mavis' event.>\n<armor:204>",
         "params": [
             0,
             0,
@@ -24702,7 +24702,7 @@
         ],
         "iconIndex": 0,
         "name": "Devil's Tail",
-        "note": "<hint:未実装>\n<armor:218>",
+        "note": "<hint:Not implemented>\n<armor:218>",
         "params": [
             0,
             0,
@@ -24729,7 +24729,7 @@
         ],
         "iconIndex": 0,
         "name": "Tattoo of the Sinner",
-        "note": "<hint:未実装>\n<armor:213>",
+        "note": "<hint:Not implemented>\n<armor:213>",
         "params": [
             0,
             0,
@@ -24756,7 +24756,7 @@
         ],
         "iconIndex": 0,
         "name": "Futanari Curse",
-        "note": "<hint:火山の罠宝箱を開ける>\n<armor:221>",
+        "note": "<hint:Opening the volcano trap treasure chest>\n<armor:221>",
         "params": [
             0,
             0,
@@ -24880,7 +24880,7 @@
     {
         "id": 917,
         "atypeId": 11,
-        "description": "I am a woman who sleeps with anyone. Sometimes it becomes a\ncondition for having sex with people in town.",
+        "description": "I am a woman who sleeps with anyone. Sometimes it becomes a condition for having sex with people in\ntown.",
         "etypeId": 2,
         "traits": [
             {
@@ -24891,7 +24891,7 @@
         ],
         "iconIndex": 0,
         "name": "Easy Woman",
-        "note": "<hint:一般人5人以上とセックスをする>",
+        "note": "<hint:Having sex with more than five ordinary people.>",
         "params": [
             0,
             0,
@@ -24907,7 +24907,7 @@
     {
         "id": 918,
         "atypeId": 10,
-        "description": "They have a strong sexual desire and are easily indulged in\npleasure. The dialogue in the sex scenes may change.",
+        "description": "They have a strong sexual desire and are easily indulged in pleasure. The dialogue in the sex scenes\nmay change.",
         "etypeId": 2,
         "traits": [
             {
@@ -24918,7 +24918,7 @@
         ],
         "iconIndex": 0,
         "name": "Promiscuous",
-        "note": "<hint:絶頂回数が１００回を超える>\n<order:916>",
+        "note": "<hint:The number of climaxes exceeds 100.>\n<order:916>",
         "params": [
             0,
             0,
@@ -24934,7 +24934,7 @@
     {
         "id": 919,
         "atypeId": 0,
-        "description": "I feel pleasure in being seen my 'private parts'. The\ndialogue changes during the 'spread open' scene.",
+        "description": "I feel pleasure in being seen my 'private parts'. The dialogue changes during the 'spread open'\nscene.",
         "etypeId": 2,
         "traits": [
             {
@@ -24961,7 +24961,7 @@
     {
         "id": 920,
         "atypeId": 10,
-        "description": "I feel pleasure in being seen naked. I can become naked\nthrough dress-up.",
+        "description": "I feel pleasure in being seen naked. I can become naked through dress-up.",
         "etypeId": 2,
         "traits": [
             {
@@ -24972,7 +24972,7 @@
         ],
         "iconIndex": 0,
         "name": "Exhibitionist",
-        "note": "<hint:酒場でバイトをする>",
+        "note": "<hint:Working part-time at a bar.>",
         "params": [
             0,
             0,
@@ -24988,7 +24988,7 @@
     {
         "id": 921,
         "atypeId": 10,
-        "description": "Experiencing pleasure through the stimulation of shame and\nhumiliation. It becomes a condition for triggering events.",
+        "description": "Experiencing pleasure through the stimulation of shame and humiliation. It becomes a condition for\ntriggering events.",
         "etypeId": 2,
         "traits": [
             {
@@ -24999,7 +24999,7 @@
         ],
         "iconIndex": 0,
         "name": "Masochist",
-        "note": "<hint:メイヴィスのイベントを進める>",
+        "note": "<hint:Advance Mavis' event.>",
         "params": [
             0,
             0,
@@ -25015,7 +25015,7 @@
     {
         "id": 922,
         "atypeId": 10,
-        "description": "They have accepted themselves as a sex slave. It becomes\npossible to wear a sex slave costume.",
+        "description": "They have accepted themselves as a sex slave. It becomes possible to wear a sex slave costume.",
         "etypeId": 2,
         "traits": [
             {
@@ -25026,7 +25026,7 @@
         ],
         "iconIndex": 0,
         "name": "Sex slave",
-        "note": "<hint:メイヴィスのイベントを進める>",
+        "note": "<hint:Advance Mavis' event.>",
         "params": [
             0,
             0,
@@ -25231,7 +25231,7 @@
     {
         "id": 930,
         "atypeId": 0,
-        "description": "I feel pleasure in being impregnated by a man. The lines\nbefore creampie change.",
+        "description": "I feel pleasure in being impregnated by a man. The lines before creampie change.",
         "etypeId": 2,
         "traits": [
             {
@@ -25242,7 +25242,7 @@
         ],
         "iconIndex": 0,
         "name": "×Bandit Gang Rape Desire",
-        "note": "<hint:山賊のアジトで２回負ける>",
+        "note": "<hint:I lost twice at the bandit's hideout.>",
         "params": [
             0,
             0,
@@ -25285,7 +25285,7 @@
     {
         "id": 932,
         "atypeId": 10,
-        "description": "I feel pleasure in being impregnated by a goblin's seed. A\nspecial H event occurs when defeated in a goblin's lair.",
+        "description": "I feel pleasure in being impregnated by a goblin's seed. A special H event occurs when defeated in a\ngoblin's lair.",
         "etypeId": 2,
         "traits": [
             {
@@ -25296,7 +25296,7 @@
         ],
         "iconIndex": 0,
         "name": "Goblin Gangbang Desire",
-        "note": "<hint:ゴブリンの巣穴で３回負ける>",
+        "note": "<hint:Lose three times in the goblin's lair.>",
         "params": [
             0,
             0,
@@ -25420,7 +25420,7 @@
     {
         "id": 937,
         "atypeId": 11,
-        "description": "Their vagina becomes loose, and they can no longer work at\na high-class brothel. Instead, they are able to work at a\ncheap prostitution inn.",
+        "description": "Their vagina becomes loose, and they can no longer work at a high-class brothel. Instead, they are\nable to work at a cheap prostitution inn.",
         "etypeId": 2,
         "traits": [
             {
@@ -25431,7 +25431,7 @@
         ],
         "iconIndex": 0,
         "name": "Loose Man",
-        "note": "<hint:膣締り具合がマイナスで獲得する。>",
+        "note": "<hint:Obtain with a negative vaginal tightness.>",
         "params": [
             0,
             0,
@@ -25447,7 +25447,7 @@
     {
         "id": 938,
         "atypeId": 11,
-        "description": "The vagina has become loose, and there may be changes in\nthe male's reaction during vaginal penetration.",
+        "description": "The vagina has become loose, and there may be changes in the male's reaction during vaginal\npenetration.",
         "etypeId": 2,
         "traits": [
             {
@@ -25458,7 +25458,7 @@
         ],
         "iconIndex": 0,
         "name": "Gaba Man",
-        "note": "<hint:膣締り具合が-99で獲得する。>",
+        "note": "<hint:Obtained with a vaginal tightness level of -99.>",
         "params": [
             0,
             0,
@@ -25474,7 +25474,7 @@
     {
         "id": 939,
         "atypeId": 11,
-        "description": "The anus has become looser and easier to use. It becomes a\ncondition for triggering an event.",
+        "description": "The anus has become looser and easier to use. It becomes a condition for triggering an event.",
         "etypeId": 2,
         "traits": [
             {
@@ -25485,7 +25485,7 @@
         ],
         "iconIndex": 0,
         "name": "Loose Anal",
-        "note": "<hint:アナル締り具合がマイナスで獲得する。>",
+        "note": "<hint:Obtain a negative value for anal tightness.>",
         "params": [
             0,
             0,
@@ -25501,7 +25501,7 @@
     {
         "id": 940,
         "atypeId": 11,
-        "description": "The anus has become loose, and there may be changes in a\nmale's reaction during anal penetration.",
+        "description": "The anus has become loose, and there may be changes in a male's reaction during anal penetration.",
         "etypeId": 2,
         "traits": [
             {
@@ -25512,7 +25512,7 @@
         ],
         "iconIndex": 0,
         "name": "Gabaanal",
-        "note": "<hint:アナル締り具合が-99で獲得する。>",
+        "note": "<hint:Obtained with an anal tightness of -99.>",
         "params": [
             0,
             0,
@@ -25582,7 +25582,7 @@
     {
         "id": 943,
         "atypeId": 0,
-        "description": "There are times when love juices come out during the H\nscene.",
+        "description": "There are times when love juices come out during the H scene.",
         "etypeId": 2,
         "traits": [
             {
@@ -25593,7 +25593,7 @@
         ],
         "iconIndex": 0,
         "name": "×Easily wet",
-        "note": "<hint:膣開発度が１０００で獲得する>",
+        "note": "<hint:Achieve a vaginal development level of 1000.>",
         "params": [
             0,
             0,
@@ -25609,7 +25609,7 @@
     {
         "id": 944,
         "atypeId": 0,
-        "description": "I have become more prone to urination. Specifically, during\ncertain play sessions.",
+        "description": "I have become more prone to urination. Specifically, during certain play sessions.",
         "etypeId": 2,
         "traits": [
             {
@@ -25636,7 +25636,7 @@
     {
         "id": 945,
         "atypeId": 11,
-        "description": "During fellatio scenes, there are times when the\npresentation changes.",
+        "description": "During fellatio scenes, there are times when the presentation changes.",
         "etypeId": 2,
         "traits": [
             {
@@ -25647,7 +25647,7 @@
         ],
         "iconIndex": 0,
         "name": "Sucking Princess",
-        "note": "<hint:フェラ２０回で獲得する>",
+        "note": "<hint:Obtain through 20 blowjobs.>",
         "params": [
             0,
             0,
@@ -25663,7 +25663,7 @@
     {
         "id": 946,
         "atypeId": 0,
-        "description": "I get all flustered during a play where I'm used for\n'that'! The lines change.",
+        "description": "I get all flustered during a play where I'm used for 'that'! The lines change.",
         "etypeId": 2,
         "traits": [
             {
@@ -25674,7 +25674,7 @@
         ],
         "iconIndex": 0,
         "name": "×Chinpō addiction",
-        "note": "<hint:中出し回数１００回で獲得する>",
+        "note": "<hint:Obtained by reaching 100 creampie count.>",
         "params": [
             0,
             0,
@@ -25690,7 +25690,7 @@
     {
         "id": 947,
         "atypeId": 10,
-        "description": "I feel pleasure from the smell of homeless people and\nmonsters. It becomes a condition for triggering the event.",
+        "description": "I feel pleasure from the smell of homeless people and monsters. It becomes a condition for\ntriggering the event.",
         "etypeId": 2,
         "traits": [
             {
@@ -25701,7 +25701,7 @@
         ],
         "iconIndex": 0,
         "name": "Fond of filth",
-        "note": "<hint:モンスター１０匹とのH経験で獲得する>",
+        "note": "<hint:Obtained through H experiences with 10 monsters.>",
         "params": [
             0,
             0,
@@ -25728,7 +25728,7 @@
         ],
         "iconIndex": 0,
         "name": "I love anal",
-        "note": "<hint:アナルセックス２０回で獲得する>",
+        "note": "<hint:Obtain through 20 anal sex sessions.>",
         "params": [
             0,
             0,
@@ -25744,7 +25744,7 @@
     {
         "id": 949,
         "atypeId": 0,
-        "description": "Breast sensitivity is very high. The increase in nipple\ndevelopment level is up by 20%.",
+        "description": "Breast sensitivity is very high. The increase in nipple development level is up by 20%.",
         "etypeId": 2,
         "traits": [
             {
@@ -25755,7 +25755,7 @@
         ],
         "iconIndex": 2016,
         "name": "×Breast Lover",
-        "note": "<hint: 乳首開発度１０００で獲得する>",
+        "note": "<hint:Obtained with Nipple Development Level 1000>",
         "params": [
             0,
             0,
@@ -25782,7 +25782,7 @@
         ],
         "iconIndex": 1993,
         "name": "Breast milk beginning",
-        "note": "<hint:孕み袋イベント以外で妊娠する>",
+        "note": "<hint:Getting pregnant outside of the pregnancy event>",
         "params": [
             0,
             0,
@@ -25809,7 +25809,7 @@
         ],
         "iconIndex": 2003,
         "name": "×Pregnancy toxemia",
-        "note": "<hint:孕み袋イベント以外で３回妊娠する>",
+        "note": "<hint:Get pregnant three times outside of the pregnancy event.>",
         "params": [
             0,
             0,
@@ -25825,7 +25825,7 @@
     {
         "id": 952,
         "atypeId": 0,
-        "description": "I feel pleasure in being impregnated by a man. The lines\nbefore creampie change.",
+        "description": "I feel pleasure in being impregnated by a man. The lines before creampie change.",
         "etypeId": 2,
         "traits": [
             {
@@ -25836,7 +25836,7 @@
         ],
         "iconIndex": 2003,
         "name": "×Impregnation Desire",
-        "note": "<hint:教会で２回出産する>",
+        "note": "<hint:Giving birth twice at the church.>",
         "params": [
             0,
             0,
@@ -25863,7 +25863,7 @@
         ],
         "iconIndex": 0,
         "name": "Cow Desire",
-        "note": "<hint:乳搾りイベントを５回する>",
+        "note": "<hint:Hold the milk squeezing event 5 times.>",
         "params": [
             0,
             0,
