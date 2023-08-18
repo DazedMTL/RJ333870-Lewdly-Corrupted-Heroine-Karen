@@ -103,7 +103,7 @@ var Nore;
             if (action.waitCount() > 0) {
                 event.setDirection(event.calcDir($gamePlayer.x, $gamePlayer.y));
                 AudioManager.playSe({ name: 'Up4', volume: 80, pitch: 100, pan: 0 });
-                Nore.$gameMessageRogue.add('%1は%2の準備を初めた！'.format(event.enemy().name(), action.item().name));
+                Nore.$gameMessageRogue.add('%1 began preparing %2!'.format(event.enemy().name(), action.item().name));
                 action.enemyAction().calcPointList(event);
                 this.spriteset().showEnemyForecastAll();
                 Nore.phaseManager.pushPhase(WaitRogueState, 30);

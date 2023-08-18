@@ -38,9 +38,9 @@ var Nore;
             this.contents.clear();
             this.resetFontSettings();
             this.contents.fontSize = 20;
-            this.drawText('現在の転送装置のLV', 0, 0, 170, 'left');
-            this.drawText('武器LV %1'.format($gameParty.maxStartingWeaponLv()), 20, this.lineHeight(), 170, 'left');
-            this.drawText('防具LV %1'.format($gameParty.maxStartingArmorLv()), 20, this.lineHeight() * 2, 170, 'left');
+            this.drawText('Teleporter LV', 0, 0, 170, 'left');
+            this.drawText('Weapon LV %1'.format($gameParty.maxStartingWeaponLv()), 20, this.lineHeight(), 170, 'left');
+            this.drawText('Armor LV %1'.format($gameParty.maxStartingArmorLv()), 20, this.lineHeight() * 2, 170, 'left');
         };
         Window_Lv.prototype.open = function () {
             this.refresh();
@@ -352,7 +352,7 @@ var Nore;
             this.drawText(price, priceX, rect.y, priceWidth, "right");
             this.changePaintOpacity(true);
             if (this.isSoldOut(item)) {
-                this.drawText('売り切れ', rect.x, rect.y, priceWidth, "left");
+                this.drawText('Sold Out', rect.x, rect.y, priceWidth, "left");
             }
         };
         Window_NoreShopBuy.prototype.isSoldOut = function (item) {

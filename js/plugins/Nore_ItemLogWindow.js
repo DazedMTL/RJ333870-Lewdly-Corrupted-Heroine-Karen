@@ -224,7 +224,7 @@ var Nore;
                 this.contents.textColor = '#ffaadd';
                 this.contents.fontSize = 24;
                 var name = item.name;
-                this.contents.drawText('スキル発動', xx - 20, 0, 500, 30, 'left');
+                this.contents.drawText('Skill Activated!!', xx - 20, 0, 500, 30, 'left');
                 this.contents.textColor = '#ff88aa';
                 this.contents.drawText(name, xx + 150, 0, 500, 30, 'left');
                 this.contents.textColor = '#ffffff';

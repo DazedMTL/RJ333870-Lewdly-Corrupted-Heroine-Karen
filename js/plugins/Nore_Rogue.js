@@ -369,10 +369,10 @@ var Game_Room = /** @class */ (function () {
             Nore.$gameMessageRogue.add(TextManager.emerge.format(event_6.enemy().name()));
         }
         if ($gameMap.isBossFloor()) {
-            Nore.$gameMessageRogue.add('\\C[2]ボスがいるぞ！！');
+            Nore.$gameMessageRogue.add("\\C[2]Boss Encountered!!");
         }
         else if (this.hasElite()) {
-            Nore.$gameMessageRogue.add('\\C[2]エリートがいるぞ！！');
+            Nore.$gameMessageRogue.add('\\C[2]Elite Encountered!!');
         }
     };
     Game_Room.prototype.onEnemyDead = function (x, y) {

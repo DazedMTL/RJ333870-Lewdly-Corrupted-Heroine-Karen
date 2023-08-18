@@ -66,10 +66,10 @@ var Nore;
                 var name = item.name;
                 AudioManager.playSe({ name: 'Chime2', volume: 80, pitch: 100, pan: 0 });
                 if (item.id < 500) {
-                    this.contents.drawText('アクセ差分発動‼︎', xx - 20, 0, 300, 30, 'left');
+                    this.contents.drawText('Effect Activated!!', xx - 20, 0, 300, 30, 'left');
                 }
                 else {
-                    this.contents.drawText('スキル発動‼︎', xx - 20, 0, 300, 30, 'left');
+                    this.contents.drawText('Skill Activated!!', xx - 20, 0, 300, 30, 'left');
                 }
                 this.contents.textColor = '#ffffff';
                 this.contents.fontSize = 30;
