@@ -1018,13 +1018,13 @@ var Nore;
             if (item.realItem().meta['weapon']) {
                 var lv = parseInt(item.realItem().meta['lv']);
                 if (lv > $gameParty.maxStartingWeaponLv()) {
-                    desc += '\n\\C[2]転送装置のLVが足りないため、この武器はもちこめません';
+                    desc += '\n\\C[2]This weapon cannot be carried because the LV is not sufficient.';
                 }
             }
             if (item.realItem().meta['armor']) {
                 var lv = parseInt(item.realItem().meta['lv']);
                 if (lv > $gameParty.maxStartingArmorLv()) {
-                    desc += '\n\\C[2]転送装置のLVが足りないため、この防具はもちこめません';
+                    desc += '\n\\C[2]This armor cannot be carried because the LV is not sufficient.';
                 }
             }
             this.setText(desc);

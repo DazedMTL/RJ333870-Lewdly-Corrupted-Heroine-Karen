@@ -535,12 +535,12 @@ var Nore;
                 this.changeTextColor(ColorManager.normalColor());
                 var rect = this.itemLineRect(index);
                 this.contents.fontSize = 18;
-                var text = item.day + 'Day';
+                var text = 'D' + item.day;
                 if (item.morning) {
-                    text += 'Morning';
+                    text += ' 🌑︎';
                 }
                 else if (item.night) {
-                    text += 'Night';
+                    text += ' ☽︎';
                 }
                 this.drawText(text, rect.x, rect.y, rect.width, 'left');
                 this.contents.fontSize = 24;
@@ -686,7 +686,7 @@ var Nore;
             var width2;
             var actorName = $gameActors.mainActor().name();
             if (result.isClear()) {
-                var base1 = '%1 at %2 Results:';
+                var base1 = '%1 at %2\\C[0] Results:';
                 text1 = base1.format('\\C[6]' + actorName + '\\C[0]', '\\C[2]' + dungeonName);
                 text2 = this.getClearText(result);
                 width1 = this.textWidth(base1.format(actorName, dungeonName));
@@ -766,7 +766,7 @@ var Nore;
         };
         Window_Result.prototype.resetFontSettings = function () {
             this.contents.fontFace = $gameSystem.mainFontFace();
-            this.contents.fontSize = 22;
+            this.contents.fontSize = 16;
             this.resetTextColor();
         };
         Window_Result.prototype.drawDefeatText = function (result, x, y) {
@@ -1928,13 +1928,13 @@ var DungeonResult = /** @class */ (function (_super) {
     });
     DungeonResult.prototype.title = function () {
         if (this.isClear()) {
-            return this.dungeonName() + '(クリア)';
+            return this.dungeonName() + ' (Cleared)';
         }
         else if (this.isRope()) {
-            return this.dungeonName() + '(撤退)';
+            return this.dungeonName() + ' (Withdrew)';
         }
         else {
-            return this.dungeonName() + '(敗北)';
+            return this.dungeonName() + ' (Defeated)';
         }
     };
     DungeonResult.prototype.dungeonName = function () {

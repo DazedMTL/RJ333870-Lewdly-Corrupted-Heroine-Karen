@@ -63,7 +63,7 @@ Window_Options.prototype.statusText = function (index) {
             case 1:
                 return 'A(Movement)';
             case 2:
-                return 'ctrl';
+                return 'Ctrl';
         }
     }
     return _Window_Options_prototype_statusText.call(this, index);

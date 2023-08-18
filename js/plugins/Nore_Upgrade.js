@@ -44,7 +44,8 @@ var Nore;
     Window_Help.prototype.setItem = function (item) {
         if (item && item.meta['skill']) {
             var skill = $dataSkills[parseInt(item.meta['skill'])];
-            this.setText('\\C[6]' + skill.name + '\\C[16]  消費MP:' + '\\C[0]' + skill.mpCost + '\n' + skill.description);
+            this.fittingHeight(3)
+            this.setText('\\C[6]' + skill.name + '\\C[16]  MP Cost: ' + '\\C[0]' + skill.mpCost + '\n' + skill.description);
         }
         else {
             _Window_Help_prototype_setItem.call(this, item);
@@ -165,9 +166,9 @@ var Nore;
             SoundManager.playOk();
             this._upgradeWindow.deactivate();
             var item = this._upgradeWindow.selectedItem();
-            var text = item.name + 'を選択しますか？';
+            var text = 'Select ' + item.name + '?';
             if (item.meta['reset']) {
-                var texts = ['ポイントを振り直します。', 'よろしいですか？'];
+                var texts = ['Reset Points?', 'Confirm?'];
                 this._confirmWindow.setTexts(texts);
             }
             else {

@@ -256,9 +256,9 @@ var Nore;
             this.refresh();
         };
         Window_KigaeCommand.prototype.makeCommandList = function () {
-            this.addCommand('コスチューム', 'cos', true, null);
-            this.addCommand('表情', 'face', true, null);
-            this.addCommand('確定', 'ok', this._canOk, null);
+            this.addCommand('Costume', 'cos', true, null);
+            this.addCommand('Face', 'face', true, null);
+            this.addCommand('Confirm', 'ok', this._canOk, null);
         };
         return Window_KigaeCommand;
     }(Window_Command));

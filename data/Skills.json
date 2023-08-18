@@ -5737,7 +5737,7 @@
             "type": 1,
             "variance": 0
         },
-        "description": "Pass through the enemy and advance 4 squares, dealing\ndamage to the enemies passed through.",
+        "description": "Pass through the enemy and advance 4 squares, dealing damage to all.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 82,

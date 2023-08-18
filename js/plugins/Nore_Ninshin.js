@@ -326,12 +326,12 @@ var Nore;
             this.contents.fontSize = 32;
             this.changeTextColor(ColorManager.systemColor());
             this.drawIcon(2003, 260, 20);
-            this.drawText('妊娠判定', 0, 20, this.innerWidth, 'center');
+            this.drawText('Pregnacy', 0, 20, this.innerWidth, 'center');
             this.contents.fontSize = 16;
             var rate = sikyu.calcTotalNinshinRate();
             this.changeTextColor(ColorManager.normalColor());
             //  this.drawText('妊娠確率 %1％'.format(rate), 0, 90, this.innerWidth, 'center');
-            this.drawText('妊娠確率 %1％'.format(rate), 42, 120, this.innerWidth, 'left');
+            this.drawText('Conception Chance %1％'.format(rate), 42, 120, this.innerWidth, 'left');
             this.changeTextColor(ColorManager.crisisColor());
             this.drawAlwaysNinshin(160, 120);
             this.changeTextColor(ColorManager.normalColor());
@@ -349,13 +349,13 @@ var Nore;
             if (!$gameActors.mainActor().sikyu().isAlwaysNinshin()) {
                 return;
             }
-            this.drawText('(子宝のお守りの効果)', x, y, this.innerWidth, 'left');
+            this.drawText('(Childbirth Amulet Effect)', x, y, this.innerWidth, 'left');
         };
         Window_NinshinCheck.prototype.drawSikyu = function (x, y) {
             //this.drawIcon(2026, x - 36, y);
             this.contents.fontSize = 20;
             this.changeTextColor(ColorManager.systemColor());
-            this.drawText('子宮内の精液', x, y, 200, 'left');
+            this.drawText('Semen in Womb', x, y, 200, 'left');
             this.changeTextColor(ColorManager.normalColor());
             var actor = $gameActors.mainActor();
             y += 40;
@@ -393,7 +393,7 @@ var Nore;
         Window_NinshinCheck.prototype.drawResult = function () {
             var text;
             if (this._isNinshin) {
-                text = '妊娠しました';
+                text = 'Pregnant';
                 this.changeTextColor(ColorManager.deathColor());
                 var y = this._taneoyaIndex * this.lineHeight() + 290;
                 //this.setCursorRect(100, y, 380, this.lineHeight());
@@ -401,7 +401,7 @@ var Nore;
                 this.showTaneoya();
             }
             else {
-                text = 'セーフ';
+                text = 'Safe';
                 this.changeTextColor(ColorManager.crisisColor());
             }
             this.contents.fontSize = 35;
