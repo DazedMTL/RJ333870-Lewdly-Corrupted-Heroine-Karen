@@ -692,6 +692,7 @@ var Nore;
             //this.saveParams();
             this.contents.clear();
             this.drawIcon(404, 0, 0);
+            this.contents.fontSize = 18
             this.drawText('Labor', 35, -2, 150, 'left');
         };
         Window_EroStatus.prototype.standardPadding = function () {

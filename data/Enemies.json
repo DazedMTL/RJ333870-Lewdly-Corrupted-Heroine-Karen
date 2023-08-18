@@ -254,7 +254,7 @@
         ],
         "gold": 5,
         "name": "Thin Goblin",
-        "note": "<desc1:Slowpoke>\n<Slowpoke>\n<rank:1>\n<type:gob>\n<characterName:ETNR_EX076>\n<characterIndex:1>\n<seieki:10>\n<chinpo:goblin_2>\n<ninshin:A>\n<seiekiLifetime:4>\n<nakaType:monster>\n<taneoya:ゴブリン>\n<goblin>",
+        "note": "<desc1:Slowpoke>\n<Slowpoke>\n<rank:1>\n<type:gob>\n<characterName:ETNR_EX076>\n<characterIndex:1>\n<seieki:10>\n<chinpo:goblin_2>\n<ninshin:A>\n<seiekiLifetime:4>\n<nakaType:monster>\n<taneoya:Goblin>\n<goblin>",
         "params": [
             16,
             3,
@@ -400,7 +400,7 @@
         ],
         "gold": 5,
         "name": "Goblin",
-        "note": "<desc1:No special abilities>\n<rank:1>\n<type:gob>\n<characterName:ETNR_EX076>\n<characterIndex:3>\n<seieki:12>\n<eroRate:20>\n<chinpo:goblin_1>\n<ninshin:A>\n<seiekiLifetime:5>\n<nakaType:monster>\n<taneoya:ゴブリン>\n<goblin>",
+        "note": "<desc1:No special abilities>\n<rank:1>\n<type:gob>\n<characterName:ETNR_EX076>\n<characterIndex:3>\n<seieki:12>\n<eroRate:20>\n<chinpo:goblin_1>\n<ninshin:A>\n<seiekiLifetime:5>\n<nakaType:monster>\n<taneoya:Goblin>\n<goblin>",
         "params": [
             17,
             1,
@@ -546,7 +546,7 @@
         ],
         "gold": 5,
         "name": "Elite Goblin",
-        "note": "<desc1:No special abilities>\n<rank:1>\n<type:gob>\n<characterName:ETNR_EX076>\n<characterIndex:2>\n<seieki:10>\n<eroRate:15>\n<elite>\n<chinpo:goblin_1>\n<ninshin:C>\n<seiekiLifetime:5>\n<nakaType:monster>\n<taneoya:ゴブリン>\n<goblin>",
+        "note": "<desc1:No special abilities>\n<rank:1>\n<type:gob>\n<characterName:ETNR_EX076>\n<characterIndex:2>\n<seieki:10>\n<eroRate:15>\n<elite>\n<chinpo:goblin_1>\n<ninshin:C>\n<seiekiLifetime:5>\n<nakaType:monster>\n<taneoya:Goblin>\n<goblin>",
         "params": [
             35,
             1,
@@ -1242,7 +1242,7 @@
         ],
         "gold": 5,
         "name": "Goblins (for erotic experience)",
-        "note": "<desc1:No special abilities>\n<rank:1>\n<type:gob>\n<characterName:$o0096012812525865918>\n<characterIndex:0>\n<eroRate:30>\n<seieki:11>\n<chinpo:goblin_0>\n<ninshin:S>\n<seiekiLifetime:5>\n<keiken>\n<nakaType:monster>\n<taneoya:ゴブリン>\n<goblin>",
+        "note": "<desc1:No special abilities>\n<rank:1>\n<type:gob>\n<characterName:$o0096012812525865918>\n<characterIndex:0>\n<eroRate:30>\n<seieki:11>\n<chinpo:goblin_0>\n<ninshin:S>\n<seiekiLifetime:5>\n<keiken>\n<nakaType:monster>\n<taneoya:Goblin>\n<goblin>",
         "params": [
             8,
             3,
@@ -1369,7 +1369,7 @@
         ],
         "gold": 5,
         "name": "Bandits (For Erotic Experience)",
-        "note": "<desc1:No special abilities>\n<rank:1>\n<type:ban>\n<characterName:mob06>\n<characterIndex:3>\n<eroRate:30>\n<seieki:4>\n<chinpo:human_0>\n<ninshin:A>\n<seiekiLifetime:5>\n<keiken>\n<nakaType:enemy>\n<taneoya:山賊>\n<sanzoku>",
+        "note": "<desc1:No special abilities>\n<rank:1>\n<type:ban>\n<characterName:mob06>\n<characterIndex:3>\n<eroRate:30>\n<seieki:4>\n<chinpo:human_0>\n<ninshin:A>\n<seiekiLifetime:5>\n<keiken>\n<nakaType:enemy>\n<taneoya:Bandit>\n<sanzoku>",
         "params": [
             8,
             3,
@@ -1496,7 +1496,7 @@
         ],
         "gold": 5,
         "name": "Slave Trader (For Erotic Experiences)",
-        "note": "<desc1:No special abilities>\n<rank:1>\n<type:gob>\n<characterName:$o0096012812525865918>\n<characterIndex:0>\n<eroRate:30>\n<seieki:3>\n<chinpo:goblin_0>\n<ninshin:S>\n<seiekiLifetime:5>\n<keiken>\n<nakaType:people>\n<taneoya:奴隷商人>",
+        "note": "<desc1:No special abilities>\n<rank:1>\n<type:gob>\n<characterName:$o0096012812525865918>\n<characterIndex:0>\n<eroRate:30>\n<seieki:3>\n<chinpo:goblin_0>\n<ninshin:S>\n<seiekiLifetime:5>\n<keiken>\n<nakaType:people>\n<taneoya:Slave Trader>",
         "params": [
             8,
             3,
@@ -1623,7 +1623,7 @@
         ],
         "gold": 5,
         "name": "Villagers (for erotic experience)",
-        "note": "<desc1:No special abilities>\n<rank:1>\n<type:ban>\n<characterName:mob02>\n<characterIndex:2>\n<eroRate:30>\n<seieki:4>\n<chinpo:human_0>\n<ninshin:A>\n<seiekiLifetime:5>\n<keiken>\n<nakaType:people>\n<taneoya:村人>",
+        "note": "<desc1:No special abilities>\n<rank:1>\n<type:ban>\n<characterName:mob02>\n<characterIndex:2>\n<eroRate:30>\n<seieki:4>\n<chinpo:human_0>\n<ninshin:A>\n<seiekiLifetime:5>\n<keiken>\n<nakaType:people>\n<taneoya:Villager>",
         "params": [
             8,
             3,
@@ -2604,7 +2604,7 @@
         ],
         "gold": 5,
         "name": "Eliminator",
-        "note": "<desc1:Slowpoke>\n<desc1:状態異常無効>\n<Slowpoke>\n<rank:1>\n<type:gob>\n<characterName:mv_mob-muscle01>\n<characterIndex:0>\n<seieki:10>\n<chinpo:goblin_2>\n<ninshin:A>\n<seiekiLifetime:4>\n<nakaType:monster>\n<taneoya:ゴブリン>\n<goblin>",
+        "note": "<desc1:Slowpoke>\n<desc1:状態異常無効>\n<Slowpoke>\n<rank:1>\n<type:gob>\n<characterName:mv_mob-muscle01>\n<characterIndex:0>\n<seieki:10>\n<chinpo:goblin_2>\n<ninshin:A>\n<seiekiLifetime:4>\n<nakaType:monster>\n<taneoya:Goblin>\n<goblin>",
         "params": [
             142,
             3,
@@ -3770,7 +3770,7 @@
         ],
         "gold": 5,
         "name": "Ogre",
-        "note": "<desc1:No special abilities>\n<rank:1>\n<type:ogre>\n<characterName:mv_mon>\n<characterIndex:0>\n<seieki:25>\n<eroRate:35>\n<chinpo:goblin_1>\n<ninshin:A>\n<seiekiLifetime:5>\n<nakaType:monster>\n<taneoya:オーガ>",
+        "note": "<desc1:No special abilities>\n<rank:1>\n<type:ogre>\n<characterName:mv_mon>\n<characterIndex:0>\n<seieki:25>\n<eroRate:35>\n<chinpo:goblin_1>\n<ninshin:A>\n<seiekiLifetime:5>\n<nakaType:monster>\n<taneoya:Ogre>",
         "params": [
             140,
             3,
@@ -5437,7 +5437,7 @@
         ],
         "gold": 8,
         "name": "Pig-like monster",
-        "note": "\n<seieki:82>\n\n<rank:1>\n<type:bat>\n<characterName:extra pigs>\n<characterIndex:3>\n\n<seieki:25>\n<eroRate:80>\n\n<ninshin:A>\n<seiekiLifetime:5>\n<nakaType:monster>\n<taneoya:豚風の魔物>\n",
+        "note": "\n<seieki:82>\n\n<rank:1>\n<type:bat>\n<characterName:extra pigs>\n<characterIndex:3>\n\n<seieki:25>\n<eroRate:80>\n\n<ninshin:A>\n<seiekiLifetime:5>\n<nakaType:monster>\n<taneoya:Pig-like monster>\n",
         "params": [
             80,
             1,
@@ -20793,7 +20793,7 @@
         ],
         "gold": 5,
         "name": "Brothel Customer (for Breeding)",
-        "note": "<seieki:20>\n<characterName:mob05>\n<characterIndex:4>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>\n<taneoya:娼館の客>\n<keiken>\n<nakaType:people>",
+        "note": "<seieki:20>\n<characterName:mob05>\n<characterIndex:4>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>\n<taneoya:Brothel customer>\n<keiken>\n<nakaType:people>",
         "params": [
             8,
             3,
@@ -20855,7 +20855,7 @@
         ],
         "gold": 0,
         "name": "Andrei",
-        "note": "<seiekiLifetime:2>\n<nakaType:people>\n<seieki:17>\n<characterName:mob07>\n<characterIndex:1>\n<ninshin:B>\n\n<chinpo:human_1>\n<taneoya:アンドレイ>",
+        "note": "<seiekiLifetime:2>\n<nakaType:people>\n<seieki:17>\n<characterName:mob07>\n<characterIndex:1>\n<ninshin:B>\n\n<chinpo:human_1>\n<taneoya:Andrei>",
         "params": [
             100,
             0,
@@ -20979,7 +20979,7 @@
         ],
         "gold": 0,
         "name": "Mark",
-        "note": "<seieki:25>\n<chinpo:human_1>\n<ninshin:B>\n<characterName:mob-ma-03>\n<characterIndex:3>\n<seiekiLifetime:3>\n<charaOffset:30>\n<nakaType:people>\n<taneoya:マーク>",
+        "note": "<seieki:25>\n<chinpo:human_1>\n<ninshin:B>\n<characterName:mob-ma-03>\n<characterIndex:3>\n<seiekiLifetime:3>\n<charaOffset:30>\n<nakaType:people>\n<taneoya:Mark>",
         "params": [
             100,
             0,
@@ -21614,7 +21614,7 @@
         ],
         "gold": 5,
         "name": "Toilet Customer (for breeding)",
-        "note": "\n<characterName:mob05>\n<characterIndex:4>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>\n<taneoya:便所の客>\n<keiken>\n<nakaType:people>",
+        "note": "\n<characterName:mob05>\n<characterIndex:4>\n<ninshin:B>\n<seiekiLifetime:2>\n<chinpo:human_1>\n<nakaType:people>\n<taneoya:Bathroom Customer>\n<keiken>\n<nakaType:people>",
         "params": [
             8,
             3,
