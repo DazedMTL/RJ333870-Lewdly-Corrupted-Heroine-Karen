@@ -77,8 +77,31 @@ var Nore;
                 this._window.refresh();
             }
             else {
+                if (acceId == 221) {
+                    this.changeFutanari(acceId);
+                    return;
+                }
                 SoundManager.playBuzzer();
             }
+        };
+        Scene_EroStatus.prototype.changeFutanari = function (acceId) {
+            if (!$gameSwitches.value(240)) {
+                SoundManager.playBuzzer();
+                return;
+            }
+            var actor = $gameActors.mainActor();
+            if (actor.hasAcce(acceId)) {
+                actor.removeAcce(acceId);
+            }
+            else {
+                actor.addAcce(acceId);
+                actor.removeAcce(220); // タイツ
+                actor.setInnerBottomId('a');
+                if (actor.outerBottomId == 'c') {
+                    actor.setOuterBottomId('a');
+                }
+            }
+            this._window.refresh();
         };
         Scene_EroStatus.prototype.createHelpWindow = function () {
             var rect = this.helpWindowRect();
@@ -105,7 +128,7 @@ var Nore;
     }(Scene_MenuBase));
     Nore.Scene_EroStatus = Scene_EroStatus;
     function findEroItem(before) {
-        for (var i = 881; i <= 900; i++) {
+        for (var i = 880; i <= 900; i++) {
             var armor = $dataArmors[i];
             if (armor && (parseInt(armor.meta['before']) == before)) {
                 return armor;

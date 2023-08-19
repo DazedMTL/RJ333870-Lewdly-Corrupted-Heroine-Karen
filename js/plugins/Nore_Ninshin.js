@@ -136,6 +136,9 @@ var Nore;
             case 3:
                 enemyId = 334;
                 break;
+            case 4:
+                enemyId = 309;
+                break;
         }
         $gameVariables.setValue(20, $dataEnemies[enemyId].name);
         //$gameVariables.setValue(79, type);

@@ -8543,6 +8543,20 @@
                 "conditionType": 0,
                 "rating": 5,
                 "skillId": 1
+            },
+            {
+                "skillId": 110,
+                "rating": 5,
+                "conditionType": 0,
+                "conditionParam1": 0,
+                "conditionParam2": 0
+            },
+            {
+                "skillId": 112,
+                "rating": 9,
+                "conditionType": 4,
+                "conditionParam1": 35,
+                "conditionParam2": 0
             }
         ],
         "battlerHue": 0,
@@ -8589,7 +8603,7 @@
         ],
         "gold": 5,
         "name": "バルザック",
-        "note": "<desc1:山賊の中隊長>\n<rank:3>\n<characterName:Actor11>\n<characterIndex:0>\n<boss>\n\n",
+        "note": "<desc1:山賊の中隊長>\n<rank:3>\n<characterName:Actor11>\n<characterIndex:0>\n<boss>\n<seieki:16>\n<chinpo:human_0>\n<ninshin:B>\n<seiekiLifetime:4>\n<nakaType:enemy>\n<sanzoku>\n",
         "params": [
             94,
             0,

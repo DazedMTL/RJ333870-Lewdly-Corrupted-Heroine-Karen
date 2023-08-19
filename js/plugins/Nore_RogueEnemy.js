@@ -219,7 +219,9 @@ var Game_EnemyEvent = /** @class */ (function (_super) {
         this._room = $gameMap.getRoom(this.x, this.y);
     };
     Game_EnemyEvent.prototype.onTurnStart = function () {
-        this.enemy().regenerateAll();
+        if (!$gamePlayer.isDefeat()) {
+            this.enemy().regenerateAll();
+        }
         if (this.enemy().isDead()) {
             this.enemy().performCollapse();
             if (!this.event().meta['notErase']) {

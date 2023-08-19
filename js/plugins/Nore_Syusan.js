@@ -93,8 +93,14 @@ var Nore;
             _super.prototype.update.call(this);
             $gameScreen.update();
         };
+        Scene_Syusan.prototype.fixSyusan = function () {
+            if (!$dataEnemies[$gameActors.mainActor().sikyu().taneoyaId]) {
+                $gameActors.mainActor().sikyu().taneoyaId = 53;
+            }
+        };
         Scene_Syusan.prototype.create = function () {
             _super.prototype.create.call(this);
+            this.fixSyusan();
             actorId = $gameVariables.value(82);
             this._params = new SyusanParams(actorId);
             syusanParams = this._params;
@@ -293,6 +299,10 @@ var Nore;
                 case SyusanCommad.TEMAN:
                     this.doTeman();
                     break;
+                default:
+                    this._menuWindow.activate();
+                    this._menuWindow.select(0);
+                    return;
             }
             this._menuWindow.makeItemList();
             this._menuWindow.refresh();
@@ -321,6 +331,13 @@ var Nore;
         Scene_Syusan.prototype.isCommandExists = function (type) {
             this._levelMap[type] = this._levelMap[type] || 0;
             var nextLevel = this._levelMap[type] + 1;
+            var total = 0;
+            for (var i in this._levelMap) {
+                total += this._levelMap[i];
+            }
+            if (total >= 5) {
+                nextLevel = 6;
+            }
             var scenarioId = '出産' + actorId + '_%3_%1_LV%2'.format(this._taneoyaName, nextLevel, type);
             p(scenarioId);
             return $dataScenario[scenarioId] != null;
@@ -417,6 +434,9 @@ var Nore;
                 d.push(SyusanCommad.TEMAN);
             }
             this.height = this._itemList.length * (this.lineHeight() + 6) + 40;
+            if (this._itemList.length >= this.index()) {
+                this.select(this._itemList.length - 1);
+            }
         };
         Window_ChokyoMenu.prototype.isCommandExists = function (type) {
             return this._scene.isCommandExists(type);

@@ -842,23 +842,6 @@ var Nore;
         _Game_ActionResult_prototype_clear.call(this);
         this.mhpPlus = 0;
     };
-    var _Game_Action_prototype_apply = Game_Action.prototype.apply;
-    Game_Action.prototype.apply = function (target) {
-        if (this.isHpRecover() && target.hpRate() == 1 && target.isActor()) {
-            var item = this.item();
-            var mhp = parseInt(item.meta['mhp']);
-            target.addParam(0, mhp);
-            target.gainHp(mhp);
-            var result = target.result();
-            this.subject().clearResult();
-            result.clear();
-            result.used = true;
-            result.mhpPlus = mhp;
-            result.hpDamage = -mhp;
-            return;
-        }
-        _Game_Action_prototype_apply.call(this, target);
-    };
     var _Sprite_Character_prototype_updatePosition = Sprite_Character.prototype.updatePosition;
     Sprite_Character.prototype.updatePosition = function () {
         _Sprite_Character_prototype_updatePosition.call(this);
