@@ -37,6 +37,7 @@ var Game_RogueTemp = /** @class */ (function (_super) {
         this.syusanList = [];
     };
     Game_RogueTemp.prototype.pushSyusanList = function (list) {
+        this.syusanList = this.syusanList || [];
         this.syusanList.push(list);
     };
     Game_RogueTemp.prototype.addIgnoreFileSet = function (base, index) {

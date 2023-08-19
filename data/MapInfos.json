@@ -60,8 +60,8 @@
         "name": "Demon King's Castle Lowest Floor Defeat Event<fixed>",
         "order": 110,
         "parentId": 97,
-        "scrollX": 703.5555555555555,
-        "scrollY": 872.8888888888889
+        "scrollX": 1139,
+        "scrollY": 872.5
     },
     {
         "id": 8,
@@ -69,8 +69,8 @@
         "name": "Magic City Sodom",
         "order": 8,
         "parentId": 2,
-        "scrollX": 1005.7777777777778,
-        "scrollY": 995.5555555555555
+        "scrollX": 997.5,
+        "scrollY": 1267.5
     },
     {
         "id": 9,
@@ -115,7 +115,7 @@
         "order": 1,
         "parentId": 0,
         "scrollX": 640.4444444444445,
-        "scrollY": 495.1111111111111
+        "scrollY": 496
     },
     {
         "id": 14,
@@ -141,8 +141,8 @@
         "name": "Guild",
         "order": 10,
         "parentId": 8,
-        "scrollX": 640.4444444444445,
-        "scrollY": 623.1111111111111
+        "scrollX": 1012.4444444444445,
+        "scrollY": 629.7777777777778
     },
     {
         "id": 17,
@@ -222,8 +222,8 @@
         "name": "Magic City Sodom",
         "order": 27,
         "parentId": 8,
-        "scrollX": 2122.222222222222,
-        "scrollY": 828.4444444444445
+        "scrollX": 2192,
+        "scrollY": 856.5
     },
     {
         "id": 26,
@@ -600,8 +600,8 @@
         "name": "Suspicious Shop",
         "order": 25,
         "parentId": 8,
-        "scrollX": 943.5555555555555,
-        "scrollY": 628.4444444444445
+        "scrollX": 1131,
+        "scrollY": 641.5
     },
     {
         "id": 68,
@@ -681,7 +681,7 @@
         "name": "Tower of Twilight 2F",
         "order": 86,
         "parentId": 71,
-        "scrollX": 640.4444444444445,
+        "scrollX": 640.8888888888889,
         "scrollY": 495.1111111111111
     },
     {
@@ -807,8 +807,8 @@
         "name": "Volcano 5F<fixed>",
         "order": 102,
         "parentId": 81,
-        "scrollX": 1131.111111111111,
-        "scrollY": 943.1111111111111
+        "scrollX": 1139,
+        "scrollY": 943.5
     },
     {
         "id": 91,
@@ -816,8 +816,8 @@
         "name": "Ending",
         "order": 119,
         "parentId": 0,
-        "scrollX": 640.4444444444445,
-        "scrollY": 495.1111111111111
+        "scrollX": 1131,
+        "scrollY": 633.5
     },
     {
         "id": 92,
@@ -933,8 +933,8 @@
         "name": "Church",
         "order": 28,
         "parentId": 8,
-        "scrollX": 1005.3333333333334,
-        "scrollY": 641.3333333333334
+        "scrollX": 1006.5,
+        "scrollY": 642.5
     },
     {
         "id": 105,
@@ -1014,8 +1014,8 @@
         "name": "MAP113",
         "order": 123,
         "parentId": 0,
-        "scrollX": 0,
-        "scrollY": 0
+        "scrollX": 1131,
+        "scrollY": 633.5
     },
     {
         "id": 114,
@@ -1041,8 +1041,8 @@
         "name": "Item 2F <fixed>",
         "order": 100,
         "parentId": 81,
-        "scrollX": 1104,
-        "scrollY": 684
+        "scrollX": 1131.5555555555557,
+        "scrollY": 684.4444444444445
     },
     {
         "id": 117,

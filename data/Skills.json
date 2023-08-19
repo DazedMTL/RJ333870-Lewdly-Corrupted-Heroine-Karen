@@ -986,7 +986,7 @@
     },
     {
         "id": 28,
-        "animationId": 68,
+        "animationId": 2,
         "damage": {
             "critical": true,
             "elementId": -1,
@@ -1009,7 +1009,7 @@
         "message2": "",
         "mpCost": 0,
         "name": "Tail",
-        "note": "\n\n<coolTime:2>\n<range:1>\n<width:3>\n<direction>\n<push:2>",
+        "note": "\n\n<coolTime:2>\n<range:1>\n<width:3>\n<direction>\n",
         "occasion": 1,
         "repeats": 1,
         "requiredWtypeId1": 0,

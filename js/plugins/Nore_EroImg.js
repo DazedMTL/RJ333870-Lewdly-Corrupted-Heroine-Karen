@@ -226,7 +226,10 @@ var Nore;
     Sprite_Picture.prototype.drawEro = function (file) {
         var renderTexture = $gameTemp.getActorBitmapBodyCache(this._pictureId);
         var s = new PIXI.Sprite();
-        if ($gameSwitches.value(250)) {
+        if ($gameSwitches.value(257)) {
+            this.drawEro2(s, file.substr(0, 6) + 'back4');
+        }
+        else if ($gameSwitches.value(250)) {
             this.drawEro2(s, file.substr(0, 6) + 'back3');
         }
         else if ($gameSwitches.value(245)) {
